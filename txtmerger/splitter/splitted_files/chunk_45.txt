@@ -1,0 +1,1201 @@
+nsights however some informa
+tion is inevitably lost with handwritten notes Additionally we pre
+sented primarily qualitative over quantitative data to provide the
+most insight and guidance for future application Strengths of our
+study include that the interviews were open ended both first and
+senior authors trained and worked in a religious setting so were
+knowledgeable on the topic and the senior author conducted all
+interviews for consistency
+The extent to which religious programs employed work arounds
+reduced the need to seek offsite collaborations While this resulted
+in improved training experiences this finding reemphasizes the
+moral and clinical ambiguities that occur when Catholic programs
+attempt to balance the directives and accreditation requirements
+simultaneously These findings also highlight the varying de
+grees to which Catholic hospitals follow the directives and the im
+pact this has on both patient care and resident training These
+findings demonstrate the many educational and ethical dilemmas
+V A A Go J Steinauer and M Guiahi
+that arise as when essential health care services are increasingly
+restricted by institutional or governmental bodies
+Acknowledgments
+Study findings were presented at the annual Council on Resi
+dent Education in Obstetrics and Gynecology CREOG and Asso
+ciation of Professors of Gynecology and Obstetrics APGO Annual
+Meeting Orlando FL February
+References
+II United States Conference of Catholic Bishops Internet Ethical and religious
+directives for Catholic health care services cited June Available from
+https www usccb org aboutldoctrine ethical and religious directives upload
+ethical religious directives catholic health service sixth edition pdf
+Thorne NB Soderborg TK Glover JJ Hoffecker L Guiahi M Reproductive health
+care in Catholic facilities a scoping review Obstet Gynecol
+doi AOG
+Contraception
+Guiahi M Catholic health care and women s health Obstet Gynecol
+doi AOG
+Guiahi M Teal S Kenton K DeCesare J Steinauer J Family planning training at
+Catholic and other religious hospitals a national survey Am J Obstet Gynecol
+doi j ajog
+Accreditation Council for Graduate Medical Education Internet Review com
+mittee for obstetrics and gynecology clarifications of program requirements
+cited April Available from
+http www acgme org portals O pfassets
+programresources pdf
+Guiahi M Lim S Westover C Gold M Westhoff CL Enablers of and bar
+riers to abortion training J Grad Med Educ doi
+JGME D
+Turk JK Landy U Chien J Steinauer JE Sources of support for and resistance to
+abortion training in obstetrics and gynecology residency programs Am J Obstet
+Gynecol doi j ajog
+Vinekar K Karlapudi A Nathan L Turk J Rible R Steinauer J Projected im
+plications of overturning Roe v Wade on abortion training in U S obstetrics
+and gynecology residency programs Obstet Gynecol doi
+AOG
+Smith JF Jr Should Catholic academic health centers sponsor residency training
+in obstetrics and gynecology J Grad Med Educ doi
+JGME D
+Original Research
+What s trending Reach and content of the Society for
+Maternal Fetal Medicine on social media
+Amanda R Strang BSPH Sami Backley MD Kerri Wade MPA Sarah Rae Easter MD
+Check for updates
+Amber Samuel MD Jacqueline G Parchem MD
+BACKGROUND The Society for Maternal Fetal Medicine uses social
+media to increase awareness of the Society and its key programs and to
+foster community and discussion around perinatal health especially on
+Twitter The influence and role of the Society for Maternal Fetal Medicine
+Twitter account in public discourse around issues relevant to pregnancy
+have not been studied
+OBJECTIVE This study aimed to evaluate the trends in engagement
+with the Society for Maternal Fetal Medicine on Twitter by analyzing Soci
+ety for Maternal Fetal Medicine follower growth and discussion topics on
+Twitter compared with Facebook and by quantifying public engagement
+during the Society for Maternal Fetal Medicine Annual Pregnancy Meeting
+STUDY DESIGN This retrospective study analyzed follower growth data
+from August to July for the Society for Maternal Fetal Medicine
+Twitter MySMFM and Society for Maternal Fetal Medicine Facebook
+SocietyforMaternalFetalMedicine accounts We identified the top
+tweets and Facebook posts during the study period using Twitter Analytics
+and Facebook data The popularity of tweets and Facebook posts was deter
+mined by impressions and reach respectively these metrics reflect the
+number of times a post was viewed To evaluate annual trends in Society
+for Maternal Fetal Medicine Twitter engagement we analyzed data associ
+ated with the Society for Maternal Fetal Medicine Annual Pregnancy Meet
+ing including the number of tweets using the hashtag SMFM Year and
+overall impressions for the Society for Maternal Fetal Medicine Twitter
+RESULTS The absolute number of new followers for the Society for
+Maternal Fetal Medicine Twitter and Facebook accounts was similar
+but the relative increase and rate of follower growth was higher for
+Twitter than for Facebook The Twitter account consistently gained fol
+lowers whereas the Facebook account experienced intermittent peri
+ods of stagnancy or follower loss More than half of the top ranked
+posts on Twitter and Facebook mentioned the COVID vaccine other
+popular topics included COVID and abortion During the Society for
+Maternal Fetal Medicine Annual Pregnancy Meeting the number of
+tweets using the meeting hashtag consistently peaked on meeting day
+coincident with the opening plenary session mean An
+upward trend in annual pregnancy meeting tweets was observed each
+year until the first virtual Society for Maternal Fetal Medicine
+meeting
+CONCLUSION The trends in Society for Maternal Fetal Medicine
+Twitter engagement suggest increasing use and popularity of the platform
+for timely dissemination of pregnancy related news guidelines and
+research The reduction in annual pregnancy meeting tweets and impres
+sions in and suggests the potential negative effect of villual
+meetings on Society for Maternal Fetal Medicine member engagement
+around annual meeting content
+Key words Facebook maternal fetal medicine Society for Maternal
+Fetal Medicine social media Tweet Twitter
+account for each meeting from to
+Introduction
+ocial media has emerged as a pri
+S
+mary source of information and an
+essential strategy for distributing health
+related content The popularity and ben
+efits of social media use in medicine are
+well documented and include rapid dis
+semination of information promotion of
+health literacy and healthcare quality
+and increased patient empowerment
+The Society for Maternal Fetal Medicine
+SMFM uses social media to increase
+awareness of the Society and its key
+Cite this article as Strang AR Backley S Wade K et al
+What s trending Reach and content of the Society for
+Maternal Fetal Medicine on social media Am J Obstet
+Gynecol MFM
+Elsevier Inc All rights reserved
+http dx doi org j ajogmf
+EDITOR S CHOICE
+programs to foster community and dis
+cussion of perinatal health topics among
+members physicians professional organi
+zations policymakers and the public to
+share information pertinent to reproduc
+tive healthcare such as clinical guidelines
+patient safety information and research
+and to advocate on behalf of the commu
+nities it serves SMFM and other profes
+sional organizations play an important
+role in amplifying accurate information
+and messaging that promotes perinatal
+and women s health
+Among social media platforms Twitter
+has emerged as a popular platform for
+medical discourse and education out
+growing Facebook and Instagram in
+some medical communities The tweet
+character limit facilitates concise commu
+nication and has inspired new formats
+for academic discussion for example
+tweetorials a tutorial comprising a
+thread of tweets Twitter journal club
+and live tweeting from conferences
+In SMFM created its Twitter
+account MySMFM which was recently
+ranked the second most influential obstet
+rics and gynecology professional organi
+zation on Twitter behind the American
+College of Obstetricians and Gynecolo
+gists An effective social media strategy
+is fundamental to advancing the mission
+of SMFM however the efficacy of social
+media efforts to attract wide audiences
+and encourage interaction with trending
+posts on SMFM social media has not
+been analyzed
+This study aimed to assess the value
+and effect of SMFM s social media pres
+ence by evaluating follower growth and
+top ranked content for SMFM on Twitter
+compared with Facebook Moreover this
+November AJOG MFM
+Original Research
+AJOG MFM at a Glance
+Why was this study conducted
+The Society for Maternal Fetal Medicine SMFM uses social media to increase
+awareness of the society its members and its key programs This study aimed to
+evaluate the trends in engagement with SMFM on Twitter and Facebook
+Key findings
+The SMFM Twitter account following has grown steadily over the past years at
+a faster rate than Facebook COVID related posts garnered the most engage
+ment on both platforms throughout the study
+What does this add to what is known
+Social media engagement around the SMFM Annual Pregnancy Meeting
+increased annually until and when the meeting was held virtually
+Our findings suggest that Twitter is an important tool for real time dissemina
+tion and discussion of pregnancy related research
+study quantified trends in engagement
+with the SMFM around SMFM Annual
+Pregnancy Meeting by examining the
+usage of the meeting hashtag during the
+weeks surrounding the conference We
+predicted that growth in SMFM Twitter
+followers would surpass the rate of
+growth for Facebook and that the virtual
+format of the annual pregnancy meeting
+in and would result in an
+increase in meeting related tweets
+Materials and Methods
+Study design
+This descriptive retrospective study
+used SMFM Twitter and Facebook
+account data available to account own
+ers to quantify engagement with the
+SMFM on social media This study was
+considered exempt by the institutional
+review board of McGovern Medical
+School at The University of Texas
+Health Science Center at Houston
+approval number HSC MS
+Twitter and Facebook follower data
+Follower growth data from Twitter Ana
+lytics and Facebook Insights between
+August and July were
+analyzed years for which complete fol
+lower data were available Twitter Ana
+lytics is an activity dashboard that
+provides data on metrics such as fol
+lower growth impressions number of
+link clicks and profile views We used
+the total number of followers on the first
+day of each month to extrapolate the
+growth rate for each account
+AJOG MFM November
+Content data
+The top SMFM posts on Twitter and
+Facebook January to July
+were identified using platform specific
+metrics For Twitter popular posts were
+determined by the number of impres
+sions Impressions are defined as the
+total number of times a tweet appears
+on a timeline or search result Post
+impressions reflect the level of expo
+sure to content which has been found
+to be a more significant predictor of
+post influence than the number of likes
+comments or retweets of each post
+For Facebook top posts were deter
+mined using SMFM s Facebook account
+Insights part of the normal Facebook
+analytical data The posts were ranked
+by reach or the number of people who
+saw the SMFM posts at least once Simi
+lar to Twitter impressions Facebook s
+reach data reflect exposure to content
+Post categories were determined by
+identifying common terms or hashtags
+used in the top ranked posts for each
+platform
+Twitter engagement during the
+Society for Maternal Fetal Medicine
+Annual Pregnancy Meeting
+We quantified SMFM meeting related
+Tweets around the annual pregnancy
+meeting to evaluate the level of social
+media engagement during a period when
+member engagement is anticipated to be
+high We used the social media analyt
+ics platform Sprout Social to identify
+the number of daily tweets containing
+the meeting hashtag SMFMYY or
+SMFMYYYY around the time of the
+annual pregnancy meeting for each
+meeting from to We exam
+ined a week timeframe from week
+before day of the meeting to week
+after day to capture the period when
+the use of the meeting hashtag is
+expected to be the highest Sprout Social
+is a comprehensive social media man
+agement platform that tracks the total
+number of tweets engagements and
+more over time to provide insights into
+online engagement To estimate the
+audience of the MySMFM Twitter
+account during the same period we used
+Twitter Analytics to collect data on the
+total number of MySMFM tweet
+impressions We compared these data
+with the total volume of meeting related
+tweets collected via Sprout Social during
+the same period
+Data analysis and statistics
+Trends in follower growth were deter
+mined using a linear regression model
+and the slopes for Twitter and Facebook
+growth from to were com
+pared The number of SMFM Annual
+Pregnancy Meeting related tweets was
+calculated for each day of the confer
+ence from to To determine
+trends in Twitter activity we compared
+the total number of tweets and impres
+sions from day to day of the annual
+pregnancy meeting for each year The
+total number of impressions was nor
+malized to the total number of tweets
+given an expected proportional relation
+ship between the variables Data
+were analyzed using GraphPad Prism
+version GraphPad Software La
+Jolla CA
+Results
+At the beginning of the study period
+the SMFM Twitter account had
+followers whereas the Facebook
+account had followers Between
+August and July the number
+of followers gained was slightly higher
+for Twitter for Twitter vs
+for Facebook This growth translated
+to a relative increase of for Twitter
+followers compared with for Face
+book followers although the Facebook
+account had more followers overall
+for Facebook vs for
+Twitter The rate of follower growth
+was higher for Twitter slope for
+Twitter vs for Facebook Figure I
+Although Twitter followers increased
+continuously for the entire study period
+Facebook follower growth varied Sur
+prisingly the Facebook page experi
+enced a net loss of followers during
+month November By compari
+son SMFM society membership grew
+from January to January
+To identify the content that garnered
+the most attention and engagement on
+SMFM Twitter and Facebook we ana
+lyzed the top posts on each platform
+The most popular SMFM Twitter and
+Facebook discussion topics were related
+to the COVID pandemic Table
+The topics identified were COVID
+vaccines COVID abortion and
+other all posts that did not fit into the
+other categories COVID or the
+COVID vaccine were the focus of
+of the top tweets and of the top
+Facebook posts
+Next we evaluated social media
+engagement around the SMFM Annual
+Pregnancy Meeting Tweets using the
+SMFM Annual Pregnancy Meeting
+hashtag increased between days and
+peak and were the highest on days
+and corresponding to the main ple
+nary sessions Figure A On average
+there was almost a fold increase in
+meeting related tweets between days
+FIGURE
+and eg during the SMFM
+Annual Pregnancy Meeting there were
+tweets on day compared with
+tweets on day representing a
+fold increase in tweets The number of
+daily tweets during the meeting
+increased markedly in compared
+with vs on day but
+then decreased in n the
+first meeting ever held virtually because
+of the COVID pandemic Day
+tweet volume increased in
+n virtual meeting and
+n in person meeting but did
+not recover to levels
+Contrary to our hypothesis that the
+virtual meeting format would increase
+social media use approximately half as
+many total meeting related tweets were
+posted during the SMFM Annual
+Pregnancy Meeting compared with the
+SMFM Annual Pregnancy Meet
+ing vs respectively Despite
+the drop in tweet volume in over
+all impressions that year were higher
+vs in
+Figure
+B This finding reflects the multiple
+variables that affect impressions such
+as number of retweets likes and com
+ments and who is engaging with the
+content In the second virtual
+meeting and in person meeting
+there was a slight increase in the volume
+of meeting related tweets and
+respectively By comparison the
+SMFM Annual Pregnancy Meeting
+attendance increased from in
+to in but then declined each
+Follower growth for Society for Maternal Fetal Medicine Twitter and Face
+book accounts
+Y
+e
+o
+y
+z
+Facebook
+Twitter
+Aug
+Aug
+Aug
+Jul
+Month
+Strang Society for Maternal Fetal Medicine social media trends Am J Obstet Gynecol MFM
+Original Research
+year thereafter in in
+and in until
+when attendance peaked at for the
+first in person meeting since the pan
+demic Thus social media engagement
+did not correlate directly with meeting
+registration
+Comment
+Principal findings
+Our study evaluated trends in SMFM
+social media growth and engagement
+using Twitter and Facebook data We
+found that SMFM Twitter follower
+growth has surpassed Facebook follower
+growth in recent years the most
+popular content on both platforms
+mentioned the COVID vaccine or
+other COVID related topics and
+tweets during the SMFM Annual
+Pregnancy Meeting increased annually
+until the shift to a virtual meeting for
+mat in
+Results in the context of what is
+known
+The finding that SMFM Twitter growth
+has surpassed SMFM Facebook growth
+since is not unexpected given the
+ever changing landscape of social media
+and the influence of demographic dif
+ferences on platform preference and
+usage Fluctuations in the popularity
+of different social media platforms are
+inevitable thus staying up to date with
+social media trends is an important
+component of an effective communica
+tions strategy
+Our observation that COVID vac
+cine and disease related posts were
+the most shared and seen content on
+both platforms is evidence that social
+media can effectively amplify crucial
+and timely health information A recent
+analysis of COVID related Twitter
+discussions found that of message
+functions information community
+and action engagement through
+retweets was most common with Tweets
+that promoted action This trend was
+also seen in the SMFM Twitter account
+as the most popular tweet encouraged
+pregnant people to get vaccinated In
+addition the social isolation of the pan
+demic increased reliance on social
+media updates as a primary news
+November AJOG MFM
+Original Research
+TABLE
+The most popular SMFM Twitter and Facebook posts January to July
+Rank
+Impressions or reach
+thousands category
+COVID vaccine
+other
+other
+COVID vaccine
+COVID
+COVID vaccine
+COVID vaccine
+abortion
+other
+COVID vaccine
+COVID
+COVID vaccine
+abortion
+COVID vaccine
+COVID vaccine
+Date
+Post
+Twitter
+Pregnant people get vaccinated https twitter com WebMD status
+Protect pregnant people through research not from research pic twitter
+com neYw
+What does ophthalmology and maternal fetal medicine have in common Dr Glaucoflecken
+DGlaucomflecken breaks it down and welcomes attendees Watch his
+video https youtu be twitter com
+Pregnant and breastfeeding women may opt to receive the vaccine https www nytimes
+com health coronavirus vaccine pregnant breast feeding html
+The SMFM supports the use of Paxlovid nirmatrelvir PF tablets and ritonavir
+tablets for the treatment of pregnant patients with COVID who meet clinical
+qualifications Any therapy that would otherwise be given should not be withheld
+specifically due to pregnancy or lactation https twitter com US FDA status
+Today we released SARS CoV vaccination in pregnancy Access the publication at no
+cost on the SMFM website http www smfm org covidclinical Note This document will
+likely change as data emerge We will continue to monitor these developments and
+update our clinical guidance accordingly pic twitter com
+There is no data to suggest that COVID vaccination affects future fertility but rumors and
+misinformation have been circulating on social media since late last year https www
+washingtonpost com health women vaccine infertility disinformation
+Physicians midwives nurse practitioners nurses and researchers agree the Supreme
+Court s decision to restrict access to abortion care will lead to unnecessary patient
+suffering and harm Read our joint statement http bit ly DobbsJointStatement
+ActforAccess pic twitter com EJwXFCgUaN
+Congratulations to Dr Laura Riley the winner of the MySMFM Lifetime Achievement
+Award obdocriley pic twitter com
+We recommend that pregnant women have access to COVIDI vaccines in all phases of
+future vaccine campaigns and that pregnant women and their healthcare providers
+engage in shared decision making regarding receipt of the vaccine https www
+chicagotribune com coronavirus ct life covid pregnant women becoming pregnant
+vaccine tt story html
+Facebook
+Together with the American College of Obstetricians and Gynecologists ACOG today we
+released new COVIDI Algorithm Outpatient assessment and management for
+pregnant women with suspected or confirmed novel coronavirus COVID Access it
+and all of our coronavirus resources at www smfm org
+COVID vaccination is the best way to reduce maternal and fetal complications of COVID
+infection among pregnant people Download our free resources for patients smfm
+org covidfamily
+Physicians midwives nurse practitioners nurses and researchers agree the Supreme
+Court s decision to restrict access to abortion care will lead to unnecessary patient
+suffering and harm Read our joint statement bit ly DobbsJointStatement ActForAccess
+Include pregnant and lactating people in vaccine mandates https bit ly
+We updated our COVID guidance and now recommend that pregnant postpartum and
+lactating people and those considering pregnancy receive the COVID vaccination
+New provider resources www smfm org covidclinical
+New patient education resources www smfm org covidfamily
+continued
+AJOG MFM November
+consistent with our finding
+source
+that COVID related posts received
+the most attention
+The SMFM Annual Pregnancy Meet
+ing trends revealed potential negative
+effects of the virtual meeting format on
+engagement with meeting content
+although we hypothesized that social
+media activity would rise during virtual
+meetings to fill the void of in person
+FIGURE
+Original Research
+TABLE
+The most popular SMFM Twitter and Facebook posts January to July continued
+Rank
+Impressions or reach
+thousands category
+COVID
+COVID vaccine
+COVID vaccine
+COVID vaccine
+other
+Date
+Post
+The SMFM issues a public statement on PPE including masks in labor and delivery
+The CDC today updated their guidance to recommend COVIDI vaccination for all people
+years old including people who are pregnant breastfeeding trying to get pregnant
+now or might become pregnant in the future https www cdc gov clinical co
+covid vaccines us html
+SMFM COVID Task Force member Dr Emily Miller addresses the importance of COVID
+vaccination before and during pregnancy on CBSnews tonight
+https www cbsnews com study serious risks for unvaccin
+If you are pregnant or just thinking about it the best way to protect yourself and your baby
+from COVID is to get vaccinated Obstetrics care providers print and share the
+x inch version of this graphic in your practice setting www smfm org covidfamily
+Our new clinical care document Use of antenatal corticosteroids for individuals at risk for
+late preterm delivery and the accompanying visual summary are now available on the
+SMFM website
+bit ly lateptb
+SMFM Soc ety for Maternal Fetal Medicine
+Strang Society for Maternal Fetal Medicine social media trends Am J Obstet Gynecol MFM
+social interactions we found a reduction
+in tweet volume Previous studies suggest
+many factors can lead to decreased
+participant engagement during virtual
+meetings including decreased account
+ability increased temptation to multi
+task and overall diminished sense of
+community Although some conferen
+ces found the transition to a virtual for
+mat increased registration numbers and
+positive survey responses others found
+significant incongruities between enroll
+ment and engagement We acknowl
+edge that many factors affect social
+media engagement during the SMFM
+Annual Pregnancy Meeting For exam
+ple in the SMFM introduced a
+campaign that showcased the hashtag
+and Featured Voices in
+MFM Twitter handles of SMFM
+SMFM Annual Pregnancy Meeting engagement
+Tweets
+Impressions
+Meeting day
+A Data for SMFM Annual Pregnancy Meeting to SMFM Annual Pregnancy Meeting showing number of tweets using the SMFM
+meeting hashtag SMFMYY SMFMYYYY on each day of the annual meeting B Total number of meeting related tweets and impressions for the
+MySMFM account around the time of the annual meeting Villual meetings and
+SMFM Society for Maternal Fetal Medicine
+Strang Society for Maternal Fetal Medicine social media trends Am J Obstet Gynecol MFM
+November AJOG MFM
+Facebook J Am Med Inform Assoc
+Sterling M Leung P wright D Bishop TF
+The use of social media in graduate medical
+education a systematic review Acad Med
+Huang Z Bianchi F Yuksekgonul M Mon
+tine TJ Zou J A visual language foundation
+model for pathology image analysis using medi
+cal Twitter Nat Med
+Khakh P Gupta S Zhou Z et al Medical
+education and social media exploring electro
+cardiogram posts on twitter Am J Cardiol
+Morgan G Choueiri TK Patel R Balaji K
+Subbiah V Impact of ASCO Twitter impres
+sions on the oncology community JCO
+Elkbuli A Santarone K Boneva D Hai S
+McKenney M Analysis of the American College
+of Surgeons Clinical Congress Twitter hashtags
+and its impact on online engagement and
+attendance rates the era of health care social
+media Am surg
+Tomblinson CM Wadhwa V Latimer E
+Gauss CH McCarty JL Publicly available met
+rics underestimate AJNR twitter impact and fol
+lower engagement AJNR Am J Neuroradiol
+Author and article information
+From the McGovern Medical School The University of
+Texas Health Science Center at Houston Houston TX
+Ms Strang Department of Obstetrics Gynecology and
+Reproductive Sciences McGovern Medical School The
+Original Research
+University of Texas Health Science Center at Houston
+Houston TX Drs Backley and Parchem Society for
+Maternal Fetal Medicine Washington DC Ms Wade
+Brigham and Women s Hospital Harvard Medical School
+Boston MA Dr Easter and Obstetrix Maternal Fetal
+Medicine Specialists Houston TX Dr Samuel
+Received July revised Aug
+accepted Sept
+The authors report no conflict of interest
+No financial support was received for this study J G P
+is supported by funding from the Foundation for Society
+for Maternal Fetal Medicine SMFM and the American
+Association of Obstetrics and Gynecologists Foundation
+Study findings were presented at the SMFM
+Annual Pregnancy Meeting virtual meeting January
+to February
+Corresponding author Jacqueline G Parchem MD
+jacqueline g parchem uth tmc edu
+November AJOG MFM
+CD
+Original Article
+Pregnancy outcome among high risk pregnant women in
+the rural area of Belagavi
+Sphurti Uday Chatel Chandra Shrishail
+IDepartment of Community Medicine Symbiosis Medical College for Women SMCW Symbiosis International
+University Deemed University Lavale Pune Maharashtra Department of Community Medicine J N Medical College
+KAHER Belagavi Karnataka India
+ABSTRACT
+Background India has around high risk pregnant mothers which leads to about perinatal morbidities l The early prediction
+of a high risk pregnancy and planning interventions can help in preventing complications and result in good pregnancy outcomes
+Aims To study the pregnancy outcome among the high risk pregnant women of a rural area and to associate pregnancy outcomes
+of high risk pregnant women with modified Coopland s criteria Material and Methods Study design I year Longitudinal study
+from to Study population The high risk pregnant women attending PMSMA camp Study area Kinaye Primary Health
+Centre Belagavi Sample size Data collection was done using a pretested predesigned questionnaire after obtaimng patient
+consent and ethical clearance Chi square test was used to study the association of variables and categorical data presented as
+percentages Results Among the participants of the pregnant women had low risk scores had high risk scores and
+had severe risk scores according to Coopland s high risk pregnancy scoring Nearly high risk pregnancies resulted in
+bad fetal outcomes As Coopland s score in the high risk group increased the chance of having good fetal outcomes decreased
+and this association was found to be statistically significant Conclusions of the high risk mothers had good pregnancy
+outcomes The scoring system can be used by health workers for the prediction of high risk pregnancy and plan treatment and
+preventive measures
+Keywords Belagavi High risk PMSMA pregnancy outcome
+Introduction
+High risk pregnancy H R P is defined as one which is
+complicated by factor or factors that adversely affect the
+pregnancy outcome maternal perinatal or both Identification
+of such pregnancies which lead to poor outcome is the primary
+aim in antenatal care A risk scoring system is very useful for
+the detection of HRP as it often results in a bad maternal
+and fetal outcome and extra care should be given especially
+Address for correspondence Dr Sphurti Uday Chate
+Shri Narsinh Krupa Bldg c Anand Nagar Yellur
+Main Road Vadgaon Belagavi Karnataka India
+Received
+Accepted
+E mail sphurti chate gmail com
+Revised
+Published
+Access this article online
+Quick Response Code
+Website
+www jfmpc com
+DOI
+jfmpc
+in developing countries like India Early prediction of such a
+state severity and planning interventions can help in preventing
+complications and thus reduce the maternal and infant mortality
+rates and the incidence of low birth weight babies The Ministry
+of Health and Family Welfare of India launched the Pradhan
+Mantri Surakshit Matritva Abhiyan PMSMA in to provide
+quality antenatal care services free of cost to all women in their
+or trimesters of pregnancy at certain government health
+facilities on the of every month This helps us in identifying
+and tracking high risk pregnancies monthly antenatal checkups
+by a specialist and treatment of complicated cases at all the
+health centres thereby making the antenatal services more
+approachable to all the pregnant women in all places including
+the remote areas and rural places thus helping every mother
+and child to have a safe delivery and healthy life by preventing
+This is an open access journal and articles are distributed under the terms of the Creative
+Commons Attribution NonCommercial ShareAlike License which allows others to
+remix tweak and build upon the work non commercially as long as appropriate credit is
+given and the new creations are licensed under the identical terms
+For reprints contact
+How to cite this article Chate SU Metgud CS Pregnancy outcome
+among high risk pregnant women in rural area of Belagavi J Family Med
+Prim Care
+Journal of Family Medicine and Primary Care I Published by Wolters Kluwer Medknow
+Chate and Metgud High risk pregnancy outcome in rural Belagavi
+CD
+Regarding pregnancy outcome there were total of newborns
+three abortions and two twin deliveries among whom
+were male and were female The mode of delivery was
+normal vaginal for pregnant women and Caesarean for
+Most of the mothers preferred private
+hospitals for delivery whereas preferred Government
+hospitals and one of them had home delivery
+Comparison of pregnancy outcome of the high
+risk pregnancies had good a fetal outcome and had
+bad outcomes
+Full term vaginal delivery with single live birth with an immediate
+cry and normal weight without complications was considered
+a good outcome There were total bad fetal outcomes as
+shown in Figure
+The majority of the good fetal outcomes
+were seen in the low risk group followed by the high risk
+The association between the pregnancy risk
+group and the fetal outcome was found to be statistically
+significant P Table
+Various steps were taken by the health workers to identify
+at risk pregnant mothers and provide timely adequate treatment
+affecting the overall pregnancy outcome Some of the preventive
+practices are as shown in Figure
+Discussion
+In the present study the majority of the mothers were in
+the age group of to years years were
+of the participant was the elderly primigravida In a similar study
+conducted in central India among women the majority of
+the mothers were in the age group of to years while
+the remaining were in the age group of or years
+In another study done in Nagpur were in the age
+group of to years and were teenagers In
+our study of the study participants had child marriage
+and nearly of the mothers were aged below years at the
+time of the ISt pregnancy In a similar study of Belagavi more
+than of the participants had child marriage and of
+their age at first pregnancy was years lll According to the
+National Family Health Survey NFHS
+of the women population have child marriage and of the
+pregnancies are years In this study of the study
+participant belonged to the class IV socioeconomic status
+followed by class III and only belonged to the
+Table Coopland s risk scoring and pregnancy outcome
+class I whereas in another study conducted in Kinaye about
+belonged to IV socioeconomic class followed by III
+and least belonged to class according to modified B G
+Prasad s classification ll In the present study around of
+the mothers were literate A similar study done in a rural area of
+Nagpur showed that were literate
+In our study of the women had a normal BMI
+were underweight overweight preobese
+LOW RISK O HIGH RISK SEVERE RISK
+Figure Distribution of mothers based on modified Coopland s high
+risk pregnancy scoring
+LBW NICU
+Preterm
+Early Neonatal death
+Abortion Stillbirth Twins preterm
+IUD
+few outcomes were multiple among the newborns
+Figure Distribution of newborns based on bad pregnancy outcome
+Risk group
+Low
+High
+Severe
+Total
+df
+Bad outcome
+Good outcome
+Total
+ANC Registration
+ANC visits
+Regular medicine consumption
+trimester trimester trimester
+Iron
+Calcium
+Folic acid
+Journal of Family Medicine and Primary Care
+Figure Preventive practies by Health care workers using Coopland s
+criteria for High risk pregnant mothers
+Volume Issue August
+Chate and Metgud High risk pregnancy outcome in rural Belagavi
+Conflicts of interest
+There are no conflicts of interest
+References
+Jaideep KC Prashant D Girija A Prevalence of high risk
+among pregnant women attending antenatal clinic in rural
+field practice area of Jawaharlal Nehru Medical College
+Belagavi Karnataka India Int J Commumty Med Public
+Health
+Sar kari Yojana co in Central Government of
+India Pradhan Mantri Surakshit Matritva Abhiyan
+PMSMA free health checkup for pregnant women
+Available from https www sarkariyojna co in
+pradhan mantri surakshit matritva abhiyan pmsma
+Coopland AT Peddle LJ Baskett TF A Simplified antepartum
+high risk pregnancy scoring form Statistical analysis of
+cases CMA J
+Jain S Anand S Aherwar R High risk scoring for prediction
+of pregnancy outcome A prospective study Int J reprod
+Contracept Obstet Gynecol
+Jadhao AR Gawade MD Ughade SN Outcome of pregnancy
+among high risk pregnancies in rural area of Nagpur Int J
+Community Med Public Health
+Government of India National Family Health Survey fact
+sheet Ministry of Health and Family Welfare
+New Delhi
+Park K Park s Text Book of Preventive and Social Medicine
+ed Jabalpur Bhanot Publishers p
+Bansal P Verma D Bansal A Verma A Prenatal risk score in
+high risk pregnancy cases and perinatal outcome A study
+from South India Int J Reprod Contracept Obstet Gynecol
+Chaudhry M Patil K Swamy MK Khandelwal S Antepartum
+risk assessment for pregnant women visiting a tertiary care
+university teaching hospital in Southern India Indian Obstet
+Gynaecol
+Shrestha J Gurung SD Subedi A Pandey C Identifying
+high risk pregnancy and its effectiveness in determining
+maternal and perinatal outcome BJHS
+Rajbanshi S Norhayati MN Nik Hazlina NH High risk
+pregnancies and their association With severe maternal
+morbidity in Nepal A prospective cohort study PLOS One
+Hindi MY Sayari TA Solami R Baiti AK
+Alnemri JA Mirza et al Association of antenatal risk
+score With maternal and neonatal mortality and morbidity
+Cureus
+Mida LA Della Zazzera V Fontaine Bisson B Knowledge
+attitude and practice of physicians regarding
+periconceptional folic acid for women at low risk of a
+neural tube defect affected pregnancy Prev Med Rep
+doi j pmedr
+Jongsma KR Bekker MN Haitjema S Bredenoord AL How
+digital health affects the patient physician relationship An
+empirical ethics study into the perspectives and experiences
+in obstetric care Pregnancy Hypertension An International
+Journal of Women s Cardiovascular Health
+Manze MG Calixte C Romero DR Roberts L Perlman M
+Langston A et al Physician perspectives on routine
+pregnancy intention screening and counseling in primary
+CD
+Journal of Family Medicine and Primary Care
+care Contraception
+Volume
+Issue
+August
+By WudanYan
+New devices
+nanoparticles and
+even robotic sperm
+may hold the key to
+preventing a range
+of health conditions
+GSTOCKPHOTO COWMINDKLONGDAN
+Toward Better
+Treatment for Women s
+Reproductive Health
+Ithough women and men share many similar health
+challenges throughout their lifetimes women are not
+necessarily healthier Some conditions that only wom
+en experience such as pregnancy ovarian cancer
+or the abnormal growth of the uterus called endome
+triosis can become great health risks HIV AIDS
+Digital Object Identifier MPUL
+Date of publication July
+and sexually transmitted infections STIs are also serious
+medical and social issues for women worldwide And because a
+woman s reproductive system is complex and delicate which
+makes it particularly vulnerable to dysfunction or disease
+finding ways to treat conditions that take root in the reproduc
+tive tract often prove challenging
+However in recent years researchers have been investigat
+ing and developing new ways to administer medications for a
+range of women s health conditions These new methods aim to
+Authorized licensed use limited to Amrita School Of Engineering on January at apply
+The gel contains an
+acetate buffer with
+propylene glycol
+causes a number of side effects but the researchers hoped their
+approach would prevent this altogether In tissue culture they
+were able to successfully guide the sperm using a magnet toward
+the tumor where they then freed the sperm cells to deliver the
+drug locally Figure
+While these experiments are still being performed in the lab
+Medina believes that it would eventually be possible to
+deliver these types of engineered therapies to patients She and
+her colleagues are still improving how the sperm is guided to
+the target tissues In practice a patient s physician or another
+medical expert would be responsible for guiding the sperm And
+because it s conceivable that the sperm could perform its natu
+ral function and fuse with oocytes Medina believes it
+would be possible to treat a woman when she s not ovulating
+Looking forward she and her colleagues are hoping to use the
+same robotic sperm technology to treat ectopic pregnancies and
+abnormalities in the epithelium of the uterus
+Although it s currently unknown which technologies and
+methods of drug delivery will be approved and widely used in the
+future researchers are investigating myriad methods Women
+like options says Rohan Even if we think about contraception
+not everyone likes to take an oral contraceptive Not everyone
+wants a ring I think to be successful in developing new meth
+ods for drug delivery we need to have choices for women
+Wudan Yan wudan yan gmail com is a journalist and contrib
+uting writer to IEEE Pulse based in Seattle Washington
+References
+P F Harrison A Hemmerling J Romano K J Whaley and B
+Young Holt Developing multipurpose reproductive health tech
+nologies An integrated strategy AIDS Res Treat vol Feb
+doi
+J Kenney R Singer N Derby M Aravantiou C J Abraham R
+Menon S Seidor S Zhang A Gettie J Blanchard M Piatak
+Jr J D Lifson J A Fernandez Romero T M Zydowsky and M
+Robbiani A single dose of a MI V zinc acetate gel provides h
+of protection against vaginal simian human immunodeficiency
+virus reverse transcriptase infection with more limited protec
+tion rectally h after gel use AIDS Res Hum Retroviruses vol
+no pp Nov
+L M Ensign R Cone and J Hanes Nanoparticle based drug
+delivery to the vagina A review J Control Release vol pp
+sept
+H Xu M Medina Sanchez V Magdanz L Schwarz F Hebenst
+reit and O G Schmidt Sperm hybrid micromotor for targeted
+drug delivery ACS Nano vol no pp
+Authoriffi ggse Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+RESEARCH
+Prenatal Care Use Among Selected Asian American Groups
+I Stella M Yu ScD MPH Greg R Alexander ScD MPH Renee Schwalberg MPH and Michael D Kogan PhD
+Asian Americans are a growing unnugrant
+population in the United States Researchers
+are only beginning to understand the extent
+to which different Asian American groups ex
+hlbit unique patterns of maternal health risks
+health care use and health outcomes Diver
+gent patterns of prenatal care use and low
+birthweight and infant mortality risks have
+been observed among various Asian Ameri
+can subgroups between specific Asian Ameri
+can groups and Whites and between native
+bom and foreign bom Asian Americans
+Early access to and adequate use of pre
+natal care have been associated with posi
+tive birth outcomes among Asian Ameri
+and because it provides the
+opportunity for health education and the
+early identification and treatment of preg
+nancy complications medical conditions
+prenatal care has been promoted to reduce
+ethnic in adverse pregnancy out
+Although the reasons for eth
+comes
+nic variations in prenatal care use are not
+fully understood financial obstacles lan
+guage baniers and cultural beliefs are fre
+quently cited precursors to inadequate use
+along with transportation problems lack of
+spousal support the need for child care and
+inconvenient office hours
+To date no study has examined the use of
+prenatal care by Asian Americans at the na
+tional level The objective of this study was to
+exarnine the sociodemographic predictors of
+patterns of prenatal care use no care late
+Initiation of care and inadequate use after an
+early of prenatal care for the
+largest Aslan American ethnic groups in the
+United States Japanese Chinese Koreans
+and Viemamese
+METHODS
+The data used in fflis study were drawn
+from the US natality live birth
+files compiled by the Nadonal Center for
+Health Statistics In expanded coding
+of maternal race groups became available on
+national vital record files which enabled the
+American Journal of Public Health November
+Objectives This study examined the predictors of patterns of prenatal care use no care late ini
+tiation of care and inadequate use after early initiation for Asian American ethnic groups in the
+United States
+Methods Single live births to US resident mothers of Chinese Japanese Korean and Vietnamese
+ancestry n were selected from the US natality files Logistic regression was
+used to analyze the effects of matemal characteristics on the use measures
+Results Korean Americans and Vietnamese Americans had the lowest levels of prenatal care use
+Young or single motherhood high parity for age and low educational attainment were the main risk fac
+tors for low use
+Conclusions Considerable variability exists in prenatal care use amongAsian American ethnic groups
+Am J Public Health
+identification of Korean and Vietnamese
+groups in addition to those of Chinese and
+Japanese extraction Single live births n
+to US resident mothers of Chinese
+Japanese Korean and Vietnamese ancestry
+were selected Information was not available
+from vital recorcls to determine whether
+women came to the United States before or
+during pregnancy Ethnicity of mother
+uld father was determined by maternal re
+port on the bith For examination
+of cultural effects on prenatal care use a vari
+able was created to indicate whether mater
+nal and paternal ethnicity were the same
+Adequacy of prenatal care use was defined
+by R GINDEX which incorporates vari
+ables bimester when prenatal care began
+number of visits and the gestational age of
+the infant at birth to assess adequacy of
+use age in completed weeks
+was calculated as the interval between date of
+delivery and date of last menshua l period
+High attainment was defined
+as or more years of education i e beyond
+high school Low attainment was
+defined as less than years of education
+i e less than high school Because adoles
+cents have not had the same opportunity to
+achieve the level of education as adults ado
+lescents or more years above the grade
+level for their age were classified as having
+high educational attainment whereas those
+or more years below their expected grade
+Vol No
+level for their age were defined as having low
+educational attainment This coding scheme
+facilitates the exarnination of the impact of
+low educational attainment in isolation from
+the influence of young matemal age
+Parity was determined by the number of
+previous live births Having children at home
+may represent a potential barrier to care
+owing to child care concerns High parity for
+age was defined as or more previous births
+for adolescents or more previous births for
+mothers aged to years or more pre
+vious births for mothers aged to years
+and or more previous births for mothers
+aged years and older
+Chi square analyses were used to test for
+differences in the proportion of maternal risk
+among ethnic goups Owing to
+the large number of cases in frie data file
+most comparisons would be anticipated to be
+statistically significant Logistic regression anal
+yses were used to examme the independent
+effects of sociodemographic characterisfics on
+prenatal care use Three separate models were
+run The first model compared the receipt of
+no prenatal care wiffl the receipt of any prena
+tal care n le second model compared early
+first trimester initiation of prenatal care with
+later initiation Women with no prenatal care
+were excluded from the second model The
+third model focused solely on women who
+started care in the first trimester comparing
+inadequate with adequate or intermediate
+Yu et al I Peer Reviewed Research Articles
+TABLE I Maternal Socioeconomic and Prenatal Care Use Characteristics for Asian Ethnic
+Groups Single Live Births to US Resident Mothers
+Singe
+Maternal age y
+Primipara
+Hign parity for age
+Foreign born
+Educational attainment
+High
+Parents of same race
+Prenatal care in first trimester
+No care
+Started
+Inadequate
+Note All P OI
+Chinese
+OBI
+Japanese
+Korean
+Vietnamese
+prenatal care use I his latter model was de
+signed to specifically target women who began
+care early but then did not maintain the rec
+ommended schedule of visits The independ
+ent considered in each logistic
+regression analysis included nativity status
+similarity of parental ethnicity maternal eth
+age attainment and parity
+For each of the ethnic groups the logistic re
+gression analysis comparing first trimester ini
+of prenatal care with later entry into
+care was repeated to assess ethnic specific pre
+dictors of early prenatal care use
+RESULTS
+Significant ethnic differences
+were found for every characteristic of socio
+demographic and prenatal care use exam
+ined Table I The percentage of mothers
+who were unmarried ranged from of
+Korean American women to of Viet
+namese American women Vietnamese
+American women were most likely to be
+adolescents while Korean American women
+were the least likely to be years or older
+Vietnamese American women were most
+likely to be of high parity for age or to have
+Research Articles Peer Reviewed I Yu et at
+low educational attaimnent Japanese Ameri
+can women were the least likely to be for
+eign born or to have the same eth
+nicity as the father
+Japanese Americans demonstrated the
+highest Eikelihood of early initiation of care
+and Chinese Americans were least likely to
+receive no care Viemamese American moth
+ers had the highest rate of no prenatal
+Ihe results of the logistic regression analy
+ses are presented in Table Unmarried
+women teenagers and those with high parity
+for age and low educational attainment were
+significantly more likely to have no prenatal
+care High educational attainment and having
+the same race as the father were protective
+against receiving no prenatal care Compared
+with Chinese Americans the other Asian
+Amefican subgroups had a greater risk of not
+receiving any prenatal ca le
+Women who were unmarried younger than
+years primiparous and foreign born and
+who had high parity for age and low educa
+tional attainment were significantly more likely
+to begin care after the first trimester Table
+Older and more highly educated women were
+more likely to begin care early Compared with
+Chinese AmeHcans Korean Americans had a
+greater risk of late initiation of care while Viet
+namese Arnericans were less likely to start pre
+natal care after the first trimester
+On the basis of the logistic regression anal
+yses of less than adequate use for women
+who initiated care in the first trimester moth
+ers who were unmarried and foreign born
+and had high parity for age and the same eth
+nicity as the father were significantly tnore
+likely not to maintain an adequate use sched
+ule after starting care early Table Mater
+nal age of years and older primiparity
+and high educational attainment were protec
+tive factors Compared with Chinese Ameri
+cans Korean Americans were significantly
+more likely to have inadequate prenatal care
+after a first trimester start of care
+Table provides the logistic regression re
+sults of the ethnic specific models of prena
+tal care initiation after the first trimester For
+all ethnic groups single marital status mater
+nal age younger than years high parity for
+age and low educational attainment were risk
+factors for a late start of care while high edu
+cational attainment was protective Primipar
+ity increased the risk of starting care late for
+Vietnamese Americans but decreased the risk
+for Korean Americans Being foreign born in
+creased the risk of starting care late for all
+ethnic groups except Vietnamese Americans
+for this ethnic group being foreign born
+markedly decreased the risk Having the
+same race as the father increased the risk of a
+late initiation of care for Korean Americans
+but was protective for Japanese Americans
+and Vietnamese Americans
+DISCUSSION
+This analysis revealed notable
+across ethnic groups in maternal socioeco
+nomic characteristics and the use of prenatal
+care The poups that included the highest
+proportion of foreign born women Korean
+Americans and Vietnamese Americans
+showe

@@ -1,0 +1,1273 @@
+ terms of wealth index Roughly percent of the house
+holds reside in rural areas approximately are backward castes
+and the majority are Hindus
+Empirical framework
+Estimation strategy
+We use the following empirical specification to investigate the effect
+of a couple s contraceptive use on the HAZ and WAZ of children
+where Yi refers to the outcome of interest HAZ or WAZ of child i
+Everusedi denotes an indicator variable equal to if child i s parents
+have ever used contraceptive measures and O otherwise Xi is the vector
+of child specific controls Mi is the vector of child i s mother s char
+is the vector of child i s household controls As denotes
+acteristics
+state fixed effects Our parameter of interest captures the effect of
+the couple s use of contraception on their child s health outcomes All
+standard errors are clustered at the survey cluster level
+Oster also suggests that if a coefficient is stable after the inclusion
+of the observed controls this can be taken as a sign that the omitted variable
+bias is limited We also provide robustness of our baseline results with the
+inclusion of additional controls in Section
+Note that of women have used some contraceptive method in the
+NFHS sample for the years We use the NFHS data in the
+robustness Section
+Our measure of wealth is based on the wealth index provided by DHS
+which is a standardized measure of household economic status in a given
+survey The households are divided into poorest poor middle richer and
+richest households by the DHS
+M Mookerjee et al
+Table
+Descriptive statistics
+Variable
+Height for age haz
+Weight for age waz
+Ever used contraception Everused
+Media exposure to family planning
+Media exposure to family planning dist avg
+Stunted
+Underweight
+Mother s characteristics
+Age years
+Education level
+Body mass index category
+Health insurance coverage
+Had iron supplements during pregnancy
+Number of antenatal visits
+Child s characteristics
+Birth order
+Multiple birth
+Haemoglobin level g dl
+Birth size
+Age months
+Sex
+Completed Polio vaccine
+Completed BCG vaccine
+Completed DPT vaccine
+Completed Measles vaccine
+Household characteristics
+Wealth index
+Backward caste
+Geographic location rural urban
+Hindu
+Muslim
+Christian
+Obs
+Mean
+std Dev
+Min
+Economic Modelling
+Max
+Notes The sample is restricted to women married only once The data provides information on all children
+aged below years born to surveyed women Mother s BMI is a categorical variable ranging from O for
+underweight to for obese The HH wealth index is a composite measure of a household s cumulative
+living standard and ranges from poorest to richest Backward is a binary indicator of whether the
+household belongs to the scheduled caste scheduled tribe or other backward classes or not
+Identification strateu
+To alleviate concerns of bias caused by omitted variables our
+estimation technique incorporates a comprehensive set of controls
+We additionally account for any systematic state level unobservables
+that may affect contraceptive use by including state fixed effects But
+because numerous unobservables could be linked with both Everusedi
+and Yi the problem with the estimation of Eq
+is that Everusedi
+might be endogenous A causal interpretation of would demand that
+there be no unobserved factors that are correlated with both Everusedi
+and Yi conditional on our controls Concerns about endogeneity may
+also arise if causality runs from the child s nutritional outcome to
+Everusedi For instance the nutritional status of older children may
+influence the couple s usage of contraceptives for subsequent pregnan
+cies Additionally since Everusedi is self reported measurement error
+in the variable could result in endogeneity The OLS estimate of
+would be biased and inconsistent as a result of these issues In order
+to determine the impact of the use of contraceptive measures on the
+anthropometrics measures HAZ and WAZ we thus utilize an IV TSLS
+technique
+To construct our instrument we use data on family planning mes
+sages from mass media sources like radio television and newspapers
+First we define a binary variable that takes the value if the woman
+has heard about family planning either on the radio or TV or newspaper
+and O otherwise Each household in our sample receives a binary
+We also utilize the OLS estimation technique to examine the effect of
+contraceptive use on child health For brevity we do not include those results
+in the paper The results are available upon request
+indicator of media exposure as a result We then create a district average
+of media exposure to generate our instrument We contend that the
+couple s usage of contraceptives is inextricably linked to the average
+exposure of women to family planning messages through mass media
+This is consistent with a significant body of research that demonstrates
+how information conveyed through mass media programmes can in
+crease the use of family planning and alter reproductive behavior Jah
+et al Agha and Van Rossem Gupta et al Olenick
+exhibits the correlation between our IV and main variable
+Fig
+of interest Everusedi Note that there is a strong positive correlation
+between them
+Besides conditional on the controls the only channel through
+which district average media exposure to family planning messages
+would affect child i s nutritional status is through actual family plan
+ning reproductive practices of the parents Thus we assert that our IV
+is compelling in that it not only has a strong correlation with our key
+variable of interest Everusedi but also does not have a direct effect
+on HAZ and WAZ Further while including state fixed effects allays
+We use a district level IV instead of a woman s own exposure to such
+information as we believe that taking the district average makes the IV more
+exogenous in nature than her own media exposure A woman s own media
+exposure may be more highly correlated with several household level unob
+servables such as intra marital bargaining access to household resources as
+well as autonomy and relative position in the household These unobservables
+plausibly have a direct impact on the health outcomes of children in that
+household thus threatening the validity of household level IV Moreover own
+media exposure is self reported and may suffer from measurement error As
+such considering district averages reduces the measurement error making it
+more appropriate as an IV and valid conditional on observables
+M Mookerjee et al
+Fig First stage correlation
+Economic Modelling
+g
+State
+Mean contraception usage
+Mean media exposure to family planning
+Notes The figure illustrates the first stage correlation between the explanatory variable contraception use and the instrument average media exposure to family planning messages
+For expositional purposes we illustrate the state level averages of these variables in the figure
+Table
+Effect of Contraception use on child s anthropometric measures
+Outcome variables
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic Weak ID
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Height for age HAZ
+Weight for age WAZ
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a child s height for age z score whereas in Columns it is the child s weight for age
+z score These are standardized anthropometric measures based on the WHO Child Growth Standards and range from SD to SD The
+main explanatory variable is a binary indicator taking the value if the couple has ever used any kind of contraceptive method and O
+otherwise The sample is restricted to women married only once All specifications correspond to a linear two staged least squares estimation
+Results pertain to children aged below years We have sequentially added individual mother s and child s characteristics household controls
+and finally state fixed effects Standard errors in parentheses are clustered at the cluster level and represent significance at
+and respectively
+some concerns about political diversity across states and state wealth
+being correlated to the IV given that our IV uses district level variation
+we control for omitted variables at the district level in the robustness
+Section Once we condition on district level characteristics along
+with our basic set of controls the average exposure of women in a
+district to family planning messages over mass media indeed affects
+child health only through the actual family planning practices
+Results
+Baseline results
+Table
+presents the IV TSLS results of the effect of contraceptive
+use on HAZ and WAZ Columns to present the estimates for
+the effect on HAZ and columns to present the estimates for
+WAZ respectively Columns and capture the initial association
+between a couple s use of contraception on their child s HAZ and WAZ
+respectively with no controls Absent any controls on average the
+effect of contraceptive use increases HAZ WAZ of children by
+standard deviations SD Both these coefficients are statistically
+significant at level of significance As we move across to columns
+and we add the mother s characteristics the child s charac
+teristics as well as household characteristics Adding comprehensive
+controls to our specifications reduces the number of observations to
+a large extent We continue to find a statistically significant increase
+in the child s HAZ and WAZ respectively as a result of contraceptive
+use Finally we also include state fixed effects as additional controls
+in columns and Estimates from columns and capture
+our most preferred specification Column shows that the decision
+to use contraception increases the child s HAZ by SD on average
+From column we note that the child s WAZ increases by SD
+if the couple has ever used any form of contraception The coefficients
+are statistically significant at level of significance
+First stage
+We also present the first stage results in
+Table
+Columns
+present the results with no controls with a comprehensive set of
+The results from a simple OLS estimation point to similar effects of
+contraceptive use on both HAZ and WAZ scores We do not report the OLS
+results for brevity and they are available upon request
+M Mookerjee et al
+Table
+First Stage estimates Effect of media exposure on contraception use
+Outcome
+District avg media exposure to FP
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+Ever used contraception
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Col present the first stage estimates corresponding to our preferred
+instrumental variable estimates reported in
+Table
+Our instrument is the district
+average media exposure of women to family planning information This is created by
+taking a district wide average of a binary indicator that takes the value if woman i
+has been exposed to family planning related information on the TV radio or newspaper
+and O otherwise The sample is restricted to women married only once Standard errors
+in parentheses are clustered at the cluster level and represent significance
+at and respectively
+controls and with state fixed effects added sequentially We note a
+positive and statistically significant relationship between the couple s
+use of contraceptives and the district average of women s exposure to
+family planning through mass media More specifically the probability
+of couples using contraception increases by pp with the rise in the
+district average of women s exposure Our model fairs remarkably well
+in terms of diagnostic tests that assess the efficiency and reliability of
+the IV The weak identification and under identification test statistics
+have been reported in
+The first stage F statistic is and
+Table
+in our preferred specifications for HAZ and WAZ reported in
+Columns and respectively the F statistic is also well above
+across all our specifications implying that our instrument is strong
+The Kleibergen Paap rk LM statistic of and for HAZ and
+WAZ respectively allows us to reject the null that the instrument is
+uncorrelated with the endogenous regressor This indicates that our
+instrument is relevant and correlated with the endogenous regressor
+Extensions
+Modern methods of contraception
+Here we extend our baseline analysis with the aim of specifically
+examining the effect of using modern methods of contraceptives on the
+HAZ and WAZ scores Typically to easily categorize family planning
+methods modern contraceptive methods are defined as any product or
+medical procedure that interferes with reproduction from acts of sexual
+intercourse Hubacher and Trussell Following this definition
+for our data this includes pills IUD injections diaphragms male
+condoms female condoms female and male sterilization foam or jelly
+and emergency contraception Traditional methods of contraception
+consist of periodic abstinence withdrawal other traditional methods
+lactational amenorrhea and standard days method First we study the
+effect of modern contraception methods versus traditional methods or
+not using contraceptives Second we examine the impact of modern
+methods of contraceptives versus not using any contraception Third
+we look at the effect of traditional methods of contraceptives versus no
+contraception
+presents the results Columns and provide the results
+Table
+for the regressions where our variable of interest is coded as if the
+We also examine the effect of using modern versus traditional contracep
+tives on child health for the subsample that reports using contraceptives We
+find a positive and statistically significant impact of using modern methods
+over traditional on a child s HAZ WAZ scores by SD However the
+IV does not perform well on the specification tests and thus warrants caution
+in interpreting these results as causal
+Economic Modelling
+couple has only ever used modern contraceptive methods and O if
+they use traditional or no contraceptives The results are statistically
+significant and we document an increase in the HAZ WAZ scores
+by SD Columns and present the results where the
+endogenous variable takes the value if the couples use only modern
+contraceptives and O otherwise excluding those using traditional con
+traceptive methods Again we note that the effects are largely robust
+and similar HAZ WAZ increases by SD if the couples use
+modern methods relative to not using any contraception method From
+column and we find evidence that if couples use traditional
+methods of contraception it leads to a rise in the HAZ WAZ score of
+the child by SD Our IV fairs well in the specification tests
+Other measures of nutritional deficiencies Stunting and underweight
+Further we measure the effect of contraceptive use on other mea
+sures of child nutritional status Specifically we focus on stunting
+and underweight indicators Stunting based on a child s height and
+age is considered a measure of chronic nutritional deficiency Under
+weight on the other hand is based on a child s weight and age and
+is considered a composite measure of both acute and chronic nutritional
+Stunting typically results from long term
+statuses
+Croft et al
+nutrition deprivation and leads to delayed mental development and
+reduced intellectual capacity while being underweight significantly
+increases the mortality risk
+We consider both stunting and underweight as binary variables for
+our analysis Stunted takes the value if the child is moderately or
+severely stunted and O if the child is not stunted Our measure of
+underweight similarly takes the value if the child is moderately or
+acutely underweight and O otherwise More specifically
+O not stunted
+if H AZ
+Stuntedi
+I moderately acutely stunted if HAZ
+Underweighti
+O not underweight
+if w AZ e
+I moderately acutely underweight if WAZ
+Given that our outcomes here stunted or underweight are binary in
+nature as well as our variable of interest everused we utilize Roodman
+s conditional mixed processes CMP framework as our IV esti
+mation approach We present the results in
+Columns
+Table
+present the marginal effects for Stunted and columns present
+the same for Underweight without controls with controls and with fixed
+effects added subsequently
+Examining our most preferred specification including comprehen
+Sive controls and fixed effects for Stuntedi in column we note that
+if a couple uses contraception the probability that the child is stunted
+decreases statistically significantly by percentage points pp As
+we move to Underweighti we note a negative and statistically signifi
+cant effect of contraceptive use on the probability of the child being
+underweight see column the likelihood of being underweight
+decreases by pp
+In summary our results for the measures of chronic and acute nutri
+tional deficiencies confirm our baseline results on HAZ and WAZ The
+negative effects of a couple s contraceptive use on a child being stunted
+or underweight corroborate the effects we find on the anthropometric
+measures
+Children whose weight for age z score WAZ is more than SD above the
+mean as per WHO Child Growth standards are categorized as overweight for
+age Since we are looking at nutritional deficiency we only consider whether
+or not a child is underweight stunted as our main outcome variables We also
+ran the analysis for the overweight category and found that contraceptive use
+can lead to a slight increase in the likelihood of being overweight Results can
+be made available upon request
+M Mookerjee et al
+Table
+Modern vs traditional contraception use
+Outcome variables
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic Weak ID
+Economic Modelling
+HAZ
+Modern methods vs
+traditional not using
+Yes
+Yes
+Yes
+Yes
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Modern
+methods
+Yes
+Yes
+Yes
+Yes
+Traditional
+methods
+Yes
+Yes
+Yes
+Yes
+WAZ
+Modern methods vs
+traditional not using
+Yes
+Yes
+Yes
+Yes
+Modern
+methods
+Yes
+Yes
+Yes
+Yes
+Traditional
+methods
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a child s height for age z score whereas in Columns it is the child s weight for age z score These are
+standardized anthropometric measures based on the WHO Child Growth Standards and range from SD to SD The main explanatory variable is a binary
+indicator taking the value if the couple has ever used any kind of contraceptive method and O otherwise The sample is restricted to women married only
+once All specifications correspond to a linear two staged least squares estimation Results pertain to children aged below years We have sequentially added
+individual mother s and child s characteristics household controls and finally state fixed effects Standard errors in parentheses are clustered at the cluster level
+and represent significance at and respectively
+Table
+Effect on contraception use on nutritional deficiency indices stunting and underweight
+Outcome variables
+Ever used contraception
+Average marginal effects on
+Probability of being malnourished
+haz waz
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+Stunted
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Underweight
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a binary variable taking the value O if a child is not stunted and if
+moderately acutely stunted Outcome variable in Columns is a binary variable taking the value O if a child is
+not underweight and if moderately acutely underweight These categorizations are based on the child s underlying HAZ
+and WAZ scores as defined by the WHO With binary outcome variables all specifications have been estimated using the
+conditional mixed processes estimation and the resulting marginal effects of contraception use have been reported Individual
+characteristics of the mother and child household characteristics and state fixed effects have been added sequentially The
+sample is restricted to women married only once Standard errors in parentheses are clustered at the cluster level
+and represent significance at and respectively
+Robustness
+Falsification analysis
+So far our findings indicate a positive and statistically significant
+effect of a couple s use of contraception on their child s anthropometric
+measures for nutrition surveillance Here we aim to demonstrate that
+such a result cannot be reached using any randomly assigned HAZ and
+WAZ outcomes To accomplish this we maintain the first stage link
+between our endogenous regressor and our instrument while randomly
+rearranging our outcome variables In other words we associate a ran
+dom child j s HAZ and WAZ scores to the use of contraception by child
+i s parents instrumented by the district average of women s exposure to
+contraceptive methods through mass media Ceteris paribus this makes
+the association between our dependent variables and the regressors in
+our estimation random
+We replicate this analysis times and show that of
+the times there is no significant impact of the use of contraceptives on
+the randomly assigned HAZ WAZ measure at level significance
+To be precise we are unable to reject the null that the effect of
+the use of contraceptives is equal to zero out of times
+for HAZ WAZ Fig
+plots the t statistics obtained corresponding to
+the coefficients of contraceptive use on both HAZ and WAZ in each
+of the replications This falsification test reveals that repeated
+estimations with random assignments of contraception choice do not
+produce significant results on children s anthropometric measures and
+thus we are unable to falsify our baseline estimates
+Household level sample
+We estimate our preferred baseline specifications using data at the
+individual child level where we consider multiple children per couple
+and household A worry with this level of analysis is that given our data
+limitations we only know if the couple has ever used any contraception
+method We are unable to determine when the couple may have used
+contraceptives or which pregnancy did it delay or affect In addition
+since the number of children per couple can vary households with
+more children repeat themselves in the data more than households with
+one or fewer children in the analysis at the child level To address these
+potential concerns and check the sensitivity of our baseline results
+we also estimate our desired impacts using aggregated household level
+data For every household we look at the average child characteristics
+Instead of controlling for birth order and multiple births we now control
+for the total number of sons and the total number of daughters in the
+household
+M Mookerjee et al
+HAZ
+WAZ
+Fig Falsification test
+Iteration
+Critical Values for significance
+Iteration
+Critical Values for significance
+Economic Modelling
+Notes Panel a presents the t statistics of the effect of a couple s contraception use on their child s height for age z score H AZ Panel b presents the same for the child s
+weight for age z score W AZ These test statistics are obtained from iterations of our preferred two stage least squares estimation but using randomly assigned nutritional
+outcomes of kids
+and continue to control for our preferred set of mother s and household
+characteristics
+presents our preferred baseline estimates for HAZ and WAZ
+Table
+using the household level data From columns and we note
+that a couple s use of contraceptives increases the average HAZ of
+their children by approximately SD and the average WAZ by
+SD respectively Comparing these magnitudes to our baseline
+estimates reported in columns and in
+we find that our
+Table
+results are substantially robust The impacts are statistically significant
+at the aggregated household level as well and the magnitudes are
+comparable Our instrument continues to perform well at the household
+level with the weak and under identification F statistics still above
+Inclusion of additional district level controls
+Our baseline regressions include child mother and household
+level characteristics However it may be unrealistic to assume that
+all district level characteristics affecting a couple s use of contracep
+tives are uncorrelated with district level exposure to family planning
+messages over mass media Thus we extend our set of controls to
+include several district level average characteristics This addresses any
+additional concerns regarding whether our IV satisfies the exclusion
+restriction With this analysis we are also able to check if our baseline
+results are robust to the inclusion of district controls Specifically
+we include information on the number of health sub centers primary
+health care centers community health care centers sub divisional hos
+pitals and district hospitals at the district level as additional controls
+We also utilize information on the district average of women s access to
+both prenatal and antenatal care provided by ICDS workers Anganwadi
+workers whether the respondent received any supplementary nutrition
+from Anganwadi centers during pregnancy whether the child received
+any benefits from Anganwadi in the last months whether the child
+received food from Anganwadi centers in the last months how
+often did the woman visit Anganwadi ICDS workers in the last
+months the services and matters regarding pre school nutrition and
+child healthcare discussed with the workers
+below presents the results for the set of regressions where
+Table
+HAZ and WAZ are the outcomes and
+where the probability
+Table
+of being stunted and underweight are the outcomes respectively We
+begin with discussing the results in
+Table
+Column shows the
+results with the inclusion of these district level controls on HAZ and
+column on WAZ respectively We find that the results are robust
+to our main estimates upon inclusion of these controls We note that
+contraception leads to a SD increase in HAZ and a SD
+increase in WAZ respectively These effects are larger than the baseline
+we note that upon inclusion of the district
+estimates From
+Table
+M Mookerjee et al
+Table
+Table
+Robustness Household level analysis
+Outcome variables
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic Weak ID
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Height for age HAZ
+Yes
+Yes
+Yes
+Yes
+Economic Modelling
+Weight for age WAZ
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a child s height for age z score whereas in Columns it is the
+child s weight for age z score These are standardized anthropometric measures based on the WHO Child
+Growth Standards and range from SD to SD The main explanatory variable is a binary indicator
+taking the value if the couple has ever used any kind of contraceptive method and O otherwise The
+sample is restricted to women married only once All specifications correspond to a linear two staged least
+squares estimation Results are based on average child characteristics at the household level for children aged
+below years We have sequentially added individual mother s and average child s characteristics household
+controls and finally state fixed effects Standard errors in parentheses are clustered at the cluster level
+and represent significance at and respectively
+Robustness Additional district controls
+Outcome variables
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+District characteristics
+State FE
+First stage F statistic Weak ID
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Yes
+Yes
+Yes
+Yes
+Yes
+WAZ
+Yes
+Yes
+Yes
+Yes
+Yes
+Table
+Robustness Additional district controls
+Outcome variables
+Ever used contraception
+Average marginal effects on
+Probability of being malnourished
+haz waz
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+District characteristics
+State FE
+Stunted
+Yes
+Yes
+Yes
+Yes
+Yes
+Underweight
+Yes
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Column is a child s height for age z score whereas in
+Column it is the child s weight for age z score The main explanatory variable
+is a binary indicator taking the value if the couple has ever used any kind of
+contraceptive method and O otherwise The sample is restricted to women married
+only once All specifications correspond to a linear two staged least squares estimation
+We have sequentially added individual mother s and average child s characteristics
+district controls household controls and finally state fixed effects Standard errors in
+parentheses are clustered at the cluster level and represent significance at
+and respectively
+level controls ever having used contraception leads to a decline in
+the probability of being stunted by pp and a pp decrease
+in the probability of being underweight respectively While the effects
+remain statistically significant and largely robust to the baseline results
+we again note greater impacts on the measures of chronic and acute
+nutritional deficiencies once we include district level controls
+Exclusion of vaccination records
+Our baseline analysis includes children s immunization records re
+ceived polio BCG DPT and measles vaccination as covariates How
+ever there may be a concern that vaccination as a control variable
+is endogenous in itself Here we re conduct our baseline regressions
+excluding the vaccination information from the set of controls to ex
+plore the extent to which our results are sensitive to the children s
+vaccination records
+presents the results for HAZ columns and WAZ
+Table
+columns scores All specifications correspond to a linear two
+staged least squares estimation We sequentially add the mother s and
+child s characteristics household controls and finally state fixed effects
+Notes Outcome variable in Column is a binary indicator of whether a child is
+stunted whereas in Column it is an indicator of whether the child is underweight
+The main explanatory variable is a binary indicator taking the value if the couple has
+ever used any kind of contraceptive method and O otherwise The sample is restricted to
+women married only once With binary outcome variables all specifications have been
+estimated using the conditional mixed processes estimation and the resulting marginal
+effects of contraception use have been reported We have sequentially added individual
+mother s and average child s characteristics district controls household controls and
+finally state fixed effects Standard errors in parentheses are clustered at the cluster
+level
+and represent significance at and respectively
+Our preferred specifications are in columns and While we find a
+statistically significant increase of SD in the HAZ score of children
+the effect is not precisely estimated for the WAZ score Overall the
+estimates for children s HAZ scores appear to be less sensitive to their
+immunization records relative to their WAZ scores
+reports the estimates for the likelihood of stunting and
+Table
+being underweight We note that the use of contraceptives consistently
+results in a decline in the probability of stunting From column
+the likelihood of stunting reduces by pp which is the same as
+our baseline estimate suggesting that the measure of stunting is not
+sensitive to the exclusion of immunization information In columns
+while we note a consistently negative effect of contraception on
+the probability of being underweight the effect is precisely estimated
+for specifications with no controls and with the set of demographic
+controls Being underweight reduces by pp from column
+NFHS sample
+Considering that child malnourishment has continued to be an
+unrelenting and critical issue for the country we add to the richness
+M Mookerjee et al
+Table
+Robustness Exclusion of vaccination records
+Outcome variables
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic Weak ID
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Height for age HAZ
+Economic Modelling
+Weight for age WAZ
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a child s height for age z score whereas in Columns it is the child s weight for age z score
+The main explanatory variable is a binary indicator taking the value if the couple has ever used any kind of contraceptive method and O
+otherwise The sample is restricted to women married only once All specifications correspond to a linear two staged least squares estimation
+where we have excluded vaccination controls Results pertain to children aged below years We have sequentially added individual mother s
+and child s characteristics household controls and finally state fixed effects Standard errors in parentheses are clustered at the cluster level
+and represent significance at and respectively
+Table
+Robustness Exclusion of vaccination records
+Outcome variables
+Ever used contraception
+Average marginal effects on
+Probability of being malnourished
+haz waz
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+state FE
+Stunted
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Underweight
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a binary variable taking the value O if a child is not stunted and if moderately acutely
+stunted Outcome variable in Columns is a binary variable taking the value O if a child is not underweight and if moderately acutely
+underweight With binary outcome variables all specifications have been estimated using the conditional mixed processes estimation and the
+resulting marginal effects of contraception use have been reported Individual characteristics of the mother and child household characteristics
+and state fixed effects have been added sequentially We have excluded vaccination controls in all specifications The sample is restricted to
+women married only once Standard errors in parentheses are clustered at the cluster level and represent significance at
+and respectively
+of our analysis by also utilizing data from the NFHS survey wave
+and testing whether family planning practices have remained important
+for child health We run our baseline regressions for HAZ and WAZ as
+well as for the outcomes denoting chronic nutritional status of children
+i e stunting and underweight for the years
+Table
+presents the baseline results for HAZ and WAZ using NFHS
+We present the results in the same progression as our baseline
+We find that in as well there are important and positive
+effects of contraceptive use on child health In particular the results are
+robust for HAZ for all specifications From our preferred specification
+in column we note that HAZ increases by SD if the couple
+uses contraceptives The effect is statistically significant We find a
+similar trend for WAZ as well From column once we add the same
+set of comprehensive controls in our regressions we find that the use
+of contraception leads to a statistically significant rise of SD in
+the child s WAZ The effect loses significance once state fixed effects
+are included Overall contraceptive use persistently emerges as a key
+predictor of children s nutritional outcomes as evidenced by the results
+for the years our baseline but also for
+Table reports the estimates for the probability of stunting and
+being underweight From columns to it is evident that the use of
+contraceptives by the parents leads to a statistically significant decline
+in the likelihood of the child being stunted More specifically the
+probability of stunting declines by pp as seen from the marginal
+effect reported in column Results are similar for the probability of
+being underweight The marginal effects suggest a negative effect of
+contraceptive use on the likelihood of being underweight Looking at
+column with the comprehensive controls the reduction is of the
+order of pp in the probability of being underweight as a result of
+limiting fertility through contraceptives While we find that in both
+and the effect loses statistical significance in Column
+Tables
+once state fixed effects are included we believe this is driven by some
+degree of measurement error or imprecision in the data
+By estimating the impact using an earlier round of data we pro
+vide evidence that nutritional deficiency is a chronic problem for
+the country that has yet to show much improvement This may be
+a severe challenge for India in view of the COVID crisis which
+has deteriorated an already critical situation India faces in terms of
+malnourishment
+Heterogeneity analysis
+Heterogeneous effects of ever using any contraception method
+To examine whether our main results vary across different subsam
+ples we dissect our analytical sample in different ways and estimate
+the effect of contraception use on HAZ and WAZ for the sub samples
+We examine different sub samples based on i sex of the child ii
+caste iii by area of residence and iv wealth We present the results
+Panel a presents the results for HAZ and Panel b for
+In Table
+M Mookerjee et al
+Table
+Robustness Main estimates using NFHS sample
+Economic Modelling
+Weight for age WAZ
+Outcome variables
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic Weak ID
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Height for age HAZ
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+ooo
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a child s height for age z score whereas in Columns it is the child s weight for age
+z score These are standardized anthropometric measures based on the WHO Child Growth Standards and range from SD to SD The
+main explanatory variable is a binary indicator taking the value if the couple has ever used any kind of contraceptive method and O
+otherwise The sample is restricted to women married only once All specifications correspond to a linear two staged least squares estimation
+Results pertain to children aged below years We have sequentially added individual mother s and child s characteristics household controls
+and finally state fixed effects Standard errors in parentheses are clustered at the cluster level and represent significance at
+and respectively
+Table
+Robustness Nutritional deficiency estimates using NFHS sample
+Outcome variables
+Ever used contraception
+Average marginal effects on
+Probability of being malnourished
+haz waz
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+Stunted
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Underweight
+No
+No
+No
+No
+O
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Columns is a binary variable taking the value O if a child is not stunted and if moderately acutely
+stunted Outcome variable in Columns is a binary variable taking the value O if a child is not underweight and if moderately acutely
+underweight These categorizations are based on the child s underlying HAZ and WAZ scores as defined by the WHO With binary outcome
+variables all specifications have been estimated using the conditional mixed processes estimation and the resulting marginal effects of
+contraception use have been reported Individual characteristics of the mother and child household characteristics and state fixed effects
+have been added sequentially The sample is restricted to women married only once Standard errors in parentheses are clustered at the
+cluster level
+and represent significance at and respectively
+WAZ The following findings are noticeable from this heterogeneity
+analysis
+By sex of the child From both panels the estimates in columns
+and show the effect of contraception use on the child s anthropo
+metric measures We find a much larger statistically significant impact
+on a girl s HAZ score compared to boys A couple s use of contraception
+increases a girl s HAZ score by SD whereas a boy s HAZ score
+increases by SD Also we find a statistically significant effect for
+girls but not boys when we consider their WAZ scores Specifically we
+note that the use of contraceptives increases a female child s WAZ by
+SD
+By caste We find a statistically significant effect of contraceptive
+use on children s anthropometric measures for the backward caste
+Contraceptive use increases the child s HAZ and WAZ by SD and
+SD respectively No such effect is noted for the upper caste That
+said a word of caution warranted here is that the sample size reduces
+by a large extent for the upper caste sample
+By area of residence Looking at the heterogeneous effects of con
+traceptive use on children s health by rural or urban areas we find
+statistically significant effects for rural areas for both HAZ and WAZ A
+child s HAZ increases by SD and WAZ by SD in rural areas We
+We provide additional heterogeneity analysis based on the mother s age
+mother s education and child s birth order following a LASSO algorithm to
+determine important covariates These results are presented in the Appendix
+do not find a statistically significant effect of limiting fertility through
+the use of contraceptives on the nutritional outcomes of children in
+urban areas
+By wealth We divide our sample into poor and rich households
+and find statistically significant positive effects of contraceptive use on
+children s HAZ for both poor as well as rich households Whereas when
+considering WAZ as our outcome we only find an effect for the sub
+sample of poor households Looking at the estimates for HAZ in column
+the effect is larger for the poor households and is of the order of
+SD for HAZ for the poor households and SD for the wealthy
+households The effect of limiting fertility through contraceptives in
+poor households shows a SD rise in WAZ of children
+Heterogeneous effects of using modern contraceptive methods
+We extend the heterogeneity analysis and examine the effect of
+explicitly using only modern contraceptive methods on the HAZ and
+WAZ for the same sub samples The pattern of results is similar and
+robust for the sub samples of poor households rural households and
+households belonging to the backward caste as in
+Table Table
+presents the results The impacts of using modern contraceptives are
+stronger and statistically significant in columns and
+which speak to the importance of access and awareness of contracep
+tion for these sub samples A large proportion of our sample belongs
+to rural India and almost of the households are either classified
+as belonging to the poor or the poorest category of the wealth index
+M Mookerjee et al
+Table
+Heterogeneity Analysis
+Ever used contraception
+Observations
+First stage F statistic
+Kleibergen Paap rK LM statistic
+Endogeneity test P Value
+Ever used contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic
+Kleibergen Paap rK LM statistic
+Endogeneity test P Value
+Economic Modelling
+Panel a Height for age HAZ
+Male Child
+Panel b
+Yes
+Yes
+Yes
+Yes
+Female Child
+Upper caste
+Yes
+Yes
+Yes
+Yes
+Backward
+Yes
+Yes
+Yes
+Yes
+caste
+Weight for age WAZ
+Yes
+Yes
+Yes
+Yes
+Urban
+Yes
+Yes
+Yes
+Yes
+Rural
+Yes
+Yes
+Yes
+Yes
+Rich
+Yes
+Yes
+Yes
+Yes
+Poor
+Yes
+Yes
+Yes
+Yes
+Notes This table illustrates the heterogeneity of our estimates by sex of the child household caste geographic location and wealth status In Panel a the
+a child s height for age z score whereas in Panel b it is a child s weight for age z score Columns correspond to our preferred IV TSLS estimation
+controls and state fixed effects The sample is restricted to women married only once Standard errors in parentheses are clustered at the cluster level
+significance at and respectively
+Table
+Heterogeneity Analysis usage of modern contraceptives
+Panel a Height for age HAZ
+outcome variable is
+with the full set of
+and represent
+Male Child
+Female Child
+Upper caste
+Yes
+Yes
+Yes
+Yes
+Backward
+Yes
+Yes
+Yes
+Yes
+caste
+Modern methods of contraception
+Observations
+First stage F statistic
+Kleibergen Paap rK LM statistic
+Endogeneity test P Value
+Modern methods of contraception
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic
+Kleibergen Paap rK LM statistic
+Endogeneity test P Value
+Panel b
+Yes
+Yes
+Yes
+Yes
+Weight for age WAZ
+Yes
+Yes
+Yes
+Yes
+Urban
+Yes
+Yes
+Yes
+Yes
+Rural
+Yes
+Yes
+Yes
+Yes
+Rich
+Yes
+Yes
+Yes
+Yes
+Poor
+Yes
+Yes
+Yes
+Yes
+Notes This table illustrates the heterogeneity of our estimates by sex of the child household caste geographic location and wealth status In Panel a the
+a child s height for age z score whereas in Panel b it is a child s weight for age z score Columns correspond to our preferred IV TSLS estimation
+controls and state fixed effects The sample is restricted to women married only once Standard errors in parentheses are clustered at the cluster level
+outcome variable is
+with the full set of
+and represent
+significance at and respectively
+Considering this it is likely that the poor the backward castes and rural
+households are more supply constrained in terms of access and ease of
+using modern methods of contraceptives which is possibly driving the
+more important effects we find in the heterogeneity analysis
+Potential mechanism quantity quality trade off
+Here we attempt to study a potential mechanism explaining the
+positive effects of contraceptive use on child health that aligns with
+the Becker and Lewis Becker and Tomes model of the
+quantity quality trade off of children Extant literature documents that
+increased parental time with children has significant implications on
+early childhood development as well as future human capital accumu
+lation
+Gahramanov et al Milkie et al Parent s choice
+to use contraceptive measures to limit the number of children born
+may therefore have important implications on resource allocation per
+child the quality of children s outcomes and thus their nutritional
+status Relatedly there is substantial evidence recording negative as
+sociations between the use of contraception and family size Cleland
+and Harris Dills and Grecu Alam and
+Abiona Kearney and Levine Ananat and
+Hungerman To explore whether the effect of contraception
+use on child health is dependent on the family size we conduct the
+M Mookerjee et al
+Table
+Interaction effects with household size
+Outcome variables
+Ever used contraception
+Household Size
+Contraception use HH size
+Observations
+Mother s Characteristics
+Kid s Characteristics
+HH Characteristics
+State FE
+First stage F Statistic Weak ID
+Kleibergen Paap rK LM Statistic Under ID
+Endogeneity Test P Value
+Height for age CHAZ
+Yes
+Yes
+Yes
+Yes
+Economic Modelling
+Weight for age WAZ
+Yes
+Yes
+Yes
+Yes
+Notes Outcome variable in Column is a child s height for age z score whereas in Column it is the
+child s weight for age z score The main explanatory variable is a binary indicator taking the value if the
+couple has ever used any kind of contraceptive method and O otherwise The sample is restricted to woman
+married only once All specifications correspond to a linear two staged least squares estimation where we
+have interacted our main variable of interest contraception use with household size We have sequentially
+added individual mother s and average child s characteristics district controls household controls and finally
+state fixed effects Standard errors in parentheses are clustered at the cluster level
+and represent
+significance at and respectively
+following analysis where we interact our main variable of interest
+Everused with household size Specifically we estimate the following
+econometric specification
+Yi DIEverusedi H Hsizei Everusedi H Hsizei
+where Yi refers to the outcome of interest HAZ or WAZ of child i
+Mi and are the vectors of child mother and household specific con
+trols As denotes state fixed effects Our parameter of interest here
+captures the effect of the couple s use of contraception on their child s
+health outcomes as household size changes
+Table
+presents the re
+sults for our outcomes HAZ and WAZ scores We find that as household
+size increases the impact of contraception use on a child s HAZ and
+WAZ scores decreases by SD and SD respectively These
+effects are statistically significant Thus we note evidence of a negative
+differential effect of the interaction between contraception use and
+family size In other words as household size increases the beneficial
+impacts of improved family planning on child health get smaller
+In order to assess if a change in household size is truly the mecha
+nism explaining the positive effects of contraception on child health
+we further examine the channel running from quantity to quality
+in our sample We first estimate the effect of contraception use on
+household size as illustrated in Panel a of Table where we find
+that a couple s use of contraception leads to a statistically significant
+decline in household size Following this we generate the predicted
+household size in line with the methodology followed by Bose et al
+which we then use to explain a change in a child s HAZ WAZ
+scores The results for this are reported in Panel b of
+Table
+Acknowledging that household size is likely endogenous we examine
+its effect on child nutrition using our IV approach Based on Li et al
+Rosenzweig and Zhang Kugler and Kumar Lee
+Zhang we consider the birth of twins multiple births
+as the instrument for an exogenous increase in the number of children
+in the household That being said it is entirely possible that twin or
+multiple births may also not be exogenous in that healthier women are
+more likely to give births to twins or have multiple births as evidenced
+Bhaiotra and Clarke
+As such we restrict the sample to
+children whose mothers never miscarried nor had stillbirths to address
+the potential endogeneity of twins or multiple births as the IV Utilizing
+Table
+Potential mechanism
+Outcome variable
+quantity quality trade off
+Ever used contraception
+Observations
+Outcome variables
+Predicted Household size
+Observations
+Mother s characteristics
+Kid s characteristics
+HH characteristics
+State FE
+First stage F statistic Weak ID
+Kleibergen Paap rK LM statistic Under ID
+Endogeneity test P Value
+Panel a
+Household size
+Panel b
+HAZ
+Yes
+Yes
+Yes
+Yes
+WAZ
+Yes
+Yes
+Yes
+Yes
+Notes Panel a illustrates the effect of contraception use on household size Outcome
+variable in co

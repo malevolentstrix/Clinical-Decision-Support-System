@@ -1,0 +1,1331 @@
+ck blood transfusion hysterec
+tomy and ventilation
+It was estimated that severe maternal
+morbidities affected more than US women in
+The reasons for the increasing trends in maternal morbidity and
+mortality are not entirely clear Changes in the pre conception health
+of pregnant women trends of delaying childbearing increased rates
+of cesarean deliveries
+as well as racial and ethnic disparities
+have been suggested as major contributors Improvements in the
+level of surveillance and identification of pregnancy related morbid
+ities and mortalities have also played an important role
+In this study we aim to extend prior research and evaluate the
+trends in several major pregnancy risk factors and complications
+The Author s Published by Elsevier Ltd This is an open access article under the CC BY license http creativecommons org licenses by
+Research in Context Panel
+Evidence before this study
+E Bomstein et al EClinicalMedicine
+Prior studies have documented increasing rates of hypertensive
+disorders of pregnancy chronic hypertension diabetes melli
+tus very advanced maternal age and grand multiparity among
+pregnant women in the United States US These studies were
+typically limited by either the size of the sampled population or
+the length of the time period examined as well as by the statis
+tical method used to evaluate temporal trends We searched
+PubMed for any article published up to March referring
+to the prevalence and trends in hypertensive disorders of preg
+nancy pregnancy induced hypertension gestational hyper
+tension preeclampsia eclampsia chronic hypertension
+diabetes mellitus pre gestational diabetes gestational diabe
+tes advanced maternal age maternal age grand multiparity
+and parity
+Added value of this study
+We document a marked increase in the prevalence of several
+maternal risk factors complications hypertensive disorders of
+pregnancy chronic hypertension diabetes mellitus very
+advanced maternal age and grand multiparity among the
+entire population of US pregnant women over the last years
+to The added value of this study stems from evalu
+ating these trends on the entire population of US pregnant
+women and over such an extended period of time In addition
+by conducting joinpoint regression analyses we are able to
+illustrate the temporal changes of the trends in each of these
+risk factors complications throughout our year study period
+Implications of all the available evidence
+Our results point to a significant and continuous deterioration
+in the health of US pregnant women over the past three deca
+des which has been especially prominent during the last
+decade Understanding the trends in maternal risk factors com
+plications could help identify the potential root causes for the
+increasing rates of maternal morbidity and mortality in the US
+as well as target intervention measures to curtail these trends
+hypertensive disorders of pregnancy HDP chronic hypertension
+CH diabetes mellitus DM very advanced maternal age vAMA
+and grand multiparity GM among US gravidas during the three
+decade period between and Understanding the long term
+trends in these risk factors complications can potentially help clarify
+the underlying reasons for the increasing rates of maternal morbidity
+and mortality in the US during this time period
+Methods
+Data and risk factor definitions
+This is a retrospective cohort study for the year period from
+to Data regarding the annual cases of live births compli
+cated by hypertensive disorders of pregnancy chronic hypertension
+diabetes mellitus very advanced maternal age and grand multipar
+ity as well as the total number of live births per year were collected
+from the National Center for Health Statistics natality files The data
+for were accessed through the Center for Disease Control
+and Prevention s CDC Wonder system The data for
+were collected from the National Vital Statistics Reports
+For
+parity the Wonder system only included data since
+and
+data for all prior years were collected from the National Vital Statis
+tics Reports The data include all live births occurring to US resi
+dents within the United States
+Data on hypertensive disorders of pregnancy HDP defined as
+gestational hypertension mild and severe preeclampsia eclampsia
+and HELLP syndrome chronic hypertension CH and diabetes mel
+litus DM includes pre gestational type I diabetes pre gestational
+type II diabetes and gestational diabetes are available in the natality
+files since following the implementation of the revision of
+the US Standard Certificate of Live Birth These data remain compara
+ble throughout the year period until Very advanced mater
+nal age vAMA was identified from data on the age group of the
+mother and defined as women who were years or older at the
+time of delivery Grand multiparity GM was identified from detailed
+parity data and defined as women with at least five live births For
+each risk factor complication incomplete records were excluded
+Statistical analyses
+For every year between and we calculated the annual
+prevalence of HDP CH DM vAMA and GM as percentages of live
+births Subsequently we evaluated the temporal trends in each preg
+nancy risk factor complication by way of joinpoint regression analy
+sis conducted using the Joinpoint Regression Program Version
+by the National Cancer Institute The joinpoint regression
+method is used to detect changes in data trends In our application it
+was set to fit a model of connected straight lines to a logarithmic
+transformation of the data For each potential number of joinpoints
+i e points in which the trend changes between O and the loca
+tions of the joinpoints were determined via the grid method by cre
+ating a grid of all possible joinpoint locations fitting a model to each
+possibility and choosing the model with the lowest sum of squared
+errors SSE Then the best model with the optimal number of
+joinpoints was chosen by comparing the models with the different
+number of joinpoints and testing whether more joinpoints were sta
+tistically significant Statistical significance was tested via the permu
+tation method by running Monte Carlo simulations The
+reported results of the model include the locations of the joinpoints
+the annual percentage change APC for each segment of the trend
+equal to the year over year change in the rate under the assump
+tion that this change is constant for the segment and the average
+annual percentage change AAPC for the full time period equal to a
+weighted average of all of the APCs In addition as an alternative
+method Pearson chi square testing was used to compare the preva
+lence of each risk factor complication in to its prevalence in
+with results presented as relative risks RR This analysis was
+conducted using SAS Version In subsequent analyses we calcu
+lated the proportion of pregnancies in each of six maternal age
+groups under years years years years
+years and at or above years of age as well as the preva
+lence of HDP CH and DM among these age groups for every year
+between and For every age group the temporal trends of
+HDP CH and DM were then evaluated by way of the joinpoint
+regression method as well as by calculating relative risks
+For all tests statistical significance was determined as a p value
+below and results were reported with associated confi
+dence intervals CI
+Ethics
+Institutional review board approval and informed consent were
+not required because the anonymized data are publicly available
+through a data use agreement with the National Center for Health
+Statistics
+E Bornstein et al EClinicalMedicine
+Role of the funding source
+No funding was obtained for this study
+Results
+From to there were a total of live births in
+the US with an average of live births per year ranging from
+in to in Of the births with available
+data were to women with hypertensive disorders of preg
+nancy HDP were to women with chronic hypertension CH
+were to women with diabetes mellitus DM were to
+women years of age or more vAMA and were to grand mul
+tiparous women GM
+The temporal trends in the prevalence of each of the risk factors
+complications from to are displayed in Fig The segmen
+tation results of the joinpoint regression analyses are presented in
+with dots marking the joinpoints and the detailed joinpoint
+Fig
+results are presented in Table Each risk factor complication has a
+different number of joinpoints and therefore a different number of
+segments Relative risks comparing the prevalence of each risk fac
+tor complication in to its prevalence in are also presented
+During this year period the prevalence of HDP
+in
+Table
+increased by RR Cl p O with an
+AAPC of Cl p O the prevalence of CH
+increased by RR Cl p O with an
+AAPC of Cl p O the prevalence of DM
+increased by RR Cl p O with an
+AAPC of CI p the prevalence of vAMA
+increased by RR Cl p O with an
+AAPC of CI p and the prevalence of GM
+increased by RR Cl p O with an AAPC
+of O Cl p O
+Notably however there were many changes in the behavior of
+the temporal trends throughout the years The prevalence of HDP
+increased consistently in the plateaued
+increased rapidly since then and especially since
+APC p The prevalence of CH increased only slightly dur
+ing the but has been increasing continuously since with
+an especially high APC since APC p O
+The prevalence of DM increased significantly in the early sta
+bilized until and has since then been growing exponentially
+albeit at a slightly lower APC since APC
+p The prevalence of vAMA increased consistently during the
+through with an especially high APC in the
+period APC and then stabilized and increased alter
+nately every years eventually continuing to increase since
+APC p The prevalence of GM increased
+between and then decreased slightly and stabilized
+before continuing to increase between and with a higher
+APC since APC p O
+The distribution of live births across the age groups of the mother
+as displayed in
+changed significantly from to Nota
+Fig
+bly the proportion of pregnancies to women at or above the age of
+increased while the proportion of pregnancies to women below
+the age of decreased Figs display the trends in HDP CH and
+DM respectively stratified by age group All age groups exhibited
+significant increases in the prevalence of HDP CH and DM between
+and but the prevalence of these risk factors complications
+was consistently higher for women with vAMA compared to the
+other age groups
+The prevalence of HDP was highest for women at or above the age
+of Before women under the age of had the second high
+est prevalence but since the gap between women in the
+and age groups has reduced Overall all age groups exhibited
+a similar increasing trend with a dramatic increase in the prevalence
+of HDP since Fig
+During the entire period
+women in the and age groups exhibited the largest rel
+ative increase in the prevalence of HDP AAPC CI
+p O with RR Cl p O and AAPC
+Cl p O with RR Cl p O
+respectively Meanwhile women in the and age groups
+o
+until and has
+co
+L n
+HDP
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+Year
+Fig Trends in the Prevalence of the Pregnancy Risk Factors Complications The figure presents the annual proportions of live births attributed to US women with
+hypertensive disorders of pregnancy HDP chronic hypertension CH diabetes mellitus DM very advanced maternal age vAMA and grand multiparity GM
+E Bomstein et al EClinicalMedicine
+t
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+co
+O
+O
+L n
+O
+co
+O
+Year
+HD p
+O
+MA
+O
+O
+O
+O
+O
+O
+O
+Fig Joinpoint Regression Analysis of the Trends in the Prevalence of the Pregnancy Risk FactorslComplications
+Graphical Presentation The figure presents the
+trends in the prevalence of hypertensive disorders of pregnancy HDP chronic hypertension CH diabetes mellitus DM very advanced maternal age vAMA and grand multi
+parity GM among US gravidas as analyzed via the joinpoint regression method The dots mark the joinpoints identified by the joinpoint regression and the lines between the dots
+depict the trend in each segment
+Table
+Joinpoint Regression Analysis of the Trends in the Prevalence of the Pregnancy Risk Factors Complications Detailed Results The table presents the results of the
+joinpoint regression analyses for hypertensive disorders of pregnancy HDP chronic hypertension CH diabetes mellitus DM very advanced maternal age vAMA and
+grand multiparity GM Each risk factor complication has a different number of joinpoints and therefore a different number of segments For each segment we report the
+annual percentage change APC and for the entire period we report the average annual percentage change AAPC Additionally relative risks RR for the entire
+period are also presented
+Segment
+Segment
+Segment
+Segment
+Segment
+Segment
+RR
+HDP
+APC
+Cl p
+APC
+APC
+Cl p
+APC
+APC
+Cl p o ool
+AAPC
+RR
+Cl
+p o om
+CH
+APC
+Cl I p
+APC
+Cl p
+APC
+Cl p o ool
+APC
+Cl p o ool
+APC
+Cl
+p o ool
+Cl p o ool
+RR
+Cl
+p o ool
+APC
+Cl p
+APCOS
+II p
+APC
+p o om
+APC
+Cl p o om
+AAPC
+Cl p o om
+RR
+Cl
+p o om
+vAMA
+APC
+Cl p o ool
+APC
+Cl p o ool
+APC
+Cl p
+APC
+Cl p o ool
+APC
+Cl p O
+APC
+Cl p o ool
+AAPC
+Cl p
+Cl
+p o om
+APC
+Cl p o ool
+APC
+Cl o
+APC
+Cl o p
+APC
+Cl p o ool
+APC
+Cl p o ool
+AAPC
+Cl p o ool
+RR
+Cl
+p o ool
+exhibited the lowest relative increase in the prevalence of HDP AAPC
+Cl with RR Cl and AAPC
+Cl with RR Cl respectively
+The prevalence of CH was consistently higher as the age group
+increased Moreover for all age groups the prevalence of CH was rel
+atively stable in the with slight declines for the and
+age groups Since the late early the prevalence of CH
+increased significantly among all age groups but at varying APCs
+Fig
+Notably the relative increase in the prevalence of CH
+between and was substantially lower for the age groups
+of AAPC Cl p O RR Cl
+p O and AAPC Cl p O
+RR CI p than for the younger age groups
+AAPCs of p O RRs p O
+The prevalence of DM was also consistently higher as the age
+group increased Furthermore for all age groups after a fast
+increase in the beginning of the decade the prevalence of DM
+was relatively stable during the rest of the but has
+increased dramatically since the late early Fig
+From to the relative prevalence increase was substan
+tially higher for the age group AAPC CI
+p O RR Cl p O and substantially
+lower for the age group AAPC CI p
+RR CI p compared to the other
+groups AAPCs of and RRs of It is notewor
+thy however that since the AAPC calculated as a weighted
+average of the APCs during the partial period for women in the
+age group was slightly higher than those for women of age
+to AAPC of compared to AAPCs of and that
+during the most recent decade it was significantly
+higher than those for women of age to AAPC of com
+pared to AAPCs of
+E Bornstein et al EClinicalMedicine
+Z
+co
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+Year
+Fig Trends in the Distribution of Live Births by Age Group in Years The figure presents the annual proportions of live births to US women in six age groups under
+years years years years
+t
+o
+years and at or above years of age
+co
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+Year
+Fig Trends in the Prevalence of HDP by Age Group in Years The figure presents the annual proportions of live births attributed to US women with hypertensive
+disorders of pregnancy HDP in six age groups under years years years years years and at or above years of age
+Discussion
+Our study documents dramatic increases in the prevalence of sev
+eral pregnancy risk factors complications HDP CH DM vAMA and
+GM among US pregnant women during the last three decades For
+CH and DM these increases have primarily occurred since the late
+early and for HDP and GM they were more pronounced
+since the mid late Although the trends in HDP CH and DM
+were observed in all age groups vAMA women consistently had
+higher rates of these risk factors complications compared to women
+in younger age groups This is especially disturbing as the proportion
+of pregnancies to vAMA women has also grown during this time
+period
+Our findings are consistent with several smaller studies that
+reported increases in the rates of HDP CH DM vAMA and GM
+among different samples of pregnant women in the US and during
+E Bomstein et al EClinicalMedicine
+t
+Fig Trends in the Prevalence of CH
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+Year
+O
+O
+O
+O
+O
+co
+O
+by Age Group in Years The figure presents the annual proportions of live births attributed to US women with chronic hyper
+tension CH in six age groups under years years years years years and at or above years of age
+o
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+co
+O
+O
+O
+O
+O
+O
+O
+O
+L n
+O
+O
+O
+O
+Year
+Fig Trends in the Prevalence ofDM
+by Age Group in Years The figure presents the annual proportions of live births attributed to US women with diabetes mellitus
+DM in six age groups under years years years years years and at or above years of age
+different time periods over the past three decades For example
+Kuklina et al used the Nationwide Inpatient Sample of the
+Healthcare Cost and Utilization Project which includes data from
+of all nonfederal community hospitals in participating states
+and found that the overall prevalence of all hypertensive disorders
+among delivery hospitalizations including both HDP and CH
+increased from in to in Using the same
+database Bateman et al focused specifically on CH and
+reported that the age adjusted prevalence of CH increased from
+in to in With regard to DM
+Lawrence et al focused on a sample of women in Southern
+California during the period between and and docu
+mented increases in the prevalence of pre existing diabetes from
+to and gestational diabetes from to
+our
+results not only confirm these prior findings but also illustrate the
+magnitude of the increases in the prevalence of these risk factors
+E Bornstein et al EClinicalMedicine
+complications among the entire US pregnant population Our results
+further show that the increase in the prevalence of all risk factors
+complications continued through In the last three years alone
+we find a prevalence increase of for HDP
+for CH for DM for vAMA and for GM Moreover by
+using one consistent and comparable dataset with years of rele
+vant data we are able to document the long term increasing tempo
+ral trends in HDP CH DM vAMA and GM between and
+as well as to illustrate the changes in these trends throughout the
+years
+The prevalence of HDP increased significantly from in
+to in AAPC of and RR of After stabilizing in the
+late early the prevalence of HDP has increased dramati
+cally over the most recent decade in all age groups Figs
+and
+and
+Table This is concerning as HDP is still a major cause of
+maternal mortality responsible for approximately of the preg
+nancy related deaths that occurred between and
+as well as a major contributor to various severe maternal morbidities
+The reasons for the increasing trend in the prevalence of HDP are
+not well understood but prior research has suggested increasing
+rates of co morbidities such as obesity chronic hypertension CH
+diabetes mellitus DM advanced maternal age AMA and multiple
+gestations as potential explanations
+l However while we find
+that HDP is indeed more prevalent among vAMA women Fig
+the
+long term trend that we document in HDP behaves quite differently
+from the trends of CH DM and vAMA Figs and Table Simi
+larly it does not correspond to the well documented long term con
+tinuous increase in obesity rates among pregnant women
+Therefore while all of these suggested reasons may contribute to the
+increased prevalence of HDP our results suggest that there may be
+additional contributing factors Further research is needed to explore
+these potential factors
+The prevalence of CH rose dramatically since with an espe
+cially high APC during the last couple of years Nowadays CH which
+affected only of pregnant women in the has
+become significantly more common with a prevalence of in
+and Table Potential factors that may have contrib
+Figs
+uted to this increase include increasing rates of obesity and AMA
+and indeed we find that the prevalence of CH among women
+with vAMA was more than double the overall prevalence Nonethe
+less higher relative increases in the rates of CH i e higher AAPCs and
+RRs among younger women during the past years have made CH
+a noteworthy risk factor even among young women
+Fig
+Similarly the prevalence of DM has more than doubled since the
+early growing continuously at disturbing rates Figs and
+Table Poor dietary habits physical inactivity as well as increasing
+rates of obesity and AMA have been reported as potential contribu
+tors to this increase General improvements in mater
+nal screening and detection processes as well as changes in
+diagnostic criteria and reporting practices may have also played a
+role
+Part of the increase that we document can also be
+attributed to the revision of the US Standard Certificate of Live
+Birth which was adopted in a staggered fashion across states until
+and has been found to increase the reported rates of DM
+l In any case in DM affected of pregnant women
+DM among pregnant women is a known contributor to maternal
+morbidity and mortality In fact Nelson et al found
+that of the increase in maternal mortality rates in the US
+between and was attributed to the increase in the preva
+lence of DM
+Of specific concern is that during the most recent
+decade the prevalence of DM has grown among vAMA women at an
+especially high AAPC so that an astounding of vAMA women
+in were affected by DM Fig
+The prevalence of vAMA increased significantly over the last three
+decades and primarily in the Figs and Table
+In fact
+over the last three decades the proportion of pregnancies attribut
+able to women in all of the age groups at or above the age of
+increased but the most notable increase was for vAMA women
+whose proportion of pregnancies grew threefold from in
+This increase can be explained by the
+to in Fig
+significant advancement in reproductive therapies during the
+and by the continuous trend of delaying family planning which can
+potentially be attributed to improved access to education and contra
+ception as well as to an increased focus on the career development
+of women
+Prior research has found that women at or above
+the age of have higher rates of various pregnancy risk factors and
+complications as well as an increased risk of maternal mortality
+Our findings confirm these results Specifically we find
+that older women with vAMA consistently had a higher prevalence
+of HDP throughout the years Fig and that the prevalence of both
+CH and DM consistently increased with age peaking in the vAMA age
+group Figs Nonetheless our study documents significant
+increases in the prevalence of HDP CH and DM across all age groups
+and further solidifies their position as major risk factors complica
+tions among all pregnant women in the US
+The overall increase in the prevalence of GM was relatively mod
+erate during the past three decades but practically all of this increase
+has occurred since In of live births were attributed
+to grand multiparous women Figs
+and
+Table The clinical
+Table
+Summary of Bornstein et al Racial Disparity in Pregnancy Risks and
+Complications in the US Temporal Changes during
+The table
+presents a summary of the results from Bornstein et al which exam
+ined racial and ethnic disparities in the prevalence of hypertensive disorders
+of pregnancy HDP chronic hypertension CH diabetes mellitus DM very
+advanced maternal age vAMA and grand multiparity GM during the
+time period Changes in the prevalence between and
+are presented as odds ratios OR
+Non Hispanic White Non Hispanic Black
+HDP
+CH
+AMA
+Women
+Prevalence
+Prevalence
+OR Cl
+p o ool
+Prevalence
+Prevalence
+OR Cl
+p o ool
+Prevalence
+Prevalence
+OR
+p o ool
+Prevalence
+Prevalence
+OR
+p o ool
+Prevalence
+Prevalence
+OR Cl
+p o ool
+Women
+Prevalence
+Prevalence
+OR Cl
+p o om
+Prevalence
+Prevalence
+OR Cl
+p o om
+Prevalence
+Prevalence
+OR Cl
+p o om
+Prevalence
+Prevalence
+OR Cl
+p o om
+Prevalence
+Prevalence
+OR Cl
+p o om
+Hispanic Women
+Prevalence
+Prevalence
+OR
+p o ool
+Prevalence
+Prevalence
+OR
+p o ool
+Prevalence
+Prevalence
+OR
+Prevalence
+Prevalence
+OR
+Prevalence
+Prevalence
+OR Cl
+p o ool
+E Bornstein et al EClinicalMedicine
+Correa A Bardenheier B Elixhauser A Geiss LS Gregg E Trends in prevalence of
+diabetes among delivery hospitalizations United States Matern Child
+Health J
+Albrecht SS Kuklina EV Bansil P et al Diabetes trends among delivery hospital
+izations in the US Diabetes Care
+Thorpe LE Berger D Ellis JA et al Trends and racial ethnic disparities in gesta
+tional diabetes among pregnant women in New York City Am J Public
+Health
+Getahun D Nath C Ananth CV Chavez MR SmulianJC Gestational diabetes in the
+United States temporal trends through Am J Obstet Gynecol
+Martin JA Hamilton BE Sutton PD et al Births final data for Natl Vital Stat
+Rep
+Nelson DB Moniz MH Davis MM Population level factors associated with
+maternal mortality in the United States BMC Public Health
+Negrato CA Mattar R Gomes MB Adverse pregnancy outcomes in women with
+diabetes Diabetol Metab Syndr
+Khalil A Syngelaki A Maiz N Zinevich Y Nicolaides KH Maternal age and
+adverse pregnancy outcome a cohort study Ultrasound Obstet Gynecol
+Chan BC Lao IT Effect of parity and advanced maternal age on obstetric outcome
+IntJ Gynaecol Obstet
+Laopaiboon M Lumbiganon P Intarut N et al Advanced maternal age and preg
+nancy outcomes a multicountry assessment BJOG
+Jacobsson B Ladfors L Milsom I Advanced maternal age and adverse perinatal
+outcome Obstet Gynecol
+Mgaya AH Massawe SN Kidanto HL Mgaya HN Grand multiparity is it still a risk
+in pregnancy BMC Pregnancy Childbirth
+Shechter Y Levy A Wiznitzer A Zlotnik A Sheiner E Obstetric complications in
+grand and great grand multiparous women J Matern Fetal Neonatal Med
+Shahida SM Islam MA Begum S Hossain MA Azam MS Maternal outcome of
+grand multipara Mymensingh Med J
+Agrawal S Agarwal A Das V Impact of grandmultiparity on obstetric outcome in
+low resource setting J Obstet Gynaecol Res
+JF Grandmultiparity a potential risk factor for adverse pregnancy outcomes J
+Reprod Med
+Bugg G Atwal GS Maresh M Grandmultiparae in a modern setting BJOG
+Shaikh GK Ibrahim GH Fayed AA Mandeel H Grand multiparity and the
+possible risk of adverse maternal and neonatal outcomes a dilemma to be deci
+phered BMC Pregnancy Childbirth
+Bigelow CA Khander A Robles BN et al Grand multiparity and great grand multi
+parity obstetric risks in a contemporary cohort Am J Obstet Gynecol
+Hindawi
+Journal of Pregnancy
+Volume Article ID pages
+https doi orgno
+Research Article
+Hindawi
+Missed Opportunity of Antenatal Care Services Utilization and
+Associated Factors among Reproductive Age Women in Eastern
+Hararghe Zone Eastern Ethiopia Mixed Methods Study
+Ibsa On Makhubela Nkondo Melat B Maruta and Adera Debella
+School of Public Health College of Health and Medical Sciences Haramaya University Harar Ethiopia
+Department of Health Studies College of Human Sciences School of Social Sciences University of South Africa South Africa
+Department of Obstetrics and Gynecology Menelik Specialized Comprehensive Hospital Addis Ababa Ethiopia
+School of Nursing and Midwifery College of Health and Medical Sciences Haramaya University Harar Ethiopia
+Correspondence should be addressed to Ibsa Mussa gmail com
+Received March Revised August Accepted September Published September
+Academic Editor Cemil oglak
+Copyright Ibsa Mussa et al This is an open access article distributed under the Creative Commons Attribution License
+which permits unrestricted use distribution and reproduction in any medium provided the original work is properly cited
+Background Despite the enormous advantages of early pregnancy related problem diagnosis and therapy during prenatal care
+Visits not all pregnant women begin antenatal care at the proper time Thus this study aims to identify factors associated with
+missed opportunities for antenatal care service utilization among reproductive age women in Eastern Ethiopia Methods A
+mixed methods study design quantitative and qualitative was conducted in Grawa Meta and Haramaya woredas from
+September to December The quantitative data were analyzed using SPSS version A multivariable logistic
+regression analysis model was used to identify the predictors Statistical software programs based on ATLAS ti version was
+were used to conduct the thematic analysis of the qualitative data Results Overall missed opportunities for antenatal care
+were of Factors such as maternal age being AOR CI having a college
+education AOR CI elementary AOR CI and secondary education
+AOR CI having five and more parity AOR CI three visits AOR
+CI those in the first trimester AOR CI and the second trimester AOR
+CI and get information from a health facility AOR O CI and traditional birth attendance
+AOR CI were factors statistically associated with outcome variables Conclusions According to this
+report relatively high proportions of pregnant women experienced missed opportunities in antenatal care follow up Factors
+such as maternal age education parity frequency timing and media access were statistically significantly correlated with
+missed antenatal care follow up Therefore all stakeholders should emphasize advocating for and enhancing the benefits of
+antenatal care this in turn plays a crucial role in increasing the follow up of clients for these crucial services Moreover health
+policy implementers need to coordinate their tracking of pregnant women who missed their antenatal care session
+Introduction
+Globally an estimated million women died from com
+plications related to pregnancy childbirth and postpartum
+period Every day about pregnant women pass
+away from curable or preventable pregnancy related condi
+tions Among these ninety nine percent of women
+die in developing countries due to pregnancy and childbirth
+Even though maternal mortality is a global issue its
+major issues are most felt in underdeveloped countries As
+a result developing nations account for percent of the esti
+mated global number of maternal fatalities with an estimated
+of those deaths happening in sub Saharan Africa
+Quality antenatal care accessible obstetrics care and
+life saving interventions are critical services for reducing
+preventable maternal and newborn mortality and morbidity
+Bringing the global maternal death rate down to fewer
+than per live births is a key component of
+Sustainable Development Goal SDG To eliminate
+preventable causes of maternal death due to pregnancy
+related complications existing interventions during preg
+nancy and delivery must be scaled up Hemorrhage hyper
+tension and infection are the leading causes of maternal death
+The most common causes of newborn deaths and
+stillbirths are asphyxia prematurity and infections and the
+majority are preventable with existing evidence based inter
+ventions either directly or indirectly during pregnancy labor
+delivery and postpartum
+Despite the fact that universal coverage of antenatal care
+services is reported globally and at the country level many
+pregnant women in developing countries do not benefit
+from comprehensive antenatal care due to factors such as
+late initiation and poor quality of antenatal care services
+Early initiation during the first trimester and qual
+ity antenatal care throughout the pregnancy have been
+shown to improve pregnancy outcomes and increase new
+born survival However in developing countries only
+of pregnant women initiated antenatal care before
+weeks of gestation and of pregnant women did not
+complete four antenatal care visits
+Despite the disparities in maternal death rates across
+developed and developing countries studies have demon
+strated that the pattern of maternal mortality and morbidity
+has remained constant throughout time The reasons given
+for this include the long standing custom of having births
+at home in risky and unclean settings with untrained or
+inadequately qualified delivery attendants
+In Ethiopia the maternal death ratio decreased from
+new births in to in This
+puts Ethiopian women at a much higher risk than their
+counterparts in the developed world where the risk was esti
+mated to be in and in in nations like
+Greece and Poland respectively As a result the likelihood
+of an Ethiopian woman dying from reproductive health dis
+orders and complications was put at in in in
+in and in in
+Despite the government s and numerous stakeholders
+dedication to advocating for and enhancing the benefits of
+antenatal care the prevalence of missed opportunities and
+factors influencing them remain unabated Additionally to
+researchers knowledge there is a dearth of published mate
+rial pertaining to missed opportunities and their related
+causes in the study region Furthermore there is no single
+study that employed qualitative methods to dig out the var
+iable under study As a result this study assessed the preva
+lence of missed opportunities and associated factors in the
+study area
+Methods and Materials
+Study Design Setting and Period A mixed methods
+study cross sectional quantitative method and phenome
+nology qualitative method was conducted from September
+to December among pregnant women
+in Grawa Meta and Haramaya woredas This study site
+namely Haramaya Meta and Grawa is situated in Eastern
+Ethiopia and kilometers from the capital city
+Journal of Pregnancy
+of Ethiopia Addis Ababa According to data from the wor
+eda health offce in the populations of the districts
+were and Of these reproductive
+age groups account for a total population of Most
+residents make their living through farming and small
+scale trading Figure
+Population and Eligibility Criteria All woreda dwelling
+women of reproductive age who had given birth within the
+previous five years of the data gathering were considered
+the source population whereas randomly selected women
+using the sampling technique who were available during
+the data collection period were regarded as the study popu
+lation The inclusion criteria were women who were permanent
+residents who lived more than one year in the study area in
+the selected districts and women whose ages were between
+and years Women with hearing impairments or communi
+cation impairment conditions as well as those who were criti
+cally ill had mental health issues or had been alive for less
+than a year at the time of the interview were excluded
+Sample Size Determination and Sampling Procedures
+The sampling size was computed by using a single popula
+tion ratio formula based on the assumption that to get the
+largest sample size possible and in light of the lack of prior
+prevalence statistics on the population being studied p was
+taken to be Additionally a confidence interval
+and a margin of error were established Z
+women aged between and years made up the
+majority of the total population N and a sample
+size of women was determined using a contingency
+for nonresponse
+A three stage sampling approach was used in this investi
+gation of the total kebeles in each district were included
+in the initial stage As the number of kebeles varies in the three
+districts proportional sampling to give equal weights was used
+As a result samples were taken from percent of
+kebeles in Grawa percent in Meta and percent in
+Haramaya Based on the size of the population
+kebeles and HHs from Haramaya kebeles and
+HHs from Meta and kebeles and HHs from Grawa
+were selected for the sample of kebeles and homes HHS A
+lottery technique was used to choose the respondents with vil
+lages being selected at random Last but not least research
+subjects took samples from kebeles in the three woredas a total
+of study samples were chosen utilizing a systematic sam
+pling technique Then each patient was given a unique code
+The sample size determination and sampling procedures
+for antenatal care service utilization and associated factors
+for qualitative data included focus group discussants and
+respondents in a homogenous group i e community
+health workers women in reproductive age husbands
+religious leaders and community representatives Addi
+tionally five mothers in law two sisters and a father in law
+of the eight relatives who participated in decision making
+during the birthing process were interviewed
+Data Collection Methods The open ended question
+naire in depth interviews audiovisual materials focus group
+Journal of Pregnancy
+Ethiopia
+rorma
+s
+other values
+W name
+Grawa
+Haramaya
+Meta
+East Hararghe zone with emphasis to map of Meta Grawa and Haramaya districts
+FIGURE Map showing of study setting namely Haramaya Meta and Grawa
+discussions and field observation were used to gather qualita
+tive information while an interviewer administered pretested
+closed ended structured questionnaire instruments behavioral
+checklists and records were used to gather quantitative infor
+mation Representatives from the district health offce
+health center and women s affairs participated in in depth
+interviews Using previously developed interview criteria
+focus groups were done with women of reproductive age com
+munity and religious leaders spouses and mothers in law
+It contains sociodemographic and economic characteris
+tics household related conditions healthcare services and
+comorbidity related characteristics
+Sixteen female data collectors with a minimum of sec
+ondary education and native Afaan Oromo speakers gath
+ered the data The principal investigator was supervised by
+two public health professionals who are familiar with the
+study s environment Three days of training on ethics tools
+sampling and data collection techniques was given to data
+collectors and supervisors Daily oversight of the data gath
+ering process was provided and the data collectors received
+prompt feedback
+Variables and Their Measurement Antenatal care
+ANC is the proportion of women aged to who gave
+birth alive and got prenatal care four or more times within
+a specific time period
+Missed opportunities in maternal and infant health
+research are built on the premise that considerable chances
+for enhancing mother and child health have been missed
+or might have been avoided and that a better arrangement
+and focus on postpartum care will lower maternal morbidity
+and death
+A traditional birth attendant TBA is a person who
+assists a mother during prenatal and postpartum care and
+who initially acquired her skills by delivering babies herself
+or through apprenticeship to other traditional birth atten
+dants
+Data Quality Control A bilingual expert Afaan Oromo
+created the questionnaire in English before translating it into
+the regional tongues To guarantee uniformity it was then
+translated back into an English version The supervisor and
+data collectors both got training on the methods and tools for
+collecting data of the study participants took a pretest in
+a setting similar to research data collection Regular oversight
+was given by the investigators and skilled research supervisors
+Data Processing and Analysis The acquired information
+was initially checked for consistency and completeness
+Then for further analysis they were cleaned coded and
+put to EpiData version The entered data were trans
+ferred to SPSS version for analysis Descriptive and sum
+mary data were produced and published using frequency
+tables and figures A binary logistic regression model was
+created to examine any connections between the indepen
+dent variables and the outcome variable The fitness of the
+model was assessed by Hosmer Lemeshow statistics and
+Omnibus testing A multivariable analysis was used to iden
+tify the real factors that affected the result variables To
+determine whether there was any relationship between the
+independent variables a multicollinearity test was carried
+out using the standard error and colinearity statistics There
+were no detectable collinearity effects With this in mind the
+variance inflation factor V IF was To ascertain the
+strength and direction of the statistical association the odds
+ratio OR and confidence interval CI were utilized
+At a p value it was determined that both the bivariate
+and multivariate analyses were statistically significant
+Journal of Pregnancy
+TABLE Sociodemographic and economic characteristics of study participants Eastern Ethiopia
+Variables n
+Maternal age
+Educational status
+Occupational status
+Current marital status
+Ethnicity
+Religion
+Educational status of husband
+Husband s occupation
+Family size
+Categories
+years
+years
+years
+Unable to read and write
+Elementary
+Secondary
+Collage and above
+Government employee
+Self employee farmer
+Merchant
+Student
+Married
+Single
+Divorced
+Widowed
+Separated
+Oromo
+Amhara
+Somali
+Muslim
+Christian
+Waqefata
+Unable to read and write
+Elementary
+Secondary
+Collage university
+Employee
+Self employee farmers
+Merchant
+Student
+Above
+Frequency
+Percentage
+Atlas ti version is was employed to assess qualitative
+data Theme analysis was used to complete it analyzing and
+interpreting the collected data After then other codes were
+used to encode the translated data Each code was split up into
+a variety of groupings which were then grouped into themes
+Results
+Socioeconomic and Demographic Characteristics A total
+of study participants between the ages of and par
+ticipated with a response rate The mean age of partic
+ipants in the research was years old with SD The
+majority of the study subjects were married
+and were unable to read and write whereas hus
+bands were in elementary school Of almost all
+of the participants three hundred eighty nine were
+Oromo ethnic group and were Muslims
+Almost of the respondents had a household
+family size of one to four Table
+Pregnancy Cultural and Behavioral Related Characteristics
+The mean SD age of the first marriage and first pregnancy
+was and respectively The majority
+of study participants had two to four children
+and more than half were in the age range
+between and years Regarding adverse pregnancy out
+comes approximately and women
+had a previous history of abortion and stillbirth respectively
+Journal of Pregnancy
+TABLE Pregnancy cultural and behavioral related characteristics of study participants Eastern Ethiopia
+Variables n
+Age at first marriage
+Age at first pregnancy
+Parity
+Number of alive children
+Number of still birth
+History of abortion
+Type of abortion
+Intention to pregnancy
+Previous history of female genital mutation
+Polygamy
+Autonomy of mothers in decision making
+Intimate violence
+Husband support
+Categories
+No
+Yes
+Induced
+Spontaneous
+Unplanned
+Planned
+No
+Yes
+One
+Two
+Three
+Wife
+Husband
+Joint
+No
+Yes
+No
+Yes
+Frequency
+Percentage
+More than half of the participants were not
+planning a pregnancy and had a history of female
+genital mutilation Regarding decision making authority
+made a joint decision while the majority of the
+respondents of the total study participants had
+experienced intimate partner violence whereas
+of the respondents had not received support from their part
+ners Table
+Proportion of Missed Opportunity of Antenatal Care
+Among study participants had antenatal
+care ANC follow up whereas missed ANC
+follow up Figure
+Obstetrics and Health Service Related Variables The
+majority of the women visited health facilities
+at least once for prenatal care and from the total of
+responders made their first booking in the first
+trimester while the remaining participants initiated antena
+tal care ANC in the second or third trimester Additionally
+participants had only used ANC services three
+times while respondents received information
+about ANC from the health institution respondents
+had to wait between and minutes for services
+and respondents were shown respect by the
+medical staff The majority of the women of the
+respondents did not have access to convenient
+Yes
+Frequency
+Percentage
+FIGURE The prevalence of missed opportunity of ANC services
+among reproductive age women in Eastern Ethiopia
+transportation from their homes to the nearest health facil
+ity while respondents received ANC service
+from the health center Three fourths of the respondents
+had started their ANC services because of health
+problems Nonetheless of the study s partici
+pants lack confidence in medical professionals The survey
+discovered that respondents had received health
+education while getting ANC Regarding privacy more than
+respondents stated that their privacy was not
+respected during ANC visits Table
+Moreover the focus group discussion FGD participants
+strengthened the ideas provided above and one a year
+old female focus group discussant expressed the diffculty of
+maintaining privacy and confidentiality She stated that
+the male doctor inserted his fingers into my vagina and
+other nurses stood there looking at him Perhaps they were
+in training I feel bad seeing that crowd staring at me
+Because there were no curtains and no private room it was
+diffcult to change my clothes and breastfeed the baby after
+birth We can see each other and others visitors can easily
+see us After the baby is born one bed for each woman
+and private rooms or curtains around the bed to avoid seeing
+other women would be more comfortable for all women
+In a similar vein one participant in FGD said that
+when I went to the hospital for an antenatal check up
+there was a health care provider It was not what I had
+hoped for before going to the hospital for service There was
+no respectful healthcare provider The male doctors were
+there to perform examinations The doctors pressed hard on
+my tummy causing me pain
+Thus from the above discussion we conclude that the
+way the healthcare providers treat the woman plays a pivotal
+role in keeping her on track with ANC
+Furthermore one of the participants immensely com
+plained about the waiting time in the ANC and said that
+we are busy at home with our daily tasks and when we
+go for ANC visits we are expected to stay at least an hour We
+have a lot of daily activities that we do during this time As a
+result we are clearly tired of waiting which leads us to aban
+don follow up A year old woman
+Journal of Pregnancy
+Among the total study participants
+CI were pregnant women attending ANC
+three times while CI attended
+ANC four or more times Figure
+Missed Opportunity and Associated Factors In the
+bivariable analysis predictor variables such as maternal
+age educational status occupational status family size age
+at first marriage parity number of stillbirths intention to
+conceive frequency of ANC visits timing of ANC and
+source of information about ANC were significantly associ
+ated with antenatal care service utilization However in the
+final model of multivariable logistic regression analysis pre
+dictor variables like those women in the age range of
+years who are unable to read and write elementary and sec
+ondary education status parity one have three round visits
+being in the first and second trimesters and those who heard
+information from radio TV and TBA were significantly
+associated with ANC utilization
+Accordingly respondents in the age range of years
+were times more likely to miss the opportunity of ANC
+than those women in the age range of years
+AOR CI Likewise women who
+were in college and in elementary and secondary education
+were and less likely to miss the ANC
+service than those who had no education or were unable
+to read and write AOR CI
+AOR O Cl and AOR O
+CI respectively Moreover those study
+participants who had more than five parities were less
+likely to miss ANC services as compared to those who had
+one parity AOR CI Likewise
+those study participants who had three or more visits to
+ANC were less likely to miss ANC services than those
+who had one visit AOR CI
+Furthermore the odds of missing ANC services for preg
+nant women who came for ANC follow up during the first
+and second trimesters were and less likely as com
+pared to their counterparts AOR CI
+and AOR CI respectively
+Likewise the study participants who heard information
+from TV radio and TBA were and less likely to
+miss ANC services than those who heard from other sources
+AOR Cl and AOR
+Cl Table
+Discussions
+This study assessed the missed opportunity of antenatal care
+services and associated factors among reproductive age
+women in Haramaya Chelenko and Grawa districts East
+ern Ethiopia This study pointed out that CI
+of study participants missed out on antenatal
+care services Thus more than four out of every five preg
+nant women utilized antenatal care services Factors such
+as those who are women in the age range of years
+unable to read and write elementary and secondary educa
+tion status those who have one parity those who have three
+round visits being in the first and second trimesters those
+Journal of Pregnancy
+TABLE Obstetrics and health service related variables of study participants Eastern Ethiopia
+Variables n
+ANC follow up
+Timing of ANC
+Source of information about ANC
+Did you receive a respect from healthcare provider
+Waiting time to get ANC in minutes
+Distance to the nearest health institution
+Easy transport service from home to the nearest health facility
+From where you receive your ANC
+Reason for initiating ANC
+Health education during ANC
+Lack of privacy during ANC
+Confidence on health service
+Relatives and family interest
+who heard information from a health care provider and
+TBA were identified as predictors of ANC utilization
+According to this study of study participants
+missed the opportunity for antenatal care services This is
+in harmony with a study conducted in different settings
+such as Kenya and Malawi Holeta Town
+Central Ethiopia Northwest Tanzania
+Tigray Region and Hadiya Zone
+However the prevalence of missed opportunities in
+the current study was much lower than the previous studies
+Categories
+Yes
+No
+First trimester
+Second trimester
+Third trimester
+Health institution
+Radio TV
+TBA
+Relatives
+Community health agent
+Friends
+Yes
+No
+min
+min
+min
+min walking
+min walking
+min walking
+Yes
+No
+Hospital
+Health center
+Health post
+Health problems
+Start regular checkup
+Other
+No
+Yes
+I do not know
+Yes
+No
+Yes
+No
+I do not know
+Frequency
+Percentage
+conducted in different settings like Gelemso
+Northern Tigray EDHS Ethiopia
+Southern Ethiopia Northwest Ethio
+pia China Afghanistan
+and Addis Ababa Moreover according
+to the Ethiopian Demographic and Health Survey
+EDHS of women in urban areas used ANC The com
+parative figures for rural areas and the national level were
+and respectively The possible justification
+for these disparities might be attributed to differences in
+Frequency
+Once
+Frequency
+Percentage
+Two times
+Three times
+Four or more
+FIGURE The frequency of missed op

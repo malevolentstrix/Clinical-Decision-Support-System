@@ -1,0 +1,33 @@
+import os
+from bs4 import BeautifulSoup
+
+def extract_text_from_html(html_file):
+    with open(html_file, 'r', encoding='utf-8') as file:
+        soup = BeautifulSoup(file, 'html.parser')
+        for script in soup(['script', 'style']):
+            script.extract()
+        text = soup.get_text()
+        # deletin extra whitespaces and newline characters
+        text = ' '.join(text.split())
+        return text
+
+html_directory = 'downloaded_pages/'
+
+text_directory = 'extracted_text/'
+
+if not os.path.exists(text_directory):
+    os.makedirs(text_directory)
+
+# Iterate HTML files
+for filename in os.listdir(html_directory):
+    if filename.endswith(".html"):
+        html_file = os.path.join(html_directory, filename)
+        text = extract_text_from_html(html_file)
+        
+        # extracted text to a corresponding text file
+        text_filename = os.path.join(text_directory, os.path.splitext(filename)[0] + '.txt')
+        with open(text_filename, 'w', encoding='utf-8') as file:
+            file.write(text)
+        print(f"Text extracted from {filename} and saved to {text_filename}")
+
+print("Text extraction complete.")

@@ -1,0 +1,1075 @@
+pyright Elsevier B V All rights reserved Scopus is a registered
+trademark of Elsevier B V
+QRELX GroupTM
+https www scopus com avvk knimbus com citation print uri origin recordpage sid src s stateKey OFD eid O
+Process Family Planning
+An Optimization based Approach
+Roel Leus Linda L Zhangt and Daniel Kowalczyk
+ORSTAT Faculty of Economics and Business KU Leuven Leuven Belgium
+Email Roel Leus Daniel Kowalczyk kuleuven be
+t Department of Management IESEG School of Management LEM CNRS Lille France
+Email l zhang ieseg fr
+Abstract This study is aimed at providing companies with de
+cision support in selecting the most suitable production processes
+for producing diverse customized products belonging to a family
+in attempting to achieve production efficiency while utilizing the
+available manufacturing resources One of the measurements of
+best suitability is the similarity of production processes for
+producing product family members If the production processes
+are similar there will be fewer production changeovers This in
+turn helps achieve not only efficiency but also product quality
+We develop an integer linear formulation for the selection of
+production routings for each member of a product family and
+for the assignment of an execution mode to each operation in
+each selected routing We report on computational experiments
+with an illustrative example instance
+Index Terms process family planning product family opti
+mization integer programming routing similarity production
+processes
+I INTRODUCTION
+The objective of this paper is to formulate a mathematical
+model that determines an optimal production process for a
+customized product belonging to a family i e process family
+planning In this regard both representation as well as
+selection of alternative production processes are required The
+output includes specific operations or operations modes and
+their precedence relationships i e operations precedence the
+total processing time and the total production cost
+In practice for producing a product a routing consists of
+a number of operations and operations precedence It can
+be implemented by a number of production process alter
+natives each of which is formed by operations modes and
+the corresponding operations precedence Companies typically
+adopt only one production process to produce each product
+in the hope of reducing the difficulties and complexities
+in production on the shop floors l Different modes
+of a same operation may differ in manufacturing resources
+such as machines tools fixtures thus leading to different
+processing times and costs In process family planning all the
+production process alternatives for a given customized product
+are compared with the production process being used on the
+shop floor for producing other customized products belonging
+to the same family In accordance with the differences in
+routings and manufacturing resources production processes
+are compared with respect to the routing and manufactur
+ing resource similarities That is the total similarity of two
+production processes includes the weighted routing similarity
+and manufacturing resource similarity The higher the total
+similarity between a production process alternative and the
+existing one the fewer production changeovers will be needed
+which in turn contributes to production stability reduced
+production cost and product quality
+The total production cost is the total cost for producing
+the given customized product using the selected production
+process Since the cost for each operations mode is known
+the total production cost is the sum of the costs of operations
+modes which form the selected production process The total
+processing time is obtained as the maximum length duration
+of any sequence of operations that cannot be processed in
+parallel According to the above the objective has three
+parts to maximize production similarity to minimize total
+production cost and to minimize total processing time
+II OPTIMIZATION
+A Definitions
+We consider the following definitions
+Rpt
+set of products
+set of operations
+i th alternative routing for product p G P a
+partially ordered set Qpi Api with Qpi C Q and
+binary relation Api C Qpi x Qpi transitive and
+irreflexive and
+the set of all alternative routings RPi for product p
+Each operations precedence set Api is such that WI G A
+if and only if the output of WI belongs to the input set of
+In this paper we work with hierarchical BOM structures
+where each operation only has one output as opposed to flat
+or inverse BOMs which may have more than one identical
+or distinct outputs Each routing has one unique end product
+which is the unique output component p G P of the unique
+maximal element of Q A O Consequently each graph
+G Qpi Api is an in tree We also assume that each operation
+appears at most once in each routing
+The routing similarity for two routings RPi Rqj for two
+different products p q is defined as follows
+X I Api Aqjl
+RS Rpz Rqj
+I Apil I Aqjl
+School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+Proceedings of the IEEE IEEM
+a
+b
+c
+Fig l Illustration of routing similarity
+In Figure for instance if operation b is the same as and
+c is the same as assuming that b and produce the same
+output from the same material input and similarly for c and
+then RS
+Clearly an RS score is always
+in the interval and equals if Apt A q
+We also consider a set of modes M w for each w G Q
+Each mode m G M w has an associated cost cw
+and an
+associated duration dam For a given operations set Qpi C Q a
+process alternative is a mapping of each operation w G
+to a mode w G M w Each mode corresponds to a
+selection of a set of manufacturing resources to perform the
+operation in question The manufacturing resource similarity
+between two different products p q with mode assignment np
+respectively T q reflects the proportion of identical modes for
+identical operations in the two production processes More
+specifically
+MS Tp T q Opt Qqj
+X G Opi n Qqj w
+In Figure for instance if a and A represent the same opera
+tions mode and b and B are also the same the manufacturing
+similarity of the two production processes is
+B Problem statement and a linear model
+Our goal is to select a set of production processes each
+of which is formed by specific operations modes and their
+operations precedence to produce a given set of products
+such that an optimal performance with respect to production
+similarity total production cost and total processing time can
+be achieved These three objectives similarity cost and time
+may conflict with one another Thus we include a composite
+similarity measure in the objective and relegate cost and time
+to the constraints where we impose an upper bound Cp and
+Tp on the total cost respectively time for product p
+The problem to be solved can be captured by a linear model
+with the following two sets of decision variables
+xpz G xpz
+iff routing Rpt is chosen for
+product p and
+iff operation w for product p is
+executed in mode m so if arp w m
+We also use the following additional parameters in the model
+Q p C Q is the subset of operations that occur in at least
+one routing for product p
+iff operation w appears in
+routing i for product p
+iff operation w can be per
+pzwm
+pawm
+formed in mode m in routing i for product p and
+L p i C is the set of operation sets that corre
+spond with an inclusion maximal path in graph
+Consequently
+iff there is at least one mode m such
+that
+pawm
+The following constraint applies
+iGRp
+where i G Rp stands for Rpt G Rp This constraint implies
+that exactly one routing will be chosen for each product
+If a routing Rpt is selected x pi such that Ypwm cannot
+equal namely if
+we need to enforce value upon
+pzwm
+the corresponding Y variable
+piwm pz
+iGRp
+Production
+process
+a
+b
+c
+d
+Production
+process
+B
+c
+We also impose that exactly one mode be chosen for each
+operation in the routing selected for product p as follows
+VpeP Vw Q p
+This constraint also ensures that no mode is selected if w does
+not appear in the selected routing
+The upper limits on the total cost and total duration for each
+product can be imposed with the following constraints
+weQ p
+S Tp M xpi
+WGA me JVt w
+P VRpz e Rp VA G L p i
+Fig Illustration of manufacturing similarity
+In constraint M is a large number to make the inequality
+redundant when x pi Note that since G Q A is a
+tree the cardinality of L p i is O Qpi
+Authorized licensed use limited to Amrita School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+Proceedings of the IEEE IEEM
+In order to compute the objective function for a given choice
+X Y we introduce additional decision variables
+zpqt G Z
+iff xpi xqj
+iff Ypwm
+qum
+iffZ
+and
+and
+pqzyw
+pqwm
+The variables Z V and VV are set to their appropriate value
+via the following constraints in combination with the non
+negative coefficients for all Z and W in the maximization
+objective described below
+xpi xqj C P Vi e Rp vj G Rq
+pcp om
+qwm
+V p q C P VW G Q p n Q q Vm G M w
+pqwm
+pqzy v
+The constraints and apply for all p q C P i G R
+P
+j G R q and w G Q p n Q q
+In accordance with the above definitions and constraints
+the objective function is formulated as follows
+max
+i Rp jeRq
+where
+aRS Rp R
+pqzjw
+In this expression the term RS Rpz Rqj is independent of X
+and Y and can be computed off line The parameters a
+are multipliers that can be tuned to balance the importance
+of the routing and the manufacturing similarity respectively
+In this paper for illustrative simplicity these weights are
+set as each In practice companies can decide on the
+values of these two weights based on their own production
+characteristics
+C Complexity analysis
+Consider the following decision problem
+EVEN ODD PARTITION
+Instance A finite set A
+and a size
+s a G N for each a G A
+Question Is there a subset N C A such that s a
+s a and A contains exactly one of ly I am for
+aGA A
+This problem is known to be NP complete It can be shown
+that the feasibility question for the optimization problem
+defined in Section II B is also NP complete For a given
+instance of EVEN ODD PARTITION consider a single prod
+uct p with only one routing IRpl such that n
+and Qpl Apl is a complete order on QPI the precedence
+graph is one chain of n operations Each operation Wi
+i n has exactly two modes M w
+and consider the following
+Define Smax
+maxi I
+costs and durations for each operation under each mode
+s Lil S
+s Let B
+and
+Li l It can
+Smax
+be verified that a feasible mode assignment for the thus
+constructed instance exists with C B and Tp
+if and only if the answer to the corresponding PARTITION
+instance is yes
+This complexity result implies that a polynomial time algo
+rithm for solving the problem does not exist unless P NP
+which is generally assumed to be very unlikely We therefore
+solve the integer linear formulation developed supra by means
+of a mainstream linear solver
+III NUMERICAL EXAMPLE AND DISCUSSION
+We consider a numerical example where a product family
+consists of three product variants P The
+maximal allowable cost and time for producing each product
+variant are as follows Cl Tl
+and Each product variant has two routing
+alternatives the routing sets for each product variant are de
+noted by Rp RPI for p The routing graphs
+G Qpi Api are included in Appendix A The set of operations
+for producing the product family includes operations in
+total some of which are the same Most operations can be
+implemented by different sets of manufacturing resources
+leading to specific operations modes and the corresponding
+durations and costs Some modes for identical operations for
+different products are also the same Further details are given
+in the appendix
+The linear formulation contains variables all binary
+in total for the example instance and constraints It was
+solved by Gurobi Solver called from Python
+The experiment was run on a Dell OptiPlex with an
+Intel Core processor and GB of RAM running
+Ubuntu LTS The instance was solved in less than
+seconds this indicates that the runtime for any instance
+of comparable size will be negligible The optimal production
+similarity equals With the current values for Cp and
+Tp none of the budget and time constraints and is
+binding so the optimal objective value would equal
+even if constraints were simply removed
+Figure examines the optimal production similarity for the
+example instance as a function of the upper bounds on cost
+and time In detail the right hand sides of the constraints
+for all three products in Equation respectively are
+simultaneously decreased by the value on the horizontal axis
+in the plot in Figure respectively Figure We observe
+that the optimal production similarity remains constant until
+one of the constraints becomes binding after which there is
+a steady decrease until the constraints become too restrictive
+to admit a feasible solution which is where the plots end
+The plot for the durations displays a similar pattern This
+implies that restrictive budgets and limits on processing times
+Authorized licensed use limited to Amrita School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+E
+e
+E
+Proceedings of the IEEE IEEM
+may launch product family members one by one In the future
+therefore we intend to extend the model by taking into account
+this situation From a more theoretical point of view we have
+only shown NP hardness in the ordinary sense although we
+suspect that the problem can also be shown to be strongly
+NP hard In this regard showing either strong NP hardness or
+developing a pseudo polynomial time algorithm is a subject
+for future work as well Finally due to the complexity status
+of the problem when the instances to be solved are of larger
+size then it may be necessary to resort to heuristic procedures
+e g metaheuristics to produce high quality solutions within
+reasonable runtimes
+cost decrease
+a
+time decrease
+b
+REFERENCES
+D Borenstein and J L Becker State space representation of manufac
+turing operation plans in the presence of flexible routing capability
+International Journal of Computer Integrated Manufacturing vol
+no pp
+M R Garey and D S Johnson Computers and Intractability A Guide to
+the Theory of NP Completeness W H Freeman and Company
+L Zhang Process platform based production configuration for mass
+customization PhD dissertation School of Mechanical Aerospace
+Engineering Nanyang Technological University Singapore
+L Zhang and B Rodrigues A tree unification approach to constructing
+generic processes IIE Transactions vol no pp
+L Zhang Q Xu Y Yu and J Jiao Domain based production config
+uration with constraint satisfaction International Journal of Production
+Research vol no pp
+APPENDIX A
+FULL DATA FOR THE NUMERICAL EXAMPLE
+Fig Evolution of production similarity
+in process planning reduce the production similarity thus
+leading to more production changeovers being incurred on the
+shop floors
+I V CONCLUSION
+This paper has introduced an optimization model to as
+sist companies in planning production processes for diverse
+customized products such that production efficiency can be
+achieved by maintaining production as stable as possible
+We have considered not only routing and manufacturing
+resource similarities but also production time and cost The
+optimization problem at hand turns out to be NP hard and
+we have therefore employed a commercial solver to solve a
+linear formulation of the problem We have reported our results
+for a numerical example which demonstrates that our model
+can provide decision making support in planning production
+processes for product families
+The optimization model has been developed by considering
+the situation where all customized products belonging to a
+family are launched at the same time In practice companies
+The routing graphs for the example instance of Section III
+are depicted in Figure A I The operations set contains
+operations where the following subsets contain identical op
+erations
+Operation modes and their costs and processing times are
+given in Table A l each operation occurrence has at most two
+different modes Each product routing operation mode combi
+nation is referred to via a unique identifier o pikl for product p
+routing Rpi k th operation I th mode
+Identical operations modes are grouped into one set in the
+following list
+Authorized licensed use limited to Amrita School Of Engineering Kollam Dowryo ed on January at UTC from IEEE Xplore Restrictions apply
+Oils
+Proceedings of the IEEE IEEM
+TABLE A I
+COSTS AND PROCESSING TIMES FOR ALL OPERATIONS MODES
+s
+IS
+a Routing RII
+b Routing
+Fig
+c Routing
+d Routing
+e Routing
+f Routing
+A I Routing information for the example instance
+Authorized licensed use limited to Amrita School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+of
+ealth care
+Taiwanese Journal of Obstetrics Gynecology
+Contents lists available at ScienceDirect
+Taiwanese Journal of Obstetrics Gynecology
+journal homepage
+www tjog online com
+trics
+Check for
+update
+Short Communication
+Short tandem repeats genotyping of gestational choriocarcinoma
+our experiences
+Lajos Gergely
+Vanda Repiska
+Robert Petrovic Miroslav Korbel
+Jozef Sufliarsky d e Michaela Kubickova d e Helena Gbelcova
+a
+Ludovit Danihel
+Petra Priscakova
+a Institute of Medical Biology Genetics and Clinical Genetics Faculty of Medicine Comenius University Bratislava Bratislava Slovakia
+b
+Department of Obstetrics and Gynaecology Faculty of Medicine Comenius University Bratislava Bratislava Slovakia
+c Institute of Pathological Anatomy Faculty of Medicine Comenius University Bratislava Bratislava Slovakia
+d Centre for Gestational Trophoblastic Disease of Slovak Republic Bratislava Slovakia
+e Department of Oncology Faculty of Medicine Comenius University Bratislava National Cancer Institute Bratislava Slovakia
+ARTICLE INFO
+Article history
+Accepted October
+Keywords
+Microsatellite repeats
+DNA
+Choriocarcinoma
+Gestational trophoblastic disease
+Introduction
+ABSTRACT
+Objective This short communication demonstrates how short tandem repeat genotyping can identify
+the origin of gestational choriocarcinoma
+Materials and methods The origin of gestational choriocarcinoma in our three cases was determined
+using the short tandem repeats genotyping technique which involved quantitative fluorescent PCR and
+fragmentation analysis
+Results In Case despite no medical history of molar pregnancy DNA analysis indicated that the
+choriocarcinoma originated from a homozygous complete hydatidiform mole We conclude that the
+patient s complete abortion years prior to the choriocarcinoma diagnosis was an undiagnosed com
+plete hydatidiform mole In Case and Case the clinically presumed origin of choriocarcinoma was
+confirmed
+Conclusion Determining the origin of choriocarcinoma is essential for clinical application as it affects
+the FIGO scoring system for gestational trophoblastic neoplasia which determines the patient s prog
+nosis and treatment approach
+Taiwan Association of Obstetrics Gynecology Publishing services by Elsevier B V This is an
+open access article under the CC BY license http creativecommons org licenses by O
+Gestational choriocarcinoma is a rare aggressive malignancy
+with high metastatic potential Its origin is linked to previous
+pregnancies approximately of cases originate from molar
+pregnancies from abortion or ectopic pregnancy and
+from births While the antecedent pregnancy was tradition
+ally assumed to be the origin of gestational choriocarcinoma mo
+lecular genetic studies have shown that this is not always true
+Corresponding author Institute of Medical Biology Genetics and Clinical Ge
+netics Faculty of Medicine Comenius University Bratislava Sasinkova
+Bratislava Slovakia
+E mail addresses
+lajos gergely fmed uniba sk
+L Gergely
+vanda repiska
+fmed uniba sk
+V Repiska
+robert petrovic fmed uniba sk R Petrovic
+miroslav
+korbel gmail com M Korbel ludovit danihel fmed uniba sk L Danihel jozef
+sufliarsky nou sk
+J Sufliarsky michaela kubickova nou sk
+M Kubickova
+helena gbelcova fmed uniba sk
+H Gbelcova
+petra priscakova fmed uniba sk
+P Priscakova
+https doi org j tjog
+Determining the origin of the malignancy is essential for clinical
+application as it affects the FIGO scoring system for gestational
+trophoblastic neoplasia which determines the patient s prognosis
+and treatment approach Supplemental Table Patients with lower
+scores or less are considered low risk and treated with mono
+chemotherapy while those with higher scores more than are
+considered high risk and require polychemotherapy A patient who
+had an abortion years ago and a birth months ago and develops
+gestational choriocarcinoma will receive a score of or based on
+the Antecedent pregnancy and Interval months from end of in
+dex pregnancy to treatment criteria depending on the causative
+pregnancy of the tumor Molecular diagnostics can also distin
+guish between metastases of gestational choriocarcinoma and non
+gestational choriocarcinoma a germ cell tumor that has similar
+characteristics but is less responsive to chemotherapy and requires
+distinct management In this report we present three cases of
+choriocarcinoma to emphasize the importance of determining the
+origin of the malignancy in determining the patient s prognostic
+score and subsequent treatment Overall the mortality rate for
+Taiwan Association of Obstetrics Gynecology Publishing services by Elsevier B V This is an open access article under the CC BY license http
+creativecommons org licenses by O
+L Gergely V Repiska R Petrovic et al
+choriocarcinoma is currently low because of its high chemo
+sensitivity
+Materials and methods
+The origin of gestational choriocarcinoma in our three cases was
+determined using the Short Tandem Repeats STR genotyping
+technique which involved Quantitative Fluorescent PCR QF PCR
+and fragmentation analysis Blood saliva and tissues from paraffin
+blocks were used for DNA isolation with QIAGEN kits QF PCR was
+performed using the GenePrint System Promega and Devyser
+Extend Devyser commercial kits Capillary electrophoresis was
+performed on ABI Prism and ABI Prism Genetic
+Analyzer The recommended DNA concentration in reaction of
+samples isolated from formalin fixed paraffin embedded tissue
+were adjusted increased because of poor quality of DNA and
+fragmentation The GeneMapperTM Software was used to
+analyze the data
+To interpret the obtained data two main tasks need to be per
+formed First the genome composition needs to be determined by
+Taiwanese Journal of Obstetrics Gynecology
+comparing the STR allelic profiles of the choriocarcinoma and the
+patient which allows the identification of the type of pregnancy
+that gave rise to the cancer Abnormal genome compositions are
+characteristic of molar pregnancies with complete hydatidiform
+moles typically having two sets of paternal chromosomes Fig la
+and c and partial hydatidiform moles having two sets of paternal
+and one set of maternal chromosomes However biparental com
+plete hydatidiform mole can have a physiological genome compo
+sition which is a potential pitfall Non gestational choriocarcinoma
+lacks identifiable paternal allelic sets Table
+Matching the choriocarcinoma with a specific pregnancy based
+on genetic analysis is important for determining both the type of
+pregnancy that gave rise to the tumor and the time interval be
+tween the end of the index pregnancy and treatment as illustrated
+b and c
+in
+Fig
+Results
+DNA analysis of presented gestational choriocarcinoma was
+performed in the years and in the Centre for Gestational
+a
+b
+CSFi
+CSFIPO
+c
+Patient
+ChCa
+Patient
+ChCa
+Patient
+Mts
+Infant
+Fig Identification of the origin of gestational choriocarcinoma using short tandem repeat genotyping
+In this context because gestational choriocarcinoma originates from a product of conception alleles not present in the patient mother are evaluated as paternal nonmaternal
+a Gestational choriocarcinoma originating from monospermic homozygous androgenetic complete hydatidiform mole Electrophoretograms of the patient DNA isolated from
+unfixed fresh frozen myometrium and the choriocarcinoma ChCa DNA isolated from unfixed fresh frozen tumor Asterisks indicate alleles of loci proving the absence of
+maternal chromosomes in the nuclear genome of the tumor All loci of the choriocarcinoma contain only one STR allele what suggest monospermic complete mole
+b Gestational choriocarcinoma originating from a pregnancy ended up with birth Electrophoretograms of the patient DNA isolated from peripheral blood the choriocarcinoma
+ChCa DNA isolated from paraffine block and the infant DNA isolated from saliva STR allelic profiles of the choriocarcinoma and the infant are identical proving the origin of the
+tumor In the tumor tissue characteristic vascular space invasion and necrosis can lead to a certain amount of contamination with maternal blood what can be seen on electro
+phoretograms as minor maternal spikes Taken together with the DNA fragmentation caused by formalin fixation allelic imbalances may occur
+c Gestational choriocarcinoma originating from dispermic heterozygous androgenetic complete hydatidiform mole Electrophoretograms of the patient DNA isolated from
+peripheral blood the complete hydatidiform mole CHM DNA isolated from microdissection of formalin fixed paraffin embedded chorionic villi and the vaginal excision with
+the metastasis of gestational choriocarcinoma Mts isolated from formalin fixed paraffin embedded tissue Asterisks indicate alleles of loci proving the absence of maternal
+chromosomes in the nuclear genome of the mole Loci of the mole contain two different paternal allelic sets suggesting dispermic complete mole In the mole the ratio of the X
+and Y alleles of the Amelogenin AMEL locus points out that the gonosomal complement is most probably XY but XXYY cannot be excluded In the VWA locus of the mole CHM
+the same allele was in both copies inherited from the father This can be the result of either the homozygosity of the father for this concrete allele or the same allele was inherited
+from both sperms The metastasis Mts specimen represents a mixture of tumor cells and the healthy cells of the patient because tumor cells invaded the surrounding tissues
+extensively
+L Gergely V Repiska R Petrovic et al
+Table
+Determining the type of the causative pregnancy of gestational choriocarcinoma
+based on genome composition source Tidy et al
+Type of the causative
+pregnancy
+Androgenetic complete
+mole
+Partial mole
+Biparental complete
+mole
+Abortion Ectopic
+pregnancy Birth
+Non gestational
+choriocarcinoma
+Genome composition
+Diandric agynic diploid
+Diandric monogynic
+triploid
+Monogynic
+monoandric diploid
+Monogynic
+monoandric diploid
+eventually aneuploid or
+digynic monoandric
+triploid
+QF PCR results
+allelic ratios
+Only paternal
+paternal
+maternal
+paternal
+maternal
+paternal
+maternal
+eventually other
+changes on locuses
+Alleles identical
+with the patient
+Trophoblastic Disease of Slovak Republic Clinical characteristics of
+the patients are as follows
+Case
+A year old patient with a history of an incomplete
+abortion years ago a live birth years ago and a complete
+miscarriage years ago presented with heavy bleeding after
+months of amenorrhea A choriocarcinoma was detected from a
+curettage specimen and further investigation revealed a cm tu
+mor in the myometrium suggesting choriocarcinoma The patient
+underwent a hysterectomy with bilateral salpingo oophorectomy
+and DNA was isolated from the unfixed tissue of the myometrium
+and the tumor DNA analysis showed that the tumor choriocar
+cinoma had an androgenetic composition of the genome was ho
+mozygous in all examined loci and had a gonosome complement
+XX indicating that it originated from a homozygous mono
+spermic complete hydatidiform mole The patient s complete
+abortion years prior to the choriocarcinoma diagnosis was found
+to be an undiagnosed complete hydatidiform mole with a long
+interval to malignant transformation
+a However histo
+Fig
+pathological examination was not performed for the third preg
+nancy and serum human chorionic gonadotropin levels were not
+monitored
+Case
+A year old patient GI PI presented with bleeding two
+months after giving birth to a live born boy Curettage was per
+formed and gestational choriocarcinoma was detected based on
+ultrasound suspicion and histopathology DNA was extracted from
+the patient s peripheral blood microdissected formalin fixed
+paraffin embedded tumor tissue and the infant s saliva DNA anal
+ysis revealed a biparental genome composition of the tumor and
+identical STR allelic profiles in the tumor and infant confirming the
+origin of gestational choriocarcinoma in the pregnancy ended up
+with birth of a live born boy Fig
+Case
+A year old patient developed a bleeding vaginal
+metastasis from gestational choriocarcinoma two weeks after the
+evacuation of a complete hydatidiform mole DNA was extracted
+from the patient s peripheral blood formalin fixed paraffin
+embedded chorionic villi of the complete hydatidiform mole and
+formalin fixed paraffin embedded vaginal excision with metastatic
+choriocarcinoma confirmed by histology According to DNA
+Taiwanese Journal of Obstetrics Gynecology
+analysis the complete hydatidiform mole was proved to be dis
+permic with gonosomal complement X Y In the vaginal excision
+with the metastasis of choriocarcinoma mixed STR alleles of the
+mole and the patient were detected proving the origin of gesta
+tional choriocarcinoma in the above mentioned mole Fig lc
+Discussion
+STR genotyping can provide clinically significant information for
+gestational choriocarcinoma cases
+Genetic analysis revealed misdiagnosed complete hydatidiform
+mole in Case The patient got point less in the FIGO scoring
+system Supplemental Table what did not change the stratification
+of the patient in this particular case she stayed in the high risk
+group
+In Case the gestational choriocarcinoma originated from a
+term birth and genetic analysis was crucial in excluding any un
+recognized pregnancies In Case a metastatic gestational
+choriocarcinoma developed just two weeks after the evacuation
+because of the malignant transformation of a dispermic complete
+hydatidiform mole highlighting the highly aggressive nature of
+these lesions
+According to a study recently published by Jung et al copy
+neutral loss of heterozygosity CN LOH and copy number al
+terations CNAs are key molecular characteristics in gestational
+choriocarcinomas arising from complete hydatidiform moles
+CN LOH occurs in homozygous monospermic complete hyda
+tidiform moles on a whole genome level because of the dupli
+cation of a haploid set of chromosomes in one sperm like in our
+Case The CN LOH pattern seen in heterozygous dispermic
+complete hydatidiform moles is typically segmental what is
+attributable to two independent meiotic events of the two
+sperms fertilizing the ovum like in our Case According to the
+above mentioned study malignant transformation of complete
+moles into choriocarcinoma may happen by the accumulation of
+CNAs
+Using STR genotyping is possible to differentiate between
+monospermic homozygous and dispermic heterozygous com
+plete moles Finding out whether the complete mole is heterozy
+gous or homozygous in clinical practice only points to a higher risk
+of malignancy in the case of a heterozygous complete mole but
+does not predict malignancy The close follow up of the hCG tumor
+marker and the patient s clinical condition remains crucial
+According to the FIGO scoring system the source of choriocar
+cinoma is the antecedent last pregnancy DNA analysis can reveal
+that this was not the case and that the choriocarcinoma did not
+come from the last pregnancy but from the previous one This can
+change the scoring system the number of points not only for the
+pregnancy preceding choriocarcinoma but also for the interval from
+the antecedent pregnancy Ultimately this can change the patient
+stratification from low risk to high risk or vice versa which also
+changes the chemotherapeutic approach monochemotherapy
+polychemotherapy
+In summary STR genotyping is an efficient and accurate method
+for identifying the origin of both gestational and non gestational
+choriocarcinoma Fresh frozen tissue is the preferred sample type
+but formalin fixed paraffin embedded samples are also acceptable
+The genotypes of the patient tumor and previous pregnancies are
+compared to determine the type and time interval from the end of
+the index pregnancy both of which are important for prognosis and
+treatment It s worth noting that the last pregnancy may not always
+be the source of gestational choriocarcinoma and occult non
+diagnosed molar nonmolar pregnancies can also contribute to
+this malignancy According to our experiences the described
+molecular diagnostic method is economically manageable costs
+L Gergely V Repiska R Petrovic et al
+approximately as other standard laboratory diagnostic methods in
+Slovakia In clinical practice identifying the origin of choriocarci
+noma can change the FIGO score and optimize the chemotherapy
+regimen
+Ethics approval statement
+We confirm that all published data has been anonymized in
+accordance with ethical standards Prior to conducting genetic
+analysis and publishing the results informed consent was obtained
+from the patients
+Declaration of competing interest
+The authors declare no conflict of interests
+Acknowledgements
+Funded by the Ministry of Education Science Research and
+Sport of the Slovak Republic through grant VEGA We
+would like to express our gratitude to our laboratory technicians
+Dagmar Brigita and Alena for their
+invaluable assistance and cooperation
+Taiwanese Journal of Obstetrics Gynecology
+Appendix A Supplementary data
+Supplementary data to this article can be found online at
+https doi org j tjog
+References
+Korbel M Sufliarsky J Danihel L Niznanska Z Results of treatment of gesta
+tional trophoblastic neoplasia in the Slovak Republic in the years
+Ceska Gynekol In Slovak English abstract
+Mao TL Kurman RJ Huang CC Lin MC Shih I Immunohistochemistry of
+choriocarcinoma an aid in differential diagnosis and in elucidating patho
+genesis Am J surg Pathol
+Lurain JR Gestational trophoblastic disease I epidemiology pathology clinical
+presentation and diagnosis of gestational trophoblastic disease and manage
+ment of hydatidiform mole Am J Obstet Gynecol
+Zhang X Yan K Chen J Xie X Using short tandem repeat analysis for chorio
+carcinoma diagnosis a case series Diagn Pathol
+Jung SH Choi Y Kim MS Park HC Han MR Hur sy et al Distinct genomic
+profiles of gestational choriocarcinoma a unique cancer of pregnant tissues
+Exp Mol Med
+Tidy J Seckl M Hancock BW On behalf of the royal college of obstetricians and
+gynaecologists Management of gestational trophoblastic disease BJOG
+Accessed June
+Zheng XZ Qin xy Chen SW wang P Zhan Y Zhong PP et al Heterozygous
+dispermic complete mole confers a significantly higher risk for post molar
+gestational trophoblastic disease Mod Pathol
+Midwifery
+Contents lists available at ScienceDirect
+Midwifery
+journal homepage www elsevier com locate midw
+ELSEVIER
+Research Article
+Midwifery
+Check for
+u dat
+Men s involvement in family planning programs and associated factors
+from the perspective of women in Afghanistan a case study
+Hamidreza Shabanikiyaa Azizollah Darman Vahid Ghavami C Javad Moghria
+Mehdi Varmaghania Javad Javan Noughabia Fatemeh KokabiSaghid
+a Department of Management Sciences and Health Economics School of Health Mashhad University of Medical Sciences Mashhad Iran
+b Herat Hospital Herat Afghanistan
+c Department of Biostatistics School of Health Mashhad University of Medical Sciences Mashhad Iran
+ARTICLE
+Article history
+IN
+Received July
+Revised October
+Accepted December
+Keywords
+Sexual and reproductive health
+Family planning
+Right to health
+Afghanistan
+Introduction
+ABSTRACT
+Objectives Family planning is a cornerstone to the achievement of Sustainable Development Goals How
+ever men s involvement in family planning has been a challenge in many countries This study aimed to
+investigate the participation of men in the family planning programs and related factors from the per
+spective of women referring to family planning organizations in Herat Afghanistan
+Methods The study had a cross sectional design The participants of the study consisted of married
+women aged years selected by simple random sampling The data collection tool was a valid and
+reliable questionnaire to assess the participation of men in family planning programs To analyze the data
+descriptive statistics and analytical methods including Mann Whitney and Pearson Chi Square tests were
+applied in SPSS The answers to the open end questions were analyzed coded and classified in two
+main categories
+Results The average age of study participants was years and a significant proportion of them
+were illiterate Most of the participants were housewives and their husbands were non
+professional workers The husbands participated in family planning programs by choosing the
+type of contraception provision of contraceptives and supporting their wives using them
+There were statistically significant relationships between women s and their husband s education
+level and husband s employment status with the type of participation in family planning The main in
+centives for Afghan men to participate family planning were the increased attention of families to the
+education and needs of children and the health and welfare of the wives However cultural norms sup
+porting larger families the desire for having boy children the fear of contraception s side effects and
+religious prohibitions discourage them in using family planning methods
+Conclusion A large number of the respondents stated that their spouse participated in family planning
+programs It shows the importance and success of family planning centers in promoting sexual and re
+productive health and family planning Study showed that various factors affected men s participation in
+family planning programs Recognition of these factors can help policy makers in designing behavioral
+interventions based on social marketing and enhancing the effectiveness of these programs
+One of the most important areas of population policies is hu
+man reproduction Family planning has been a part of most socio
+economic development plans around the world in recent years
+Keshavarz et al It has been used by policy makers in mak
+ing a balance between population
+size and development require
+Abbreviation FP Family Planning
+Corresponding author at Daneshgah St no Mashhad Iran
+E mail address
+kokabisf mums ac ir F
+KokabiSaghi
+https doi org j midw
+Elsevier Ltd All rights reserved
+Elsevier Ltd All rights reserved
+ments Hence family planning has other advantages that should
+not be overlooked It improves the health of mothers and children
+and prevents the transmission of Sexually Transmitted Diseases
+STDs Several international human rights and health treaties in
+cluding the International Covenant on Economic Social and Cul
+tural Rights the Convention on the Rights of the Child
+and the Convention on the Elimination of All Forms of Discrim
+ination against Women addressed family planning and the
+right to sexual and reproductive health Sexual health is a state
+of physical emotional mental and social well being in relation to
+sexuality and reproductive health means the capability to repro
+H Shabanikiya A Darman V Ghavami et al
+duce and the freedom to make informed free and responsible de
+cisions
+Family planning helps people to make in
+WHO
+formed choices about the number of children and the timing and
+spacing of pregnancies They help preventing unintended pregnan
+Cies and the need for abortion WHO
+The International Conference on Population and Development
+Cairo addressed this important issue According to this con
+ference sexual and reproductive health programs should have a
+couple oriented approach and not only focus on women but also
+persuade men to fulfill their responsibilities Men by having im
+portant roles in the family and society can be the determinants
+of family planning programs success Simbar and helpful
+in the promotion of women and children s health Simbar et al
+In this conference the concept of men s participation was
+defined as supporting the wife in receiving pregnancy care fam
+ily planning and preserving sexual and reproductive health In fact
+the participation of men means fulfilling their responsibilities in
+supporting the spouse to deal with the diffculties of sexual life
+childbearing and choosing and using contraception methods WHO
+So far most family planning activities and studies have fo
+cused on women and little attention has been paid to the role of
+men
+Chigozie and Messias Davis et al
+Afghanistan is located within South and Central Asia With per
+capita GDP of this country is ranked as a low income
+country World Bank Annual population growth rate of
+Afghanistan was in Wold Bank The effective
+and successful implementation of family planning programs can
+play an important role in the country s sustainable development
+Starbird et al and as mentioned this will not happen with
+out the participation of men and women Studying men s partici
+pation and related factors is essential for planning and implement
+ing interventions to improve the level and quality of participation
+Considering the cultural context of Afghanistan and the predomi
+nance of men s decisions in the family and the fact that according
+to the Afghanistan s law polygamy is allowed Monsutti It
+is especially important to involve them in the use of contraceptive
+methods According to Shafiqollah et al the awareness of Afghans
+about contraceptive methods is satisfactory but the contraceptive
+prevalence is low Shafiqullah et al There is a knowledge
+gap about men s participation in family planning programs in this
+country The purpose of this study was to investigate the partici
+pation of men in family planning programs from the perspective of
+women in Afghanistan
+Methods
+This study has a cross sectional design The study population
+included married women aged years who referred to the
+clinics of Marie Stopes Institute in Herat city of Afghanistan in
+Herat is the capital city of Herat province located in the west
+of Afghanistan With a population of people in this
+city was the fourth populated city in Afghanistan World Popula
+tion Review Marie Stopes is a foreign NGO providing fam
+ily planning and contraceptive services in Afghanistan It has two
+clinics in Herat The population of the city has acceptable access to
+these two clinics
+Zwi et al
+Based on the following formula due to the lack of similar stud
+ies regarding the participation rate of men in the family planning
+program in Afghanistan the participation rate p of has been
+taken into account which by considering the first type error a of
+the power of the test as and the accuracy d as
+the sample size was estimated to be
+Midwifery
+Considering that the number of referrals to two clinics of Marie
+Stopes Institute was almost equal the sample was se
+lected equally from each clinic Sampling was done in four differ
+ent weeks in four different months It was performed in all days
+of each week and in three different times per day including early
+working hours of the clinics samples mid hours samples
+and the end of working hours samples Each time samples
+were selected randomly according to the order of their arrival at
+the clinic
+To collect data a questionnaire which had been made and used
+in a similar study by Pouransary et al was used Pouransary et al
+The mentioned study aimed to determine the use of differ
+ent methods of contraception among women of Iranshahr a dis
+trict in southeast of Iran near the border of Iran Afghanistan and
+the rate of their husbands participation in family planning The
+validity of the questionnaire was confirmed according to the opin
+ions of experts by calculating the content validity ratio CVR
+The reliability of the questionnaire was examined by the test retest
+method in a pilot study on samples with a week interval be
+tween the two tests According to the calculated intraclass corre
+lation coeffcient ICC of the reliability of the questionnaire
+was confirmed Pouransary et al Because the offcial lan
+guage of both countries Iran and Afghanistan was the same there
+was no need for translating the questionnaire and only terminol
+ogy edit was done by a person who was familiar with two dialects
+of Persian Farsi and Dari However in order to ensure the con
+tent validity of the questionnaire in the context of Afghanistan the
+questionnaire was assessed and approved by a number of Afghan
+experts in reproductive health and family planning programs
+The questionnaire consisted of three parts In the first part de
+mographic characteristics of the women participating in the study
+and their spouses were asked The second part consisted of two
+questions In the first question each participant was asked about
+the status of her spouse s participation in family planning in the
+form of a four choice question Lack of any cooperation Se
+lection and cooperation in choosing the method of contraception
+Preparation of contraceptives Supporting and reminding the
+correct and effective use of the method In this case the respon
+dents could choose more than one answer In the second question
+the participants were asked to indicate their satisfaction with the
+contraception method in a four choice Likert scale very satisfied
+relatively satisfied neither agree nor disagree relatively
+dissatisfied and dissatisfied The third part of the ques
+tionnaire was about what encourages and discourages Afghan men
+to participate in family planning
+To analyze the data descriptive statistical methods including
+percentage and mean as well as analytical methods including
+Mann Whitney and Pearson Chi square tests were used Data anal
+ysis was performed using SPSS software version Moreover the
+answers to open end questions were analyzed coded and classified
+in two main categories
+Results
+In the study of Afghan men s participation in family planning
+programs from the perceptive of their wives response rate was
+n Demographic characteristics of participants and
+their spouses are shown in Table According to this table spouses
+were on average years older than their wives Nearly half of par
+ticipants were illiterate The proportion of spouses with academic
+degrees was about twice that of female participants On average
+men were more educated than women
+Frequency distribution of different types of men s participation
+in family planning programs is presented in Table As shown in
+this table only seven percent of participants reported that their
+spouses did not have any kind of participation in family plan
+H Shabanikiya A Darman V Ghavami et al
+Table
+Demographic characteristics of study participants and their spouses
+Midwifery
+Demographic
+variables
+Age
+Level of
+education
+Spouse
+Mean SD
+Illiterate
+Primary school
+High school
+University
+Total
+Participant
+Mean SD
+Household
+Mean SD
+Income per month USD
+Number of children
+Table
+Frequency distribution of different types of participation among the spouses
+Type of participation
+Participation
+Choosing the method of contraception
+Preparing the contraceptives
+Supporting and reminding
+Yes
+No
+Total
+ning program Supporting and reminding were the most frequent
+types of participation and preparing the contraception was the
+least frequent type
+Results of the relationship test between the status of hus
+bands participation and demographic variables are presented in
+Table
+According to this table the mean age of respondents
+whose spouses did not participate in family programs was sig
+nificantly p O higher than the age of respondents whose
+spouses participated In addition the mean age of not participat
+ing spouses in family programs was significantly p higher
+than the age of those who participated Household s income of re
+spondents whose spouses did not participate in family programs
+was significantly p lower than the other group Also the
+number of children in families that spouses did not participate
+Table
+in family planning was significantly p higher than that of
+participants whose spouses participated
+Results of Table
+indicates a significant difference between the
+respondents level of education and male participation in family
+planning programs The ratio of participation among spouses of
+those who had high school or academic education was higher than
+other groups illiterate or primary school education this pattern
+was also observed in studying the relationship between the sta
+tus of spouses participation and their level of education The ratio
+of participation among spouses who had high levels of education
+high school or academic was greater than illiterate spouses or the
+ones with primary school education
+The average score of the satisfaction with the contraception
+method used was Ninety four percent n of par
+ticipants declared that they were very or relatively satisfied with
+the contraception method used Only percent n were dis
+satisfied in some ways
+Results of the test of relationship between participation types
+and the satisfaction of the wives with the contraception method
+used is presented in Table According to this table respondents
+whose spouses participated in family planning program were sig
+nificantly p O more satisfied than those whose spouses did
+not participate Also there was a significant p relationship
+between supporting and reminding the use of contraceptives
+Results of the test of relationship between the status of husbands participation in family planning and demographic variables
+Demographic variables
+Age of participant
+Age of spouse
+Household s income
+Number of children
+Level of education
+of the participant
+Level of education
+of the spouse
+Participation
+Yes
+Mean
+No
+Mean
+Illiterate
+Primary school
+High school
+University
+Illiterate
+Primary school
+High school
+University
+Test result
+Statistics p
+Mann Whitney Test
+Pearson Chi Square Test
+H Shabanikiya A Darman V Ghavami et al
+Table
+Results of the test of relationship between participation types of spouses and the
+satisfaction of study participants
+Type of participation
+Participation
+Choosing the method
+Preparing the
+contraception
+Supporting and
+reminding
+Mann Whitney Test
+Score of satisfact

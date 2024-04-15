@@ -1,0 +1,1359 @@
+authors If possi
+ble we used SAS v SAS Institute Inc Cary NC USA to calculate
+the PPR and CIs for studies that did not report measures of
+effect The overall strength and consistency of associations and evi
+dence for a temporal relation in which exposure clearly proceeded
+outcome were used to assess the evidence for causality and to make
+recommendations for future studies Hill
+Results and discussion
+We evaluated peer reviewed studies that addressed drinking
+water iAs and birth weight Table nine studies that captured
+gestational age
+and five studies that addressed birth size
+Table
+Table Many studies captured multiple endpoints and most were
+conducted among populations residing in the so called arsenic
+endemic regions of India Bangladesh China and Taiwan where
+drinking water iAs contamination is high widespread and well
+known
+Epidemiologic studies in South Asia
+India
+Approximately persons residing in the West Bengal
+region of the Ganga Plain in eastern India may be at risk for expo
+sure to iAs in ground water at levels of pg L Nordstrom
+Large scale contamination also occurs in other Ganga Plain
+India locales including Bihar Chakraborti et al Yet only
+three published cross sectional studies assessed the impact on
+birth outcomes in India This work was completed in the context
+of large drinking water surveys conducted in the West Bengal and
+Bihar regions where women employed sources contaminated by
+pg L iAs to as much as pg L iAs
+In a small study of Bihari women reporting pregnancies
+increased LBW PPR
+and PD
+Table
+PPR
+Table were associated with the
+use of wells contaminated by pg L iAs Chakraborti et al
+In contrast no associations PPR and respec
+tively were reported in a small follow up study of Bengali
+Table
+Epidemiologic studies evaluating drinking water arsenic exposure and birth weight
+OR
+OR I
+k
+Authors
+Chakraborti et al
+Chakraborti et al
+Mukherjee et al
+Ahamed et al
+Kwok et al
+Huyck et al
+Rahman et al
+Myers et al
+Yang et al
+Xu et al
+Guan et al
+Chou et al
+Shirai et al
+Hopenhayn et al
+Gelmann et al
+Vall et al
+Locale
+India
+India
+India
+Bangladesh
+Bangladesh
+Bangladesh
+Bangladesh
+China
+Taiwan
+China
+China
+Taiwan
+Japan
+Chile
+Romania
+Spain
+Design
+Cross sectional
+Cross sectional
+Cross sectional
+Cross sectional
+Cross sectional
+Prospective
+Prospective
+Cross sectional
+Prospective
+Cross sectional
+Cross sectional
+Prospective
+Prospective
+Prospective
+Cross sectional
+Cross sectional
+Sample size
+b
+e
+f
+Endpoint
+BW g
+BW g
+BW g
+BW g
+BW g
+BW g
+BW g
+BW g
+BW g
+Exposed group pg L a
+unit
+unit
+unit
+log unit
+unit
+unit
+unit
+unit
+n
+q
+Reference group pg L a
+g
+g
+j
+j
+m
+m
+Antofagasta n o
+Valparaiso n
+n
+O IOCI
+Effect estimate
+PPR
+PPR
+c
+PPR
+c
+PPR c
+OR
+k
+OR I
+NE
+NE
+c
+NE d
+c
+c
+c
+NE
+NE
+P o
+P O
+Adjusted
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+Note Effect estimates with P in italics F slope of linear regression line mean difference NE no effect
+a Arsenic concentrations in water unless otherwise noted b pregnancies in women c prevalence proportion ratio PPR and confidence interval CI calculated based on data presented in the paper d number of events
+and pregnancies used to calculate prevalence proportions not reported and so we were unable to generate the confidence interval but authors reported no change e pregnancies in women f pregnancies in women
+g maternal hair at prenatal visit pg g maternal toenails at prenatal visit gg g specific gravity adjusted maternal urine maternal blood k among male newborns I among newborns weeks gestational age
+or g m pg g maternal urine creatinine n standard deviation pg L maternal urine P difference between groups q ng g newborn meconium
+Table
+Epidemiologic studies evaluating drinking water arsenic exposure and gestational age preterm delivery
+PPR
+OR
+OR I IO
+p
+OR
+Authors
+Chakraborti et al
+Chakraborti et al
+Mukherjee et al
+Ahamed et al
+Ahmad et al
+Myers et al
+Yang et al
+xu et al
+Vail et al
+Locale
+India
+India
+India
+Bangladesh
+Bangladesh
+China
+Taiwan
+China
+Spain
+Design
+Cross sectional
+Cross sectional
+Cross sectional
+Cross sectional
+Cross Sectional
+Cross sectional
+Prospective
+Cross sectional
+Cross sectional
+Sample size
+b
+e
+f
+g
+Endpoint
+weeks gestation
+weeks gestation
+weeks gestation
+weeks gestation
+weeks gestation
+weeks gestation
+weeks gestation
+Gestational age weeks
+Gestational age weeks
+Exposed group pg L a
+log unit
+Reference group gg L a
+h
+o
+Effect estimate
+PPR
+c
+PPR
+PPR c
+c
+c
+NE d
+c
+c
+P O
+P O
+Adjusted
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+No
+Note Effect estimates with in italics B slope of linear regression line NE no effect
+a Arsenic concentrations in water unless otherwise noted b pregnancies in women c prevalence proportion ratio PPR and confidence interval CI calculated based on data presented in the paper d number of events
+and pregnancies used to calculate prevalence proportions not reported and so we were unable to generate the confidence interval e pregnancies in women f pregnancies in women g pregnancies in women
+h
+maternal blood I among male newborns j ng g newborn meconium
+Table
+Epidemiologic studies of drinking water arsenic exposure and birth size
+Authors
+Rahman et al
+Guan et al
+Chou et al
+Shirai et al
+Vail et al
+Locale
+Bangladesh
+China
+Taiwan
+Japan
+Spain
+Design
+Prospective
+Cross sectional
+Prospective
+Prospective
+Cross sectional
+Sample size
+Endpoint mm
+b
+Head circ
+b
+Chest circ
+Length b
+Head circ
+Chest circ
+Length
+Head circ
+Chest circ
+Length
+Head circ
+Length
+Head circ
+Length
+Exposed group a
+unit
+unit
+unit
+unit
+Reference group a
+oo
+for length C
+d
+e
+e
+O
+Effect estimate
+OR
+OR
+NE
+NE
+f
+f
+f
+NE
+NE
+P O
+P
+Adjusted
+Yes
+Yes
+Yes
+Yes
+No
+Note Effect estimates with in italics slope of linear regression line circ circumference NE no effect
+a Arsenic concentrations in pg g creatinine maternal urine unless otherwise noted b among women with pg L urine inorganic arsenic c specific gravity adjusted maternal urine gg L d umbilical cord blood pg L e
+maternal blood pg L f among newborns weeks gestational age or grams g ng g meconium
+M S Bloom et al International Journal of Hygiene and Environmental Health
+At the prenatal health care visit investigators collected mater
+nal hair and toenail specimens for total arsenic analysis and also
+a residential drinking water sample Median drinking water iAs
+exposure was low pg L but of mothers were exposed
+to pg L A gg g increase in the level of total mater
+nal hair arsenic was associated with a g decrease in birth
+weight CI adjusted for gestational age at
+the st prenatal visit activity level and maternal weight gain during
+pregnancy and gestational age at delivery
+Yet maternal
+Table
+hair arsenic was not correlated to drinking water iAs concen
+tration r P O IO and no associations were indicated for
+drinking water iAs Modestly elevated adjusted odds ratios were
+also reported for total arsenic in maternal hair OR
+Cl O and toenails OR Cl O at the
+prenatal visit and birth weight g although not of statis
+tical significance Hair and toenails reflect long term exposure but
+their validity and reliability have been questioned as biomarkers
+of exposure given concerns with respect to contamination from
+exogenous sources such as iAs in bathing water and contributions
+from innocuous organic species in dietary sources such seafood
+Marchiset Ferlay et al These limitations appeared less rel
+evant to toenails across a spectrum of exposure levels Karagas
+et al Mandal et al Slotnick et al No signif
+icant birth weight associations were detected using a second set
+of postnatal specimens Although prospective and with collection
+of both biologic and environmental media the small sample size
+and inconsistent results across exposure metrics undermines the
+impact of the positive result
+A much larger prospective study was conducted on
+Bangladeshi women with singleton pregnancies and participating
+in an ongoing maternal and infant nutrition intervention study
+Rahman et al Urine specimens were collected from moth
+ers at eight and weeks gestation Birth outcomes were assessed
+using records stored by local health centers and augmented by
+home visits The median range for urine iAs and its metabolites
+was pg L Statistical models including a product term
+for urine iAs dichotomized at pg L and adjusted for mater
+nal BMI and socioeconomic status indicated several associations
+among women exposed to iAs pg L urine but not for women
+exposed to iAs pg L urine A pg L increase in averaged urine
+iAs values was associated with a
+Table birth weight decrease a mm head cir
+P O
+cumference decrease P Table a
+mm chest circumference decrease CI
+and a birth length decrease
+Table
+Table although the latter not statis
+P O
+tically significant This prospective study involved a large number
+of participants with biologic measures averaging exposure across
+early and late gestation to accommodate changes in water source
+or dietary exposures in addition to adjusting for a comprehen
+Sive panel of confounding variables Effects were observed only for
+women with lower iAs exposures raising the possibility of a com
+peting pregnancy loss risk at higher exposures or an enhancing of
+birth weight at iAs pg L by chance only
+Epidemiologic studies in East Asia
+China and Taiwan
+Up to individuals residing in Inner Mongolia China
+and residing in Taiwan are at risk for exposure to to
+pg L iAs and pg L iAs respectively in contaminated
+drinking water sources Nordstrom Yet we identified only
+one cross sectional study of birth outcomes in an arsenic endemic
+region of Inner Mongolia and one prospective cohort study of birth
+outcomes conducted in an arsenic endemic region of Taiwan Two
+additional cross sectional studies were conducted in China and one
+in Taiwan in areas without recognized groundwater iAs contami
+nation
+A large cross sectional investigation conducted in Inner
+Mongolia assessed singleton deliveries in women using
+maternal and newborn health records stored by local clinics Myers
+et al
+This area is known for groundwater iAs contamina
+tion and the investigators sampled water from wells suspected
+of contamination Term infants born to mothers consuming water
+contaminated by IOO pg L iAs were g heavier CI
+on average than those born to mothers consuming water with
+pg L adjusted for prenatal care Table No association was
+detected for PD OR Cl
+Exposure
+Table
+was assigned as the average sub village well iAs concentration
+which is likely to have misclassified exposure for some women
+An exposure validation substudy conducted among cor
+roborates the likelihood In fact the investigators were unable to
+link more than half of the women to exposure data as they were
+presumed to employ uncontaminated wells Women without expo
+sure data were more likely to be primigravid and to have received
+adequate prenatal care and so a bias may have been introduced
+Again limiting the birth weight analysis to full term deliveries may
+have introduced a collider stratification or over adjustment bias as
+described earlier
+A very large prospective study conducted in northeastern
+Taiwan captured more than primiparous singleton deliver
+ies
+Yang et al Using registry data investigators compared
+birth weights and gestational age at delivery between women
+residing in areas with pg L groundwater iAs contamination
+and women residing in an area free from groundwa
+ter iAs contamination matched by degree of urbanization Term
+infants delivered to women residing in the exposed area weighed
+g Cl
+Table less on aver
+age adjusted for maternal age newborn sex marital status and
+education In addition exposed women had higher odds for PD
+OR Cl o
+although the effect was
+Table
+modest and not of statistical significance Though the sample size
+was large the ecologic exposure assessment i e exposed vs
+unexposed is expected to have introduced exposure measure
+ment misclassification error into the study results Despite what
+was likely to be a consequent bias toward the null hypothesis
+the authors identified a small but statistically significant decrease
+in birth weight suggesting that the true underlying effect may
+in fact be larger than that reported Still regional comparisons
+might reflect sociodemographic differences between groups and
+although the authors matched by a village urbanization index and
+adjusted their analysis for years of formal education residual con
+founding remains a possibility
+Two additional cross sectional studies were conducted in areas
+of China without recognized groundwater iAs contamination In
+one investigators recruited and interviewed women with sin
+gleton pregnancies receiving prenatal care at one of two Shanghai
+City hospitals Xu et al Total arsenic was measured in mater
+nal blood mean pg L range and umbilical cord
+blood mean gg L range at the time of deliv
+ery Among male newborns a ten fold increase in the maternal
+arsenic level was associated with a g decrease in birth
+weight CI
+Table adjusted for maternal
+height and gestational age and also with a days decrease
+in gestational age CI Table Yet no associa
+tions were detected for female newborns In another study
+women were recruited from a primary delivery center in Dalian
+City
+Guan et al Total arsenic was measured in maternal
+blood collected upon admission for delivery median pg L
+range and umbilical cord blood collected prior to passage
+of the placenta median pg L range Women with
+delivery at weeks gestation or birth weight birth
+M S Bloom et al International Journal of Hygiene and Environmental Health
+defects and multiple gestations or severe illnesses were excluded
+n A pg L increase in maternal blood arsenic was associ
+ated with a g decrease in birth weight CI
+Table adjusted for maternal BMI and gestational age
+P O
+at delivery a CI O
+Table
+decrease in newborn chest circumference adjusted for maternal
+BMI and gestational age at delivery and with a
+CI decrease in birth length adjusted for
+maternal BMI gestational age at delivery and newborn sex In addi
+tion a pg L increase in umbilical cord arsenic was associated with
+a mm CI P decrease in neonatal
+head circumference adjusted for maternal BMI and gestational age
+at delivery
+Though the authors of these cross sectional studies employed
+hospital delivery records and biomarkers of exposure the use of
+total blood arsenic raises concern Guan et al Xu et al
+Total blood arsenic incorporates both iAs as well as the compara
+tively non toxic organic arsenic species Akter et al to which
+humans are exposed when consuming seafood Le et al
+Navas Acien et al This approach is likely to misclassify
+exposure in particular for frequent seafood consumers
+Marchiset
+Ferlay et al and might introduce positive confounding
+by reproductive toxicants also found in seafood Bushkin Bedient
+and Carpenter such as persistent organohalogen pollu
+tants or mercury Wigle et al driving associations away
+from the null hypothesis In contrast confounding by benefi
+Cial agents in seafood such as n fatty acids et al
+are anticipated to negatively confound associations toward
+the null hypothesis Furthermore arsenic is cleared from the
+blood in a few hours and therefore is not recommended as a
+biomarker for exposure particularly at low levels of exposure
+ATSDR
+A large prospective cohort study was conducted on
+women with uncomplicated singleton pregnancies and attending
+an obstetrics clinic in an area of central Taiwan without groundwa
+ter iAs contamination Chou et al Women were interviewed
+to capture reproductive and medical histories and urine speci
+mens were also collected during the trimester for analysis
+of iAs and its metabolites Mean gg g creatinine tile
+tile O No association was detected for maternal
+iAs exposure and LBW OR CI P
+Table Odds were increased for head circumference mm
+OR Cl
+Table and chest cir
+cumference OR Cl o P
+although confidence intervals were wide In contrast
+Table
+the odds were reduced for birth length OR O
+again with a wide confidence
+CI O OI
+Table
+interval The authors adjusted for maternal age cigarette smok
+ing alcohol consumption and newborn sex Although the sample
+size was substantial of the participants were lost to follow
+up which may or may not have biased study results contingent
+on the iAs birth outcomes association in that group data were
+not available to compare characteristics for the two Furthermore
+spot urine samples collected in the trimester of pregnancy
+may not represent the biologically effective dose at critical win
+dows of vulnerability Buck Louis et al as iAs has a half life
+of approximately h ATSDR and metabolic efficiency
+appears to improve during pregnancy Concha et al Gardner
+et al Such mistimed specimen collection is expected to bias
+study results toward the null hypothesis
+Japan
+An additional prospective cohort study was conducted in Tokyo
+Japan a non arsenic endemic area Shirai et al The authors
+recruited pregnant women receiving prenatal care in gestational
+weeks from a single hospital and determined total arsenic in
+spot urine specimens The geometric mean was gg g creati
+nine range The authors did not specify the effects
+of arsenic exposure but reported that there were no associations
+with birth weight
+head circumference or birth length
+Table
+Table adjusted for maternal age and BMI cigarette smoking
+and gestational age at delivery Though prospective in nature and
+with person level exposure assessment as well as adjustment for
+confounding variables this small study was likely underpowered to
+detect associations given the low levels of exposure Furthermore
+the use of a total arsenic biomarker in a population of frequent
+seafood consumers coupled to the timing of urine collection for
+some participants predisposed the results to the aforementioned
+biases and confounding by additional related reproductive toxi
+cants
+Epidemiologic studies in South America and Europe
+Chile
+Prior to the implementation of drinking water iAs mitigation
+technologies in the approximately individuals were
+exposed to pg L IAS in Chile Nordstrom although
+the population currently at risk is difficult to ascertain Bundschuh
+We identified one prospective cohort study conducted
+et al
+in an arsenic endemic region of northern Chile
+Employing the public health care system in Chile pregnant
+women were recruited to a prospective study during prenatal
+care visits at weeks gestation Hopenhayn et al
+Women had resided for a minimum of months in the city of
+Antofagasta which was supplied by water sources contaminated by
+gg L iAs or in the city of Valparaiso which was supplied
+by comparatively uncontaminated water sources pg L
+iAs The average urine total iAs concentration was approximately
+fold higher among women residing in Antofagasta pg L
+than in Valparaiso gg L A non significant g CI
+decrease in newborn birth weight was reported per pg L
+increase in maternal urine iAs Table Compared by city of resi
+dence average birth weights were g CI lower
+for Antofagasta neonates compared to Valparaiso neonates and
+g lower when restricted to infants with
+weeks completed gestation at delivery although not of statisti
+cal significance The authors adjusted for maternal age BMI height
+and parity cigarette smoking gestational age at delivery cigarette
+smoking household income prenatal care and newborn sex The
+ecologic exposure assignment strategy suggested a decreased birth
+weight in association with higher maternal drinking water iAs
+but the results were not statistically significant and the individual
+exposure assessment approach indicated no association however
+the direction of the effect estimates was consistent Collection of
+biospecimens later in pregnancy was likely to have introduced
+exposure measurement misclassification into the study results
+with an ensuing bias toward the null hypothesis and thus might
+account for the non significant birth weight decrease However
+the sample size was large outcomes were abstracted from clinical
+records and confounding variables were considered
+Romania and Spain
+Approximately people are exposed to as much as
+gg L iAs in Hungary and western Romania and more than
+Spaniards are likely exposed to up to pg L iAs
+Nordstrom We identified one cross sectional study con
+ducted in an arsenic endemic region of western Romania While
+we found one study conducted on the Spanish Tenerife Island this
+area is not known for groundwater iAs contamination
+A recent cross sectional study described women residing
+in Arad County Romania with uncomplicated full term single
+ton deliveries in the previous years and having resided in the
+M S Bloom et al International Journal of Hygiene and Environmental Health
+same locale for at least years Gelmann et al
+Women
+were recruited from four villages with known drinking ground
+water iAs contamination IO pg L and four villages accessing
+uncontaminated water sources pg L Data were captured by
+personal interview and drinking water urine and toenail specimens
+were collected Although no association was reported for drinking
+water iAs and birth weight Table women with a LBW delivery
+were significantly more likely to have had the sum of
+urine iAs and its metabolites pg L compared to women
+with a normal birth weight delivery Ratios of iAs metabo
+lites in urine methylarsonate MMA and dimethylarsinate DMA
+were used to identify women with higher and lower rates of iAs
+metabolism Vahter and Concha Yet these were not associ
+ated with birth weight nor were toenail iAs The results suggested
+that mothers with a history of LBW were less likely to partition iAs
+internally than mothers without LBW and that factors in addition to
+metabolism may designate women to higher risk for adverse birth
+outcomes in association with iAs exposure Gelmann et al
+However the small sample size was unlikely to be sufficiently pow
+ered to detect subtle differences in drinking water iAs in particular
+at the low levels measured in this study The comparisons were
+not adjusted for confounding variables although bivariate anal
+ysis suggested that the groups were mostly similar in terms of
+sociodemographic factors and health related behaviors Still the
+cross sectional nature of this study precludes temporality coupled
+to the short half life of iAs which as noted earlier introduces poten
+tial exposure measurement misclassification error especially for
+older deliveries
+Another recent cross sectional study conducted in Tenerife
+Spain described women and their newborns with mater
+nal completion of a structured questionnaire and collection of
+meconium from newborn diapers with total arsenic analysis
+Vail
+et al
+Arsenic was detected in meconium specimens
+ng g presumably representing cumulative exposure
+starting in the week of gestation Babies n with
+detectable arsenic were heavier on average than those
+without P
+Table although gestational ages n
+were similar
+Yet meconium arsenic concen
+Table
+tration was unrelated to reported maternal drinking water source
+P As noted above for populations with low drinking water
+iAs exposure and high rates of seafood consumption total arsenic
+most likely reflects dietary exposure to the innocuous organic
+arsenic species Furthermore the latter likely results in confound
+ing by additional unmeasured agents found in seafood that may
+have positively or negatively confounded the associations
+Synthesis
+Whereas the evidence from animal and in vitro studies provides
+sufficient biologic plausibility for iAs as a reproductive toxicant
+the evidence from the epidemiologic literature is inconsistent
+We noted wide variation in the quality and rigor of the stud
+ies reviewed particularly in terms of sample size study design
+exposure assessment strategies and adjustment for confounding
+Furthermore differences exist in populations studied in terms of
+residence in IAS or non iAs endemic regions and thus the extent of
+exposure through consumption of contaminated drinking water
+Exposure to iAs decreased birth weight in some studies
+Chakraborti et al Guan et al Huyck et al Xu
+et al including in two large high quality prospective inves
+tigations Rahman et al Yang et al A decrease was
+suggested although not detected in another large and high quality
+prospective study Hopenhayn et al In contrast no effect
+or an increase in birth weight was reported in several other studies
+Ahamed et al Chakraborti et al Chou et al
+Gelmann et al Mukherjee et al Shirai et al
+Vail et al
+including two large cross sectional studies of high
+quality
+Kwok et al Myers et al Based on our review
+of the literature we conclude that insufficient epidemiologic evi
+dence exists to corroborate an increase in LBW as a clinical outcome
+However there exists limited evidence for a continuous decrease
+in birth weight across the distribution but also some evidence for
+an increase with iAs
+Very few studies detected associations between gestational
+age and drinking water iAs with only two reports of significant
+decreases reported from cross sectional investigations Ahmad
+et al xu et al
+In contrast two very large studies
+conducted in arsenic endemic areas one cross sectional Myers
+et al
+and one prospective Yang et al reported no
+association for drinking water iAs and gestational age in popula
+tions with exposure to drinking water sources contaminated by
+well over pg L iAs Based on our review of the epidemiologic
+evidence published to date we conclude that insufficient evidence
+exists for a causal association between drinking water iAs exposure
+and gestational age However as the number of studies capturing
+gestational age was limited a potential association cannot be ruled
+out
+Few investigations incorporated measures of birth size as
+study endpoints A large well conducted prospective cohort study
+reported significantly decreased head and chest circumference
+with a borderline significant decrease in birth length among
+infants delivered to mothers residing in an iAs endemic region
+of Bangladesh Rahman et al and significant decreases
+for head circumference chest circumference and birth length
+were reported from a small cross sectional study conducted in a
+non iAs endemic region of China Guan et al Three addi
+tional studies did not report significant cross sectional associations
+among populations residing in non iAs endemic regions However
+the effect estimates for one study were quite strong although
+imprecise Chou et al no effect estimates were reported
+for another Shirai et al and exposure assessment issues
+limit the interpretability of the results from the third Vall et al
+Therefore we suggest there that minimal evidence exists for
+a causal association between maternal drinking water iAs exposure
+and reduced birth size
+Recommendations
+Several salient methodologic issues limit the studies we
+reviewed herein and might account at least in part for the inconsis
+tency ofthe reported results or likewise have biased results toward
+the null hypothesis and obscured associations However investi
+gations of populations exposed to high levels of drinking water
+iAs were often conducted in underdeveloped regions introduc
+ing practical and financial limitations into study designs Still it
+seems constructive to discuss issues for consideration in future
+study design to more conclusively assess risks In addition to the
+methodologic limitations raised earlier variable susceptibility to
+iAs toxicity dietary sources of iAs exposure and paternal effects
+may also be important Consideration of these issues will require
+attention to further clarify the impact of drinking water iAs expo
+sure in future investigation of birth weight and birth size
+Vulnerability to the toxic effects of iAs varies substantially
+between pregnant women independent of gestational length Li
+et al
+and overlooking this issue may overshadow or oth
+erwise bias associations between maternal iAs exposure and birth
+outcomes Several factors including polymorphisms in the
+and MTHFR genes Lindberg et al and nutritional status
+for folate glutathione and methionine Vahter impact the
+metabolism of iAs Adjustment for maternal BMI or height can
+M S Bloom et al International Journal of Hygiene and Environmental Health
+Wigle D T Arbuckle T E Turner M c Berube A Yang Q Lili S Krewski D
+Epidemiologic evidence of relationships between reproductive and child health
+outcomes and environmental chemical contaminants J Environ Sci Health B
+Crit Rev
+wu M M Chiou H Y Ho l c Chen c J Lee T c
+Gene expression of inflam
+matory molecules in circulating lymphocytes from arsenic exposed human
+subjects Environ Health Perspect
+Xu L Yokoyama K Tian Y Piao F Y Kitamura F Kida H Wang P
+Decrease
+in birth weight and gestational age by arsenic among the newborn in Shanghai
+China Nihon Koshu Eisei Zasshi
+Xu W Bao H Liu F Liu L Zhu Y G She J Dong S cai M Li L Li C Shen
+Environmental exposure to arsenic may reduce human semen quality
+H
+associations derived from a Chinese cross sectional study Environ Health
+Yang c Y Chang C C Tsai S S Chuang H Y Ho c K wu T N
+Arsenic in
+drinking water and adverse pregnancy outcome in an arseniasis endemic area
+in northeastern Taiwan Environ Res
+Zirakjavanmard M Kaul J M Paul S
+Embryotoxicity of sodium arsenate in
+mouse Int J Med Toxicol Legal Med
+Zota A R Ettinger A S Bouchard M Amarasiriwardena C J Schwartz J Hu H
+Wright R o
+Maternal blood manganese levels and infant birth weight
+Epidemiology
+Update
+International Journal of Hygiene and Environmental Health
+Volume Issue August Page
+DOI https doi orq i iiheh
+International Journal of Hygiene and Environmental Health
+Contents lists available at ScienceDirect
+International Journal of Hygiene and
+Environmental Health
+journal homepage
+www elsevier com locate ijheh
+ELSEVIER
+Corrigendum
+International Journal
+of Hygiene and
+Environmental Health
+CrossMark
+Corrigendum to Maternal arsenic exposure and birth outcomes
+A comprehensive review of the epidemiologic literature focused
+on drinking water
+Int J Hyg Environ Health
+Michael S Blooma b Simona Surdua Iulia A Neamtiuc Eugen S Gurzau
+c d
+a Department of Environmental Health Sciences University at Albany State University of New York Rensselaer NY USA
+b Department of Epidemiology and Biostatistics University at Albany State University of New York Rensselaer NY USA
+c Environmental Health Center Cluj Napoca Romania
+d University of Medicine and Pharmacy Iuliu Hatieganu Cluj Napoca Romania
+The authors would like to let the readers know that this work was supported by Grant from the National Institute
+of Environmental Health Sciences NIEHS The content is solely the responsibility of the authors and does not necessarily represent the
+official views of the NIEHS or the NIH The NIEHS played no role in the study design in the collection analysis and interpretation of data
+in the writing of the report or in the decision to submit this article for publication
+The authors would like to apologise for any inconvenience caused
+DOI of original article http dx doi org l O j ijheh
+Corresponding author at Department of Environmental Health Sciences University at Albany School of Public Health Rm Rensselaer NY USA
+Tel fax
+E mail address mbloom albany edu M S Bloom
+http dx doi org j ijheh
+Elsevier GmbH All rights reserved
+z
+OPINIONS IDEAS PRACTICE
+Rapid Population Based Surveillance
+of Prenatal and Postpartum
+Experiences During Public Health
+Emergencies Puerto Rico
+Beatriz Salvesen von Essen MPH Denise V D Angelo MPH Holly B Shulman MA Wanda Virella MPH
+Katherine Kortsmit PhD MPH Beatriz Rios Herrera MPH Patricia Garcia Diaz PhD Aspy Taraporewalla MS
+Leslie Harrison MPH Lee Warner PhD MPH and Manuel Vargas Berna MD MPH
+The Pregnancy Risk Assessment Monitoring System Zika Postpartum Emergency Response study
+implemented in Puerto Rico during the Zika virus outbreak and after Hurricanes Irma and
+Maria collected pregnancy related data using postpartum hospital based surveys and
+telephone follow up surveys Response rates of or more were observed across five study surveys
+The study informed programs increased the Puerto Rico Department of Health s capacity to conduct
+maternal infant health surveillance and demonstrated the effectiveness of this methodology for
+collecting data during public health emergencies Am Public Health https
+doi org AJPH
+n the Puerto Rico Department
+of Health PRDH and the Centers for
+Disease Control and Prevention imple
+mented the Pregnancy Risk Assessment
+Monitoring System Zika Postpartum
+Emergency Response PRAMS ZPER
+study to address the urgent need for
+data on Zika virus infection Zika
+INTERVENTION
+The study initially assessed Zika related
+experiences and behaviors during
+pregnancy and later expanded to
+examine paternal involvement during
+pregnancy and the impact of Hurri
+canes Irma and Maria on access to
+maternal and infant health services We
+describe the study methodology which
+may be leveraged to rapidly respond to
+public health emergencies that affect
+maternal infant health
+PLACE AND TIME
+The PRAMS ZPER study was imple
+mented in Puerto Rico during the Zika
+outbreak and after Hurri
+canes Irma and Marfa The
+two phase study included hospital based
+surveys conducted after delivery and
+telephone follow up surveys conducted
+three to nine months postpartum Phase
+was fielded from August to June
+and phase from November
+to April Phase repeated the
+phase maternal surveys hospital
+based and telephone follow up and
+added an in hospital paternal survey and
+educational component Tables and
+PERSON
+For both phases women who had a
+live born infant in selected hospitals
+and met eligibility criteria could partici
+pate For phase the paternal survey
+could be completed by the father of the
+sampled woman s live born infant or by
+the woman s partner including same
+sex partners El gibility for the infants
+fathers or mothers partners was
+based on the mother being sampled
+not on her participation in the survey
+After completing the in hospital sur
+vey in phase sampled mothers and
+infants fathers or mothers partners
+were offered the educational compo
+nent Interested family members e g
+grandparents were allowed to listen to
+the educational component if allowed
+by the participants
+PURPOSE
+In February PRDH declared a
+public health emergency because of
+Notes from the Field
+Salvesen von Essen et al
+OPINIONS IDEAS PRACTICE
+TABLE
+Study Methodology Outcomes and Resources for the In Hospital Surveys of the
+Pregnancy Risk Assessment Monitoring System Zika Postpartum Emergency Response PRAMS ZPER
+Study Puerto Rico
+Data collection dates
+Participating hospitals
+Target population
+Sampling
+Eligibility criteria
+Sample size
+Survey length time
+Response rate
+Mode of completionc
+Gift for participation
+Personnel and study support
+Core staff
+Hospital field staff
+In kind support
+Phase
+August to December days
+hospitals
+Women who were residents of Puerto Rico and had a
+live birth during the study period
+Island wide probability sampling stratified by health
+regions using hospital specific sampling schedules
+to identify eligible women
+Live birth on a sampled day in of the participating
+hospitals resident of Puerto Rico and able to
+complete the survey in English or Spanish
+Women
+Maternal survey questions approximately
+minutes to complete
+Maternal survey n
+Paper or electronic tablet
+Calendar of baby s first year
+Crib mosquito net
+Mosquito repellent for mothers of deceased infants
+project coordinator
+hospital data collectors
+Puerto Rico PRAMS Coordinator Puerto Rico
+Department of Health Demographic Registry and
+Division of Maternal Child and Adolescent Health
+personnel
+Phase
+November to December daysp
+hospitals
+Women who were residents of Puerto Rico and had a
+live birth during the study period
+Island wide probability sampling using hospital specific
+sampling schedules to identify eligible women and
+fathersb
+Live birth on a sampled day in of the participating
+hospitals resident of Puerto Rico and able to
+complete the survey in English or Spanish
+Women
+Fathers partners
+Maternal survey questions approximately
+minutes to complete
+Paternal surveyb questions approximately
+minutes to complete
+Maternal survey n
+Paternal survey n
+Maternal paper or tablet
+Paternal paper or tablet
+Calendar of baby s first year
+Crib mosquito net
+Mosquito repellent for mothers of deceased infants
+Educational component materials booklets brochures
+notepad and pen
+project coordinator
+data manager
+hospital data collectors
+regional leaders
+Puerto Rico PRAMS Coordinator Puerto Rico
+Department of Health Demographic Registry and
+Division of Maternal Child and Adolescent Health
+personnel
+almplementation of the phase in hospital survey was planned to begin in September Project implementation was delayed and shortened to
+days in phase compared with days in phase because of the loss of infrastructure in the aftermath of Hurricanes Irma September and
+Maria September
+bThe PRAMS ZPER paternal partner survey could be completed by the infant s biological father the mother s same sex partner or men who were not
+the infant s biological father but were identified by the sampled mother as their current partner at the time of the in hospital survey
+CDuring phase in hospital surveys were mainly self administered on paper because of delays in the availability of the tablets the electronic tablet
+mode was made available to respondents several weeks after data collection started
+the active transmission of Zika in
+Puerto Rico Between and
+nearly pregnant women were
+reported to have Zika I which can
+cause microcephaly and other birth
+defects in infants born to women
+infected during pregnancy Thus there
+was an urgent need to gather
+information on Zika related experien
+ces and behaviors during pregnancy
+Although PRDH declared the end of the
+Zika outbreak in June Zika sur
+veillance continued administrative
+orders remained in place for continued
+testing of pregnant women and use of
+protective measures were still
+recommended during pregnancy
+Phase allowed continued assessment
+of maternal behaviors and added the
+paternal perspective Implementation
+of the telephone follow up surveys pro
+vided an opportunity to address new
+data needs as the outbreak progressed
+while also allowing assessment of
+Notes from the Field
+Salvesen von Essen et al
+z
+OPINIONS IDEAS PRACTICE
+TABLE
+Study Methodology Outcomes and Resources for the Telephone Follow Up Surveys of the
+Pregnancy Risk Assessment Monitoring System Zika Postpartum Emergency Response PRAMS ZPER
+Study Puerto Rico
+Data collection datesa
+Data collection mode
+Sampling
+Sample
+Survey length time
+Response rate
+Gift for participation
+Personnel and study support
+telephone interviewers
+Phase
+May to July days
+Phone only
+Proportional random sample of in hospital survey
+respondents with a positive match to Demographic
+Registrys birth certificate data AND all women with
+evidence of Zika virus infection during pregnancy i e
+self reported on phase hospital survey or indicated
+on infant s birth certificate
+Women
+Maternal survey questions approximately minutes
+to complete
+n
+Packet with condoms mosquito repellent and
+educational materials
+telephone interviewers
+Phase
+February to April days
+Phone only
+All respondents to the maternal in hospital survey with a
+positive match to Demographic Registrys birth
+certificate data
+Women
+Maternal survey questions approximately minutes
+to complete
+n
+Packet with condoms mosquito repellent and
+educational materials
+telephone interviewers
+z
+a The telephone follow up surveys gathered supplemental data to address emerging data needs identified as the Zika outbreak progressed The phase
+telephone follow up survey was implemented approximately months after birth because of time needed to identify gaps develop surveys and
+protocols and obtain necessary approvals Streamlining of methods during phase allowed for implementation of the telephone follow up survey
+approximately months after birth
+maternal and infant postpartum health
+and behaviors that could not be
+assessed at the time of delivery
+The landfall of Hurricanes Irma and
+Marfa posed new chal enges to pregnant
+and postpartum women The PRAMS
+ZPER study was in a unique position to
+collect data about experiences in the
+aftermath of the disaster and was lever
+aged for that purpose by including
+hurricane related questions The
+in hosp tal data collection also allowed
+PRDH to incorporate an educational
+component to reinforce public health
+messaging for postpartum women and
+families
+IMPLEMENTATION
+Data from Puerto Rico s Demographic
+Registry were used to identify hospitals
+Sampling hospitals were selected
+based on the number of births during
+the previous year Hospitals with or
+more births in were eligible for
+participation during phase and hos
+pitals with or more births in
+were eligible for participation during
+phase PRDH contacted selected
+hospitals to complete the study s
+participation agreement In phase
+all eligible hospitals participated
+representing of live births on
+the island during the sampling period
+In phase of eligible hospitals
+participated representing of
+births For this phase one hospital
+declined participation and three hospi
+tals were not included because their
+maternity wards were closed after Hur
+ricane Marfa
+For phase the sampling design was
+stratified by the island s eight health
+regions Regional oversampling was not
+performed for phase because of the
+shortened data collection timeframe
+after the hurricanes Table For both
+phases probability sampling was used
+to identify the sampling days in each
+hospital All eligible women with a live
+birth on sampled days were invited to
+participate
+For phase study personnel
+approached women or hours
+after vaginal or cesarean section deliv
+ery respectively Approximately
+women were identified to have been
+discharged before they could be invited
+to participate For phase women
+were approached soon after delivery
+because of the likelihood of early dis
+charge e g hours after the hurri
+cane For phase we were unable to
+assess the number of women who
+were discharged before being con
+tacted by study personnel In hospital
+surveys were self administered on
+paper or electronic tablets with most
+completed on tablets during
+Notes from the Field
+Salvesen von Essen et al
+phase For phase most
+surveys were completed on paper
+because of delays in tablet availability
+For the paternal survey fathers were
+approached soon after the birth and
+before maternal discharge For all sur
+veys respondents received a small gift
+for their participation Table and
+Respondents characteristics are shown
+in Table A available as a supp ement to
+the online version of this article at
+http www ajph org
+After completing the in hospital sur
+vey in phase participants were
+offered the educational component
+which included a minute interactive
+flip chart presentation addressing post
+partum health newborn care and Zika
+prevention Supplemental educational
+materials on breastfeeding infant care
+postpartum care and mental health
+and CDC s Developmental Milestones
+booklet were integrated into the pre
+sentation A notepad and pen were
+provided to participants to write down
+any questions that the study staff were
+unable to answer for later follow up
+with hospital staff
+After completing the in hospital data
+collection PRDH performed a determin
+iStic linkage of samp ed mothers to birth
+certificate records Among respondents
+linkage rates were and for
+phase and respectively Linkage to
+birth certificate data provided contact
+information for telephone follow up
+and allowed inclusion of select birth
+certificate variables Table B available
+as a supplement to the online version
+of this article at http www ajph org in
+analytic data sets Birth certificate data
+were also used for data weighting Data
+were weighted for stratified sampling
+design and to adjust for differential
+nonresponse The standard PRAMS
+protocol proceduress were followed for
+the telephone follow up surveys
+EVALUATION
+Maternal response rates were
+and for the in hospital surveys
+Table l and and for
+the telephone follow up surveys for
+phase and respectively Table
+A response rate of was obtained
+for the paternal survey Table
+Dissemination efforts included a con
+ference for health care professionals
+data analysis training and development
+of fact sheets and journal articles Pub
+lished findings have highlighted topics
+ranging from the use of Zika prevention
+measures during pregnancy to
+assessing men s health and involvement
+during pregnancy Findings have
+informed PRDH activities such as home
+visiting and nurse visiting programs In
+addition data have guided the develop
+ment of educational and hea th promo
+tion materials e g provider s role in
+Zika prevention maternal use of
+protective measures and hurricane
+preparedness
+PRAMS ZPER study data will continue
+to be used to assess the effectiveness
+and reach of Zika emergency response
+activities including implementation of
+clinical testing guidelines efforts to
+increase contraceptive use and receipt
+of Zika related screenings for infants
+ADVERSE EFFECTS
+We have no adverse effects to report
+SUSTAINABILITY
+Implementing the PRAMS ZPER study
+during two types of public health emer
+gencies infectious disease outbreak and
+natural disaster was labor intensive and
+logistically challenging because of evolv
+ing data needs and operational limita
+tions During phase it was necessary
+OPINIONS IDEAS PRACTICE
+to rapidly adapt questionnaires proto
+cols and implementation guidelines
+after the hurricanes However phase
+response rates exceeded the already
+h gh rates obtained in phase by
+decreasing the length of the data collec
+tion period removing wait time require
+ments for contacting mothers providing
+extensive interviewer training imple
+menting a feasibility pilot study including
+staff in project planning and maintaining
+strong col aboration with partners e g
+hospitals Demographic Registry and
+PRDH staff resilience
+PUBLIC HEALTH
+SIGNIFICANCE
+Pregnant women and infants are at
+increased risk for adverse health out
+comes during public health emergen
+Cies because of their unique health
+care and resource needs Given the
+impact of recent public health emer
+gencies e g Zika natural disasters
+COVID on maternal and infant
+health and receipt of health services
+establishment of new data collection
+mechanisms or modification of existing
+surveillance systems for health assess
+ments must be done rapidly PRAMS
+ZPER study operations can be adopted
+by other state local or territorial public
+health departments as part of emer
+gency preparedness planning PRAMS
+ZPER study protocols questionnaires
+data request guidance and materials
+are publicly avai able on the PRAMS
+Web sitell and may be adapted for sur
+veillance studies examining maternal
+and infant health Alpu
+ABOUT THE AUTHORS
+Beatriz Salvesen von Essen IS with the Centers for
+Disease Control and Prevention CDC Founda
+tion Atlanta GA Denise V D Angelo Holly B
+Shulman Katherine Kortsmit Aspy Taraporewal a
+Leslie Harrison and Lee Warner are with the
+CDC Atlanta Wanda Virel a Beatriz
+Notes from the Field
+Salvesen von Essen et al
+z
+z
+OPINIONS IDEAS PRACTICE
+Rios Herrera Patricia Garcia Diaz and Manuel
+Vargas Bernal are with the Division of Maternal
+Child and Adolescent Health in the Puerto Rico
+Department of Health San Juan
+Note The findings and conclusions in this
+report are those of the authors and do not nec
+essarlly represent the official position of the CDC
+the CDC Foundation or the Puerto Rico Depart
+ment of Hea th
+CORRESPONDENCE
+Correspondence should be sent to Beatriz Salve
+sen von Essen Centers for Disease Control and
+Prevention Buford Hwy NE MS
+Chamblee GA e mail cdc gov
+Reprints can be ordered at http www ajph org
+by clicking the Reprints link
+PUBLICATION INFORMATION
+Full Citation Salvesen von Essen B D Angelo DV
+Shulman HB et al Rapid popu atlon based sur
+veillance of prenatal and postpartum experiences
+during public health emergencies Puerto RICO
+Am J Public Health
+Acceptance Date December
+DO https doi org AJPH
+CONTRIBUTORS
+B Sa vesen von Essen D V D Angelo K Kortsmit
+and Warner drafted the article and analyzed
+the data H B Shulman W Virella
+B Rios Herrera P Garcia Diaz A Taraporewalla
+L Harrison and M Vargas Bernal provided signifi
+cant revisions
+ACKNOWLEDGMENTS
+We thank all the personnel in the Division of
+Maternal Child and Adolescent Health and the
+Demographic Registry in the Puerto Rico Depart
+ment of Health We also thank all the participating
+hosp ta s and the Pregnancy Risk Assessment
+Mon toring System Zika Postpartum Emergency
+Response study staff as their participation was
+instrumental throughout the data collection pro
+cess Lastly we are grateful to all the study
+participants
+CONFLICTS OF INTEREST
+The authors have no conflicts of interest to
+disclose
+HUMAN PARTICIPANT
+PROTECTION
+This study was approved by the institutional
+review board of the University of Puerto Rico
+Medical Sciences Campus and the CDC
+REFERENCES
+Puerto Rico Department of Health Arboviral
+reports Available at https www salud gov pr
+CMS DOWNLOAD Accessed November
+Centers for Disease Control and Prevention
+Congenital Zika syndrome other birth defects
+April Available at https www
+cdc gov pregnancy Zika testing follow up Zika
+syndrome birth defects html Accessed Novem
+ber
+Goldschmidt D Puerto Rico declara elfin de a epi
+demia del ziko Puerto Rico declares end of Zika
+epidemic CNN June Available at
+https cnnespanol cnn com puerto
+rico declara el fin de la epidemia del zika
+Accessed November
+Oduyebo T Polen KD Walke HT et al Update
+Interim gu dance for health care providers caring
+for pregnant women with possible Zika virus
+exposure United States including US territo
+ries July MMWR Morb Morto Wkly Rep
+https doi org l O
+mmwr
+Shulman HB D Angelo DV Harrison L et al The
+Pregnancy Risk Assessment Monitoring System
+PRAMS overview of design and methodology
+Am J Public Health
+https doi org AJPH
+D Angelo DV Salvesen von Essen B Lamias MJ
+et al Measures taken to prevent Zika virus
+Infection during pregnancy Puerto Rico
+MMWR Morb Morto Wkly Rep
+https doi org rnmwr
+Salvesen von Essen B Kortsmit K Warner L et al
+Preventing sexual transmission of Zika virus
+Infection during pregnancy Puerto Rico USA
+Emerg Infect Dis
+https doi org
+Kortsmit K Salvesen von Essen B Warner L et al
+Preventing vector borne transmission of Zika
+virus infection during pregnancy Puerto Rico
+USA Emerg nfect Dis
+https doi org
+Salvesen von Essen B Kortsrrmt K D Angelo DV
+et al Opportunities to address men s health dur
+ng the p

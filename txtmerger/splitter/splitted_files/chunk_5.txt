@@ -1,0 +1,901 @@
+from Denver and St Louis
+Am J Health
+Ickovics JR Kershaw TS Westdahl C et al Group
+prenatal care and preterm birth weight results from a
+matched cohort study at public clinics Obstet Gynecol
+Rising S CenteringPregnancy an interdisciplinary
+model of empowerment J Nurse Midwifery
+Ickovics JR Kershaw TS Westdahl C et al
+Group prenatal care and perinatal outcomes a ran
+domized controlled trial Obstet Gynecol
+Bronfenbrenner U Ecological systems theory In
+Vasta R ed Annals of Child Development Greenwich CT
+JAI Press
+Sikkema KJ Kelly JA Winett RA et al Outcomes of
+a randomized community HIV prevention intervention
+for women living in low income housing develop
+ments Am J Public Health
+Malow RM Kershaw T Sipsma H Rosenberg R
+JG HIV preventive interventions for
+RESEARCH AND PRACTICE
+adolescents a look back and ahead Curr HIV AIDS Rep
+Sikkema KJ Heckman TG Kelly JA et al HIV risk
+behaviors among women living in low income inner city
+housing developments Am J Public Health
+Kershaw TS Ethier KA Milan S et al The influence
+of pregnancy STD and HIV susceptibility patterns on
+sexual risk reduction for adolescent females J Community
+Psychol
+Kershaw TS Ethier KA Niccolai LM Lewis JB
+Ickovics JR Misperceived risk among female adolescents
+social and psychological factors associated with sexual
+risk accuracy Health Psychol
+Kershaw TS Niccolai LM Ethier KA Lewis JB
+Ickovi S JR Perceived susceptibility to pregnancy and
+sexually transmitted disease among pregnant and non
+pregnant adolescents J Community Psychol
+Basen Engquist K Masse LC Coyle K et al Validity
+of scales memsuring the psychosocial determinants of
+HIV STD related risk behavior in adolescents Health
+Educ Res
+Raudenbush SW Brennan KA Barnett RC A
+multivariate hierarchical model for studying psychologi
+cal change within married couples J Fam Psychol
+Raudenbush SW Liu X Statistical power and
+optimal design for multisite randomized trials Psychol
+Methods
+Berman SM Hein K Adolescents and STDs In
+Holmes KK Mardh P A Sparling FP et al eds
+Sexually Transmitted Diseases ed New York NY
+McGraw Hill
+El Kamary SS Higman SM Fuddy L McFarlane E
+Sia C Duggan AK Hawaii s healthy stan home visiting
+program determinants and impact of rapid repeat birth
+Pediatrics
+Research and Practice
+Peer Reviewed Kershaw et al
+American Journal of Public Health I November Vol No
+Copyright of American Journal of Public Health is the property of American Public Health Association and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder s
+express written permission However users may print download or email articles for individual use
+Journal of Development Economics
+Contents lists available at ScienceDirect
+Journal of Development Economics
+journal homepage www elsevier com locate devec
+ELSEVIER
+Regular Article
+JOURNAL OF
+Development
+ECONOMICS
+Check for
+Women s use of family planning services An experiment on the husband s
+involvement
+Ben D Exelle a Charlotte Ringdal
+a University of East Anglia United Kingdom
+b Chr Michelsen Institute CMI Norway
+c University of Amsterdam The Netherlands
+d FAIR Norwegian School of Economics Norway
+ARTICLE INFO
+JEL classification
+Keywords
+Household bargaining
+Family planning
+Incomplete information
+Tanzania
+Introduction
+ABSTRACT
+Despite the increased availability of family planning services FPS in low income countries their use remains
+low especially in rural sub Saharan Africa To investigate to what extent this is explained by the husband s
+involvement in the decision process we use an experiment in rural Tanzania in which couples choose between
+two payments one being conditional on attending a family planning meeting at a health center Experimentally
+varying the husband s involvement we find that FPS are more likely chosen in treatments that involve the
+husband Exploring potential mechanisms we show that this is driven by couples where the wife incorrectly
+believes that the husband disapproves of contraceptives We also find that involving the husband increases
+the wife s expectation that the family planning meeting will be attended Both findings suggest that initiating
+communication between spouses could reduce demand constraints
+Family planning FP aims to help couples have their desired num
+ber of children and control the spacing and timing of births This has
+important benefits for couples and their children in low and middle
+income countries LMICs l Large efforts have been made to provide
+family planning services FPS at low costs in LMICs UNFPA
+However women s unmet need for FP remains high in most countries
+in sub Saharan Africa particularly in rural areas UN DESA
+Izugbara et al This lack of progress suggests that important
+constraints remain on the demand side Ashraf et al
+Several field experiments have analyzed whether the low uptake of
+FPS can be explained by the degree of the husband s involvement in the
+decision process but the evidence is mixed First Ashraf et al
+found that involving the husband lowers the uptake of contraceptives
+at a local private health clinic This is in line with the idea that by
+passing the husband could increase women s uptake of contraceptives
+where men want more children and have higher bargaining power
+A pre analysis plan was registered at the Evidence in Governance and Politics registry before we collected the data http egap org registration ThlS
+project received ethics approval from the University of East Anglia on October Acknowledgnents We would like to thank the editor Andrew Foster two
+anonymous reviewers Ingvild Britta Augsburg Alexander Cappelen Pierre Chiappori Ranveig Falch Sandra Halvorsen Bereket Kebede Alistair
+Munro Ingrid Hoem Sjursen Ingvild Skarpeid Erik Bertil Tungodden Arjan Verschoor and Espen Villanger as well as seminar participants at the
+North Conference the AEA Annual Meeting Theem SEEDEC KULeuven UEA UvA Maastricht University FAIR Development
+Workshop and SEHO for valuable feedback at various stages of the project We are grateful to Simon Sichalwe Ramadhan Hashim Denna Michael the
+medical district officer of Misungwi and the team of experimenters in Tanzania for assistance during the fieldwork and MITU NIMR for institutional support We
+acknowledge the financial support of the ESRC DFID United Kingdom grant ES Charlotte Ringdal gratefully acknowledges financial support from
+Sara van Dam Project Grant of the Royal Netherlands Academy of Arts and Sciences and from a European Research Council grant ERC StG and the
+Research Council of Norway through its Centres of Excellence Scheme FAIR project No
+Corresponding author at Chr Michelsen Institute CMI Norway
+E mail addresses
+B DExelle uea ac uk
+B D
+charlotte ringdal cmi no C Ringdal
+Households with more children have less capacity to increase income and accumulate assets and children in such households get a lower share of the scarce
+resources including education healthcare and food Canning and Schultz Low birth spacing may also increase mortality and under nutrition of siblings
+Rutstein
+The WHO defines women with an unmet need for FP as those who are fecund and sexually active but are not using any method of contraception and
+report not wanting any more children or wanting to delay the next child World Health Organization
+https doi org j jdeveco
+Received June Received in revised form June Accepted June
+Available online June
+The Author s Published by Elsevier B V This is an open access article under the CC BY license http creativecommons org licenses by O
+B D and C Ringdal
+than women as is the case in many low income countries Doepke
+and Tertiit World Bank
+Second other studies found a
+positive effect of the husband s involvement Fisek and Sumbuloglu
+Terefe and Larson wang et al McCarthy
+which they attribute to better information about FP a change in men s
+attitudes and better spousal communication about FP
+The conflicting findings of these studies could be due to the different
+stage in the decision process on which they focus Specifically Ashraf
+et al
+gave direct access to free contraceptives and randomized
+the husband s involvement in the decision to take up the offer of
+contraceptives In the other studies the husband s involvement was
+randomized at an earlier stage where couples were provided with
+information about FP in their homes i e before they were offered any
+contraceptives In this paper we will look at an even earlier stage
+whether couples choose to get in touch with the health system to receive
+information about FP
+This decision has not been studied yet and is important for the
+following reasons First in rural areas contraceptives are mostly dis
+tributed through FPS offered at health centers and therefore a decision
+needs to be made to visit a health center Second even though many
+people might already have been in touch with health centers and
+received some information about FP e g as part of post natal care
+knowledge about FP and the continuity of the use of modern contracep
+tives remains low The discontinuation of contraceptives can indicate
+that women are not able to make free and informed decisions when it
+have inaccurate beliefs about
+comes to contraceptives
+the efficacy of contraceptives Miller et al or suffer side effects
+This emphasizes the need for regular visits to the health center to
+ensure that women find a FP method they are satisfied with
+Zimmerman et al
+Third visiting the nearest health center
+in rural areas requires planning due to in most cases substantial
+travel needs and the fact that at most health centers FP meetings
+are organized at fixed times and days This adds a layer of complexity
+caused by the uncertainty that the plan to visit the health center will
+be carried out successfully
+The involvement of the husband at this stage could influence the
+outcome in several ways First spouses could have different preferences
+about FPS caused by factors such as fertility preferences current con
+traceptive use knowledge about FP and time preferences Second they
+might have incomplete information about each other s preferences as
+they tend to have little communication about FP As a result women
+might be reluctant to use FPS if they believe that their husband disap
+proves of them However if the husband actually supports the use of
+FPS involving the husband would increase their use Lasee and Becker
+Third the uncertainty that plans to visit the health center can
+be carried out could create an important barrier for the uptake of FPS
+This could be alleviated if the involvement of the husband reduces this
+uncertainty
+In this paper we investigate whether and why the husband s in
+volvement influences a couple s plan to take up FPS offered at the local
+health center To do so we use data from a lab in the field experiment
+in rural Tanzania in which couples choose between two payments
+one being conditional on attending a FP meeting at a local health
+facility The experiment models the first stage of the FP decision
+making process i e whether to plan to go to the local health facility
+where contraceptives are delivered Couples are randomly allocated to
+one of three treatments where only the wife only the husband or both
+spouses together make the decisions Comparing the decisions made
+across these treatments allows us to analyze the causal effect of the
+husband s involvement
+There are also several qualitative and observational studies that identify
+the husbands lack of involvement as a main barrier for the uptake of
+Lasee and Becker Sharan and Valente
+contraceptives see e g
+Shattuck et al Hartmann et al
+Journal of Development Economics
+We find that involving the husband increases the likelihood that FPS
+are chosen Using a theoretical framework we explore three different
+mechanisms that can explain this result First we do not find evidence
+of the husband having a stronger preference for FPS than the wife
+Second we find that the positive effect of the husband s involvement
+is driven by women who believe that their husband does not approve
+of couples using contraceptives This finding indicates that information
+about spousal preferences is incomplete which makes the effect of
+the husband s involvement dependent on women s beliefs about their
+husband s preferences Finally we also find that the wife is less certain
+about whether the plan to attend a FP meeting will be carried out
+successfully when the husband is not involved in the decision This
+would lower the expected value of the conditional payment when she
+makes the decision alone hence making it less attractive
+Using data collected after the experiment we find that most couples
+who needed to attend a FP meeting to receive a payment attended
+such a meeting without any difference across treatments Furthermore
+once at the FP meeting a majority of couples received contraceptives
+again without any difference across treatments As we will explain in
+more detail both findings provide evidence against a potential social
+desirability bias which might have confounded the treatment effects
+Finally using the treatments as instrumental variables we find that the
+condition to attend a FP meeting significantly increases contraceptive
+use one month after the experiment
+Our paper contributes to two strands of literature First it relates
+to the literature on household bargaining over fertility and contra
+ceptive use Several studies focus on bargaining over the number of
+children to have Klawon and Tiefenthaler Rasul Kim and
+Radoias Hener Doepke and Kindermann
+Some
+experimental studies look at the effect of male involvement on the
+uptake of contraceptives on which they find mixed evidence Fisek and
+Sumbuloglu Terefe and Larson Wang et al Ashraf
+et al McCarthy
+Our study differs from these studies
+in at least two ways We focus on the uptake of FPS offered by the
+existing public health system Moreover we are particularly interested
+in whether the involvement of the husband influences couples plans to
+use FPS
+Second we relate to an emerging literature on incomplete infor
+mation within the household While a growing number of studies
+demonstrates that information asymmetries over income and choice
+set matter for household decision making Castilla and Walker
+Munro et al Hoel Jakiela and Ozier these papers
+remain silent about the potential effect of incomplete information about
+spousal preferences A few studies however do provide evidence of in
+complete information about spousal preferences Bateman and Munro
+Afzal et al
+but remain silent about the consequences this
+might have for household decision making When decisions are made
+individually and without communication between spouses decisions
+are based on beliefs about spousal preferences which might be inaccu
+rate In this paper we demonstrate empirically and theoretically how
+such beliefs can interact with the effect of the husband s involvement
+in household decisions
+The remainder of the article proceeds as follows Section provides
+details of the experimental design Section presents the main results
+and Section explores the mechanisms Section extends the analysis
+by using data on contraceptive use after the experiment Section
+discusses the results and concludes
+Design
+In this section we present the setting and the experimental de
+sign including a description of the experimental tasks treatments
+predictions and how the experiment was implemented
+B D and C Ringdal
+Setting
+We conducted our study in Tanzania which has seen a steady
+increase in the use of contraceptives by women aged from
+in to in TNBS and Macro
+The unmet
+need for FP in contrast has been at around for two decades
+A variety of governmental and non governmental organizations
+have tried to increase the uptake of FPS in the country e g USAID sup
+ported organizations
+Tanzanian policy on FP and
+USAID
+contraceptive use aimed to increase modern contraceptive use to
+by
+United Republic of Tanzania In order to do so one
+of the objectives was to reduce demand side constraints by increasing
+men s acceptability of FP Multiple targets were used of which the most
+important ones include an increase in spousal communication a change
+of harmful gender norms to make FP the responsibility of both men
+and women and a reduction in gender based violence which negatively
+correlates with the use of contraceptives Our focus on the involvement
+of men in the decision making process is very much in line with the
+government s assessment and action plan
+For our study we focus on the Lake zone of Tanzania which has
+the highest unmet need for FP in the country In this region we
+are interested in the rural population where contraceptive use tends
+to be lower TNBS and Macro We selected Misungwi district
+which is located kilometers south of Mwanza city and where ninety
+percent live in rural settlements
+Agriculture is the main
+TNBS
+economic activity in this district followed by livestock keeping small
+scale mining and petty trade of agricultural and livestock products It
+is ethnically very homogenous with most households belonging to the
+Sukuma tribe which is patrilineal This makes that husbands tend to
+have strong decision making power in most household decisions
+Experimental task
+To identify the effect of the husband s involvement on the use of
+FPS we experimentally varied the involvement of the husband in the
+decision making process For this we brought couples to a field lab
+where they responded to financial incentives when deciding whether to
+make use of FPS offered at their nearest health facility The experiment
+simulates this decision by asking couples to make a series of choices
+between two options A and B Option B was only paid if the wife or
+the couple had attended a family planning meeting before the payment
+date while option A did not have this condition The chosen option was
+paid out one month after the experiment This captures an important
+feature of the decision making process where a visit to the nearest
+health center in rural areas requires planning In other words when
+couples chose between the two options they decided whether to plan
+a visit to the health center
+We used a list of five pairs of choices in which we kept option
+A constant and gradually increased option B The difference between
+options A and B varied from TZS to TZS approx US
+We used a series of five pairs instead of only one pair to increase
+variation among the couples as several couples might switch their
+choice from A to B within the series of pairs see Table A
+We used the FP meetings that local health facilities already orga
+nized every weekday The participants were informed about when these
+meetings took place day and time prior to making their decisions
+These meetings consist of two parts In the first part health staff
+present information about health related topics including the benefits
+of FP and child nutrition In the second part of the meeting the
+participants can attend an individual meeting with the nurse where they
+are given information about different contraceptive methods and have
+To avoid that the decisions might be confounded by potential liquidity
+constraints or lack of trust that payments would be made in the future option
+A was paid at the same time as option B
+Journal of Development Economics
+the opportunity to receive free contraceptives These meetings are more
+tailored to the individual needs than the first part which only contains
+more general information The conditionality imposed in B was only
+satisfied if the participants attended the individual meeting
+Treatrnents
+To test the effect of the husband s involvement on the uptake of FPS
+offered at local health facilities we organized three between subject
+treatments to which the couples were randomly allocated In these
+treatments only the wife only the husband or both spouses together
+made the decisions called Wife Decision WD Husband Decision
+HD and Joint Decision JD respectively We brought both spouses
+to the experiment to ensure that spouses had the same information
+about the action set In this manner the only element that differs
+across the three between subject treatments is who is involved in the
+decision making
+To ensure that the participants could freely choose the option
+they preferred in the WD and HD treatments we provided plausible
+deniability of responsibility for any outcome in these treatments In all
+three between subject treatments the participants had a probability
+of getting a random outcome i e where their decisions were made
+irrelevant In this way it was difficult for the participant s spouse to
+infer from the outcome what the participant s decisions were This
+procedure was clearly explained to all participants in the first half of
+the explanations where all couples were present and before they knew
+which treatment they were assigned to The probability was the same
+across all treatments but created plausible deniability only in WD and
+HD since both spouses observed the decisions made in JD While this
+procedure does not entirely remove the pressure to align preferences
+with their spouse unless all participants are willing to lie to their
+spouse about their decisions we expect it to reduce some of this
+pressure
+In addition to these between subject treatments we organized four
+within subject treatments where we varied the level of payments high
+or low and who needed to attend the FP meeting the wife only or
+the wife and the husband together We refer to the two latter within
+dimensions as Wife FPS and Couple FPS respectively In total
+participants made decisions see Table A I in Appendix A The
+participants were told that at the end of the experiment we would
+randomly select one outcome from their decisions and the plausible
+deniability option for implementation
+Predictions
+To develop predictions on the treatment differences in the likeli
+hood that option B is chosen we use the following theoretical model
+Consider a household with two decision makers s e w h where w
+represents the wife and h represents the husband The household needs
+Ashraf
+who used a similar procedure to introduce plausible
+deniability with a probability of to receive the random outcome
+The within variation on who had to attend the FP meeting allows us
+to analyze whether the between subject treatment effects depend on this
+dimension This is important as coordination costs could be larger where both
+spouses need to attend the meeting At the same time having the husband
+present at the meeting might be reassuring for the wife because she knows
+that her husband approves of her receiving contraceptives On the other
+hand it might also give the husband control over the decision to accept
+contraceptives at the health facility The variation of the payment level allows
+us to test whether there are any income effects More specifically in half of
+the decisions we increased the payments in options A and B by TZS
+see pairs and in Table A I in Appendix A Adding variation in
+payment levels allows us to disentangle an effect of increased cost income
+with the Couple FPS from the mere effect of having both spouses attend the
+meeting
+B D and C Ringdal
+to choose x e A B A is the payment they receive without needing
+to attend a FP meeting and B is the payment that is conditional on
+attending a FP meeting
+Spouse s has complete preferences over the two options that can be
+represented by a personal utility function us x We allow for the spouses
+to have caring preferences and define their ultimate utility function as
+Us x
+where O We refer to as the caring parameter The
+higher ys the more spouse s takes his or her partner s preferences
+i e the partner s personal utility function into account in their
+ultimate utility function is set to be equal to or lower than
+as it is commonly assumed that people do not care more about their
+spouse than about themselves on this see e g Browning et al
+Costs associated with attending the FP meeting such as transport or
+opportunity costs are implicitly taken into account in the personal
+utility functions where they reduce us B As these costs are orthogonal
+to treatment we do not discuss them further here
+We use the collective model as developed by
+Chiappori
+where the household maximizes a weighted sum of the ultimate
+utility functions of both spouses This model formalizes the notion of
+bargaining power and shows how a change in bargaining power can
+change the household decision outcome Blundell et al The
+model thus allows us to predict the effect of including the husband in
+the decision making process assuming that doing so would decrease
+the wife s bargaining power in the household decision The household
+decision can be derived as the solution to
+max OUw x l
+where O O I is exogenously given and reflects the wife s bargaining
+power in the household decision We assume that the less we involve
+the husband in the decision the more bargaining power the wife has
+More specifically O I in WD O O in HD and O O I in JD Note
+that when one of the spouses has all the bargaining power the decision
+only depends on his or her ultimate utility function
+In the following we focus on the likelihood that B is chosen over A
+and how it changes with the wife s bargaining power O If the spouses
+have the same preference ordering there are no treatment differences
+If however the spouses have different preference orderings an in
+crease in the wife s bargaining power will increase the likelihood that
+her preferred option is chosen This leads to the following predictions
+Prediction If the spouses have the same preferences there are no
+treatment effects Thus WD JD HD
+Prediction Ifthe spouses have different preferences and the wife prefers
+B A and the husband prefers A B the likelihood that B is chosen
+weakly decreases increases with a larger involvement of the husband
+Thus WD S JD S HD
+Implementation
+A few weeks before the experiment we conducted a household sur
+vey with a sample of couples from hamlets randomly selected
+in Misungwi District in Northern Tanzania We interviewed both
+In each selected hamlet we selected a random sample of couples
+where the wife was below years of age and had at least one living child If
+fewer than couples were available in a hamlet we selected all of them We
+included both couples who were married and couples who were living together
+but were not married in our sample Regardless of their marital status we
+use the terms spouses husband and wife when referring to them The
+experiment reported in this paper is part of a larger project on reproductive
+health in Tanzania The household survey is used in other articles but the
+Journal of Development Economics
+spouses of each selected couple separately and in private to collect
+general socio demographic characteristics and information on fertil
+ity preferences contraceptive use and intra household communication
+about family planning To conduct the interviews we used same gender
+enumerator interviewee pairs We used these survey data to organize
+the selection of the couples test whether treatments were balanced
+and undertake a heterogeneity analysis of the treatment effects We
+excluded all couples where the wife was pregnant when they completed
+the survey or where either the husband or the wife reported to be
+infecund
+Each experimental session was organized in exactly the same way
+Couples were convened at a central location e g a classroom or
+a community center in the hamlet and the spouses were seated
+apart to avoid communication with each other or any other partic
+ipant We started each session with some general information about
+how the experiment would be conducted no talking no phones in
+formed consent anonymity etc Then the couples went through a
+non incentivized task to elicit their individual time preferences There
+after we provided information about the main task as well as the
+content of the FP meetings Couples were then randomly allocated to
+one of the three treatments WD JD or HD and called one at a time to
+make the decisions in private with an enumerator Here we again used
+same gender enumerator interviewee pairs In WD we had one female
+enumerator in HD we used one male enumerator and in JD we used
+one female and one male enumerator For the detailed experimental
+instructions see Appendix D
+To test the participants understanding of the instructions the enu
+merator asked a set of control questions for decision pairs and
+Specifically respondents were asked which option required
+them to attend a FP meeting who needed to attend the meeting who
+was paid and what would happen at the FP meeting If the participants
+answered incorrectly an additional short explanation was given After
+having gone through all control questions the enumerator recorded
+whether they thought the participant had a sufficient understanding
+of the task were thought to have a sufficient understanding
+Each spouse received a TZS show up fee approx US
+and had the opportunity to earn more during the experiment On
+average each couple earned TZS approx US including the
+show up fee corresponding to about one week s worth of household
+income The show up fee was paid on the day of the experiment while
+the remaining payment was paid one month later
+After all decisions were made we privately asked participants how
+likely they thought it was that they would attend a FP meeting that
+their spouse would attend the meeting and that they would ask for con
+traceptives at the meeting if option B was selected for payment These
+questions were asked of all decision makers wife in WD husband in
+HD and both in JD regardless of the decision they had made
+At the end of the experiment we randomly selected one outcome
+from the decisions and the plausible deniability option for pay
+ment If a decision was selected in which B was chosen the wife was
+given a form that had to be completed and signed by the nurse at
+the closest health center the participants were informed about which
+health center they should attend at the beginning of the session We
+used this to verify whether the payment condition of option B was
+fulfilled see Appendix D for an illustration of the form To ensure
+that it was the woman or couple that participated in the experiment
+that attended the FP meeting the nurse filled out the name of the
+results from the experiment are only reported here As one of the purposes
+of the project was to study the use of reproductive health services maternal
+health care pre natal and post natal care the women interviewed needed to
+have at least one living child
+Note that due to the procedure followed to ensure plausible deniability
+all respondents face a non zero chance that option B is selected even the
+respondents who always chose option A
+B D and C Ringdal
+woman who attended and the name of her husband if he joined her
+When we paid the participant one month after the experimental session
+we checked whether the name on the form corresponded with the name
+of the participant who was given the form To do this check we used
+the second part of the form that was completed and retained by the
+nurse
+The second part of the form also included some questions on the
+uptake of contraceptives which were answered by the nurse In ad
+dition when we revisited women to give their payments we asked
+them some questions in private about their uptake of contraceptives In
+this way we collected data on whether the FP meeting was attended
+whether contraceptives were taken up at the meeting reported by
+nurses at the health facilities and the participants and if so which type
+of contraceptive reported by the nurse
+We revisited each hamlet one month after the experimental session
+to make the individual payments to the participants For this we used
+the following procedure If one of the decision pairs to see Table
+A was chosen i e only the wife was paid only the wife was invited
+to come and receive the payment If one of the decision pairs to
+was chosen i e both spouses were paid both spouses were invited
+to come and receive the payment If only one of the spouses showed
+up he or she would receive the payments of both spouses Payments
+were always made in private With the Couple FPS however spouses
+would always receive the same payment and hence could infer each
+other s payment
+Results
+In this section we first describe the sample before presenting the
+main treatment effects
+The sample
+In total we organized experimental sessions in hamlets
+health facilities were involved in the study They were located between
+min and h driving by motorbike away from the hamlets as
+estimated by local hamlet leaders couples were invited to the
+experiment of which couples participated show up rate
+We do not find any significant differences in observable characteristics
+between couples that participated and couples that did not participate
+in the experiment see Table A in Appendix A
+Table
+presents a balance test of important characteristics of the
+participants by treatment As can be seen the treatments are well
+balanced in terms of observable characteristics Panel A reports socio
+demographic characteristics The husbands are generally older and
+have more years of education than the wives The couples have on
+average three children aged or younger The proportion of Catholics
+is higher among the wives while the proportion of respondents without
+any religion is higher among the husbands About of women and
+of men are employed outside of the household and of women
+and of men are self employed Nearly of women and of
+men had been growing agricultural crops in the last season The most
+common crops were maize followed by sweet potatoes cassava and
+rice More than of the households own cattle or pack animals or
+smaller animals such as sheep goats and rabbits Most respondents
+belong to the Sukuma tribe more than
+With couples we interviewed both spouses while with couples
+we only interviewed the wife and with couples we only interviewed the
+husband The participants who did not take part in the household survey were
+asked for some basic information after the experimental session including age
+education and religion In total women and men were interviewed in
+this way
+Journal of Development Economics
+Panel B reports statistics on fertility preferences About of men
+and of women do not want to have any more children Among
+the respondents who want to have more children most of them want to
+wait at least two years before having another child Thus the need for
+family planning is high On average men and women want to have
+six children with a median of for women and for men
+We find considerable within couple differences in fertility prefer
+ences In of the couples one of the spouses does not want more
+children while the other either wants more children or is undecided in
+of the couples the husband does not want more children while
+the wife wants more or is undecided and in of the couples the
+wife does not want more children while the husband wants more or is
+undecided Furthermore of the couples where both spouses want more
+children disagree about when to have the next child are
+couples where the husband wants to delay the next child by at least
+years and the wife does not and are couples where the wife
+wants to delay the next child by at least years and the husband does
+not
+Panel C displays current use of contraceptives see Table A in
+Appendix A for past and intended use of contraceptives We present
+information on the use of modern contraceptives and the use of long
+acting reversible contraceptives LARC II of the wives report
+using modern contraceptives and use LARC This is percent
+age points higher than the percentage of couples where the husband
+reported that they used modern contraceptives In other words in only
+of the couples where the wife reports using modern contracep
+tives the husband also reports using modern contraceptives Among
+these couples of the women report that the husband does not
+know that they are using contraceptives Thus intentional hiding of
+contraceptive use does not seem to drive all the reporting differences
+between men and women
+Of the women who are not currently using contraceptives used
+modern contraceptives used LARC in the past and believe
+that they will use contraceptives in the future plan to use
+LARC and to sterilize Interestingly while fewer men plan to use
+contraceptives in the future more men than women plan to
+do a sterilization For more details see Table A in Appendix
+Panel D presents statistics on within couple communication about
+FP and beliefs about the spouse s opinion on contraceptives In
+of the couples both spouses reported that they discussed FP with each
+other of the women and of the men believe that their
+spouse approves of contraceptives while of the women and
+of the men believe that their spouse disapproves
+This is in line with the recent Demographic and Health survey
+In
+the Lake region both urban and rural pooled to which our study region
+belongs of currently married women aged and of all
+currently married men do not want any more children
+We define someone to have a need for family planning if the respondent
+does not want any more children or wants to wait at least two years before
+having more children
+The participants are asked whether they themselves or their spouse are
+doing something or using any method to delay or avoid getting pregnant We
+define modern contraceptives as contraceptives that give women a reliable
+means to control their fertility These methods include the pill injectables
+intrauterine devices IUD implants and sterilization We do not include male
+condoms as women are often unable to enforce their use If we had included
+condoms in modern contraceptives of women would report using modern
+contraceptives LARCs include IUDs and implants We allowed couples who
+already used modern contraceptives to participate in the experiment because
+it might still be interesting for them to attend the FP meeting For example a
+couple might want to obtain better information about contraceptives or simply
+receive an updated checkup by the nurse or a woman who uses contraceptives
+without her husband being aware might want to convince him that using
+contraceptives is a good thing to do
+B D and C Ringdal
+Table
+Balance table of observable characteristics
+Panel A Socio economic characteristics
+to FP
+Journal of Development Economics
+Age H
+Age W
+Education H
+Education W
+Catholic H
+Catholic W
+Number of children
+Employed H
+Employed W
+Self employed H
+Self employed W
+Panel B Fertility preferences
+Do not want more children H
+Do not want more children W
+Want to wait two years or more
+Want to wait two years or more
+Need for FP H
+Need for FP W
+Desired number of children H
+Desired number of children W
+w
+H does not want more children W does
+W does not want more children H does
+H wants to wait two years or more W does not
+W wants to wait two years or more H does not
+Panel C Contraceptive use
+Use modern FP H
+Use modern FP W
+Use LARC H
+Use LARC W
+Panel D Communication and beliefs related
+Both report to discuss FP with spouse
+H believes W approves of contraceptives
+W believes H approves of contraceptives
+H believes W disapproves of contraceptives
+W believes H disapproves of contraceptives
+Joint statistics
+p value
+Wife Decision
+Mean
+Joint Decision
+Mean
+Husband Decision
+Mean
+F test
+Note The table displays sample averages for each characteristic H refers to the husband and W to the wife FP is an abbreviation for family planning Need for FP is
+an indicator variable taking the value if the respondent either does not want more children or wants to wait at least two years before having another child Use modern FP
+takes the value if the respondent reports using the pill injectables IUDS or implants LARC is an abbreviation for long acting reversible contraception and includes implants
+and IUDs Employed takes the value if the respondent reports having worked for someone else in the past months including on someone else s farm business or for an
+organization or company such as school government and bank Self employed takes the value if the respondent reports running a business other than farming such as a
+shop fishing driver and builder The total number of observations is Some variables include only a sub sample Want to wait to years or more includes participants that
+want more children The last column presents the two sided p value of an ANOVA The joint statistics is from a multinomial regression using the Treatment as the dependent
+variable and the characteristics as independent variables
+Panel C in Table A in Appendix A shows that of the women
+and of the men reported ever discussing FP with a nurse at a
+health center Of these of the women and of the men
+had the discussion in the past year and most are either completely or
+somewhat satisfied with the services they received Even if a substantial
+proportion of women discussed FP at the health center many of them
+in the past year only of them are using modern contraceptives
+and the unmet need for FP remains high One of the most commonly
+cited reasons for not using contraceptives is fear of side effects
+Moreover there is a lack of knowledge about FP among both men and
+women As an example of women and of men do not know
+whether injectables are effective in avoiding pregnancy and nearly
+of both men and women believe that the pill causes infertility
+for more details see Table A in Appendix A This suggests that
+neither women nor men have sufficient knowledge about FP and are
+in need of more information before they would start or continue using
+contraceptives
+Main treatment effects
+To investigate the effect of the husband s involvement on the
+likelihood that FPS are chosen we estimate the following regression
+where yc is the proportion of the decisions where couple c chose
+FPS henceforth referred to as proportion a is a constant and JD c
+and HD c are treatment indicator variables taking the value if
+couple c was assigned to JD and HD respectively WD is used as the
+base treatment ps captures session fixed effects Xc is a set of control
+variables and E c is the error term
+reports the results In column we include only the
+Table
+treatment indicator variables In columns we sequentially add
+This specification focuses on the between subject treatments For the
+influence of within subject treatments see the demand curves presented in
+Figure A I in Appendix A
+B D and C Ringdal
+Table
+Effect of involving the husband on the proportion of decisions where family planning
+services FPS are chosen
+Joint Decision
+Husband Decision
+Session fixed effects
+Socio economic controls
+Fertility controls
+JD HDO
+Control mean
+Observations
+No
+No
+No
+Yes
+No
+No
+O
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Notes The table reports OLS regressions Dependent variable the proportion of
+decisions where family planning services FPS are chosen Independent variables JD
+indicator variable taking the value for couples in Joint Decision and HD indicator
+variable taking the value for couples in Husband Decision Session fixed effects
+indicator variables used for each of the sessions of the experiment Socio economic
+controls include age education and religion of both spouses a wealth index and
+the number of children Fertility controls include the use of modern contraceptives
+whether the husband has a need for FP whether the wife has a need for FP whether
+the husband and wife both report to have discussed family planning in the past year
+whether the husband believes that their wife approves of contraceptive use whether
+the wife believes that their husband approves of contraceptive use Standard errors
+clustered at the session level in parentheses For the extended table see Table B I in
+Appendix B p
+a two sided p values of a Wald test with the null hypothesis being that the coefficients
+of JD and HD are the same
+Mean in Wife Decision WD
+session fixed effects socio economic controls and fertility controls
+We find that involving the husband significantly increases the pro
+portion of the decisions where FPS are chosen and that this effect is
+robust across the different specifications The proportion is
+percentage points higher in HD than in WD and is percentage
+points higher in JD than in WD There is no difference in the proportion
+between the two treatments where the husband is involved
+To test the robustness of these results we undertake the following
+additional analyses First the results are robust across the different
+within subject treatments as shown in Table A in Appendix A
+Second they are also robust to only including couples with a sufficient
+understanding of the task and who do not switch more than once
+see Table A in Appendix A It even increases the point estimates
+and the statistical significance of the effects Third even though the
+estimates are very similar when we add controls it should be noted that
+adding controls reduces the sample by from to couples
+One might therefore wonder whether removing the couples for which
+we do not have background information influences the estimates To
+obtain an idea of whether that might be the case we remove the
+controls from the regression in column in Table The results are
+presented in column of Table A in Appendix A and are again
+very similar Fourth of the couples in our sample are polygamous
+Distance to the nearest health center might matter as they determine
+travel costs The session fixed effects we include in the regressions control
+for distance to the health center because all participants in a session were
+recruited from the same hamlet
+A comparison of the within subject treatments see Table A in Appendix
+A shows that i in the high payment condition the effect of the husband s
+involvement is stronger when both spouses need to attend the FP meeting
+and ii in the condition where only the wife needs to attend the FP meeting
+Wife FPS the effect of the husband s involvement is weaker in the high
+payment condition
+of the couples switched more than once in a price list and
+of the couples had a sufficient understanding As can be seen in Table A in
+Appendix A there are no differences in understanding and multiple switching
+across treatments
+Journal of Development Economics
+evenly distributed across treatments p from F test see Table
+A in Appendix A As polygamous and monogamous couples might
+behave differently it is important to test whether the results are influ
+enced by the inclusion of polygamous couples Column in Table A
+in Appendix A shows the regression results with monogamous couples
+only The results are again robust Finally we add experimenter fixed
+effects in Table A in Appendix A As different enumerators were used
+in the WD and HD treatments only female enumerators were involved
+in WD and only male enumerators were involved in HD we cannot
+control for experimenter effects for the comparison between WD and
+HD However as all enumerators were involved in JD we can control
+for experimenter effects for the pairwise comparisons between JD and
+each of the other treatments As can be seen from Table A in Appendix
+A the results remain robust
+Mechanisms
+So far we found that involving the husband increases the likelihood
+that FPS are chosen This result indicates that Uh A
+Uw A In this section we explore potential mechanisms
+that might explain why women and men evaluate options A and
+B differently More specifically the positive effect of involving the
+husband can be driven by one of the following mechanisms
+The husband gets more personal utility from FPS than his wife
+The wife incorrectly believes that her husband disapproves of
+contraceptives
+The wife expects that the plan to use FPS is less likely to be
+fulfilled when the husband is not involved
+In the rest of this section we will look for supporting evidence on
+each of the three mechanisms We will also develop our theoretical
+model to incorporate the role of beliefs about spousal preferences
+second mechanism and uncertainty about whether the FP meeting
+will be attended third mechanism
+Does the husband have a stronger preference for FPS
+Involving the husband in the decision could increase the likelihood
+that FPS are chosen if the husband gets more personal utility from FPS
+than his wife Recall that the ultimate utility function is defined as
+Us l Thus involving the husband increases the
+likelihood that B is chosen if uh B uw B
+To find evidence for this mechanism we look into three possible
+sources of spousal differences in FPS preferences i fertility prefer
+ences awareness of contraceptive use and unmet need for FP ii
+knowledge about FP and iii hyperbolic time preferences We explore
+each of them in turn
+Fertility preferences awareness of contraceptive use and unmet FP
+need
+It is plausible that if an individual has a need for family planning
+i e does not want more children or wants to delay having more
+children this individual is more likely to prefer FPS In our sample
+we observe important differences in fertility preferences between men
+and women As reported in
+more women than men do not want
+Table
+more children There are also important within couple differences In
+of the couples in our sample one of the spouses in this is
+the husband does not want more children while the other does or is
+undecided In couples where both spouses want more children there
+is also important heterogeneity in how long they want to wait with
+getting the next child
+Some of the analyses in this section were not pre specified in our pre
+analysis plan The idea of inaccurate beliefs is discussed in Appendix A I of
+the pre analysis plan
+B D and C Ringdal
+Table
+The effect of involving the husband on the uptake of family planning services by fertility
+preferences unawareness of contraceptive use and unmet need for family planning
+Var
+JD X Var
+HD X Var
+Control meand
+Observations
+Var
+Fertility preferences
+Aware of FP
+Unmet need for FP
+Notes The table reports OLS regressions with session fixed effects Dependent variable
+the proportion of decisions in which family planning services FPS are chosen
+Independent variables treatment variables JD and HD and the set of control
+variables as defined in
+Table
+Note that columns and do not include
+controls for spousal fertility preferences and column does not include controls for
+contraceptive use Var is 

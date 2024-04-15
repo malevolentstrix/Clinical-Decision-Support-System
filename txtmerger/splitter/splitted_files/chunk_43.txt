@@ -1,0 +1,1337 @@
+ label use in childbearing or pregnant women of the newly approved
+medicine or existing treatment guidelines
+Information on pregnancies
+Identification of pregnancies start date might be diffcult to identify
+Information on drug exposure
+Drug exposure identified by prescriptions prescribed dispensed or reimbursed in
+secondary sources may not fully represent actual exposure due to nonadherence or
+irregular adherence
+Not all databases have information on indication duration of prescription
+Is all exposure captured For example are in hospital administrations
+private prescriptions medicines that are not reimbursed included in the data
+Nature of the database
+Size of datasets
+Whole population data
+Representativeness of the national or regional population
+Ability to capture all types of pregnancies in the database
+The database best suited to the study depends on the purpose of the study
+Explain selection of database
+Timing of data collection prospectively collected data is free of recall bias
+Completeness of data source number extent of geographies covered
+Any regional differences may be related to prescribing guidelines or custom and practice
+Representativeness of overall studied population e g not only the better educated
+nonsmokers and older mothers
+Is the medicine being used by childbearing pregnant women
+Is the medicine prescribed in primary secondary or tertiary care
+When in pregnancy for how long in pregnancy what doses for what indications
+time trends
+studies needing large samples would be premature mean
+while voluntary adverse event reporting databases should
+be scrutinized for serious adverse events including congen
+ital anomalies
+The studies identified addressed conditions generally man
+aged in ambulatory care and ten of reported on long term
+conditions However many new medicines are introduced in
+secondary and tertiary care as this is where most severe condi
+tions and sickest patients are treated New medicines are most
+frequently developed for the most serious conditions for exam
+ple in the UK in of new products launched were
+to treat immunological and malignant disorders and for the
+next highest categories cardiovascular and infectious diseases
+However eight of publications identified had no in
+hospital prescribing data and five had only primary care pre
+scribing although some of the regimens recorded may be initi
+ated by specialists based in secondary or tertiary care Table
+DUS on new medicines for immunological and malignant dis
+orders were not located despite this being the largest prescrib
+ing category Large scale patient data on hospital
+prescribing are scarce Many routine healthcare data
+bases particularly in Europe do not include in hospital pre
+scribing and therefore if the medicine is restricted to hospital
+use it is not possible to undertake a DUS For example
+most intravenous medicines particularly anticancer treatments
+are administered in hospitals and not reliably recorded in pri
+mary care Therefore restricting a DUS to ambulatory or pri
+mary care without first ascertaining use in secondary care
+may generate misleading and invalid conclusions regarding
+prevalence of exposure in pregnancy
+There was only one study that exclusively studied preg
+nant women and only one study that focused on women of
+childbearing age The other nine studies evaluated drug utili
+zation in the general population for all users of the medicine s
+in question as a stratification they estimated the frequency of
+pregnant women prescribed the medicine of interest Three of
+these studies stated in their protocol that they intended to
+assess utilization in pregnancy however when the results were
+published no data on pregnancy was presented EMA guide
+lines on registry based studies state that feasibility analy
+ses may be submitted separately or as part of a proposed
+protocol for a registry based study However it is also impor
+tant to publish information derived from pregnancies in feasi
+bility studies as this can guide the protocols of future studies
+The methods used for DUS of older products are very
+similar to those identified for new products Most DUS for
+new and established medicines focus on estimating the num
+ber of pregnant women prescribed the medicine When new
+medicines are considered initially few people are exposed
+militating against a comprehensive evaluation of some areas
+of concern particularly pregnancy and breastfeeding The
+objective of a DUS for a new product should be to expedite
+facilitate and guide the assessment of safety concerns during
+pregnancy Drug safety studies can be planned in parallel or
+sequentially using the same databases as the DUS As
+observed in several of the studies the protocol of a DUS
+can be written before the medicine is on the market When
+planned as a phased approach the main objective may be to
+determine when there is enough power to perform a safety
+Journal of Pregnancy
+study Determining sample size ensures that risk estimates
+are precise if a study is too small it will yield wide confidence
+intervals and imprecise estimates Other DUS objectives
+include identification and prevalence of risk factors that may
+be confounders such as comedications comorbidities smok
+ing age education body weight substance misuse and any
+differences between exposed and nonexposed populations
+particularly women of childbearing age The DUS will also
+generate knowledge of the unique characteristics of the data
+sources regarding medicine exposure and can establish the
+strengths and limitations of each database so that a range of
+databases can be considered to account for known risk factors
+For example the Nordic databases hold data on paternity
+while Wales holds data on substance misuse When a
+DUS is conducted in parallel with a safety study the informa
+tion can inform decision points as to phasing and interpreting
+the safety study results However complete and accurate data
+linkage is essential for safety studies
+Limitations and Strengths The biggest limitation of this
+systematic review is that very few DUS for new drugs are
+being published There were insufficient studies to illustrate
+good practice however the available studies offered an over
+view of the optimal structure for a DUS in this field
+Tables These were considered in association
+with existing reporting guidelines A central prob
+lem with DUS for new medicines in pregnancy is the
+absence of whole population databases for hospital prescrib
+ing Prescription and administration data have been cap
+tured electronically for many years in most hospitals
+however even some well established national healthcare
+databases have been unable to link this key data Therefore
+pharmacoepidemiologists can only investigate potential
+adverse effects of medicines amongst the less ill primary care
+population while key signals for harm are missed due to the
+fragmentation of data capture for the vulnerable unwell
+hospital population New technical financial and gover
+nance barriers are not immutable and integrated databases
+may well emerge in the future While the majority of preg
+nant women are healthy a few experience serious health
+problems whose treatment can only be evaluated from hos
+pital prescribing data the rarity of serious illness in preg
+nancy necessitates combining data from large populations
+Comprehensive information is even more important for
+safety studies particularly where prescribing is expected to
+be low or minimized due to manufacturers warnings
+regarding unknown safety in pregnancy or contraindica
+tions By accounting for all the items listed above
+researchers increase the likelihood that the only remaining
+plausible explanation for harm identified is the prescribed
+medicine We made no recommendation in relation to
+breastfeeding because no studies reported drug utilization
+during or preceding breastfeeding very few databases hold
+data on breastfeeding
+Conclusions
+This review of DUS for medicines new to the market illus
+trates how DUS might add efficiency to the evaluation of
+Journal of Pregnancy
+medicines during pregnancy A DUS supports safety studies
+by providing
+i early confirmation as to whether there are suffcient
+exposed pregnancies to provide adequate statistical
+power to detect an association with an adverse preg
+nancy outcome
+ii context and information to evaluate whether addi
+tional data from other data sources or more time
+are needed
+iii information on the most appropriate data sources
+to use
+iv guidance on the optimal methods for a safety study
+such as selection of comparator medicines or
+participants
+These considerations are particularly relevant where
+adverse outcomes are relatively common and with multiple
+aetiologies for example small for gestational age or absence of
+breastfeeding following antidepressant exposure This does
+not detract from the reporting of major congenital anomalies
+This paper offers suggestions as to considerations when
+planning and reporting DUS for new drugs in pregnant
+women Such studies may be planned before marketing
+either embedded in a DUS in the general population or in
+a retrospective cohort of pregnant women typically for the
+first to years after release with annual interim progress
+reports These reports may provide patient numbers or sta
+tus progress updates to guide safety studies and augment
+interpretation of spontaneous pharmacovigilance reports
+which start as soon as the drug is marketed The results of
+these interim reports final reports should be available in peer
+reviewed journals so that researchers and physicians can
+access the information easily DUS for new drugs and safety
+studies can be planned with a phased or parallel approach to
+expedite the knowledge generation regarding the safety of
+medicines used during pregnancy and breastfeeding
+Appendix
+Search Terms Used to Identify Drug
+Utilization Studies
+The following keywords were used in different databases to
+identify all drug utilization studies
+PubMed Cohort Studies Mesh OR Registries
+Mesh OR cohort tiab OR follow up tiab OR prospecti
+ve tiab OR observational tiab OR longitudinal tiab OR
+retrospective tiab OR birth registr tiab OR population
+based tiab OR population health data tiab AND preva
+lence mesh OR prevalen Title Abstract OR change
+Title Abstract OR trend Title Abstract OR pattern
+Title Abstract OR adhere Title Abstract OR trajector
+Title Abstract OR continu Title Abstract OR dis
+continu Title Abstract AND pharmaceutical prepara
+tions Mesh OR drug utilization mesh OR drug Title
+OR medicat Title OR prescript Title abstract OR pre
+scrib Title abstract OR medicin Title OR dispens
+Title abstract OR pharmacoepidemiology Mesh OR drug
+therapy Mesh AND pregnancy mesh OR pregnancy tri
+mesters mesh OR pregnan Title OR matern Title OR
+gestation Title OR perinatal Title OR peri natal Title
+OR prenatal Title OR antenatal Title OR ante natal
+Title OR gravid Title NOT NOT
+humans MeSH AND english Filter AND
+Date Publication Date Publication
+Embase cohort analysis mj OR follow up ti ab kw
+OR cohort ti ab kw OR prospective ti ab kw OR observatio
+nal ti ab kw OR longitudinal ti ab kw OR retrospective
+ti ab kw OR birth registr OR population
+based ti ab kw OR population health data ti ab kw OR
+register mj AND drug mj OR drug utilization mj
+OR pharmacoepidemiology mj OR drug therapy mj
+OR drug ti OR medicat ti OR prescript ti ab kw OR pre
+scrib ti ab kw OR medicin ti OR dispens ti AND preg
+nancy mj OR pregnan ti OR matern ti OR gestation ti
+OR perinatal OR peri natal ti OR prenatal ti OR
+antenatal ti OR ante natal ti OR gravid ti AND prev
+alence mj OR prevalen ti ab kw OR change ti ab kw OR
+trend ti ab kw OR pattern ti ab kw OR adhere ti ab kw
+OR trajector ti ab kw OR continu ti ab kw OR dis
+continu ti ab kw NOT animal exp NOT human exp
+AND py AND english lim excluding medline
+EU PAS Register observational study in study type
+pregnant women in population and drug drug drug
+utilisation study in scope of the study
+Abbreviations
+ADRs
+DUS
+IMI
+UK
+Adverse drug reactions
+Drug utilization studies
+Innovative Medicines Initiative
+United Kingdom
+Data Availability
+All data is presented in the manuscript and supplement
+Additional Points
+Note on Terminology In the term drug utilisation study
+DUS drug is used adjectivally in line with MeSH termi
+nology When referring to medicinal products we have used
+the term medicine as this paper only describes prescribed
+products used in the treatment of illness OED medicine
+n Oxford English Dictionary http oed com There are
+no references to recreational drugs in this paper See the fol
+lowing Glossary breastfeeding confounding WPI Docu
+ment Template docx http live com Five Key Points i
+When medicines are introduced to the market there is lim
+ited information available related to human pregnancy pla
+cental transfer foetal elimination childbirth lactation and
+breastfeeding This study lists and summarises key informa
+tion items to be reported in a drug utilization studies for new
+medicines that may be used in pregnancy ii A DUS can
+confirm at an early stage whether there are suffcient
+exposed pregnancies in available data sources to ensure a
+Journal of Pregnancy
+C H Spooner A S Pickard and D Menon Edmonton qual
+ity assessment tool for drug utilization reviews EQUATDUR
+the development of a scale to assess the methodological
+quality of a drug utilization review Medical Care vol
+no pp
+E Von Elm D G Altman M Egger S J Pocock P C
+and J P Vandenbroucke The Strengthening the
+Reporting of Observational Studies in Epidemiology STROBE
+statement guidelines for reporting observational studies Jour
+nal of Clinical Epidemiology vol no pp
+S M Langan S A Schmidt K Wing et al The reporting of
+studies conducted using observational routinely collected
+health data statement for pharmacoepidemiology RECORD
+PE BMJ vol article
+ENCEPP European Network of Centres for Pharmacoepide
+miology and Pharmacovigilance European Medicines Agency
+https www encepp eu encepp studySearch htm
+B D Hughes K J Hancock Y Shan et al Cost of benign
+versus oncologic colon resection among fee for service medi
+care enrollees Journal Surgical Oncology vol no
+pp
+DOH Department of Health Agency Standards for reporting
+data with small numbers Department of Health
+https doh wa gov sites default files legacy Documents
+SmallNumbers pdf
+N H Thurin R Pajouheshnia G Roberto et al From incep
+tion to ConcePTION genesis of a network to support bBetter
+monitoring and communication of medication safety during
+pregnancy and breastfeeding Clinical Pharmacology and
+Therapeutics vol no pp
+EUROCAT Guide and reference documents
+https eu rd platform jrc ec europa eu sites default files
+Full pdf
+SPS Specialist Pharmacy Services Lists of new product
+launches National Health Services https www sps
+nhs uk articles lists of new product launches
+A Herbert L Wijlaars A Zylbersztejn D Cromwell and
+P Hardelid Data resource profile Hospital Episode Statistics
+Admitted Patient Care HES APC International Journal of
+Epidemiology vol no pp
+NHS Transformation directorate National Health Services
+EUROmediCAT EUROmediCAT recommendations for
+European Pharmacovigilance concerning safety of medication
+use in pregnancy Pharmcoepidemiology and Drug Safety
+vol Supplement pp
+EMA Guideline on registry based studies https
+wwwemaeuropaeu en documents scientific guideline
+guideline registry based Opdf
+M Loane J E Given J Tan et al Linking a European cohort
+of children born with congenital anomalies to vital statistics
+and mortality records a EUROIinkCAT study PLOS One
+vol no article
+S Jordan S Komninou and L S Lopez Where are the data
+linking infant outcomes breastfeeding and medicine expo
+sure A systematic scoping review PLOS One vol no
+article
+S Jordan G I Davies D S Thayer D Tucker and
+I Humphreys Antidepressant prescriptions discontinuation
+depression and perinatal outcomes including breastfeeding a
+population cohort analysis PLOS One vol no article
+Lagadec et al BMC Pregnancy and Childbirth
+https doi org
+RESEARCH ARTICLE
+BMC Pregnancy and Childbirth
+Open Access
+Cros sMark
+Factors influencing the quality of life of
+pregnant women a systematic review
+Nolwenn Lagadec Magali Steineckerl Amar Kapassil Anne Marie Magnierl Julie Chastang Sarah
+Nadia Gaouaou and Gladys Ibanez
+Abstract
+Background Pregnancy is a period of transition with important physical and emotional changes Even in
+uncomplicated pregnancies these changes can affect the quality of life QOL of pregnant women affecting both
+maternal and infant health The objectives of this study were to describe the quality of life during uncomplicated
+pregnancy and to assess its associated socio demographic physical and psychological factors in developed
+countries
+Methods A systematic review was performed according to the PRISMA guidelines Searches were made in
+PubMed EMBASE and BDSP Public Health Database Two independent reviewers extracted the data Countries
+with a human development index over were selected The quality of the articles was evaluated on the basis of
+the STROBE criteria
+Results In total thirty seven articles were included While the physical component of QOL decreased throughout
+pregnancy the mental component was stable and even showed an improvement during pregnancy Main factors
+associated with better QOL were mean maternal age primiparity early gestational age the absence of social and
+economic problems having family and friends doing physical exercise feeling happiness at being pregnant and
+being optimistic Main factors associated with poorer QOL were medically assisted reproduction complications
+before or during pregnancy obesity nausea and vomiting epigastralgia back pain smoking during the months
+prior to conception a history of alcohol dependence sleep difficulties stress anxiety depression during pregnancy
+and sexual or domestic violence
+Conclusions Health related quality of life refers to the subjective assessment of patients regarding the physical
+mental and social dimensions of well being Improving the quality of life of pregnant women requires better
+identification of their difficulties and guidance which offers assistance whenever possible
+Keywords Quality of life Pregnancy Primary care Health related quality of life Measurement
+Background
+According to the World Health Organization quality of
+life QOL is defined as individuals perception of their
+position in life in the context of the culture and value sys
+tems in which they live and in relation to their goals ex
+pectations standards and concerns This is a very broad
+concept and one that can be influenced in a complex
+way by the physical health of the subject his or her psy
+chological state and level of independence social
+Correspondence gladys ibanez upmc fr
+Sorbonne UPMC Univ Paris INSERM Institut Pierre Louis
+d et de Publ que IP ESP UMRS Paris
+France
+Full list of author information is available at the end of the article
+relations and relationship with the essential elements of
+his or her environmend It is therefore founded on
+several objective factors linked to the quality of the en
+vironment and living conditions and subjective factors
+linked to the personal sphere and measurable in terms
+of satisfaction and well being Health status as an essen
+tial component of quality of life is referred to as
+health related quality of life HRQOL
+Pregnancy is a period of transition with important
+physical and emotional changes Even in uncompli
+cated pregnancies these changes can affect the quality
+of life of pregnant women and affect both maternal and
+infant health pregnancy monitoring pregnancy
+BMC
+The Author s
+Open Access This article is distributed under the terms of the Creative Commons Attribution
+International License http creativecommons org licenses by which permits unrestricted use distribution and
+reproduction in any med um provided you give appropriate credit to the original author s and the source provide a link to
+the Creative Commons license and indicate if changes were made The Creative Commons Public Domain Dedication waiver
+http creativecommons org publicdomain zero l applies to the data made available in this article unless otherwise stated
+Lagadec et al BMC Pregnancy and Childbirth
+outcomes maternal postpartum health and the psycho
+motor development of the infant Health profes
+sionals in the field of prenatal maternal and child health
+try to satisfy their patients with respect to their experi
+ence during preconception and pregnancy periods
+Traditionally used pregnancy outcome measures such
+as morbidity and mortality rates remain essential How
+ever they are not sufficient on their own because popu
+lation health should be assessed not only on the basis of
+saving lives but also in terms of improving quality of life
+Over the past decades numerous instruments have
+been developed to measure HRQOL in various patient
+populations with basic approaches generic and
+disease specific While generic measures for ex
+ample the SF Short Form Item and
+WHOQOL BREF World Health Organization s Quality
+of Life Scale have broad application across different
+types and severity of diseases disease specific measures
+are designed to assess particular diseases or patient pop
+ulations To our knowledge there is no review of the lit
+erature to describe the quality of life of pregnant women
+in primary care The objectives of this study were to de
+scribe the quality of life during uncomplicated preg
+nancy and to assess its associated socio demographic
+physical and psychological factors in developed
+countries
+Methods
+Type of study
+The study consisted of a systematic review of the litera
+ture in the PUBMED EMBASE and BDSP databases
+BDSP is the French Public Health Database The
+search was performed according to the Preferred Report
+ing Items for Systematic Reviews and Meta Analyses
+PRISMA criteria
+Inclusion and exclusion criteria
+The search strategy and inclusion exclusion criteria
+were developed by the whole group of authors after
+which two authors LN and IG individually con
+ducted the literature search Key search terms in
+cluded Pregnancy Quality of life or Health
+related quality of life Search terms were selected
+with reference to relevant index terms MeSH Emtree
+or Thesaurus All observational studies e g cohort
+cross sectional case control which were published in
+English and French prior to March have been
+considered no restriction in the starting date Devel
+oped countries were chosen as a basis for the re
+search to ensure epidemiological uniformity In order
+to define a list of developed countries comparable to
+France countries with a human development index
+HDI of over were selected This list provided by
+Page of
+the United Nations UN is available online
+Studies measuring quality of life with a single ques
+tion were excluded Studies on specific popu
+lations women with complicated pregnancy or on a
+specific scale of quality of life sexual HRQOL or
+HRQOL in relation to faecal incontinence etc were
+also excluded as it is not possible to compare pa
+tients with different pathologies
+HRQOL measurement
+The most frequently used HRQOL instruments during
+pregnancy are the Medical Outcomes Study Short Form
+survey SF the Medical Outcomes Study Short
+Form survey SF the World Health Organiza
+tion s Quality of Life Scale WHOQOL and the World
+Health Organization s Quality of Life Scale BREF
+WHOQOL Bref
+The SF includes items and collects information
+on eight health concepts including physical functioning
+role limitations due to physical and emotional health
+mental health bodily pain general health vitality and
+social functioning These items are scored providing a
+component summary scale score for both mental
+MCS and physical PCS HRQOL from O
+to The SF is a validated shortened version
+of the SF A lower score on the summary scales rep
+resents a poorer HRQOL
+The WHOQOL includes questions grouped into
+categories physical psychological independence social
+environmental and spiritual from O to The
+WHOQOL BREF instrument comprises items and is
+a validated shortened version of the WHOQOL A lower
+score on the summary scales represents a poorer
+HRQOL
+Article selection and quality assessment
+A preliminary selection was made from the titles then
+another on reading the summaries and a lastly on a
+reading of the entire article Publications related to the
+selected articles as well as the bibliography of the se
+lected articles were also examined Two independent re
+viewers extracted the data LN and IG Disagreement
+between reviewers was resolved by consensus The qual
+ity of the articles was evaluated using the STROBE cri
+teria ST rengthening the Reporting of OBservational
+studies in Epidemiology
+Analysis
+The results were organised in two sections first a descrip
+tion of the quality of life of pregnant women in developed
+countries and second by the socio demographic physical
+and psychological factors associated with their quality of
+life When the study compared two quality of life scales
+we used only the Gold Standard scale In the
+Lagadec et al BMC Pregnancy and Childbirth
+case control studies where the controls were a particular
+subgroup we have retained the control group that was
+most representative of the general population of pregnant
+women where all subjects in the study would have re
+sulted in a serious selection bias
+Results
+Article selection
+The article selection is described in Fig Of the
+articles retrieved were selected for our analysis Fig
+and Table The methodological quality was rated
+from to in the selected articles The selected arti
+cles were published between and The sam
+ples of pregnant women included in the studies varied
+between and women Concerning the design
+of the selected studies twenty were cross sectional stud
+ies four were case controlled studies
+and fourteen were longitudinal cohort studies
+Thirteen studies were conducted during the first
+Page of
+trimester of pregnancy
+eleven were from the second trimester
+eighteen were from the
+trimester
+and six studies focused on the entire pregnancy
+In measuring the quality of life nine
+teen studies used SF
+twelve studies used SF
+two studies used
+the WHOQOL Brief one study used The Duke
+Health Profile and another Nottingham Health Pro
+file
+The quality of life of pregnant women
+Comparison with the general population
+The quality of life of pregnant women was generally
+lower than that of the general population Two stud
+ies explicitly compared their results with those of
+non pregnant women of the same age On the SF
+potentially relevant studies
+identified and screened by title
+through PUBMED BDSP EMBASE
+studies excluded after
+screemng by title
+potentially relevant studies
+screened by abstract
+studies excluded after
+screening by abstract
+studies screened by filll text
+study identified through
+bibliography from included
+articles
+studies included in the review
+studies on Quality of life
+Of pregnant women
+Exclusion criteria
+studies on factors
+associated with quality Of life
+l Did not address the main objective of the study n
+Concerned specific populations women infected by HIV Obese or opioid dependent women with asthma diabetes
+epilepsy urinary incontinence hypertension sexual dysfunction heartburn and regurgitation inflammatory bowel disease
+melasma pompe disease rheumatic diseases congenital anomaly adolescent girls
+Specific scale of quality of life oral sexual bowel asthma nausea and vomiting n
+Not in English or French n
+Not from a developed country n
+No full text available n
+Fig Flow chart of the study selection
+Lagadec et al BMC Pregnancy and Childbirth
+Table Studies characteristics
+Author Year Reference
+Abbasi M et al Iran
+a
+Aquino NM Brasil
+Chan et al China
+ab
+Chan et al Taiwan
+Coban A et al Turkey
+Da Costa D et al Canada
+Dall Alba V et al Brasil
+De Pascalis L et al
+ab
+Elsenbruch S et a
+Germany
+Emmanuel EN eta
+Australia a b
+Italy
+Study design
+Prospective cohort
+study
+Cross sectional study
+Cross sectional study
+Long tudinal cohort
+study
+Case controlled study
+Cross sectional study
+Cross sectional study
+Case controlled study
+Cross sectional study
+Long tudinal cohort
+study
+Long tudinal cohort
+Emmanuel EN et Sun J
+Australia ab
+Fatemeh A et al
+Iran ab
+Gezpinq K et al Turkey
+Gharacheh M et al Iran
+Haas JS et al USA
+a b
+Hama K et al Japan
+Jomeen J Martin CR
+United Kingdom ab
+Lacasse A et al
+Canada
+Lau Y et al China
+Li J et al China
+Liu L et al USA
+Mckee MD et al USA
+Mota N et al Canada
+a
+Moyer CA et al
+USA China Ghana ab
+Nakamura Y et al
+Japan
+ab
+Ngai FW Ngu SF
+Hong Kong a
+study
+Cross sectiona
+Cross sectiona
+Cross sectiona
+study
+study
+study
+Long tudinal cohort
+study
+Long tudinal cohort
+study
+Cross sectiona
+Cross sectiona
+Cross sectiona
+Cross sectiona
+Cross sectiona
+Cross sectiona
+Cross sectiona
+Cross sectiona
+study
+study
+study
+study
+study
+study
+study
+study
+Number of
+participants
+Chine
+USA
+Response
+rate
+o
+QOL sca e used
+Medical Outcomes Study
+Short Form SF
+Standard Short Form
+Health Survey S
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+WHO QOL BREF Questionnaire
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF Version
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+WHO QOL BREF Questionnaire
+Medical Outcomes Study
+Short Form SF
+Medical Outcome Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF version
+Medical Outcomes Study
+Short Form SF Version
+Medical Outcomes Study
+Short Form SF
+Standard Short Form
+Health Survey S
+Medical Outcomes Study
+Short Form SF version
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF Version
+Medical Outcomes Study
+Short Form SF
+Page of
+STROBE rate
+Case controlled study
+Prospective cohort
+study
+Lagadec et al BMC Pregnancy and Childbirth
+Table Studies characteristics Continued
+Author Year Reference
+Nicholson WK USA
+Olsson C Nilsson Wikmar L Sweden
+Ramirez R Colombia a b
+Setse R et al USA
+b
+Shishehgar S et al
+Iran a b
+Tavoli Z et al
+Iran a b
+endais I et al Portugal
+sai SY et al a wan
+a b
+Vachkova E et al
+Czech Republic a
+Vinturache A et al Canada
+a b
+Wang P et al a wan
+a b
+Study design
+Cross sectiona
+Cross sectiona
+Cross sectiona
+study
+study
+study
+Prospective cohort
+study
+Cross sectional study
+Cross sectional study
+Prospective cohort
+study
+Prospective cohort
+study
+Prospective cohort
+study
+Prospective cohort
+study
+Prospective cohort
+study
+Number of
+participants
+Response
+rate
+QOL sca e used
+Medical Outcomes
+study Short Form SF
+Nottingham Health Profi e
+Medical Outcomes Study
+Short Form version SF
+Medical Outcomes Study
+Short Form SF
+WHO QOL BREF Questionnaire
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form SF
+Medical Outcomes Study
+Short Form version SF
+WHO QOL BREF Questionnaire
+Medical Outcomes Study
+Short Form SF
+Duke Health Profile DUKE
+Page of
+STROBE rate
+List of abbreviations QOL Quality of life aFirst research question quality of life of pregnant women in developed countries second research question factors
+associated with their quality of life
+scale Da Costa et al found physical activity and
+physical pain values equal to and these
+values were and for non pregnant Canadian
+women of the same age Similarly Nakamura et
+al made similar comparisons in Japan The Chan
+et al study in also found that pregnant women
+had on average statistically lower QOL scores p
+compared to the general population excepting
+general health p Similarly Elsenbruch
+et al found a reduced quality of life physically
+when compared to German women of the same age
+p
+The progression of the quality of life during the trimesters
+Of the studies selected described the
+progression of QOL using SF or SF Figs
+The study of the SF PCS and MCS aggregate
+scores revealed that there were significant variations
+during the trimesters Fig
+The PCS values ranged from to during the
+trimester between and during the trimester
+between and during the trimester For
+SF values ranged from to in the trimester
+and in the trimester and and in the
+trimester The results of the studies indicated a decrease
+in physical quality of life throughout pregnancy particu
+larly related to decreased physical activity and functional
+limitations related to physical health and physical pain
+In terms of prevalence the Haas et al study in
+showed an increase in pregnant women with poor
+physical quality of life during pregnancy of preg
+nant women in the second trimester and in the
+third trimester The proportion of pregnant
+women reporting generally poor health score O to
+increased from to and and then
+decreased to in the postpartum period
+The MCS values were as follows for the SF in
+the trimester values between a minimum of
+and a maximum of in the trimester between
+and in the trimester between and
+In parallel with SF the MCS was between and
+in the first trimester between and in the
+second trimester and and in the third trimester
+In five studies the quality of mental life of the preg
+nant women increased or remained stable over the
+course of the trimesters Fig
+The evolution of the dimensions of SF during the
+quarters is presented in Fig The following domains
+had the lowest scores role limitations due to physical
+problems RP and vitality VT The following domains
+had the highest scores general health perceptions GH
+and bodily pain BP The results concerning the role
+limitations due to emotional problems RE varied across
+studies
+Lagadec et al BMC Pregnancy and Childbirth
+Page of
+Iran SF
+i De Pascalis Italie SF
+Lacasse Canada SF
+Moyer USA SF
+Ngai Hong Kong
+Tsai Taiwan SF
+x
+Chang Taiwan SF
+Emmanuel Autralia SF
+Mota Canada SF Tl
+Moyer Chine
+Ramirez SF
+Vinturache Canada SF
+Tl first trimester T second trimester T third trimester PCS Physical Component Summary MCS
+Fig
+Changes in PCS and MCS over trimesters
+k
+Mental Component Summary
+Chang Taiwan SS
+Chang Taiwan SF
+Jommen Martin UK SF
+Chang Taiwan SF
+De Pascalis Italia SF
+Haas USA SF
+Nakamura Japan SF
+Ramirez Colombia SF
+oe Pascalis Italia SF
+Haas USA SF
+e Nakamura Japan SF
+oa Costa Canada SF
+Emmanuel Australia SF
+f Emmanuel Australia SF
+Moyer USA SF
+Moyer cmna
+Tavoli Iran SF
+TI first trimester T second trimester T third trimester PF Physical Functioning RP Role Limitations due to Physical Problems BP Bodily
+Pain GH General Health Perceptions VT Vitality SF Social Functioning RE Role Limitations due to Emotional Problems MH General Mental
+Health
+Fig Evolution of the dimensions of SF during the trimesters
+Lagadec et al BMC Pregnancy and Childbirth
+Page of
+Table Factors significantly associated with poor quality of life according to the studies p
+Risk factors
+Socio demographic characteristics
+Older pregnant women
+Economic difficulties
+Low level of education
+Unemployment
+Ethnic minority
+Isolation
+Singe
+No partner support
+No social support
+Little no partner support
+Medical characteristics
+Adverse medical history
+Obesity
+Bad physical condition prior to conception
+Smoking prior to conception
+Addiction to alcohol prior to conception
+Practicing physical exercise
+Obstetrical characteristics
+Experience of infertility
+Primiparity
+More advanced in weeks pregnant
+Hospitalisation during pregnancy
+Medical y assisted reproduction
+Obstetric Complications
+Psychological characteristics
+Prenatal depressive symptoms
+Stress prenatal anxiety
+History of sexual violence
+History of domestic violence
+Difficult life events
+Symptoms during pregnancy
+Nausea vom ting
+Epigastralgia reflux
+Back pain
+Sleep disorder
+Comfort
+Protective Factors
+Occupation housewife
+Ethnic minority
+Single
+Obesity
+Primiparity
+More advanced in weeks pregnant mcs
+Medically assisted reproduction
+Wanted pregnancy
+Happy being pregnant
+Optimistic Life Satisfaction
+Lagadec et al BMC Pregnancy and Childbirth
+Factors influencing quality of life
+The results of studies on the factors associated with the
+quality of life of pregnant women are presented in Ta
+bles and Thirty three articles were selected for this
+section
+Socio demographic factors
+The following socio demographic factors were strongly
+associated with a better quality of life in studies
+mean maternal age primiparity early gestational age
+the absence of economic problems a high educational
+level being employed being married having family and
+friends With less consensus belonging to an ethnic mi
+nority and alcohol consumption have also been associ
+ated in studies with a poorer quality of life
+Physical factors
+Medically assisted reproduction obstetric complications
+medical history possible hospitalisation and obesity were
+factors frequently indicating a poor quality of life during
+pregnancy in studies Physical symptoms associated
+with pregnancy such as nausea and vomiting epigastral
+gia reflux shortness of breath dizziness back pain and
+sleep problems affected women s quality of life Exercise
+was a factor that improved the quality of life of pregnant
+women With less consensus we found other factors as
+sociated with a poorer QOL such as smoking during the
+months prior to conception a history of alcohol depend
+ence and poor comfort
+Psychological factors
+Eight studies have shown that symptoms of depression
+anxiety and stress were factors that had a strong nega
+tive impact on the quality of life of pregnant women
+Sexual and domestic violence was linked to a lower
+quality of life as well as the experience of
+life threatening events and the experience of infertility
+Happiness at being pregnant and being optimistic were
+factors related to a better quality of life
+Discussion
+Summary of results
+Pregnant women especially during the third trimester
+had significantly lower quality of life scores than
+non pregnant women of the same age Physically the
+quality of life decreased significantly during the course
+of the trimesters On a psychological level several stud
+ies reported an increase in quality of life relative to men
+tal health during pregnancy and in others psychological
+stability was seen Many factors were associated with the
+quality of life in pregnant women Some factors associ
+ated with higher well being were socio demographic
+first time pregnancy a favourable socio economic sta
+tus social support partner support Similarly the desire
+Page of
+to be pregnant and moderate physical activity were fac
+tors associated with a positive quality of life A lesser
+quality of life was attributed to physical factors such as
+complications during pregnancy medically assisted
+reproduction obesity prior to conception physical
+symptoms such as nausea and vomiting sleep difficul
+ties and otherwise attributed to psychological factors
+such as anxiety and stress during pregnancy and de
+pressive symptoms
+Strengths and limitations of the study
+To our knowledge this is the only systematic review of
+international literature aimed at synthesizing data re
+garding the quality of life of pregnant women Many fac
+tors have been studied considering the different
+dimensions of the quality of life for pregnant women in
+general good health This work also has its limitations
+the research only included articles written in English or
+French Therefore the issue of generalizability should be
+discussed In addition two other articles could not be
+read in their entirety Within the selected studies few
+studies were multi centric and only one study used in
+formation from a large national survey In addition we
+found a high degree of heterogeneity in the methodology
+for population selection in choosing the quality of life
+scale as well as in the results presented dimensions of
+SF composite scores etc complicating the synthesis
+study Specific HRQOL questionnaires were not in
+cluded because they are focused more on specific prob
+lems in pregnancy such as nausea and vomiting rather
+than on women s overall well being and their quality of
+life With regard to the quality of these studies three
+studies did not explicitly take into account the con
+founding factors in the presentation of the results
+which may lead to confusion bias In addition a
+large number of studies were cross sectional These
+studies did not establish an associative cause and effect
+relationship
+Research and policy implications
+In some countries the quality of life of pregnant woman
+has been little studied In France for example only one
+study provided information on pregnant women
+well being study not included in our analysis cf
+exclusion criteria In this study the mental health of
+pregnant women was measured through the following
+question On a psychological level how did you feel
+during your pregnancy Well Quite well Quite poor
+Poor Of the women interviewed reported
+poor self rated mental health during pregnancy More
+over sociodemographic characteristics indicative of so
+Cial disadvantage were associated with a higher risk of
+poor quality of life sometimes a social gradient was ob
+served Since SF is a generic scale it allows
+Lagadec et al BMC Pregnancy and Childbirth
+Page of
+Table Factors Associated with Quality of Life During Pregnancy
+Author Year
+Country
+Aquino NM
+Chan
+Chang SR
+Coban A
+Da Costa D
+Dall Alba V
+De Pascalis L
+Elsenbruch S
+Emmanuel
+EN
+Emmanuel
+EN
+Factors related to QOL
+Sexual Violence
+Nausea and vomiting
+Pregnancy stage
+Experience of infertil ty
+Medically Assisted Reproduction
+Number of Pregnancies
+Spontaneous Abortions Parity
+Medical Condition
+Pregnancy wanted
+Back pain
+Age
+Education
+Income
+Professional status
+Marital status
+Parity
+Weeks pregnant
+Medical history
+Medical complications during
+pregnancy
+Anxiety related to pregnancy
+Partner Support
+Social Support
+Sleep Problems
+Depressive symptoms
+Life Events
+Epigastralgia Gastroesophageal
+Reflux
+Medically assisted fertility
+Social support
+Age Relationship status
+Length of relationship
+Level of education
+Parity Timing of first
+antenatal visit Social
+upport
+Age Number of
+pregnancies
+Marital status
+Ethnicity Maternal
+stress
+Key Results
+Women who had experienced sexual violence had significantly lower PCS and
+MCS PCS SD and MCS SD I than women who had no
+history of sexual violence PCS and MCS p
+PW without symptoms of NVP PCS MCS PW with moderate
+symptoms PCS MCS PW with severe symptoms PCS MCS
+The variations between the PCS and MCS of the groups are all significant P
+All QO dimensions are affected by NVP p
+Factors associated with PCS Pregnancy stage beta
+p
+experience of infertility beta
+Factors associated with MCS stage of pregnancy beta p
+number of pregnancies beta p medical condition beta
+p
+Factors associated with overall QOL Pregnancy stage beta
+I p
+desired pregnancy beta p medical condition beta
+No significant difference between PBP and NBP in the different areas of WHO
+QO BREF physical health p psychological hea th p Social rela
+tionship p Environment p
+Multivariable analysis Sleep problems affected most QOL components PF b
+p PR p BP p GH
+VT b p ooo SF p ooo MH
+p
+A depressive mood was an independent determinant in of the QOL
+dimensions BP b
+O GI I p VT p
+SF p ER b p MH p
+and anxiety also affected physical activity and limitations due to
+physical state
+The life experience of the past year had a negative impact on physical activity
+social functioning and mental health scores Having complications during
+pregnancy affected physical activity and social functioning Age professional
+status educational level and medical problems were linked to on y one
+parameter of
+Epigastralgia significant decrease in PR p and of SF p RGO
+significant decrease in PR p and of ER p
+PW having a medical y assisted pregnancy PCS then MCS
+then PW having conceived spontaneously PCS then MCS
+then
+Physical well being scores significantly lower in the medically assisted preg
+nancy group than in the spontaneous conception group P in the cat
+egories physical health limitations vitality social functioning Physical well
+being scores of PW with medically assisted pregnancy decreased during preg
+nancy more significantly than spontaneously conceived PW P
+Low social support was statistically associated with a reduced QO For PCS F
+P For MCS F P On the contrary the group where
+social support was high had better QOL P
+Social support beta was not significant during pregnancy
+PW between and years of age had a better RF PR BP than the others PF
+P O OOI PR BP I O p O OOl
+Caucasian and Asian PW had higher SF and MH scores than other ethnic
+groups S F p MH F
+Single PW had higher SF and MH scores than other ethnic groups SF F
+p MH F
+A significant relationship is found between the different components of
+and maternal stress except for BP PH r
+PR BP GI I
+Table Factors Associated with Quality of Life During Pregnancy Continued
+Lagadec et al BMC Pregnancy and Childbirth
+Depression Anxiety
+Page of
+Author Year
+Country
+Fatemeh A
+Gezginq K
+Gharacheh
+M
+Haas JS
+Hama K
+Jommen J
+Lacasse A
+Lau Y
+Li J
+Factors related to QOL
+Age Gestational age
+Gravidity Education
+Wanted pregnancy
+life satisfaction Income
+Obsessive Compulsive Disorder
+Domestic violence
+Age Ethnicity Marital Status
+Level of Education
+Body Mass Index Obesity
+Financial problems
+Physical exercise
+Depressive Symptoms
+Pre conception smoking
+History of a cohol addiction
+Symptoms associated w th pregnancy
+Medical background
+Medical complications
+Number of pregnancy
+Nausea and Vom ting
+Ethnicity Age Medical
+Insurance employment
+Educational level ncome
+Physical exercise
+Alcohol and tobacco
+Perceived Stress
+Depression Age Body
+Mass Index Educational
+Level
+Physical exercise History
+of smoking History of
+alcohol abuse Income
+Wanted pregnancy Weeks
+pregnant Parity History of
+abortion Pregnancy
+complications
+Key Results
+r VT SF r ER r MH r p
+Age years GH PF SF MH years GH
+PF p o o O SF MH p
+Gestationnal age weeks PF BP weeks PF p
+Gravid N GH PF RP SF MH
+N GH OOO PF RP SF
+p MH p VT
+Sign ficant association between levels of education and PF and MH between
+wanted pregnancy and RE and MH life satisfaction and SF and MH figures not
+avai able
+Patients with OCD Physical health Mental health
+Social relationships Environment
+PW control group Physical health and p Mental health
+p Social relations and p
+Environment and p
+S sub scales are lower for abused women than for non abused women PR
+p GH PCS p VT p SF ER p
+MH p MCS
+Factors associated with poor health financial problems OR IC
+ow physical function before pregnancy OR C
+depressive symptoms OR IC obesity OR IC
+lack of physical exercise OR
+IC Smoking during the
+months prior to conception OR IC History of alcohol
+dependence OR I IC
+Indigestion was associated with poor physical function OR IC
+Dizziness OR IC I back pain OR IC I
+breathlessness OR IC I were associated with a low vitality
+score Dizziness indigestion shortness of breath and sleep disorders were
+associated with depressive symptoms
+PF RP GH no significant differences between nulliparous and multiparous
+women
+BP and W scores higher in mu tiparous in the and monthes of
+pregnancy and ower in the month of pregnancy SF higher in multiparous
+from the month to the month and lower in the month RE and MH
+scores higher in multiparous up to month pregnancy p no figures
+avalaible
+The PW group with depression had sign ficantly ower QOL scores for all
+parameters p except for physical function p and vitality p
+The PW group with clin cal y significant anxiety levels had significantly
+lower QOL scores in terms of physical pain and general health p
+PW without NVP PCS MCS PW with NVP PCS MCS P
+AND P O
+PCS age
+p Country of birth MCS b P Hispanic
+ethnicity MCS b p
+Physical exercise PCS p MCS p Coffee PCS b
+Alcohol PCS
+Sign ficant association between perceived stress and PCS beta
+p
+and MCS b p
+The PW group presenting depression had significantly lower QOL scores for all
+parameters p
+PW not depressed PCS MCS p PW
+depressed PCS MCS p
+Age PCS r p MCS r O p BMI MCS r p
+Education level MCS r p
+Monthly income MCS r p Week of pregnancy PCS r p
+MCS r p
+Multivariable PCS EPDS beta
+p Age beta
+O p
+WP beta
+p Employment beta
+Marital status beta
+MCS EPDS beta p
+Lagadec et al BMC Pregnancy and Childbirth
+Table Factors Associated with Quality of Life During Pregnancy Continued
+PCS MCS PCS P
+Page of
+Author Year
+Country
+Liu L
+Mckee MD
+Moyer CA
+Nakamura Y
+Nicholson
+WK
+Olsson C
+Ramirez
+Setse R
+Shishehgar S
+Tavoli Z
+endais I
+sai SY
+Factors related to QOL
+Ethnicity
+Depression
+Social support
+Optimism
+Comfort
+Hospitalisation
+Ethnicity Income Social Support
+Depressive Symptoms Multi parity
+Chronic illness
+Back pain
+Age Educational Status Socioeconomic levels
+Work status Marital Status Gestational weeks
+Depressive symptoms
+Perceived stress during pregnancy
+Domestic violence
+Physical activity
+Sleep patterns
+Key Results
+BMI beta p Wanted pregnancy beta p
+Black patients PF PR B GH SF MH
+White patients PF BP GH VT S
+MH Black women had significantly lower QOL scores in physical activity p
+physical limitation p physical pain p P social
+functioning limitations related to mental state p After
+adjusting for depressive symptoms social support and BMI these differences
+become no onger statistically sign ficant
+Depression is strongly and negatively correlated with all subscales of SF MH
+VT r SF and ER
+Social support was
+related to MH r ER O and SF r
+Optimism is positively associated with MCS p p and MH
+p
+The sense of comfort and the areas of HRQOL were significantly lower for
+inpatients than for ambu atory PW and non pregnant women p and p
+A sign ficant correlation was found between subjective comfort and QOL
+in vitality p and mental health p
+Ethn city African Americans Whites PF
+RP
+Income GH S MH Social support PR
+GI I MH
+Multi parity previous deliveries PR SF Depressive
+symptoms PR p BP GH p VT
+p SF p ER p MH p Still
+sign ficant in multivariable analysis
+The QOL was lower in the PW group with back pain group p
+also found in the sleep subcategories
+P energy pain p and physical mobility p
+The PW group with back pain had a higher rate of occupational withdrawal
+p aptitude for household work p Social life p
+and leisure time P
+p Educational Status GH r p
+Age PF r
+Socioeconomic levels PR r p GH r p S r
+p ER r p MH r p Occupation housewife
+PR r p GH r O p Marital Status Being married or
+cohabiting PF O p PR r p GH r p
+VT r O p SF p ER r O p MH r
+p
+In the trimester PW not depressed PF PR BP GH VT
+SF ER MH
+Depressed PW PF PR BP GH SF R

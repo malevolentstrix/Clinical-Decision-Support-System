@@ -1,0 +1,810 @@
+ FR Hydronephrosis during pregnancy a
+literature survey Eur J Obstet Gynecol Reprod Biol
+Lumbers ER Pringle KG Roles of the circulating renin angiotensin
+aldosterone system in human pregnancy Am J Physiol Regul Integr
+comp Physiol
+Krop M Danser AH Circulating versus tissue renin angiotensin
+system on the origin of pro renin Curr Hypertens Rep
+Gonzalez Campoy JM Romero JC Knox FG Escape from the sodium
+retaining effects of mineralocorticoids role of ANF and intrarenal
+hormone systems Kidney Int
+Davison JM Gilmore EA Durr J Robertson GL Lindheimer MD
+Altered osmotic thresholds for vasopressin secretion and thirst in human
+pregnancy Am J Physiol Pt FIOS
+Davison JM Sheills EA Barron W M Robinson AG Lindheimer
+MD Changes in the metabolic clearance of vasopressin and in plasma
+vasopressinase throughout human pregnancy J Clin Invest
+Castro LC Hobel CJ Gornbein J Plasma levels of atrial natriuretic
+peptide in normal and hypertensive pregnancies a meta analysis Am J
+Obstet Gynecol
+American College of Obstatrics and Gynecology ACOG Practice
+Bulletin Nausea and vomiting of pregnancy Obstet Gynecol
+Verberg MF Gillot DJ Fardan N Grudzinskas JG Hyperemesis
+gravidarum a literature review Hum Reprod Update
+Clark SM Costantine MM Hankins GE Review of NVP and HG
+and early pharmacotherapeutic intervention Obstet Gynecol Int
+Niebyl JR Goodwin JM Overview of nausea and vomiting of preg
+nancy with an emphasis on vitamins and ginger Am J Obstet Gynecol
+Suppl Understanding
+Koch K L Gastrointestinal factors in nausea and vomiting of pregnan
+cy Am J Obstet Gynecol Suppl Understanding
+Glinoer D The regulation of thyroid function in pregnancy pathways
+of endocrine adaptation from physiology to pathology Endocr Rev
+Dorr HG Heller A Versmold H T et al Longitudinal study of proges
+tins mineralocorticoids and glucocorticoids throughout human preg
+nancy J Clin Endocrinol Metabol
+Elsheikh A Creatsas G Mastorakos G et al The renin aldosterone
+system during normal and hypertensive pregnancy Arch Gynecol Obstet
+Gordon MC Maternal Physiology in Obstetrics Normal and Problem
+pregnancies edn Philadelphia Saunders Elsevier
+Prager D Braunstein G Pituitary disorders during pregnancy
+Endocrinol Metab Clin North Am l
+Linheimer MD Barron W M Davison JM Osmotic and volume control
+of vasopressin release in pregnancy Am J Kidney Dis
+Angueira AR Ludvik AE Reddy T E Wicksteed B et al New insights
+into gestational glucose metabolism lessons learned from century
+approaches Diabetes
+Butte NE Carbohydrate and lipid metabolism in pregnancy normal
+compared with gestational diabetes mellitus Am J Clin Nutr
+Newbern D Freemark M Placental hormones and the control of mater
+nal metabolism and fetal growth Curr Opin Endocrinol Diabetes Obes
+Mazaki Tovi S Kanety H Pariente C et al Insulin sensitivity in late
+gestational and early postpartum period the role of circulating maternal
+adipokines Gynecol Endocrinol
+Brizzi P Tonolo G Esposito F et al Lipoprotein metabolism during
+normal pregnancy Am J Obstet Gynecol
+Kovacs CS Calcium metabolism during pregnancy and lactation NCBI
+Bookshelf http www ncbi nlm nih gov books
+Woodrow JP Sharpe CJ Fudge NJ Hoff AO Gagel RF Kovacs CS
+Calcitonin plays a critical role in regulating skeletal mineral metabolism
+during lactation Endocrinology
+Nelson Piercy C Handbook of Obstetric Medicine edn London
+CRC Press
+Research Square
+Preprints are preliminary reports that have not undergone peer review
+They should not be considered conclusive used to inform clinical practice
+or referenced by the media as validated information
+A Clinical Decision Support System for Prediction of
+Postpartum Hemorrhage in Vaginal Birth
+Jingxuan Yang
+Zhengzhou University
+Peng Guo
+Henan University of Technology
+Yingli Song
+Zhengzhou University
+Lingli Han
+Zhengzhou University
+Xiaoyu Yang
+Zhengzhou University
+Hua Bai zzu edu cn
+Zhengzhou University
+Research Article
+Keywords postpartum hemorrhage artificial neural network clinical decision support system prediction
+model vaginal delivery
+Posted Date June
+DOI https doi org rs rs
+License O This work is licensed under a Creative Commons Attribution International License
+Read Full License
+Page
+Abstract
+Objective
+The morbidity and mortality caused by postpartum hemorrhage has been increased since in China
+in addition promoting vaginal delivery is an important task in China currently This study aimed to
+develop a clinical decision support system CDSS to predict postpartum hemorrhage among vaginal
+delivery women
+Design
+A retrospective cohort study
+Methods
+We performed a retrospective analysis of medical records among vaginal delivery women who had
+visited the obstetrics clinic at the Third Affiliated Hospital of Zhengzhou University from to
+these women then were randomly divided into a training set a validation set and a test set
+We adopted a univariate logistic regression model to select the significant features P
+Afterward we trained several artificial neural networks and binary logistic regression to predict the
+postpartum hemorrhage the neural networks included multi layer perceptron MLP back propagation
+BP and radial basis function RBF In order to compare and identify the most accurate network we
+used the confusion matrix and the receiver operating characteristic ROC curve We finally developed a
+clinical decision support system based on the most accurate network All statistical analyses were
+performed by IBM SPSS version and MATLAB software was applied to develop the clinical
+decision support system
+Results
+Initially potential variables were addressed by the univariate logistic regression significant
+predictors were then selected to enter the binary logistic regression and neural networks P value
+After validation the best performing model was the multi layer perceptron network with the highest
+discriminative ability AUC Cl Followed by the back propagation model AUC
+Cl the logistic regression model AUC Cl The radial
+basis function model AUC Cl had lower discriminative ability
+Conclusion
+Page
+In summary in terms of predicting postpartum hemorrhage the multi layer perceptron network performed
+better than the back propagation network logistic regression model and radial basis function network
+The developed clinical decision support system based on the multi layer perceptron network is expected
+to promote early identification of postpartum hemorrhage in vaginal delivery women thereby improve the
+quality of obstetric care and the maternal outcome
+What Is Already Known About The Topic
+Postpartum hemorrhage is the leading cause of maternal mortality and morbidity worldwide
+Due to the heterogeneity of discriminant criteria and risk factors between cesarean section and
+vaginal delivery there are some limitations in predicting postpartum hemorrhage using the same
+warning model for different mode of delivery
+Current prediction models for postpartum hemorrhage in vaginal delivery are linear algorithm that
+divide events into possible or not possible However most obstetrics events are not as black and
+white
+What this paper adds
+We developed the first midwifery led clinical decision support system model based on artificial neural
+network ANN algorithm for prediction of postpartum hemorrhage in vaginal delivery
+This study demonstrated that the multi layer perceptron MLP network had the most accurate
+prediction ability followed by the back propagation BP network the logistic regression model and
+the radial basis function RBF network
+This study could enrich the practice of artificial intelligence in nursing informatization
+Introduction
+Postpartum hemorrhage PPH is the leading cause of maternal mortality and morbidity worldwide
+l it
+accounting for of maternal deaths and of adverse pregnancy outcomes respectively
+In
+makes up of maternal deaths in developed countries while in developing countries
+developed countries postpartum hemorrhage has fallen to the third as a direct cause of maternal death
+after pregnancy hypertension and thromboembolism however it remains the leading cause of maternal
+death in developing countries
+In China with the opening of two child policy from more and more elderly pregnant women have
+become the potential population of postpartum hemorrhage The increasing trial of labor after a previous
+cesarean section TOLAC and elective repeated cesarean section ERCS caused by previous one child
+policy also deteriorate the risk of obstetric hemorrhage Maternal mortality has been decreasing and
+seems to reach a bottleneck since in China but the mortality caused by postpartum hemorrhage is
+Page
+increasing compared with the maternal mortality caused by postpartum hemorrhage increased by
+in to and increased to in
+The cesarean section rate in China rose from in to in far from the
+recommended by the World Health Organization thereby promoting vaginal delivery is an important
+task in Chinese obstetrics department now As a decision maker for early warning of postpartum
+hemorrhage during the vaginal delivery midwives often rely on their own experience to judge and have
+not yet formed a unified decision standard On the one hand prediction and decision making for
+postpartum hemorrhage in vaginal delivery is a formidable task for midwives Multiple factors have
+varying influence on the occurrence of hemorrhage among vaginal delivery women nonlinear relations
+between risk factors and postpartum hemorrhage make it more complicate as well On the other hand
+the qualification of most Chinese midwives is college or technical secondary school education and
+standardized training of midwives is low in China as well
+The objective of this study is to develop a clinical decision support system CDSS to solve above
+problems A clinical decision support system is invented to help physicians make appropriate decisions
+for patients it uses artificial intelligence algorithm to solve semi structured or unstructured clinical
+problem Clinical decision support system not only is a principle and method based on the knowledge
+reasoning and logic operation to acquire and process relevant patient data from the electronic medical
+records automatically but also is an auxiliary decision making system which provide decision makers
+with valuable information at the right time by the human computer interaction Clinical decision
+support system is considered to be the inevitable trend of the combination of medicine and artificial
+intelligence Chinese government issued many policies to promote the sustainable development of
+the notice of national hospital informatization construction focusing on
+medical informatization
+electronic medical records by the National Health Commission in pointed out that clinical
+nursing decision support system should realize intelligent input intelligent generation intelligent
+reminder quality control and rectification of nursing records and other functions
+Data driven clinical decision support system based on a large amount of electronic medical record data
+can be divided into case reasoning system and machine learning system a good machine learning
+algorithms can extract personalized features from data and summarize patterns to achieve high
+Current algorithms of prediction model for postpartum hemorrhage adopted by the
+accuracy
+American College of Obstetricians and Gynecologists ACOG and the California Maternal Quality Care
+decision tree
+Collaborative CMQCC include logistic regression
+random forest and extreme
+gradient boosting Most of them are linear prediction that divides events into possible or not possible
+However as real life has shown most events are not as black and white Rather than other liner
+algorithms artificial neural network ANN is a multi layer complex model formed by connecting neurons
+perceptron through synapses weights ANN has strong nonlinear mapping ability to address high
+dimensional data it can also reasonably predict and modify the relationship between input variables and
+output variables ANN models possess strong feature of self adaption self organizing self learning and
+Page
+tolerate faults In recent years ANN has been applied to medical research such as prediction of
+disease diagnosis and prognosis prediction of nursing adverse events which has proven high superiority
+Therefore this study aims to build a scientific midwifery led clinical decision support system based on
+ANN algorithm for prediction of postpartum hemorrhage in vaginal delivery which will provide a practical
+theoretical basis for improving the success rate of treatment and reducing the mortality of postpartum
+hemorrhage
+Material And Methods
+Data source and data collection
+In order to identify the potential variables we first conducted a literature system review and a Delphi
+method with obstetricians and midwives We adopted the search strategy to find relevant literature as
+follows postpartum hemorrhage OR PPH OR transfusion AND predictor OR risk factor AND vaginal
+delivery OR vaginal birth in PubMed Web of Science Embase Springer Elsevier SD and Wiley We read
+related papers published in English from Moreover we considered current medical evidence and
+obstetricians consultations We identified potential variables regarding this however five of these
+variables residence history of postpartum hemorrhage pre pregnancy weight antenatal steroids and
+antepartum infection were not registered in the electronic medical records Hence we designed the data
+collection form and collected another variables manually Appendix The needed data was
+retrospectively collected from the medical records of vaginal delivery women who had visited the
+obstetrics clinic at our hospital the Third Affiliated Hospital of Zhengzhou University in Zhengzhou
+China from to We also tried to use the Maternal and Child Health Information Network of
+Henan Province to collect large data but some essential elements were not available in the information
+system so we collected complete data manually Two trained researchers first author and second
+author extracted the data from the electronic medical records
+Out of registered vaginal deliveries from the electronic medical records we excluded any patients
+who underwent antenatal fetal demise gestations under weeks caesarean section late
+postpartum hemorrhage hematological and neoplastic disorders severe liver diseases
+incomplete medical records and death before childbirth According to these criteria only
+of these deliveries were available and eligible for study The final dataset included the potential
+predictor variables and bleeding or not outcomes of these cases Next these women were randomly
+divided into a training set a validation set and a test set
+Pre processing and feature selection
+The outcomes event of postpartum hemorrhage was defined as blood loss at least within
+hours after the fetus is vaginally delivered This outcome was selected because it was consistent with the
+most recent definition from Guidelines for the Prevention and Management of Postpartum Hemorrhage
+Page
+issued by Obstetrics Division Obstetrics and Gynecology Branch Chinese Medical Association
+the literature of obstetrics and gynecology published by People s Medical Publishing House in
+Edition
+as well as the consensus definition of the Royal College of Obstetricians and
+Gynecologists and the World Health Organization
+There were data values missing for some variables we used the multiple imputation to impute missing
+data values for variables in model This approach has been recommended by the prediction model risk of
+bias assessment tool PROBAST and applied in previous study
+Numerous variables will lead to over fitting of the model and increase the clinic burden Therefore the pre
+processing techniques were frequently used to reduce dimension or select feature This step can
+eliminate irrelevant weakly relevant or less important features Variable screening is an important
+procedure to improve the overall stability of the model We selected variables using the backward
+method and the univariate logistic regression performed by IBM SPSS software version variables
+were finally identified as input neurons and the standardized importance of each variable was shown on
+a scale with a maximum value of to understand the contribution of each variable in the machine
+learning model Fig
+Establishment of artificial neural network models and
+logistic regression LR model
+The artificial neural networks and LR models of postpartum hemorrhage were built based on the
+identified predictors from the previous step
+The multi layer perceptron MLP network
+The MLP neural network consists of one input layer one or more hidden layer and one output layer The
+neuron is the basic component of the network Neurons include input neurons hidden layer neurons and
+output neurons MLP is a multi layer feedforward neural network it has advantages of processing
+nonlinear data good fault tolerance and strong self learning ability The MLP network model can pass
+the data among each neuron in direction and excavate the internal deep connections between the input
+data whose learning process mainly includes the forward transmission of data and the back propagation
+of errors This kind of feedback learning method can reasonably change the weight and bias of each
+input so that obtain the best prediction ability for the model The number of neurons in hidden layer
+can be automatically calculated by SPSS software and the relative optimal number of neurons can be
+get
+The Back Propagation BP network
+BP neural network is multi layer feedforward neural network based on gradient descent algorithm it is
+trained according to the error back propagation algorithm and has been the most widely used neural
+network which is composed of input layer hidden layer and output layer Activation function between
+Page
+layer and layer is Sigmoid type differentiable function the error is propagated back to the input layer from
+back to front layer by layer the link weight is adjusted constantly in order to realize arbitrary nonlinear
+mapping between input and output The internal Sigmoid function was automatically calculated
+by SPSS and the relative optimal function parameters were obtained
+The radial basis function RBF network
+The RBF neural network consists of input layer radial basis layer and output layer the input layer is made
+up of signal source nodes the radial basis layer is a nonlinear radially symmetric function that is
+attenuated to the center point according to specific needs the output layer is the output result of input
+layer processed by radial basis function RBF neural network is a kind of forward conduction neural
+network which is applicable to solve classification problems It can approximate any continuous function
+with any precision so that achieve the optimal prediction ability by adjusting the parameters of the radial
+The internal radial basis function was automatically calculated by SPSS and the
+basis function
+relative optimal function parameters were obtained
+Evaluation of the networks and development of the
+CDSS
+Firstly in order to identify the best performed model based on a given dataset we not only developed five
+models for the MLP network RBF network and BP network respectively but also constructed the binary
+logistic regression to compare the performance of the traditional statistical analysis model and the
+artificial neural network model Secondly the receiver operating characteristic ROC curves of each
+model in training set validation set test set were plotted by R software We used the area under the
+receiver operating characteristic AUROC sensitivity specificity and accuracy to evaluate and select the
+most accurate model In addition we also conducted the internal validation by fold cross Finally we
+designed the CDSS based on the most accurate network by MATLAB software to reach
+visualization
+Ethical and legal considerations
+This study was approved by the Ethics Committee of the Third Affiliated Hospital of Zhengzhou
+University and followed the ethical guidelines set by the Helsinki Declaration of the World Medical
+Congress
+Results
+Identifying significant variables for predicting
+postpartum hemorrhage in vaginal delivery
+Originally we identified variables that is likely to affect the postpartum hemorrhage among vaginal
+delivery women Appendix Among the deliveries included just occurred
+Page
+physiological blood loss less than ml in addition there were cases of postpartum
+hemorrhage of blood loss more than ml and of blood loss between ml
+After performing the univariable logistic regression the most significant fifteen factors with P value
+were selected for predicting the postpartum hemorrhage Table Tables demonstrated the distribution
+of these factors in our total dataset for bleeding and not bleeding respectively Figure showed the
+variable importance in the selected MLP model which had the best discrimination ability The top
+variables ranked from most to least important were white blood cells WBC during the first labor stage
+newborn weight cervical laceration history of uterine surgery parity manual removal of placenta
+episiotomy placenta previa operative vaginal delivery uterine curettage assisted reproduction
+velamentous placenta threatened abortion induced labor and placental abruption
+Table
+Descri tive statistics of variables
+Variables
+Threatened Abortion
+History of Uterine Surgery
+Parity
+Placenta Previa
+Velamentous Placenta
+Induced Labor
+Assisted Reproduction
+Newborn Weight
+Operative Vaginal Delivery
+Manual Removal of Placenta
+Uterine Curettage
+Episiotomy
+Cervical Laceration
+Placental Abruption
+WBC during the first stage of labor
+Postpartum Hemorrhage
+No n
+Page
+Yes n
+p value
+Designing and evaluating BR MLP and RBF neural
+networks
+Results of evaluatin
+Table
+MLP BP and RBF networks with different neurons based on total data
+ANN
+MLP
+RBF
+Number of
+neurons
+hidden layer
+Functions
+hidden layer
+Hyperbolic
+Tangent
+Sigmoid
+Softmax
+Functions
+output
+layer
+Softmax
+Sigmoid
+Identity
+Accuracy
+Specificity
+Sensitivity
+MLP structure
+The multi layer perceptron MLP network consisted of Hyperbolic Tangent activation functions in the
+hidden layer Softmax activation functions in the output layer Table demonstrated the number of
+neurons in the hidden layer and performance of the five trained networks As seen Network performed
+the best the accuracy specificity and sensitivity in the total data was and
+respectively there were epochs in the hidden layer
+Page
+As shown in confusion matrix of Table the computer randomly selected of the total sample size
+hemorrhage cases were accurately predicted with specificity of The outcome of the
+remaining samples was postpartum hemorrhage of which cases were predicted accurately with
+sensitivity of The overall prediction accuracy of the training was Similarly in the validation
+set the specificity sensitivity accuracy was respectively in the test set that was
+respectively
+Table
+Confusion matrix of the MLP
+Nonbleeding Bleeding
+Training set
+Validation set
+Test set
+Non bleeding
+Bleeding
+Total
+Non bleeding
+Bleeding
+Total
+Non bleeding
+Bleeding
+Total
+o
+Specificity
+Sensitivity
+Accuracy
+Specificity
+Sensitivity
+Accuracy
+Specificity
+Sensitivity
+Accuracy
+BP structure
+The Back Propagation BP network covered Sigmoid activation functions in both hidden layer and
+output layer Table revealed the number of neurons in the hidden layer and performance of the five
+trained networks As seen Network performed the best accuracy specificity and sensitivity in the total
+data was and respectively there were epochs in the hidden layer
+As shown in confusion matrix of Table the computer randomly selected of the total sample size
+cases for the model training cases for the model validation and the rest
+cases for the model test For the samples used for training there were samples with non
+hemorrhage cases were accurately predicted with specificity of The outcome of the
+remaining samples was postpartum hemorrhage of which cases were predicted accurately with
+sensitivity of The overall prediction accuracy of the training was Similarly in the validation
+Page
+set the specificity sensitivity accuracy was respectively in the test set that was
+respectively
+Table
+Confusion matrix of the BP
+Nonbleeding Bleeding
+Training set
+Validation set
+Test set
+Non bleeding
+Bleeding
+Total
+Non bleeding
+Bleeding
+Total
+Non bleeding
+Bleeding
+Total
+o
+o
+Specificity
+Sensitivity
+Accuracy
+Specificity
+Sensitivity
+Accuracy
+Specificity
+Sensitivity
+Accuracy
+RBF structure
+The radial basis function RBF network was composed of Softmax activation functions in the hidden
+layer Identity activation functions in the output layer Table indicated the number of neurons in the
+hidden layer and performance of the five trained networks As seen Network performed the best
+accuracy specificity and sensitivity in the total data was and respectively there
+were epochs in the hidden layer
+According to Table the computer randomly selected of the total sample size cases for the
+model training cases for the model validation and the rest cases for the model test
+For the samples used for training there were samples with non hemorrhage cases were
+accurately predicted with specificity of The outcome of the remaining samples was
+postpartum hemorrhage of which cases were predicted accurately with sensitivity of The
+overall prediction accuracy of the training was Similarly in the validation set the specificity
+sensitivity accuracy was respectively in the test set the specificity sensitivity
+accuracy was respectively
+Page
+Table
+Confusion matrix of the RBF
+Nonbleeding Bleeding
+Training set
+Validation set
+Test set
+Non bleeding
+Bleeding
+Total
+Non bleeding
+Bleeding
+Total
+Non bleeding
+Bleeding
+Total
+o
+Specificity
+Sensitivity
+Accuracy
+Specificity
+Sensitivity
+Accuracy
+Specificity
+Sensitivity
+Accuracy
+Developing the CDSS
+To compare the performance of MLP BP RBF and LR model we put the four ROC curves of the four
+models together in the training set validation set and test set respectively Fig As shown in the Table
+and Fig after the validation best performing model was the multi layer perceptron MLP network
+with the highest discriminative ability AUC Cl Followed by the BP model AUC
+Cl logistic regression AUC Cl The RBF model AUC
+Cl had lower discriminative ability The MLP network had the best performance
+in the training data and test data as well Table
+Table
+AUC of the MLP BP RBF network and LR in the trainin validation test data
+MLP
+RBF
+LR
+Training set
+Validation set
+Test set
+Finally we selected the Network of MLP for developing the CDSS The graphical user interface of this
+CDSS was displayed in Fig As seen in this figure obstetricians can easily input the values of the
+variables and get the result of prediction for the postpartum hemorrhage
+Page
+Discussion
+We preliminarily constructed and validated three ANN models to predict postpartum hemorrhage in
+vaginal delivery women The MLP model indicated the best predictive ability in all groups of training
+validation and test Moreover compared with the traditional logistic regression model both MLP and BP
+models showed better discrimination ability to predict postpartum hemorrhage In addition A user
+friendly CDSS was developed according to the MLP model
+In terms of clinical application midwives could prepare full in advance for example triage expectant
+mothers with high risk of postpartum hemorrhage to the corresponding obstetric care level and initiate
+interventions Prediction of our model mainly focused on the time of labor and birth therefore we
+adopted the variables available during the same instances It is also appropriate to construct prediction
+model employing high risk factors after delivery such as cervical lacerations and newborn weight
+Importantly in order to facilitate clinical use immediately we recommend the information departments in
+hospital to integrate the aid decision making system in electronic medical records in the form of a risk
+calculator or outputting the result automatically When a pregnant woman is laboring by an obstetrician
+the midwife or other assistant could input the numerical values of the predictors into the built CDSS
+Fig and the prediction outcome postpartum hemorrhage or non postpartum hemorrhage would be
+output by clicking the button of submit in the designed interface of the system Once the system
+identifies some pregnancy women as postpartum hemorrhage the one should be considered carefully by
+the obstetricians According to the predicted outcome the obstetricians can make optimal decision for
+the pregnancy women about personalized treatment in the next step In this way the obstetrician can
+manage the labor stage more skillfully by early identification early warning early treatment in order to
+mitigate adverse outcome for these high risk patients For example midwives can make pre transfusion
+preparations for high risk patients in advance cross match blood tests and inform the blood transfusion
+department to prepare blood products particularly fresh frozen plasma can take up an hour to thaw At
+the same time it is conducive to the rational allocation of medical resources by arranging high risk
+bleeding women for delivering in different time to avoid insufficient staff resources
+In recent years medical institutions and obstetric experts at home and abroad have made a lot of
+exploration in the early warning evaluation and prediction of postpartum hemorrhage The risk score
+calculators formulated by them for different subgroups of people could indicate the possibility of
+postpartum hemorrhage to some extent and achieved certain results Ana developed and validated a
+predictive model based on the binary logistic regression and the ridge regression to measure the risk of
+excessive blood loss in vaginal delivery women but this analysis only collected thirteen variables
+and the sensitivity was low Michelle trained and tested a logistic regression prediction models
+involving variables for hemorrhage and transfusion by a data set from deliveries however the
+results were not visualized Kartic et al used two traditional statistical models logistic regression with
+and without lasso regularization and two machine learning models random forest and extreme gradient
+boosting to predict postpartum hemorrhage the extreme gradient boosting model showed the best in
+both the discrimination and decision curve analysis but some variables in the model were difficult to
+Page
+collect so that limited the clinical practicability Ahmadzia et al developed an online calculator for
+postpartum hemorrhage risk scores Dunkerton et al established a decision tree model for postpartum
+hemorrhage prediction based on a non parametric recursion algorithm Bingnan Chen
+created a
+nomogram model to predict postpartum hemorrhage individually however all of them were only used for
+cesarean section population Due to the heterogeneity of discriminant criteria and risk factors between
+cesarean section and vaginal delivery there are some limitations in predicting postpartum hemorrhage
+using the same warning model for different mode of delivery In addition most of current prediction
+models for postpartum hemorrhage were linear algorithms logistic regression is a traditional statistics
+algorithm which can screen out the limited variables associated with postpartum hemorrhage and
+eliminate confounding variables However when there are too many variables to observe the LR
+neither detect complicated nonlinear relationships between independent and dependent variables nor has
+the ability to address collinearity between variables so some potential valid variables were removed
+Compare with above models our study indicated that both neural network and logistic regression can
+provide excellent discrimination for the prediction of postpartum hemorrhage hence a finally selected
+model to build a CDSS should rely on a combination of model performance discrimination calibration
+and net benefit clinical applicability and acceptability by obstetricians and expectant women
+The ANN prediction model established in this paper aims to provide personalized prediction results and
+achieve effective risk stratification The results of our study revealed that the ANN model was more
+accurate to predict postpartum hemorrhage among vaginal delivery At present the ANN model has been
+widely used in disease prediction and diagnosis chronic disease management medical image
+recognition and other aspects it had shown superior performance than conventional predictive
+models even employing the same input variables Postpartum hemorrhage as an obstetric
+emergency has various factors and complex mechanism If we take the epidemiological data and use the
+traditional linear discriminant function to predict it there are great limitations As an information
+processing system abstracted from biological neural network ANN has the ability of self learning and
+identifying the relationship between variables which can approximate arbitrary nonlinear functions with
+arbitrary accuracy Previous studies implied that neural network models reflected a stronger fit to
+address complex nonlinear relationships and cost less effort to generate than the traditional regression
+algorithms It is imperative that ANN techniques automatically conduct variables selection missing
+values imputing and other data preprocessing procedures
+There was a lot of literature support for the included variables as risk factors for PPH Almost all the
+variables in our model are clinically available and have been identified in previous models including
+newborn weight cervical laceration history of uterine surgery parity manual removal of placenta
+episiotomy However one important predictor that has not been considered yet is the WBC count
+during the first stage of labor it is identified of importance in this study which extended the
+previous work in predicting PPH and may provide insights of underlying pathophysiology links between
+inflammation participation and PPH onset In our results the WBC count of hemorrhage women were
+higher than that of non hemorrhage women during the first stage of labor Possible reasons for this may
+Page
+be as follows infection leads to weak state of pregnancy women and those were vulnerable to PPH and
+labor is a state of stress which also leads high WBC count Further more clinical laboratory studies
+are needed to uncover the underlying pathophysiology mechanism between high WBC count during the
+first stage of labor and postpartum hemorrhage Our outcomes for the WBC showed a standardized
+importance this point maybe because the sample size was large but the morbidity of PPH was low and
+the number of cases was small in this model Nevertheless another statistical algorithm was conducted
+binary logistic regression to explore the odds ratio OR of the variables and confirm their statistical
+significance
+The second important risk factor was the newborn weight of standardized importance in our study
+which again matched previous studies This may because that increased newborn weight is
+associated with hyperextension of uterine muscle fibers and affects uterine contractions In addition
+pregnant women with large fetal weight may have other complications such as cephalic pelvic
+asymmetricity prolonged first and second stages of labor shoulder dystocia laceration of the soft birth
+canal uterine contraction which also increases the incidence of postpartum hemorrhage The
+newborn weight in our study was postpartum variable when the risk period of bleeding had passed we
+can consider introducing a prenatal diagnosis of macrosomia or estimated fetal weight according to the
+ultrasound into model Some other risk factors in our model for hemorrhage have been accepted
+generally namely operative vaginal delivery induced labor manual removal of placenta episiotomy and
+despite their fewer links to hemorrhage with standardized importance less than
+cervical tears
+the less noticeable whose effect is the more severe the situation goes
+Limitations
+Our study has several limitations Firstly neural network algorithms are driven by big data and rely on a
+large sample size We developed a CDSS based on electronic medical record from only one center the
+sample size was far insufficient the external validation was just conducted in our hospital so the result
+may be not generalizable robust internal and external validation is needed before promotion and
+application widely Secondly Missing data is another limitation of our study the study was restricted in
+the part of valid blood loss data from the original dataset the missing value of the covariable accounted
+for a considered proportion though we adopted multiple imputation techniques reported by the PROBAST
+the proportion of incomplete data also limited the generalization of the model Furthermore it is more
+likely that the missing values will continue to hinder integrating the models into electronic medical
+records Thirdly the predictors in our study all were static hourly data such as temperature heart rate
+systolic blood pressure oxygen saturation physical examination findings were not included
+In addition despite embedding all risk factors in the CDSS will be promising but it may increase clinical
+workload burden and could potentially delay intervention The impact of a model on aiding decision
+making depends on multiple characteristics of health providers and circumstances including ability to
+initiate immediately intervene response and weigh the risks against benefits capacity to take actions and
+Page
+Other
+expectant women or obstetricians compliance with the recommended measures
+environmental restrictions consist of staff space and facilities which are not considered into current
+CDSS Meanwhile estimated blood loss EBL is considered to be inaccurate subjective and always
+underestimated there is a mismatch between the actual blood loss and the vital signs urine volume and
+mental state of the individual shown A physical compensatory period of blood loss exists in the early
+bleeding stage Our definition of postpartum hemorrhage followed the current clinical guidelines
+however we did not evaluate other relevant clinical indicators of acute blood loss including a deep
+perineal hematoma from a laceration of the birth canal blood flow velocity and properties the bleeding
+was fluid or turbulent or exudative and whether it clotted or contained clots The blood loss in
+predictive models needs to be measured by means of the quantitative blood loss QBL methods such as
+basic methemoglobin colorimetric method or image spectral analysis Shock Index Sl and so
+on
+Conclusions
+In summary we developed a CDSS based on the risk factors identified by artificial neural network
+algorithms This ANN model performed better than logistic regression in predicting the postpartum
+hemorrhage of vaginal delivery women In the future these findings will enrich nursing informational
+practice to promote the application of artificial intelligence technology such as ANN algorithm in the
+field of nursing As predictive tools become more widely used in obstetric care they can be introduced
+into clinical guidelines and care pathways after further testing Identification high risk mother of
+postpartum hemorrhage on labor admission using the clinical decision making system will benefit
+accurate prenatal diagnosis and prompt intervention which may lead to optimize obstetric care improve
+maternal prognosis and rational allocation of medical resource
+Abbreviations
+CDSS
+Clinical decision support system MLP Multi layer perceptron BP Back propagation RBF Radial basis
+function LR Logistic regression ROC Receiver operating characteristic ANN Artificial neural network
+PPH Postpartum hemorrhage TOLAC Trial of labor after a previous cesarean section ERCS Elective
+repeated cesarean section ACOG the American College of Obstetricians and Gynecologists CMQCC the
+California Maternal Quality Care Collaborative AUROC Area under the receiver operating characteristic
+WBC White blood cells OR Odds ratio EBL Estimated blood loss QBL Quantitative blood loss
+Declarations
+Ethics approval and consent to participate
+This study was approved by the Ethics Committee of the Third Affiliated Hospital of Zhengzhou
+University and followed the ethical guidelines set by the Helsinki Declaration of the World Medical
+Page
+Congress Informed consent was obtained by telephone from all the subjects before data
+collection and the private information in the study was well protected
+Consent for publication
+Not applicable
+Availability of data and materials
+The datasets used and or analyzed during the current study are available from the corresponding author
+on reasonable request
+Competing interest
+The authors declare no competing interest
+Funding
+This research is supported by the joint construction project of Henan Province medical science and
+technology research plan No
+Authors contributions
+YJ GP SY HL Y X and BH made substantial contributions to conception and design or acquisition of
+data or analysis and interpretation of data YJ SY HL and Y X involved in drafting the manuscript or
+revising it critically for important intellectual content GP completed the data analysis BH served as a
+consultant to others and directed them to complete the experimental design Each author should have
+participated sufficiently in the work to take public responsibility for appropriate portions of the content YJ
+and BH agreed to be accountable for all aspects of the work in ensuring that questions related to the
+accuracy or integrity of any part of the work are appropriately investigated and resolved
+Acknowledgements
+We would like to thank all participants for their contribution to the study
+ORCID
+Jingxuan Yang https orcid org OOOO
+Hua Bai https orcid org OOOO
+References
+National Health and Family Planning Commission China Health and Family Planning Statistical
+Yearbook Beijing Peking Union Medical College Press
+Page
+Sentilhes L Merlot B Madar H Sztark F Brun S Deneux Tharaux C Postpartum haemorrhage
+prevention and treatment Expert Rev Hematol doi
+Borovac Pinheiro A Pacagnella RC Cecatti JG Miller S El Ayadi AM Souza JP Durocher J
+Blumenthal PD Winikoff B Postpartum hemorrhage new insights for definition and diagnosis Am J
+Obstet Gynecol doi j ajog
+Appropriate technology for birth Lancet
+Yang J Bai H Knowledge attitude and experience of episiotomy practice among obstetricians and
+midwives a cross sectional study from China BMJ Open doi
+bmjopen
+Practice Bulletin No Summary Postpartum Hemorrhage Obstet Gynecol
+doi AOG
+Bright TJ Wong A Dhurjati R Bristow E Bastian L Coeytaux RR Samsa G Hasselblad V Williams
+JW Musty MD Wing L Kendrick AS Sanders GD Lobach D Effect of clinical decision support
+systems a systematic review Ann Intern Med doi
+Shortliffe EH MJ Clinical Decision Support in the Era of Artificial Intelligence JAMA
+doi jama
+Montani S Striani M Artificial Intelligence in Clinical Decision Support a Focused Literature Survey
+Yearb Med Inform doi s
+State Council of the People s Republic of China Opinions of the General Office of the State Council
+on Promoting the Development of Internet Medical Health Guo Ban Fa No
+http www gov cn zhengce content htm
+National Health Commission of the People s Republic of China Notice on Further Promoting the
+Informatization Construction of Medical Institutions Centered on Electronic Medical Records The
+National Health Office No
+http www nhc gov cn yzygj shtmI
+Garg AX Adhikari NK McDonald H Rosas Arellano MP Devereaux PJ Beyene J Sam J Haynes RB
+Effects of computerized clinical decision support systems on practitioner performance and patient
+outcomes a systematic review JAMA doi jama
+Bateman BT Berman MF Riley LE Leffert LR The epidemiology of postpartum hemorrhage in a
+large nationwide sample of deliveries Anesth Analg doi
+ANE
+Main EK Goffman D Scavone BM Low LK Bingham D Fontaine PL Gorlin JB Lagrew DC Levy BS
+National Partnership for Maternal Safety Council on Patient Safety in Women s Health Care National
+Partnership for Maternal Safety Consensus Bundle on Obstetric Hemorrhage Obstet Gynecol
+doi AOG
+Page
+Venkatesh KK Strauss RA Grotegut CA Heine RP Chescheir NC Stringer JSA Stamilio DM Menard
+KM Jelovsek JE Machine Learning and Statistical Models to Predict Postpartum Hemorrhage
+Obstet Gynecol doi AOG
+Garcia Vidal C Sanjuan G Puerta Alcalde R Moreno Garcia E Soriano A Artificial intelligence to
+support clinical decision making processes EBioMedicine doi j ebiom
+Kriegeskorte N Golan T Neural network models and deep learning CurrBiol
+doi j cub
+Hassabis D Kumaran D Summerfield C Botvinick M Neuroscience Inspired Artificial Intelligence
+Neuron doi j neuron
+Kraft M Gebauer J Bierke S Worm M Usefulness of an artificial neural network to assess
+Paydar K Niakan Kalhori SR Akbarian M Sheikhtaheri A A clinical decision support system for
+prediction of pregnancy outcome in pregnant women with systemic lupus erythematosus ntJ Med
+Inform doi j ijmedinf
+Mai RY Lu HZ Bai T Liang R Lin Y Ma L Xiang BD wu GB Li LQ Ye JZ Artificial neural network
+model for preoperative prediction of severe liver failure after hemihepatectomy in patients with
+hepatocellular carcinoma Surgery doi j surg
+Obstetrics Division Obstetrics and Gynecology Branch Chinese Medical Association Guidelines for
+Prevention and Management of Postpartum Hemorrhage Chin J Obstet Gynecol
+doi j issn
+Xie Xing Gou Wenli Obstetrics and Gynecology Edition People s Medical Publishing House
+Royal College of Obstetricians and Gynaecologists Postpartum haemorrhage prevention and
+management Green top guideline No Available at https www rcog org uk en guidelines
+research services guidelines
+World Health Organization The prevention and management of postpartum haemorrhage report of
+a technical working group Geneva Switzerland World Health Organization
+Wolff RF Moons KGM Riley RD Whiting PF Westwood M Collins GS Reitsma JB Kleijnen J Mallett
+S PROBAST Groupt PROBAST A Tool to Assess the Risk of Bias and Applicability of Prediction
+Model Studies Ann Intern Med doi
+Sturdza AE Poetter R Kossmeier M Kirchheiner K Mahantshetty U Haie Meder C Lindegaard JC
+Jurgenliemk Schulz l Tan LT Hoskin P van Limbergen E Gillham C Segedin B Tharavichitkul E Iturre
+EV Fokdal LU Polterauer S Kirisits C Tanderup K Nomogram predicting overall survival in locally
+advanced cervical cancer patients treated by radio chemotherapy including image guided
+brachytherapy a Retro EMBRACE study IntJ Radiat Oncol Bio Phys
+doi j ijrobp
+Page
+Javed F Gilani SO Latif S Waris A Jamil M Waqas A Predicting Risk of Antenatal Depression and
+Anxiety Using Multi Layer Perceptrons and Support Vector Machines J Pers Med
+doi
+Chen Y Mao Y Pan X Jin W Qiu T Verification and comparison of three prediction models of
+ischemic stroke in young adults based on the back propagation neural networks Medicine
+Baltimore oo doi MD
+Deng Y Zhou X Shen J Xiao G Hong H Lin H Wu F Liao BQ New methods based on back
+propagation BP and radial basis function RBF artificial neural networks ANNs for predicting the
+occurrence of haloketones in tap water Sci Total Environ doi j scitoten
+v
+Rubio A Molina Alarcon M Arias Arias Martinez A Development and validation
+of a predictive model for excessive postpartum blood loss A retrospective cohort study IntJ Nurs
+Stud doi j ijnurstu
+Pressly MA Parker RS Waters JH Beck SL Jeyabalan A Clermont G Improvements and limitations
+in developing multivariate models of hemorrhage and transfusion risk for the obstetric population
+Ahmadzia HK Phillips JM James AH Rice MM Amdur RL Predicting peripartum blood transfusion
+in women undergoing cesarean delivery A risk prediction model PLoS One
+doi journal pone
+Dunkerton SE Jeve Y B Walkinshaw N Breslin E Singhal T Predicting Postpartum Hemorrhage
+PPH during Cesarean Delivery Using the Leicester PPH Predict Tool A Retrospective Cohort Study
+Am J Perinato doi s
+Chen B Zhang L Wang D Li J Hou Y Yang T Li N Qiao C Nomogram to predict postpartum
+hemorrhage in cesarean delivery for women with scarred uterus A retrospective cohort study in
+Xu S Guan LJ Shi BQ Tan YS Zhang XJ Recurrent Hemoptysis After Bronchial Artery Embolization
+Prediction Using a Nomogram and Artificial Neural Network Model AJR Am J Roentgenol
+doi AJR
+Sperandei S Understanding logistic regression analysis Biochem Med Zagreb
+doi BM
+Neary C Naheed S McLernon DJ Black M Predicting risk of postpartum haemorrhage a systematic
+Jonsdottir IH Dahlman A MECHANISMS IN ENDOCRINOLOGY Endocrine and immunological
+aspects of burnout a narrative review EurJ Endocrino RI doi EJE
+Suresh PS Koner BC Effect of acute and chronic stress on leucocyte count modulation by
+chlordiazepoxide Immunopharmacol Immunotoxico doi
+Page
+Fukami T Koga H Goto M Ando M Matsuoka S Tohyama A Yamamoto H Nakamura S Koyanagi T
+To Y Kondo H Eguchi F Tsujioka H Incidence and risk factors for postpartum hemorrhage among
+transvaginal deliveries at a tertiary perinatal medical facility in Japan PLoS One
+doi journal pone
+Escobar GJ Soltesz L Schuler A Niki H Malenica l Lee C Prediction of obstetrical and fetal
+complications using automated electronic health record data Am J Obstet Gynecol
+doi j ajog
+Escobar GJ Gupta NR Walsh EM Soltesz L Terry SM Kipnis P Automated early detection of
+obstetric complications theoretic and methodologic considerations Am J Obstet Gynecol
+doi j ajog
+Lertbunnaphong T Lapthanapat N Leetheeragul J Hakularb P Ownon A Postpartum blood loss
+visual estimation versus objective quantification with a novel birthing drape Singapore Med J
+doi smedj
+Merlin MA Alter SM Raffel B Pryor PW External blood loss estimation using the MAR Method
+Am J Emerg Med doi j ajem
+Buckland SS Homer CS Estimating blood loss after birth using simulated clinical examples
+Women Birth doi j wombi
+Doctorvaladan SV Jelks AT Hsieh EW Thurer RL Zakowski MI Lagrew DC Accuracy of Blood Loss
+Measurement during Cesarean Delivery AJP Rep doi s
+Sohn CH Kim WY Kim SR Seo DW Ryoo SM Lee MS Lee JH Oh BJ Won HS Shim JM Lim KS An
+increase in initial shock index is associated with the requirement for massive transfusion in
+emergency department patients with primary postpartum hemorrhage Shock
+doi SHK
+Figures
+Page
+WBC 

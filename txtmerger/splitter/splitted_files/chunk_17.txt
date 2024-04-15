@@ -1,0 +1,1073 @@
+ topics rates and
+LDA keywords The results show that prenatal care the
+gender of baby and emotion sharing emerged to be the
+top three topics accounting for and
+respectively The next four most frequent topics are items for
+frontiersin org
+Hou and Hou
+TABLE Topics in the seventh month of pregnancy
+women s physical discomfort full term and prenatal
+fphys
+Topic name
+The gender of baby
+Pregnant women s physical
+discomfort
+Sleep during pregnancy
+Ponderal growth
+Glucose tolerance test
+Prenatal diet
+Items for childbirth
+Household affairs
+Appeals and desire
+Fetal movement
+Rate
+TABLE Topics in the eighth month of pregnancy
+Topic name
+The gender of baby
+Emotion sharing
+Prenatal care
+Sleep during late pregnancy
+Prenatal diet
+Appeals and desire
+Ponderal growth
+Pregnant women s physical
+discomfort
+Household affairs
+Preparation for delivery
+Rate
+LDA keywords
+Four dimensional ultrasound results give a hand take a look guess boy girl the second pregnancy the first
+pregnancy want curious
+Mid pregnancy pain in the legs pain in the buttocks uncomfortable tired anesis serious method
+constipation feel ill
+Night sleep everyday not good morning get up stay awake restroom always sleeplessness midnight
+Big belly pregnant kilogram weight gain quick months small fat
+Glucose tolerance drink sugar water blood glucose empty stomach high normal accused of sugar check
+doctor draw blood
+Eat food prefer pregnancy hungry calcium tablet fruit emesis nutrition breakfast meat
+Expected date of confinement prepare purchase need goods maternity package hospital clothes
+recommend price share
+Husband mother in law work at home everyday cry play with mobile phone look after a baby
+Baby mother hope love healthy cheer anticipate happy birth successfully
+Feel belly fetal movement special normal recently obvious more and more frequent
+LDA keywords
+Take a look boy girl give a hand the second pregnancy four dimensional ultrasound results curious
+daughter want the first pregnancy
+Nervous anxiety uncomfortably smoothly cheer emotion unthink insist at home work boring
+Inspect B ultrasound amniocentesis too large too small position of the fetus normal four dimensional
+ultrasound cord around neck recheck breech position
+Night sleep later pregnant trimester difficulty in sleeping get up restroom stay awake daytime wake up in
+midnigh t
+Eat prefer drink hungry anemia food pregnant women emesis constipation meat nutrition breakfast
+calcium tablet
+Baby mother hope love birth healthy anticipate term delivery father meet safety all the best
+Expected date of confinement kilogram weight awaiting delivery control fat belly count down gain
+Pain recently feel ill upset stomach why lie later pregnant trimester tired sometimes walk sit pain in
+public bone
+Husband child mother in law look after the first child cry home marriage unthink come back
+Buy hospital need clothes pregnant women breast pump goods recommend child prepare price
+childbirth sleep during late pregnancy fetal movement and
+pregnant women s physical discomfort which comprised
+and respectively Prenatal diet
+household affairs and expected date of confinement emerged
+to be the last three topics at and
+Information needs in the tenth month
+Fourteen topics are identified in the tenth month of
+pregnancy Table presents the top ten topics in the tenth
+month Appeals and desire emerged to be the most frequent
+topics accounting for of all topics The following five
+topics delivery expected date of confinement pregnant
+Frontiers in Physiology
+care comprised and
+respectively The next four topics are sleep during late
+pregnancy nutrition and weight during pregnancy
+household affairs
+and good things to recommend
+accounting for and respectively
+Summary of topic analysis about
+information needs
+To more vividly show the main topics that pregnant women
+pay attention to during the whole pregnancy we conducted a
+word cloud analysis on the LDA keywords of the topics during
+frontiersin org
+Hou and Hou
+TABLE Topics in the ninth month of pregnancy
+fphys
+Topic name
+Prenatal care
+The gender of baby
+Emotion sharing
+Items for childbirth
+Sleep during late pregnancy
+Fetal movement
+Pregnant women s physical
+discomfort
+Prenatal diet
+Household affairs
+Expected date of confinement
+Rate
+TABLE Topics in the tenth month of pregnancy
+Topic name
+Appeals and desire
+Delivery
+Expected date of confinement
+Pregnant women s physical
+discomfort
+Full term
+Prenatal care
+Sleep during late pregnancy
+Nutrition and weight during
+pregn ancy
+Household affairs
+Good things to recommend
+Rate
+LDA keywords
+Doctor fetal heart monitor prenatal care B ultrasound fetus relatively small normal biparietal diameter
+cord around neck amniocentesis
+Boy girl give a hand take a look name curious guess four dimensional ultrasound results shape of belly
+Cheer anticipate sign in count down insist the last month emotion finally
+Prepare purchase package for delivery hospital need preparation for delivery goods clothes price
+delivery recommendation
+Night sleep not good sleeplessness later pregnant trimester restroom daytime tantalization last night
+midnight awake
+Belly fetal movement recently whether or not uterine constraction terrible frequent sometimes belly
+firmness
+Pain feel ill lie walk pubis tired later pregnant trimester sit turn over get up buttocks back pain
+Eat pregnant women prefer drink hungry food emesis not allowed morning nutrition
+Husband mother in law at home work look after unthink marriage child cook accompany
+Expected date of confinement pregnant in advance over months day count puerperal period chat
+LDA keywords
+Earnestly hope eutocia meet no tear no side out safety throes super quick uterine contraction healthy
+Uterine contraction hospital bleed stomachache amniorrhea the opening of the cervix boy girl have sons
+and daughters
+Expected date of confinement time reaction anxious no action steady delay days
+Belly pain feel fetal movement pubis walk lie become hard frequent waist sometimes
+Full term get ready anticipate cheer give birth count down finally nervous time insist
+Doctor inspect in hospital amniocentesis B ultrasound prenatal care fetal heart normal monitor worry
+fetus umbilical cord
+Night later pregnant trimester everyday difficulty in sleeping feel ill tired tantalization sleeplessness
+Eat pregnancy nutrition weight grow pregnant biparietal diameter drink striae gravidarum control fat
+Husband child mother in law look after the first child at home expense work cry confinement in
+childbirth
+Purchase compare recommend need choose paper diaper clothes body prefer pregnant women share
+pregnancy The results are presented in Figure In word cloud
+statistics word frequency is distributed by font size As shown in
+Figure the fonts of words such as pregnancy child and
+fetus are prominent indicating that the topic of pregnancy is
+centered on pregnant women and babies Secondly the fonts of
+words such as hospital normal doctor and healthy are
+also clearly displayed indicating that obstetric examination is an
+important topic that pregnant women continue to pay attention
+to during pregnancy which can help pregnant women to keep
+abreast of their physical status and fetal upgrowth Then words
+such as pain belly good eat hungry drink and
+food appeared frequently reflecting pregnant women s
+Frontiers in Physiology
+concerns about their physical condition and diet during
+pregnancy Words such as cheer hope happy love
+boy and girl reflect pregnant women s good wishes for
+their babies and their curiosity about their babies gender
+Sentiment analysis
+Sentiment analysis is performed to further understand the
+changes in pregnant women s information seeking behavior
+during pregnancy As discussed earlier we use
+Python to call
+the third party library SnowNLP to calculate the sentiment value
+frontiersin org
+Hou and Hou
+FIGURE
+The results of sentiment analysis
+fphys
+Post counts
+Proportion of emotionally positive posts
+Month of pregnancy
+of each post text and the range of sentiment value results is O
+Among them a sentiment with a value greater than is
+positive and a sentiment less than or equal to is negative
+The closer the value is to the more positive the emotion the
+closer the value is to O the more negative the emotion Figure
+presents the posts with a sentiment value greater than in each
+pregnancy month
+By combining the outcomes of topic analysis and sentiment
+analysis the results show that in the first month of pregnancy the
+number of posts is relatively small mainly focusing on topics
+such as test strip and pregnancy tests consultation and the
+proportion of emotionally positive posts is also relatively low On
+the one hand many pregnant women have not found out that
+they are pregnant in the first month of pregnancy on the other
+hand the first month of pregnancy is often unstable and at a loss
+for pregnant women so their emotions are relatively negative
+The number of posts in the second month of pregnancy is the
+most but the proportion of posts with positive emotions is also
+relatively low In the second month of pregnancy most pregnant
+women have already guessed or confirmed pregnancy but new
+pregnant women have little knowledge about pregnancy
+Therefore posts about precautions for early pregnancy
+early pregnancy inspection symptoms of early pregnancy
+and other related early pregnancy topics surged However due to
+the uncertainty of the baby s status and the lack of relevant
+knowledge of pregnant women the proportion of emotionally
+positive posts in the second month of pregnancy is relatively low
+Frontiers in Physiology
+After the first months of relevant inspections and
+understanding of pregnancy knowledge pregnant women have
+entered a relatively mature stage At the same time the status of
+the baby gradually stabilized so the number of posts from the
+second month of pregnancy to the third month dropped
+significantly and it continued to be stable until the ninth of
+pregnancy
+The proportion of emotionally positive posts from the third
+month to the ninth month of pregnancy is higher than that in
+other months and there is an upward trend from the third month
+to the sixth month of pregnancy The proportion is the highest in
+the sixth month of pregnancy and then gradually decreases After
+the third month of pregnancy the baby s state gradually stabilizes
+the pregnant women s belly gradually bulges and the pregnant
+women can even feel the baby s fetal movement but there is
+generally no obvious physical discomfort so the pregnant women s
+emotions are relatively more positive Since the seventh month of
+pregnancy the baby s weight increases the pregnant women s
+belly increases the body gradually becomes clumsy and the body
+also has various discomforts such as soreness and difficulty
+sleeping so pregnant women show more negative emotions
+The number of posts in the tenth month of pregnancy surged
+again second only to the second month of pregnancy and the
+proportion of emotionally positive posts also dropped sharply
+only higher than in the first of pregnancy The tenth month of
+pregnancy is the month when the baby is about to be born On
+the one hand the pregnant women s body aches and sleep
+frontiersin org
+Hou and Hou
+problems are more prominent On the other hand pregnant
+women are faced with the uncertainty of childbirth and a state of
+fear and anxiety appears It can also be seen from the results of
+the topic analysis that in the current month appeals and desire
+ranked first among the topics that pregnant women paid
+attention to accounting for In addition expected
+date of confinement and pregnant women s physical
+discomfort are also the main contents of concern for
+pregnant women
+Discussion and conclusion
+Summary of findings
+The purpose of the current study was to investigate pregnant
+women s information seeking behavior By a combination of
+descriptive analysis topic analysis and sentiment analysis the
+current work expands our knowledge by proving important
+findings The correlation analysis showed that more pregnant
+women contribute to more posts Moreover pregnant women
+with a college education or above are more likely to seek
+information about pregnancy on internet platforms The more
+economically developed cities have higher Internet usage
+Therefore pregnant women will be more probable to use
+Internet platforms to seek information
+Furthermore the topics from the first month to the tenth
+month of pregnancy were extracted in topic analysis The
+findings show that the topics in different months of
+pregnancy relate to the present stages of pregnancy The
+current paper identified six nineteen eighteen thirteen
+eleven sixteen thirteen sixteen nineteen and fourteen topics
+in different months of pregnancy The specific topics in different
+stages show the changes in pregnant women s attention
+In addition the sentiment analysis showed the variation of
+pregnant women s emotions in information seeking The results
+of sentiment analysis show a peak of the posts in the second
+month of pregnancy The proportion of emotionally positive
+posts reached its peak in the sixth month of pregnancy Pregnant
+women s emotional sentiment deeply interacts with the results of
+topic analysis
+Practical and theoretical implications
+Our study presents theoretical and practical significance
+First this is one of the first studies to understand pregnant
+women s information seeking using the methods of data mining
+and text analysis Previous studies on the information needs of
+maternal health revealed the topics that pregnant women pay
+attention to however the existing work is limited in the
+descriptive analysis and self reported questionnaire data
+Kamali et al Ahmadian et al Jin et al
+Frontiers in Physiology
+fphys
+Kassim This study is unique by employing enormous
+quantities of data and the research data covers a long period By
+visualizing the posts of every province the geographical
+distribution of pregnant women s posts was clearly displayed
+The current study enriches our understanding of the
+relationships among pregnant women s information seeking
+regional economic development level and educational level
+Second this study provides comprehensive research
+involving abundant analysis Compared with previous research
+Kamali et al the current work divides the data from the
+first month of pregnancy to the tenth month of pregnancy and
+analyzes the large amounts of data according to the pregnancy
+period This study provides important insights for understanding
+the change of emotions during different pregnant stages and
+connecting the changes of emotions with the topics that cause
+pregnant women s attention The current work provides the
+perspectives for future research by the subdivision of data in
+different pregnant stages
+Third the findings of this study have several practical
+implications The findings indicate that pregnant women pay
+attention to different topics during various months of pregnancy
+The maternal and infant related websites should provide
+customized information recommendations for pregnant
+women according to their stages of pregnancy For example
+information such as precautions and inspection for early
+pregnancy should be recommended for pregnant women in
+the second month of pregnancy Moreover the proportion of
+emotionally positive posts reached its peak in the sixth month of
+pregnancy and is relatively low in the first and the tenth of
+pregnancy The relevant government management departments
+and hospitals should concern about anxiety during early
+pregnancy and before delivery The popularization of
+knowledge about pregnancy and childbirth would be useful
+for improving pregnant women s emotions
+Limitations and future research
+The study is subject to several inevitable limitations First the
+data source of this study is Mama cn mainly located in China
+What is now needed in the future is a cross national study
+involving data for countries at different levels of development
+The present study lays the groundwork for future research into
+pregnant women s information seeking behavior around the
+world Future studies are encouraged to improve the
+generalizability of the current work by involving data from
+different countries and understanding the role of cultural
+identity in determining pregnant women s information
+seeking Second the data such as personal attributes and
+specific family environments are not included in the paper
+since such data cannot be obtained from the website It would
+be interesting to investigate the effect of family related variables
+on pregnant women s emotional sentiment in future work
+frontiersin org
+Hou and Hou
+Data availability statement
+The original contributions presented in the study are
+included in the article supplementary material further
+inquiries can be directed to the corresponding author
+Author contributions
+KH provided the conceptualization data collection initial
+analysis review and editing TH worked on the results
+methodology and writing All authors contributed to this study
+read and agreed to the submitted version of the manuscript
+Funding
+This study was funded by the College Youth Innovation
+Talent Project of Guangdong Province China No
+the Higher Education Research Project
+References
+Ahmadian L Khajouei R Kamali S and Mirzaee M Use Of the
+Internet by pregnant women to seek information about pregnancy and
+childbirth Inf Health soc care doi
+Dahshan A Chehab M Mohamed A Kubaisi N and Selim N
+Pattern of internet use for pregnancy related information and its predictors among
+women visiting primary healthcare in Qatar A cross sectional study BMC
+Pregnancy Childbirth doi O
+Blei D M Ng A Y and Jordan M Latent Dirichlet allocation
+J Mach Learn Res
+Blei D M Probabilistic topic models Commun ACM
+doi
+Chinn M D and Fairlie R W ICT use in the developing world An
+analysis Of differences in computer and internet penetration Rev Int Econ l
+Favaretto M Shaw D De Clercq E Joda T and Elger B S Big
+data and digitalization in dentistry A systematic review of the ethical
+issues Int J Environ Res Public Health doi lO
+ijerph
+He D Yao Z Zhao F and Feng J How do weather factors drive online
+reviews The mediating role of online reviewers affect Industrial Manag Data Syst
+doi imds
+Jin H Wang H Gong C and Liu L A study on the influencing factors
+of consumer information seeking behavior in the context of ambient intelligence
+J Ambient Intell Humaniz Comput doi
+y
+Kamali S Ahmadian L Khajouei R and Bahaadinbeigy K Health
+information needs Of pregnant women Information sources motives and barriers
+Kassim M A qualitative study of the maternal health information
+seeking behaviour of women of reproductive age in Mpwapwa district Tanzania
+Frontiers in Physiology
+fphys
+sponsored by Guangdong Higher Education Academy No
+and the Teaching and Research Project of
+Guangzhou Xinhua University No
+Conflict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest
+Publisher s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their affiliated
+organizations or those of the publisher the editors and the
+reviewers Any product that may be evaluated in this article or
+claim that may be made by its manufacturer is not guaranteed or
+endorsed by the publisher
+D Ristov S and Snajder J Document based topic coherence
+measures for news media text Expert Syst Appl doi lO j eswa
+Leon Sanz P Key points for an ethical evaluation of healthcare big data
+Processes doi
+Li D Rzepka R Ptaszynski M and Araki K Hemos A novel deep
+learning based fine grained humor detecting method for sentiment analysis of
+social media Inf Process Manag doi j ipm
+Panichella A A Systematic Comparison of search Based approaches for
+LDA hyperparameter tuning Inf Softw Technol doi lO j infsof
+Pian W Song S and Zhang Y Consumer health information needs A
+systematic review of measures Inf Process Manag doi lO j
+ipm
+Reifegerste D Blech S and Dechant P Understanding information
+seeking about the health of others Applying the comprehensive model of
+information seeking to proxy online health information seeking J Health
+Commun doi
+Shah A M Yan X Qayyum A Naqvi R A and Shah S J Mining
+topic and sentiment dynamics in physician rating websites during the early wave of
+the COVID pandemic Machine learning approach Int J Med Inf
+doi j ijmedinf
+Wang L Niu J and Y u S SentiDiff Combining textual information and
+sentiment diffusion patterns for Twitter sentiment analysis IEEE Trans Knowl
+Data Eng doi tkde
+Xu G Meng Y Qiu X Yu Z and wu X Sentiment analysis of
+comment texts based on BilSTM IEEE Access doi lO access
+Zhang C Jiang J Jin H and Chen T The impact of COVID on
+consumers psychological behavior based on data mining for online user comments
+in the catering industry in China Int J Environ Res Public Health
+doi
+frontiersin org
+ELSEVIER
+Midwifery
+Contents lists available at
+ScienceDirect
+Midwifery
+journal homepage
+www elsevier com locate midw
+Midwifery
+Check for
+u dat
+WRISI voices A mixed methods study of women s experiences of
+pregnancy related public health advice and risk messages in the UK
+Rebecca Heather Trickeyb Julia Sanders Clare Murphya
+a Centre for Reproductive Research Communication British Pregnancy Advisory Service Furnival Street London United Kingdom
+b School of Social Sciences Cardiff University United Kingdom
+c School of Healthcare Sciences Cardiff University United Kingdom
+ARTICLE
+Article history
+INFO
+Received April
+Revised June
+Accepted July
+Keywords
+Pregnancy
+Public health
+Risk
+Mixed methods
+Introduction
+ABSTRACT
+Background Women receive many public health messages relating to pregnancy which are intended
+to improve outcomes for babies and mothers However negotiating the risk landscape and maternity
+care system can feel confusing and disempowering Relationships between women and their healthcare
+providers are paramount but they can be adversely affected by issues of trust and autonomy
+Methods We used a nested study design including an online survey and qualitative interviews to gain
+an understanding of women s experiences of risk messages during pregnancy We purposively sampled
+survey participants to ensure the interview population included women whose voices are seldom heard
+and are disproportionately impacted by poor risk communication
+Results A total of women responded to the survey and women participated in interviews Par
+ticipants received public health and risk messages from a range of sources Data showed that women
+wanted a balance between a better safe than sorry approach and evidence based information and ad
+vice Women reported a discrepancy between the topics they received a lot of information on and areas
+in which they felt they needed more advice Many participants said they were given conflicting advice
+and the way information was delivered sometimes challenged their autonomy We identified that younger
+women years old and women with higher BMIs experienced stigmatisation in their maternity care
+Conclusions Our research shows the importance of risk communication that respects women s auton
+omy and trusts them to make decisions about their own pregnancy We identified a need for a layered
+approach to risk communication Whilst some women are happy to adopt precautionary behaviour with
+out discussion others will want a thorough examination of the evidence base Our findings suggest that
+more individualised care continuity and less judgement and stigmatisation from HCPS will improve ex
+periences for women and may lead to better engagement with services
+The Authors Published by Elsevier Ltd
+This is an open access article under the CC BY license http creativecommons org licenses by O
+Public health messages or messages about risk regarding be
+haviours during pregnancy form one aspect of a laudable agenda
+to improve pregnancy outcomes and give babies a better start in
+life during the first days First days of life
+These messages are based on an understanding that information
+and clear direction will lead expectant parents primarily moth
+ers to make decisions that reduce the risk to the pregnancy and
+of their babies experiencing short and longer term adverse health
+outcomes
+Corresponding author
+E mail address
+rebecca blaylock bpas org R Blaylock
+https doi org j midw
+Pregnancy is often characterised as a teachable moment dur
+ing which women are receptive to the provision of public health
+messages and interventions Antenatal care Atkinson et al
+One consequence is that women before and during preg
+nancy are subjected to a wide range of messages about how to
+reduce or manage a multitude of risks As part of routine ante
+natal care midwives are expected to provide information on diet
+smoking and substance misuse weight management emotional
+and mental health exercise pre existing medical conditions foetal
+movements and pregnancy related symptoms all in addition to
+providing clinical monitoring of the woman and her pregnancy
+Sanders et al Family members friends and parenting ex
+perts also contribute their own sometimes contradictory opinions
+and experiences New study findings introduce an increasing range
+of risks and benefits
+from avoiding air pollution Smith et al
+to eating more broccoli Li et al These findings are
+The Authors Published by Elsevier Ltd This is an open access article under the CC BY license http l creativecommons org licenses O
+R Blaylock H Trickey J Sanders et al
+reported in press statements and media headlines which do not
+always fully reflect the nuances of results which may create alarm
+or additional pressure for women and the people who care for
+them Marshall et al
+The volume and intensity of instruction may be leading to un
+intended negative effects
+including excessive maternal anxiety
+Rowe and Fisher and a failure to deliver personalised care
+that addresses individuals concerns Sanders et al Further
+more risks may not always be communicated in a way that reflects
+or explains the limitations of the evidence base Sharp et al
+Elements of current pregnancy related public health advice
+have been challenged on the basis that they are insuffciently
+nuanced For example research which sought women s experi
+ences of the UK Governments guidance to abstain from drink
+ing alcohol in pregnancy raised concerns about the communica
+tion of the precautionary principle the better safe than sorry ap
+proach
+Communicating public health alcohol guidance for expec
+tant mothers Other concerns highlighted were the risk of
+irresolvable anxiety amongst women who had drunk alcohol be
+fore they knew they were pregnant and the encouragement of so
+Cial surveillance of women s decisions Alarm has also been raised
+about the extension of pregnancy risk messaging to all women
+of childbearing age including the recent World Health Organiza
+tion draft recommendation that all women with childbearing po
+tential abstain from drinking alcohol Global alcohol action plan
+Some suggest that the current risk messaging context may
+be driving a wider culture of parenting that tends to hold mothers
+responsible for any and all ills that befall their children Lee and
+Bristow In some countries such as the USA mothers are
+held maximally responsible and sometimes imprisoned for be
+haviours that may harm the foetus in utero such as taking illegal
+and even prescription drugs Negpor and
+We anticipated that the challenges in negotiating risk messages
+disproportionately affect women who have pre existing or preg
+nancy complications or who are more vulnerable in other ways
+Women who are taking medications have higher BMIs older
+or younger than the contemporaneous mean or those living in
+poverty can all find themselves under pressure to change their
+behaviour whilst also finding risks more diffcult to avoid Moth
+ers themselves and those responsible for their care sometimes
+struggle to balance maternal need for pharmacological treatments
+with limiting foetal exposure to potentially teratogenic medica
+tions
+Lawthom The MBBRACE UK inquiries have identified
+advice to pregnant women to discontinue antidepressants as a con
+tributory factor in maternal suicide and there are concerns that
+restrictions on sodium valproate use amongst women of reproduc
+tive age may result in the deaths of pregnant women with epilepsy
+Knight et al A failure to prioritise maternal health can also
+have grave impacts for a woman s foetus New research suggests
+that of women with Hyperemesis Gravidarum who did not re
+ceive appropriate treatment had an abortion and over half consid
+ered terminating otherwise wanted pregnancies Nana et al
+We aimed to gain an in depth understanding of women s lived
+experiences of pregnancy related risk messages and public health
+advice across a wide range of topics and issues
+Aims
+To describe women s lived experiences of risk communication
+relating to pregnancy in the United Kingdom and how this
+varies for
+a women with higher BMIs kg
+b women who make decisions relating to medications includ
+ing for Hyperemesis Gravidarum and for depression or anx
+iety
+c younger women
+Midwifery
+To describe which aspects or topics relating to risk communi
+cation for pregnancy are problematic for women and why
+To explore how women experience risk communication in
+terms of prioritising foetal and maternal health
+To explore how women experience the communication of un
+certainty and the precautionary principle as part of risk mes
+saging
+Methods
+Study design
+We used a mixed methods nested design consisting of an on
+line survey and in depth interviews with a sub sample of survey
+respondents
+Study population
+The study population consisted of women who were pregnant
+or who had been pregnant in the last five years This included
+women whose pregnancy ended in a live birth miscarriage still
+birth or termination of pregnancy
+Inclusion criteria
+Women aged years old
+Women who were or had been pregnant within the last years
+Women who were living in the United Kingdom
+Exclusion criteria
+Women with insuffcient English to participate in the online
+survey or interviews
+The survey and interviews were inclusive of all people who had
+been pregnant in the last five years We use the word women col
+lectively throughout this paper as that is how most participants
+self identify but refer to individuals using their self described gen
+der We use the term BAME but acknowledge that this is prob
+lematic and present our data on ethnicity in more granular and
+specific terms in
+of the Results The Power of Language
+Table
+Data collection
+Survey
+The online survey was developed in collaboration with the
+project advisory group A pilot of the survey allowed the re
+search team to draw on feedback from users and test dissemina
+tion strategies
+A participant information sheet and consent form were inte
+grated into the survey The survey included questions on partici
+pants experience of the advice information and support they re
+ceived from different sources during pregnancy with the focus on
+the respondent s most recent pregnancy Questions with open free
+text responses were included alongside questions with Likert scales
+and multiple choice responses Data on sociodemographic charac
+teristics were collected We also asked survey participants whether
+they would be prepared to be contacted for a future one to one in
+terview
+The survey was hosted on SurveyMonkey Surveymonkey
+took approximately min to complete and was open
+between June and August There were questions in
+total although the final questions were focused on participation
+in future research including the interviews Data generated by the
+other questions are presented in the results section
+The survey was disseminated through Facebook s inbuilt adver
+tising feature which invited women aged years from across
+the UK to participate and through partner organisations that work
+R Blaylock H Trickey J Sanders et al
+Table
+Survey population characteristics
+SOCIODEMOGRAPHICS
+Age years
+Missing
+Highest level of education
+Secondary school
+Apprenticeship HND NVQ
+A Levels
+degree
+Postgraduate degree
+Missing
+Relationship status
+Single
+Married
+Have a partner live with them
+Have a partner
+Divorced
+Widowed
+Separated
+Other
+Missing
+Ethnicity
+White English Welsh Scottish Northern Irish British
+White Irish
+White Gypsy or Irish Traveller
+White Other
+Mixed multiple ethnic groups White Black Caribbean
+Mixed multiple ethnic groups White Black African
+Mixed multiple ethnic groups White Asian
+Asian Asian British Indian
+Asian Asian British Pakistani
+Asian Asian British Bangladeshi
+Asian Asian British Chinese
+Black African Caribbean Black British
+Black African Caribbean Black British
+Prefer not to say
+Other
+Missing
+Female
+Male
+Prefer not to say
+Other
+Missing
+Receive State benefits
+Yes
+No
+Missing
+PREGNANCY HISTORY
+Gravidity
+Currently pregnant
+Yes
+No
+Missing
+Was most recent pregnancy planned
+Planned
+Unplanned
+Neither
+Prefer not to say
+Missing
+How did most recent pregnancy end
+Live baby
+Abortion
+Miscarriage
+Stillbirth
+Neonatal death
+Prefer not to say
+Still pregnant
+Missing
+African
+Caribbean
+n
+Midwifery
+Mean
+We acknowledge the term BAME is problematic and present our data on ethnicity in more granular and
+specific terms in this table The Power of Language
+The project was inclusive of all people who had been pregnant in the last five years regardless of their
+gender identity Other gender identities included non binary and gender fluid
+R Blaylock H Trickey J Sanders et al
+with expectant and new parents The survey link was shareable
+which allowed for snowball sampling Johnson
+One to one interviews
+To gain an in depth understanding of women s experiences we
+also conducted interviews A sampling frame was designed to en
+sure of the interview sample were eligible for means tested
+State benefits at least of the sample were from Black Asian
+and Minority Ethnic BAME backgrounds and included at least six
+women with experience of pregnancy advice in relation to
+having a higher BMI
+medications for mental health conditions
+medications for Hyperemesis Gravidarum
+being a younger mother aged at the time of their preg
+nancy
+having a termination due to a perceived or actual risk either to
+themselves or their foetus baby
+Some participants fell into more than one of these categories
+Survey participants that met the sampling criteria were selected
+to be contacted using a random number table until the required
+numbers were obtained
+The participant information sheets PIS consent forms and
+topic guides for the interviews were developed in collaboration
+with the project advisory group Several topic guides were tailored
+to ensure they were suitable for participants who experienced dif
+ferent pregnancy outcomes e g stillbirth live birth termination
+Narrative topic guides allowed participants to tell their pregnancy
+stories in chronological order Participants were asked to discuss
+their most recent pregnancy however many also drew on their
+wider experiences of pregnancy and parenthood
+Interviews including pilot interviews were carried out by two
+experienced female members of the research team RB and HT
+between April and November of Interviews lasted approx
+imately min Participants were offered the option of in
+person or telephone interviews Two pilot interviews were con
+ducted in person and were deemed to be of a high enough quality
+to be included in the analysis All subsequent interviews were con
+ducted by telephone and recorded using a dictaphone Participants
+received high street vouchers worth Interviewers made de
+tailed field notes following each interview Audio files were tran
+scribed verbatim using a commercial transcription service Elec
+tronic transcripts were stored separately to any identifiable data
+on a secure IT system and audio files deleted once they had been
+checked for accuracy
+Ethical approval
+Ethical approval was granted by the Research and Ethics com
+mittee of the School of Social Sciences at Cardiff University
+SREC
+Data analysis
+Survey data were processed and analysed using Microsoft Excel
+and STATA SE
+StataCorp
+The one to one interviews were analysed thematically follow
+ing Braun and Clarke s method Braun and Clarke
+Tran
+scripts were coded and analysed using Dedoose SocioCultural Re
+search All transcripts and accompanying data such as re
+searcher s field notes were read in detail several times by both in
+terviewers and high level codes pertaining to the original research
+questions were identified We identified further themes in the data
+during this inductive process resulting in a coding framework in
+formed by the data itself Narrative summaries of data pertaining
+Midwifery
+to each code were produced and cross checked by two researchers
+and subsequently organised into high level themes
+The qualitative data from the interviews and quantitative data
+from the survey were read alongside each other and are presented
+together Ivankova et al
+Research team
+The research team is trained in and had extensive experience
+of working in pregnancy related research and practice including
+social sciences RB and HT medical law IS public health RB
+JS and HT and clinical midwifery JS The research project was
+motivated and guided by the team s commitment to the values of
+feminist research Jenkins et al and informed choice
+Patient and public involvement
+We formed a project oversight group to provide input into our
+research design data collection materials and project outputs This
+group included representatives from maternity user groups advo
+cates healthcare professionals and researchers
+Results
+A total of women responded to the survey and took
+part in subsequent qualitative interviews The qualitative data from
+the interviews and quantitative data are presented together Main
+themes constructed through our inductive analysis were sources
+of information and advice better safe than sorry information
+gaps conflicting advice challenges to autonomy and stigmatised
+risk communication
+Sociodemographic information and pregnancy history for the
+survey population is presented in
+Table and for the interview
+subpopulation in Table
+Sources of information and advice
+Participants received information about how to have a healthy
+pregnancy from a range of sources In addition to their healthcare
+providers HCPs women sought out or received information from
+social media the mainstream media family and friends often with
+contradictory messages
+Media
+Several participants reflected on the emotional impact of read
+ing scaremongering stories in the traditional media One woman
+described how she had read an article about avoiding carrying
+heavy items during pregnancy and subsequently believed she had
+experienced a miscarriage because she had carried a car seat up a
+flight of stairs
+I remember reading somewhere you shouldn t be carrying heavy
+loads and things this that and the other l think I was moving
+my daughter s car seat from my car and I carried it up a flight
+of stairs and then literally I think a day or two later that s when
+I had the miscarriage I m thinking maybe it was because of that
+that s why it happened
+Whilst many participants described panicking about every
+thing feeling stressed and helpless many also
+recognised that warnings about avoiding risks during pregnancy
+were not achievable and you ve got to take it all
+with a pinch of salt
+R Blaylock H Trickey J Sanders et al
+Table
+Interview population characteristics
+SOCIODEMOGRAPHICS
+Age
+Midwifery
+Range
+Missing
+Highest level of education
+Secondary school
+Apprenticeship HND NVQ
+A Levels
+Undergraduate degree
+Postgraduate degree
+Missing
+Relationship status
+Married
+Have a partner live with them
+Have a partner live separately
+Polyamorous
+Ethnicity
+White English Welsh Scottish Northern Irish British
+BlacklAfrican Caribbean Black British African
+Mixedlmultiple ethnic groups White Black African
+Asian Asian British Chinese
+Asian Asian British Indian
+BlacklAfrican Caribbean Black British Caribbean
+Mixedlmultiple ethnic groups White Black Caribbean
+Mixedlmultiple ethnic groups White British Middle Eastern
+n
+Mean
+Gender
+Female
+Non binary
+Receive State benefits
+Yes
+No
+Missing
+PREGNANCY HISTORY
+Gravidity
+Live births
+Terminations abortion
+Miscarriage stillbirth
+Social media
+The majority of interview participants spoke about social me
+dia being a source of helpful information and advice and many
+had positive experiences of due date Facebook groups Simi
+larly participants who had conditions such as Hyperemesis Gravi
+darum found that social media provided peer support However
+many also recognised that social media was rife with mislead
+ing information and contradictory advice Participants who were
+in transnational pregnancy support groups noted the contradiction
+in pregnancy related advice across countries such as the number
+of routine antenatal check ups offered to women
+Family and friends
+Participants were overwhelmingly positive about the support
+provided to them by friends and their own mothers In addition to
+providing practical support they offered advice and reassurance in
+the face of an overwhelming landscape of pregnancy related risk
+information as was the case with WRII who described how her
+mum supported her when she was concerned about taking medi
+cation prescribed for Hyperemesis Gravidarum
+I think my mum was very supportive and saying like If the doc
+tors have prescribed it it ll be fine and like you need it basi
+cally WRII
+Partners were described by a small number of participants as
+being helpful and supportive However several participants ex
+pressed that they felt pressure to consider their partner s feelings
+when making decisions about their lifestyle during pregnancy One
+woman described how her partner asked her to give up Coca Cola
+When you ve got someone else in your life perhaps who s panick
+ing and like Argh it s a little bit more pressure than you would
+want You have to tell them to calm down and rein it in a little
+bit Like It s going to be okay don t worry you know I m still
+going to look after myself I m still going to look after this baby
+Better safe than sorry
+The survey data showed that women wanted a balance between
+a better safe than sorry approach and evidence based informa
+tion and advice Table The majority n either
+strongly or tended to agree that when scientists cannot rule
+out the possibility of harm pregnant women should take a better
+safe than sorry approach and n
+wanted straight
+forward do or don t advice There were some scenarios in which
+participants felt a particularly strong need to exercise caution and
+adopt the precautionary principle including when making deci
+R Blaylock H Trickey J Sanders et al
+sions around the consumption of alcohol and use of prescription
+medication
+Because no one really knows what s a safe amount and what isn t
+and they are saying now aren t they just don t bother drinking
+anything because we don t know what is a safe amount I ve had
+maybe three drinks during pregnancy and not even finished them
+So god such a negligible amount It s been absolutely fine I ve
+been alright with that I ve felt really good And I think I needed
+that I ve just seen it as like a detox
+Despite the support for the precautionary principle most sur
+vey respondents n also wanted to have all the avail
+able evidence in order to make their own decisions about their
+pregnancy Survey free text responses and interview data showed
+that this extended to situations where there was a paucity of evi
+dence or uncertainty
+A lot of standard advice seems to be based on a better safe than
+sorry mindset especially as it s not always possible to conduct high
+quality studies on pregnant women to generate robust evidence I
+personally find it more useful to understand the evidence base and
+use this to make informed decisions rather than be given a list of
+rules to follow Every individual and every pregnancy is different
+and a do don t approach fails to acknowledge this survey respon
+dent
+Some participants recognised that their own circumstances
+made them more cautious about certain decisions and behaviours
+This was particularly the case with women who had experienced a
+previous pregnancy loss who exercised a greater deal of caution in
+subsequent pregnancies
+I put two and two together in that scenario and thought Yes
+that s my fault
+I can t change it I just think when it came
+to my next pregnancy I changed my habits I really really toned
+down my drinking especially in the run up to getting pregnant I
+think I waited before I would have a glass of wine at weddings
+and stuff like that I think I probably waited until I was well over
+the weeks
+Information gaps
+In the interviews and survey women reported a discrepancy
+between the topics they received a lot of information on and areas
+in which they felt they needed more advice The following were
+the top four topics that participants said were well explained
+what to not to eat during pregnancy n
+vaccina
+tions during pregnancy for influenza and whooping cough
+n smoking before and during pregnancy n
+and drinking alcohol before and during pregnancy n
+In contrast participants wanted more advice and information
+on managing mental health and pregnancy n man
+aging stress and pregnancy n
+infections such as
+Group B Streptococcus Toxoplasmosis and Cytomegalovirus
+and infant feeding n Many participants
+expressed that they received information that was not relevant to
+them at the expense of other areas where they needed better sup
+port
+Although I didn t smoke or drink I received much better informa
+tion on this than anything else I didn t receive any information on
+maintaining good mental health during pregnancy and I feel this
+contributed to me developing PND survey respondent
+Furthermore participants described feeling unable to act on the
+information about risk given to them This was particularly the
+case with mental health conditions and risk factors which were
+unmodifiable at the time of pregnancy such as age or weight
+Midwifery
+God I couldn t tell you which journal this paper came out in but
+it was the study that looked at elevated cortisol in pregnant women
+and behavioural issues in their children That really stuck with me
+because it came out and I was the most stressed person I was so
+stressed and I was trying to do things to de stress but life was just so
+all over the place that nothing worked
+Conflicting advice
+Many participants said they were given conflicting advice by
+HCPs on a range of issues including what to expect during labour
+and birth diagnosis of pregnancy related conditions and the
+safety of alcohol consumption during pregnancy A few women
+also noted that advice at the policy level had changed over the
+course of each of their pregnancies leading to confusion
+I ve had four pregnancies in four years so one in
+and every single time the differences in just the protocols the
+way things have changed information and how you re given it Ev
+ery single time it s been completely different
+Several participants described conflicting messages from HCPS
+about the safety of medication in pregnancy
+As soon as she GPI saw that I was on medication for mental
+health she was like So you re on antidepressants I said Yes
+She went Well what are we going to do about that I was like
+Well my midwife said it s fine the risk to my baby The risk to
+myself if I came off them outweighed that and it s a very minimal
+risk I was on a low dose She said It s not okay It s not okay
+She was very sharp with me It s like as if I was taking hard drugs
+her something her reaction was She wouldn t give me a prescrip
+tion for Citalopram She said You need to go on Sertraline I said
+I don t feel comfortable with changing meds at the moment It
+took me a long time to find Citalopram and that really suits me
+She was like But you can t breastfeed on Citalopram She was
+assuming a lot of things because I wasn t planning on breastfeed
+ing anyway I took the prescription from her for Sertraline and I
+was crying after the appointment I went to the pharmacy think
+ing I ll just do it Then the pharmacy were really funny with me
+because I was getting Citalopram and Sertraline because I needed
+to wean myself off Citalopram first to start the Sertraline That was
+humiliating because it was in front of everybody
+Such conflicting messages are not without consequences In ad
+dition to the anxiety and distress caused contradictory messages
+around the safety of medication can lead women to abstain from
+taking prescribed medication out of fear of harming their baby
+I am epileptic and though my seizures increased during pregnancy
+I was too scared to tell my midwife as I was afraid of my medica
+tion being increased and the risks to my unborn baby I ended up
+being hospitalised during pregnancy because of my seizures and
+my daughter had to be delivered early by caesarean section I be
+lieve if I had been given more information about the medication
+including risks and percentages that I wouldn t of been so scared
+to increase my medication survey respondent
+Challenges to autonomy
+The way in which information about risk was delivered to
+women sometimes challenged their autonomy and had negative
+implications for their relationships with their HCPS Table
+Many
+women initially implicitly trusted their HCPs However partial or
+inaccurate advice from HCPS was a source of anxiety for women
+and sometimes led to poor care
+I d asked several times Is there anything I can take for that
+and she d said No there s nothing we can give you You just have
+R Blaylock H Trickey J Sanders et al
+Table
+Judgement and blame during pregnancy survey results
+n
+I felt trusted to make my own decisions about what was best for me and my baby
+Strongly agree
+Tend to agree
+Tend to disagree
+Strongly disagree
+Prefer not to say
+Missing
+I sometimes felt that my family and friends judged me for my choices or actions
+Strongly agree
+Tend to agree
+Tend to disagree
+Strongly disagree
+Prefer not to say
+Missing
+I sometimes felt that healthcare providers judged me for my choices or actions
+Strongly agree
+Tend to agree
+Tend to disagree
+Strongly disagree
+Prefer not to say
+Missing
+I sometimes felt that the general public judged me for my choices or actions
+Strongly agree
+Tend to agree
+Tend to dis

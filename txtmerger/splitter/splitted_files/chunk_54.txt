@@ -1,0 +1,1171 @@
+
+collected data on physical activity and fitness
+levels of our youth through interviews and
+fitness tests
+Children on common ADHD medications
+were identified and formed the case group
+The most commonly used stimulant
+medications include methylphenidate Ritalin
+Concerta mixed amphetamine salts
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+Adderall dextroamphetamine Dexedrine
+and lisdexamfetamine Vyvanse Non
+stimulant medications with a specific
+indication for ADHD include atomoxetine
+Strattera guanfacine Intuniv Each case
+was matched to up to controls based on sex
+age race and low birth weight lb A
+conditional logistic regression was conducted
+among matched pairs to examine the impact
+of mother smoking status during pregnancy
+and ADHD
+This study employed a case control study
+design due the fact that ADHD could not be
+commonly identified in this particular
+database We only had about ADHD cases
+A case control study is designed to help
+determine if an exposure is associated with an
+outcome i e disease or condition of
+interest By definition a case control study
+is always retrospective because it starts with
+an outcome then traces back to investigate
+exposures When the subjects are enrolled in
+their respective groups the outcome of each
+subject is already known by the investigator
+Case control studies have specific advantages
+compared to other study designs They are
+particularly appropriate for studying rare
+diseases or outcomes The practical value of
+producing rapid results or investigating rare
+outcomes may outweigh the limitations of
+case control studies Because of their
+efficiency they may also be ideal for
+preliminary investigation of a suspected risk
+factor for a common condition conclusions
+may be used to justify a more costly and time
+consuming longitudinal study later
+Conditional logistic regression is an extension
+of logistic regression that allows to take into
+account stratification and matching Its main
+field of application is observational studies
+and in particular epidemiology Odds ratios
+OR from logistic regression which is
+exp coefficient is commonly used in the
+medical literature as a measure of association
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+between exposure and outcome However it
+is relative risk that people more intuitively
+understand as a measure of association
+Relative risk can be directly determined in a
+cohort study by calculating a risk ratio RR
+In case control studies and in cohort studies
+in which the outcome occurs in less than
+of the unexposed population the OR provides
+a reasonable approximation of the RR
+However when an outcome is common i Y
+in the unexposed group the OR will
+exaggerate the RR
+Results
+A total of ADHD cases were identified
+The average age was years male
+white and with low birth
+weight Only cases were matched to a
+total of controls Majority of cases had
+controls n followed by controls n
+controls n I control n and
+controls n For cases the average age
+was years old sd and it was
+years old among controls sd
+Table I Numbers Of Controls Matched To
+Cases
+Number of
+controls
+matched
+Total
+n
+Table Patient Characteristics between
+Cases and Matched Controls
+Age
+mean
+sd
+Sex
+Male
+Female
+Cases
+n
+Controls
+n
+p values
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+weight
+Yes
+No
+Race
+White
+Black
+Other
+low birth
+Mother smoking
+during pregancy
+Cases
+Controls
+Table Mother Smocking Status Among
+Cases And Controls
+Cases
+Mother
+Smoking
+During
+Pregnanc
+Yes
+No
+Controls
+p values
+Figure I Mother Smocking Status Among
+Cases And Controls
+According to the conditional logistic
+regression mother smoking during pregnancy
+was associated with increased risk for ADHD
+in children Odds Ratio
+Confidence Interval p
+To be specific the risk is times higher
+for a mother who was smoking during
+pregnancy to have a kid with ADHD than a
+month who was not The true association
+between the exposure and ADI ID could not
+be known however chances are it is
+between and
+Discussion
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+In this case control study mother smoking
+during pregnancy was significantly associated
+with ADHD in children This is consistent
+with other publication with cohort study
+design The risk is times higher for a
+mother who was smoking during pregnancy
+to have a kid with ADHD than a month who
+was not The true association between the
+exposure and ADHD could not be known
+however chances are it is between
+The adjusted relative risk was
+confidence interval in a nested case
+control study using data obtained from
+Danish longitudinal registers including
+children with hyperkinetic disorder and
+population based control subjects
+Adjustment for parental age or exclusion of
+children with low birth weight g
+preterm delivery weeks completed
+gestation and Apgar scores at minutes
+revealed no changes in the results Linnet KM
+In another study Women who smoked
+during pregnancy had a higher risk of getting
+child with a high hyperactivity inattention
+score than women who did not smoke during
+pregnancy and the magnitude of the
+associations was similar across cohorts with
+very different smoking habits
+There are many risks from smoking before
+and during pregnancy so it is especially
+important that women do not smoke during
+their reproductive years CDC has gathered
+many resources that healthcare providers can
+use to help women quit smoking before or
+during pregnancy and uses a public health
+approach to eliminate tobacco use and
+exposure during the reproductive years
+There are limitations of this study This is a
+case control study and it has all the
+limitations associated with this type of study
+design for example selection bias However
+given the sample of the case group this type
+of study design is necessary Secondly we
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+matched the cases and controls based on age
+gender race as well as birth weight
+however some variables important might be
+not controlled for for example the number of
+cigarettes smoked because of data availability
+issue
+In this case control study we confirmed
+mother smoking during pregnancy was
+significantly associated with ADHD in
+children The magnitude of the associations
+was similar with the findings in the literature
+Additional efforts should be made to improve
+the awareness of the increased risk of ADHD
+in children associated with mother smoking
+during pregnancy
+American Psychiatric Association
+Diagnostic and Statistical Manual of
+Mental Disorders ed Arlington
+American Psychiatric Publishing pp
+Dulcan MK Lake MB Concise
+Guide to Child and Adolescent Psychiatry
+illustrated ed American Psychiatric
+Publishing p
+Attention Deficit Hyperactivity
+Disorder National Institute of Mental
+Health March Retrieved March
+Walitza S Drechsler R Ball J August
+Das schulkind mit ADHS The
+school child with ADHD Ther Umsch in
+German
+Linnet KM Wisborg K Obel C et al
+Smoking during pregnancy and the risk for
+hyperkinetic disorder in offspring
+Pediatrics
+Susan Lewallen and Paul Courtright
+Epidemiology in Practice Case Control
+Studies Community Eye I lealth
+Viera AJ Odds ratios and risk ratios
+what s the difference and why does it
+matter South Med J Jul
+Carsten Obel Smoking during pregnancy
+and hyperactivity inattention in the
+offspring comparing results from three
+Nordic cohorts International Journal of
+Epidemiology
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+IJACSA International Journal of Advanced Computer Science and Applications
+vol No
+Ontology Based Clinical Decision Support System
+for Predicting High Risk Pregnant Woman
+Umar Manzoor
+Faculty of Computing and Information Technology
+King Abdulaziz University
+Jeddah KSA
+Muhammad Usman
+Department of Computer Science
+National University of Computer and Emerging Sciences
+Islamabad Pakistan
+Abstract According to Pakistan Medical and Dental Council
+PMDC Pakistan is facing a shortage of approximately
+medical doctors Due to the shortage of doctors a large number
+of lives are in danger especially pregnant woman A large
+number of pregnant women die every year due to pregnancy
+complications and usually the reason behind their death is that
+the complications are not timely handled In this paper we
+proposed ontology based clinical decision support system that
+diagnoses high risk pregnant women and refer them to the
+qualified medical doctors for timely treatment The Ontology of
+the proposed system is built automatically and enhanced
+afterward using doctor s feedback The proposed framework has
+been tested on a large number of test cases experimental results
+are satisfactory and support the implementation of the solution
+Keywords High risk patient Pregnant woman Ontology
+based CDSS Clinical Decision Support System
+INTRODUCTION
+The world has a shortage of professional medical doctors
+even in the most developed countries have inadequate position
+regarding the availability of medical doctors According to
+Association of American Medical Colleges U S is facing a
+shortage of approximately medical doctors In
+Pakistan the situation is even much worse According to
+Pakistan Medical and Dental Councils PMDC Pakistan is
+facing a shortage of approximately medical doctors
+Because of this shortage pregnant women are also affected
+due to lack of proper and timely treatment which increased the
+mortality rate of pregnant women over the years According to
+world health organization WHO almost women die
+every year from pregnancy related complications
+Especially focusing on Maternal Mortality Rate it was
+observed that most of the deaths occur because of few basic
+complications Moreover these complications can be easily
+treated once the reasons are diagnosed therefore the major
+problem is the unavailability of proper diagnosis because of the
+shortage of medical doctors
+The four high risk pregnancy complications handled in this
+work are Hypertension Obstructed Labor Septicemia and
+Hemorrhage Increase in blood pressure during pregnancy
+Mohammed A Balubaid
+Industrial Engineering Department Engineering Faculty
+King Abdulaziz University
+Jeddah KSA
+Ahmed Mueen
+Faculty of Computing and Information Technology
+King Abdulaziz University
+Jeddah KSA
+indicates Hypertension Obstructed Labor is an anomaly that
+may arise during the process of labor Septicemia pollutes the
+patient s blood and may occur due to infections caused by
+bacteria and Hemorrhage occurs due to excessive loss of blood
+from the patient s body
+To overcome this problem we have proposed ontology
+based clinical decision support system which can partially
+work in place of doctors to diagnose high risk pregnant woman
+and refer them to the qualified medical doctors for treatment
+This way the high risk patients will get proper treatment well
+in time and many lives can be saved The main focus of this
+system is to build a diagnostic procedure which can work
+independently of qualified doctors and identify high risk
+patients Once these patients are identified they can be treated
+by medical doctors So our system will help in reducing the
+workload of doctors as well as providing basic health care to
+more and more patients The framework is composed of three
+components Automatic Ontology Construction
+Feedback System and Ontology Enhancement Component
+The rest of the paper is organized as follows In section
+existing work in ontology based clinical decision support
+system and automatic construction of ontology is discussed In
+section the proposed approach is discussed Experimental
+results are presented in section Finally the conclusion is
+drawn in section
+II LITERATURE REVIEW
+A Ontology Based CDSS
+There are many mistakes made on regular basis by humans
+in clinical environments Hazmy Iman Abas et al in have
+identified the three common mistakes made by clinicians that
+are they failed to meet guidelines they are not educated on
+regular basis and they are not aware of their responsibilities
+According to the authors these mistakes can easily be avoided
+by the use of ontology based clinical decision support system
+The early detection of Alzheimer Disease is a challenging task
+in medical domain Eider Sanchez et al in proposed an
+ontological CDSS approach to detect Alzheimer in early
+stages In this system multidisciplinary knowledge is used i e
+IP age
+www ijacsa thesai org
+IJACSA International Journal of Advanced Computer Science and Applications
+the system uses three ontologies that are SWAN SNOMED
+CT and MIND SWAN is used for the diagnosis of Alzheimer
+Disease SNOMED CT s purpose is standardization and MIND
+ontology is used to carry out patient tests Farahidayah Bt
+Mahmud et al in designed a CDSS that finds the right time
+of weaning a patient from ventilator According to the authors
+the proposed Ontology based CDSS is very helpful because of
+the ontology s ability of presenting complex concepts
+reusability and specification of shared conceptualization
+Similarly Adnan et al in proposed ontology based
+clinical decision support system to assist electronic
+discharge summary EDS while prescribing the patient s
+medications Matt et al in developed an ontology based
+CDSS for preoperative risk assessment The proposed system
+takes the patient s data as input stores it in database and also
+passes it to Ontology Modeler for conversion into OWL format
+i e the same record is stored in two different formats
+Afterwards inference is performed on both the database and
+ontology Rule engine is used on the database to calculate the
+numeric scores i e cardiac scores whereas classification
+algorithm is run on the ontology to assign category to the
+patient the results of both are then combined to calculate the
+patient preoperative risk assessment
+B Automatic Construction of Ontology
+Abd Elrahman Elsayed et al in used data mining
+technique decision tree on structured data to construct
+ontology automatically In this approach the authors proposed
+decision tree to ontology mapping where the tree decision
+nodes are mapped to ontology classes and leaf nodes are
+mapped to individuals The authors tested the proposed
+approach on the soybean disease dataset and showed the
+efficiency of the same Seongwook Youn et al in proposed
+architecture for the classification of emails as spam or
+legitimate using ontology based approach The authors created
+a dataset D based on the features of the email i e spam email
+and used WEKA decision tree to generate decision tree
+which afterwards is passed to JENA for conversion into RDF
+ontology format Authors divided the original dataset into two
+parts i e training and testing dataset and tested the proposed
+approach on testing dataset according to the authors the results
+are satisfactory Amit Bhagat et al used association rule
+mining to construct ontology from large transaction databases
+In the proposed approach multiple level association rule
+mining is used to extract more specific and relevant knowledge
+as compared to single level rule mining Patrick Clerkin et al in
+proposed automatic construction of ontology using the
+COBWEB algorithm COBWEB is a clustering algorithm
+which creates different clusters of the data in a hierarchical
+manner In the proposed technique the hierarchy of the clusters
+given by COBWEB is mapped into ontology classes in such a
+way that parent cluster s is mapped as parent or super class es
+in the ontology whereas the sub or child cluster s is mapped as
+sub class es in the ontology Henrihs Gorskis et al in
+reviewed the work done in the field of ontology building
+using data mining techniques and the potential of different
+techniques in the construction of ontology According to the
+authors the ontologies created with data mining technique s
+may be inferior to those constructed manually
+vol No
+Ill PROPOSED TECHNIQUE
+In this paper we have proposed a framework for predicting
+high risk woman using ontology based CDSS The framework
+is composed of three main modules Automatic Ontology
+Construction Feedback System Ontology Enhancing
+Process
+A Automatic Ontology Construction
+This module automatically constructs the ontology of high
+risk pregnant woman using pregnant woman dataset and is
+composed of two sub components namely Rules extractor and
+Rules to Ontology Mapper Rules extractor extracts the rules
+from the pregnant woman dataset using WEKA and is
+developed in Java WEKA API is used to call WEKA
+functions from the program The dataset is given as input to
+this component which uses WEKA API to extract rules from
+the dataset The dataset is given in the ARFF Attribute
+Relation File Format format which is compatible with WEKA
+ARFF format has two sections the first section is Header
+which contains the name of relation the attributes of the
+relation and the attributes data types whereas the second
+section has Data which contains the real instances of the
+relations Example of partial IRIS dataset in ARFF format is
+given below
+Header Section
+RELATION iris
+ATTRIBUTE sepal length NUMERIC
+ATTRIBUTE sepalwidth NUMERIC
+ATTRIBUTE petal length NUMERIC
+ATTRIBUTE petalwidth
+NUMERIC
+ATTRIBUTE class
+Iris versicolor
+Data Section
+DATA
+Iris setosa
+Iris virginica
+Iris setosa
+Iris setosa
+Iris setosa
+Iris setosa
+Iris setosa
+Once the dataset is loaded attribute selection algorithm is
+called using WEKA API We have used the genetic search for
+attribute selection and once the most relevant features are
+selected JRIP algorithm is called to extract rules which later
+are used for the construction of ontology as summarized in
+figure
+Rules to Ontology Mapper is responsible to construct
+ontology using the rules extracted in the first component as
+shown in figure It first creates ontology classes for each
+dataset i e hypertension Obstructed labor Hamorhage
+Septicemia then the properties are created based on the
+attributes found in the rules Furthermore the range and
+domain of each property is set based on the information
+provided by each dataset Afterwards for each class its
+definition is created that reflects the classification criteria for
+that class
+P age
+www ijacsa thesai org
+IJACSA International Journal of Advanced Computer Science and Applications
+Onset
+Fig
+Fig
+Rules Extractor
+Rules
+Rues
+Rules to
+Ontology
+Mapper
+Rules
+Ontdogy
+Rules to Ontology Mapper
+Figure shows the class definition containing all attributes
+and their values for Obstructed Labor in
+Otsorpticm
+Disease
+GENERAL
+ant PATIENT COUSINURRIAGE value
+Disease
+and value
+Disease
+and
+Craduate
+Ot
+Of kc stcr
+Target far
+NotHealthy
+ntwx
+Fig
+T
+Obstructed Labor definition in Protege
+vol No
+B Feedback System
+Once a patient is predicted as high risk by our proposed
+system and recommended to the doctor for treatment feedback
+is taken from the doctor whether the patient was correctly
+identified or not If the doctor overrules the decision made by
+the system the attributes which caused the decision are shown
+to the doctor He can add delete the attribute s or tune their
+parameters range i e change the values of an attribute to
+more suitable one Afterwards the overruled instance with
+tuned parameters or different attributes if any is added to
+overruled dataset Once the number of instances in overruled
+dataset reaches configurable this dataset is passed as input
+to Ontology Enhancing Process for updating the ontology In
+this way doctor s knowledge is incorporated in the system and
+ontology is enhanced accordingly as shown in figure
+C Ontology Enhancing Process
+According to Gruber ontology represents knowledge
+as a hierarchy of concepts and their relation for a specific
+domain Furthermore ontology knowledge representation is
+based on the concept of conceptualization which can be
+defined as the objects the concepts and the relationship that
+hold among them New concepts their properties and
+relationship can easily be incorporated in ontology knowledge
+base Therefore once the number of overruled instances
+reaches p JRIP algorithm is executed on overruled dataset to
+extract new knowledge and the same is updated in the
+ontology either by creating new concepts or by defining new
+relationship between the old concepts The complete
+architecture of our proposed Ontology based Clinical Decision
+Support System for predicting high risk pregnant woman is
+shown in figure
+lv EXPERIMENTAL RESULTS
+A series of tests have been carried out in order to
+demonstrate that the proposed system is working properly The
+tests have been subdivided in two classes Automatic
+construction of ontology and Ontology enhancement
+Process Each of the experiment and its results are described in
+following
+A Automatic Construction of Ontology
+This experiment is designed to verify the automatic
+construction of ontology i e how well the rules are mapped
+into ontology For this purpose the ontology and existing rule
+base system are tested on the same datasets with the same
+training and testing ratio In this experiment we used four
+dataset for each output class i e Hypertension Obstructed
+Labour Hamorhage Septicemia where each dataset is divided
+into two parts i e and where of data is used
+for training and is used for testing The experimentation
+result showed that ontology and rule based system have same
+accuracy which means the rules are transformed with
+accuracy into the ontology as shown in figure
+B Ontology enhancement Process
+Enhancing the ontology is the most important aspect and
+has been deeply validated In this activity fifteen doctors from
+five different hospitals of Pakistan participated whenever the
+IP age
+www ijacsa thesai org
+IJACSA International Journal of Advanced Computer Science and Applications
+patient is identified as high risk by our system the patient is
+referred to one of the fifteen doctors If the doctor overruled the
+decision feedback from the doctor is taken and the instance is
+added to overrule dataset in this case the value is When
+the instances in the overruled dataset reach p the new
+vol No
+knowledge is incorporated in the ontology We have observed
+that after two rounds of ontology updation the accuracy of the
+system increases and the false positives are decreased
+significantly as shown in figure
+Ontology Builder
+WEKA API
+Dae
+Data Set
+Rules
+WEKA
+Ontology
+Enhancing
+Component
+New Instances
+Fig System architecture of the proposed framework
+V CONCLUSION
+According to world health organization WHO almost
+women die every year from pregnancy related
+complications Moreover these complications can be easily
+treated once diagnosed however the major problem is
+unavailability of proper diagnosis because of shortage of
+medical doctors In this paper we have proposed an ontology
+based CDSS for diagnose high risk pregnant woman and refer
+them to the qualified medical doctors for treatment The
+Rules
+Rules to Ontology
+Mapper
+Ontology
+Predicted class
+Patient
+Doctor s Feedback
+proposed framework is tested on a large number of test cases
+results are satisfactory and support the implementation of the
+same The work can be extended in many directions one
+possible direction is including more pregnancy related disease
+in the ontology Second direction is automatic ontology
+enhancement process currently based on expert doctor
+feedback the ontology is enhanced machine learning
+algorithms should be incorporated in the proposed system to
+enhance ontology automatically
+IP age
+www ijacsa thesai org
+IJACSA International Journal of Advanced Computer Science and Applications
+Hypertension
+Obstructed Labor
+Hamorhage
+Fig Accuracy of Rule Based and Ontology Based system
+s
+Ob ructe d
+vol No
+Rule Based
+O Ontology Base d
+Septicemia
+u BeforelJpdate
+u AfterlJpdate
+Hypertension
+Fig Classification accuracy comparison before and after updating the ontology
+REFERENCES
+American Association of American Medical Colleges November
+State Physician Workforce Data Book
+Pakistan Medical and Dental Councils http www pmdc org pk
+U Fund State of the Worlds Children Maternal and Newborn
+Health New York UNICEF vol
+Umar Manzoor Samia Nefti Yacine Rezgui Categorization of
+malicious behaviors using ontology based cognitive agents Data
+Knowledge Engineering Volume May Pages
+K L Clark F G McCabe Ontology schema for an agent belief store
+International Journal of Human Computer Studies Volume Issue
+July Pages
+http protege stanford edu
+I Page
+www ijacsa thesai org
+IJACSA International Journal of Advanced Computer Science and Applications
+WEKA Tool http www cs waikato ac nz ml weka
+B Orgun J V u ontology and mobile agents for interoperability
+in heterogeneous medical information systems Computers in Biology
+and Medicine Volume Issues July August Pages
+Quynh Nhu Numi Tran Graham Low MOBMAS A methodology for
+ontology based multi agent systems development
+Information and
+Software Technology Volume Issues June Pages
+C Su and C Yang Feature selection for the SVM An application to
+hypertension diagnosis Expert Systems with Applications vol no
+pp
+Y Chae S Ho K Cho D Lee and S Ji Data mining approach to
+policy analysis in a health insurance domain International journal of
+medical informatics vol no pp
+A Tanwani J Afridi M Shafiq and M Farooq Guidelines to Select
+Machine Learning Scheme for Classification of Biomedical Datasets
+in Proceedings of the European Conference on Evolutionary
+Computation Machine Learning and Data Mining in Bioinformatics
+Springer pp
+Umar Manzoor Samia Nefti iDetect Content Based Monitoring of
+Complex Networks using Mobile Agents Applied Soft Computing
+Farahidayah Bt Mahmud Maryati Mohd Yusof Shahrul Azman Naoh
+Ontological Based ClinicalDecision Support System Electrical
+Engineering and Informatics ICEEI International Conference on
+Bandung July
+Hazmy Iman Abas Maryati Mohd Yusof Shahrul Azman Mohd Noah
+The Application of Ontology in a Clinical Decision Semantic
+Technology and Information Retrieval STAIR International
+Conference on Putrajaya June
+Eider Sanchez Carlos Toro Eduardo Carrasco Gloria Bueno Patricia
+Bonachela Carlos Parra Frank Guijarro A Knowledge based Clinical
+vol No
+Decision Support System for the diagnosis of Alzheimer Disease e
+Health Networking Applications and Services Healthcom
+IEEE International Conference on Columbia MO June
+Mehnaz Adnan Jim Warren Martin Orr Ontology Based Semantic
+Recommendations for Discharge Summary Medication Information for
+Patients Computer Based Medical Systems CBMS IEEE
+International Symposium on Perth WA Oct
+Matt Mouley Bouamrane Alan Rector Martin Hurrell Development of
+an Ontology for a Preoperative Risk Assessment Computer Based
+Medical Systems CBMS IEEE International
+Symposium on Albuquerque NM Aug
+Abd Elrahman Elsayed Samhaa R El Beltagy Mahmoud Rafea
+Osman Hegazy Applying data mining for ontology building The
+Annual Conference On Statistics Computer Science and
+Operations Research Cairo
+Seongwook Youn Dennis McLeod Efficient Spam Email Filtering
+using Adaptive Ontology Information Technology ITNG
+Fourth International Conference on Las Vegas April
+S Nefti U Manzoor S Manzoor Cognitive agent based intelligent
+warning system to monitor patients suffering from dementia using
+ambient assisted living International Conference on Information
+Society i Society Pages
+F Rea S Nefti Meziani U Manzoor S Davis Ontology enhancing
+process for a situated and curiosity driven robot Robotics and
+Autonomous Systems
+Amit Bhagat Sanjay Sharma K R Pardasani Ontological Frequent
+Patterns Mining by potential use of Neural Network International
+Journal of Computer Applications Vol Issue
+MA Balubaid U Manzoor B Zafar A Qureshi N Ghani Ontology
+Based SMS Controller for Smart Phones International Journal of
+Advanced Computer Science and Applications
+IP age
+www ijacsa thesai org
+ELSEVIER
+Sexual Reproductive Healthcare
+Contents lists available at ScienceDirect
+Sexual Reproductive Healthcare
+journal homepage www elsevier com locate srhc
+O
+Check for
+Description of the methodology for developing and validating the WHO s
+family planning and comprehensive abortion care competencies for the
+primary health care workforce
+Ulrika Loia Annik Sorhaindo a Mieke Embo Rita Kabra a James Kiarie
+a
+a
+Bela Ganatra
+a UNDP UNFPA UNICEF WHO World Bank Special Programme of Research Development and Research Training in Human Reproduction HRP Departn tent of Sexual
+and Reproductive Health and Research World Health Organization Avenue Appia Geneva Switzerland
+Departrnent of Educational Studies Faculty of Psycholou and Educational Sciences Ghent University H Dunantlaan Ghent Belgium
+ARTICLE
+Keywords
+Competencies
+Family planning
+INFO
+Comprehensive abortion care
+Standard
+ABSTRACT
+A qualified health workforce is essential to receiving effective timely affordable equitable and respectful family
+planning and comprehensive abortion care However in many countries health workers lack the competencies
+required to deliver quality family planning and comprehensive abortion care services Competency based edu
+cation and learning aims to train and assess competencies The theory supported approach focuses on outcomes
+emphasizes the learner s ability to perform promotes learner centeredness and links the health needs of the
+Primary health care workforce
+population to the competencies required of health workers In the World Health Organization published a
+guidance document Sexual and reproductive health Core competencies in primary care defining the competencies
+that primary care providers need to safely deliver sexual and reproductive health services at the community level
+and included family planning and comprehensive abortion care
+In this article we describe the methodology and process undertaken in by the World Health Organi
+zation to produce the family planning and comprehensive abortion care competencies guidance filling gaps
+identified in the previous guidance document The World Health Organization s Family Planning and Compre
+hensive Abortion Care toolkit for the primary health care workforce was published in and defines the key
+competencies for health workers in primary health care providing quality family planning and comprehensive
+abortion care services as well as support for developing programmes and curricula for education and lifelong
+learning The Toolkit is useful for practitioners managers supervisors and employers educators regulatory
+bodies and policymakers It is an important advance toward strengthening family planning and comprehensive
+abortion care services in primary health care
+Background
+Competent health workers are essential to effective timely afford
+able equitable respectful and universal health care UHC How
+ever all countries to varying degrees face challenges in the education
+retention and performance of their health workforce
+In recent
+years within a context of increased health system complexity and
+interdependency the competency based approach to education and
+learning has been widely adopted for health professions at all levels
+Competency based education CBE facilitates the alignment of ability
+and performance within and across health systems globally CBE can be
+adopted for instruction preparation and assessment In contrast to
+traditional input based education approaches whereby learning is
+achieved through exposure to certain health and medicine related
+content or curriculum for a specific amount of time CBE focuses on
+achieving the desired outcomes
+The World Health Organization WHO defines competencies as
+the abilities of a person to integrate knowledge skills and attitudes in
+their performance of tasks in a given context Competencies are durable
+trainable and through the expression of behaviors measurable
+Competencies provide benchmarks not just for education but also for
+performance in the workplace They help to define standards of
+Corresponding author at Ulrika Loi Avenue Appia Geneva Switzerland
+E mail address rehnstromu who int
+U R Loi
+https doi org j srhc
+Received October Received in revised form December Accepted December
+Available online December
+Published by Elsevier B V
+U R Loi et al
+performance but also to plan and measure professional development
+improving job performance as well as learning
+CBE strategy aims to
+develop a person s abilities and concentrates on the goals and outcomes
+of learning rather than prescribing a particular learning path with a set
+of pre defined milestones
+In CBE systems learning is based on the
+acquisition of competency based learning outcomes that are objective
+standardized and can be observed in practice and transferred and
+translated across contexts
+This approach to health care edu
+cation has been implemented and adopted into policy internationally
+Regulatory bodies have a fundamental commitment to sup
+porting professional competence and therefore play a critical role in
+promoting the implementation of CBE for health care
+The knowledge skills attitudes and behaviors of health care pro
+fessionals influence the quality and outcomes of services delivered
+including in family planning FP and comprehensive abortion care
+For example there is a significant relationship between
+CAC
+the uptake and continuation of FP and the skill of health professionals
+offering counselling and services
+Further estimates from
+suggest that just under half of all abortions that occurred globally from
+to were unsafe indicating that services were either carried
+out by a trained provider using outdated methods a safe method was
+used without appropriate support from a trained provider or the service
+was provided by an untrained person using dangerous invasive methods
+Despite this the inclusion of FP and CAC within Sexual and Repro
+ductive Health SRH core competencies or curricula for education and
+training is inconsistent across professional bodies creating a gap in the
+competencies and standard of care necessary to meet the SRH needs of
+populations
+In WHO published a guidance document
+Sexual and Reproductive Health Core Competencies in Primary Health
+Care defining the competencies including knowledge skills attitudes
+and behaviors that primary care providers need to safely deliver SRH
+services at the community level including FP and CAC However in
+during efforts to update the document it emerged that it con
+tained gaps and had not been widely adopted
+To set the standard of performance for FP and CAC service providers
+and as part of a unique collaboration across UNDP UNFPA UNICEF
+WHO World Bank Special Programme of Research Development and
+Research Training in Human Reproduction HRP and the Department of
+Health Workforce a competency development team was organized to
+prepare the Family Planning and Comprehensive Abortion Care Toolkit for
+the primary health care workforce
+The Toolkit as of today consists of two volumes the FP and CAC
+competencies are in Volume and Volume provides guidance on how
+to develop competency based education programs and curricula
+The FP and CAC competencies Volume are designed to
+accommodate a range of health care workers contexts service delivery
+mechanisms and evolving competency requirements The FP and CAC
+Toolkit was intended as a foundational tool that can be adapted by ed
+ucators and regulators for current and future health practice and focus
+on the core functions of primary health care providers toward universal
+health care whoever is providing them In this article we describe the
+methodology and process undertaken by the competency development
+team to develop the FP and CAC competencies published in Volume of
+the Toolkit to both advocate for the use of these core competencies in
+health care education learning and continuing professional develop
+ment and to encourage the development of competencies for other areas
+of practice
+Development and validation of FP and CAC core competencies
+There is not one universally accepted model or guidance for the
+development of core competencies for health care professions
+or
+ganizations have used a range of processes and methods WHO under
+took the development of the FP and CAC competencies in a series of
+phases The first phase consisted of a review of key literature the second
+Sexual Reproductive Healthcare
+phase involved focus group discussions FGDs the third phase devel
+oped the competencies the draft competencies were refined and vali
+dated in phase four an on line global DELPHI consultation
+to
+achieve consensus and the final phase was a virtual Town Hall style
+meeting to confirm the competencies and gauge their global acceptance
+The phases brought together different sources of data to develop and
+validate the competencies We discuss each phase in turn below
+Phase Literature review
+The competency development team conducted a review of existing
+literature on SRH competencies to inform the structure and content of
+the FP and CAC competencies
+The specific objectives of the liter
+ature review were to collect evidence from published and unpub
+lished documents to identify how the WHO SRH competencies
+framework had been used examine what aspects of the document has
+been useful and which ones had not and identify any additional
+domains and competencies to be included in the FP and CAC
+competencies
+The competency development team used the following terms to
+locate published and unpublished literature for review competencies
+competency frameworks competency based education SRH ser
+vices family planning and comprehensive abortion care They
+used these terms to search websites of international health organizations
+and professional associations for relevant documents The team
+analyzed and reviewed documents to determine whether they had value
+based on the objectives of the review and credibility as sources using
+specifically designed templates until they achieved saturation
+In total the team purposively selected and reviewed documents
+including articles and reports published from until October
+The findings of the literature review were summarized into tables
+summarizes the uses of the SRH framework found in the
+Table
+literature
+summarizes themes found in the literature on addi
+Table
+tional competencies that could be added to the revised framework
+Overall the findings of the literature review suggested that the FP
+and CAC competencies would benefit from an increased focus on ado
+lescents and population groups in vulnerable settings the addition of
+post abortion care and postpartum family planning among others
+improved flexibility or associated strategies tools in adapting the
+competencies to various contexts e g humanitarian settings and
+occupational groups e g due to health workforce optimization and
+include advice on how to implement at the country level The review
+also indicated that the FP and CAC competencies should place greater
+emphasis on addressing provider bias values clarification managing
+care in restrictive environments religion laws community norms and
+the use of data for decision making The review findings further sug
+gested that structurally the FP and CAC competencies should avoid
+overlap between the competencies and domains provide additional
+detail be more user friendly
+and take a lifespan approach Finally
+according to the review the updated document should list essential
+competencies and encourage countries to add their own content and
+competencies These results informed the content and structure of the FP
+and CAC domains and competencies included in the Toolkit Volume
+Phase First tier corroboration Focus group discussions
+Table
+Themes on the uses of Competency Frameworks Found in the Literature
+Uses of competency frameworks
+To guide inform curriculum development and or activities to
+achieve competencies
+To define training requirements including for faculty
+To assess individual performance and identify areas for
+professional development
+To outline advanced practice requirements or practice in
+special contexts
+To define scope of practice promote right to practice
+To set standards for the regulation of professionals
+To develop standards for accreditation of training institutions
+References
+U R Loi et al
+Table
+Additional Content Areas Suggested by the Literature
+Updates to content of the SRHR framework
+Sexual Reproductive Healthcare
+Table continued
+Updates to content of the SRHR framework
+Area
+Vulnerable groups
+e g adolescents
+gender and
+sexuality identity
+people with
+disabilities
+migrants and
+refugees
+Provider beliefs and
+attitudes
+some overlap
+with above
+Counselling
+Promotion of
+women s health
+and human rights
+Family planning
+Laws and reporting
+requirements
+Communication
+Focus
+Counselling members
+of vulnerable groups
+provision of all
+necessary information
+to make informed
+decisions and promote
+health and human
+rights
+Provider competence
+including attitudes and
+values
+Removal of barriers to
+accessing information
+and services e g
+provider bias legal
+issues community
+norms
+Coping with stigma
+bias religious
+influences
+discrimination
+Values clarification
+Offering kindness
+respect and
+compassion
+Access to competent
+providers
+Thorough and accurate
+counselling
+Psychosocial
+interventions or
+referral to
+Community knowledge
+and understanding
+Informed and
+voluntary decision
+making autonomy
+Women s assessments
+of their own needs vs
+health provider or
+community
+assumptions
+Tailoring care to
+women s
+circumstances views
+and needs
+Screening for intimate
+partner violence care
+for women who
+experience physical
+and sexual violence
+and abuse
+Contraceptive methods
+Post abortion family
+planning
+Post partum family
+planning birth spacing
+Awareness of and
+working within local
+laws reporting
+requirements
+Providing care in
+environments with
+restrictive laws
+Client provider
+communication
+interpersonal skills
+cultural competence
+Confidentiality
+privacy
+Informed consent
+Reference
+Area
+Infection
+prevention and
+control
+Pain management
+Self care
+Clinical areas
+Special
+circumstances
+Documentation
+Focus
+Infection prevention
+and control
+Pain management
+Self care for the
+provider
+Management of
+incomplete abortion
+missed abortion
+Self managed medical
+abortion
+Ectopic pregnancy
+Blood
+transfusionClinical
+waste management
+of fetal remains
+Pandemics
+humanitarian
+emergencies
+Clinical documentation
+and securing records
+Reference
+The team conducted FGDs to explore stakeholder perceptions and
+use of the WHO Sexual and reproductive health Core competencies in
+primary care document and understand stakeholder needs for FP and
+CAC competencies The FGDs were designed to complement and address
+any gaps in information identified by the literature review The team
+invited faculty policymakers practitioners trainers and members of
+relevant professional organizations to participate in two virtual FGDs in
+November Of these individuals thirteen attended the first FGD
+and participated in the second The FGDs aimed to explore What
+are the current challenges in the delivery of FP and CAC services
+Were you aware of the WHO Sexual and reproductive health Core
+competencies inprimary care and What recommendations do you have
+for the FP and CAC competencies
+The analysis of the FGDs took a phenomenological study approach
+The team identified and categorized themes within and across
+interview data to describe the phenomena of interest The team
+discovered that most of the participants were familiar with the
+WHO SRH framework Of these some mentioned that the WHO
+SRH framework had not influenced practice and needed to be updated in
+line with recent evidence from WHO guidelines for FP and CAC Others
+described the framework as lacking contextualization and including
+excessive information that was not easy to interpret thereby limiting its
+practical use Participants explained that the framework lacked infor
+mation on health workforce optimization tools for actual implementa
+tion and monitoring and details on how to perform procedures
+Furthermore they argued that it was also missing the social component
+Challenging issues such as working with minors maintaining confi
+dentiality operating within restrictive laws providing services during
+pandemics and in humanitarian settings required further elaboration
+Guidance on training faculty members and addressing care in terms of
+human rights also needed additional explanation
+FGD participants described several obstacles to the delivery of FP
+and CAC including misconceptions and stigma among providers reli
+gious and legal restrictions affecting service provision provider bias the
+relationship between adequate theoretical knowledge and effective
+practice or competency and the lack of access to services among people
+in vulnerable settings Participants identified issues with formal edu
+cation program such as inconsistency between pre service training and
+service provision inadequately prepared faculty members providing
+poor quality education lack of procedural and national guideline
+training missing and or outdated equipment at facilities and poorly
+selected clinical learning sites Management issues included having an
+inadequate number of trained staff managers lacking authority to share
+U R Loi et al
+tasks between different occupations and inadequate supervision Par
+ticipants also felt there was lack of coordination between government
+and other organizations the private sector and development partners
+The participants made recommendations for the new FP and CAC
+competencies For example they suggested that FP and CAC compe
+tencies should include content on the development of communication
+skills recording interpreting and practical use of data inclusion of
+post pregnancy FP and CAC in pre service education programs self care
+and health promotion and increased time for hands on skill acquisition
+The participants felt that faculty members needed to be updated on SRH
+service provision They added that professional development and on
+the job trainings are important mechanisms to be included to maintain
+the competence of faculty Other recommendations included the use of
+competencies in actual practice to simplify and make it more user
+friendly guidance on how to use the competencies in different contexts
+the provision of incentives and other opportunities to encourage use of
+the competencies Finally there was a request for a dissemination and
+implementation strategy to be articulated at national level with all
+stakeholders engaged in the process
+Phase Constructing the competency document
+The results of the literature review and the FDGs formed the basis of
+the initial draft of the FP and CAC competencies The team additionally
+ensured that the competencies were aligned with the new WHO Abor
+tion Care guideline
+They retained Domain A from the SRH
+Competency Framework which listed necessary attitudes and
+values for providing high quality SRH care
+For the
+Fig
+professional domains the team created six overarching areas from B to
+G which apply to all areas of health and are required for performance of
+ATTITUDES
+Foundational to all competencies
+Attitudes
+Sexual Reproductive Healthcare
+the technical competencies These domains included client
+centeredness decision making
+collaboration
+communication
+evidence informed practice and personal conduct Each competency
+specifies the knowledge and the behaviors required Fig Finally the
+draft FP and CAC competencies included three practice domains H to
+J respectively shared FP and CAC competencies FP competencies and
+CAC competencies The practice competencies are specific but not
+exclusive to FP and CAC and distinguish FP and CAC practitioners from
+other health care workers The competencies were designed to be suit
+able for defining learning outcomes or learning objectives both for
+formal education and for non formal and informal learning
+Phase Second tier corroboration Delphi Consultation
+The Delphi Consultation process was conducted from September to
+November to achieve consensus on the content of the draft FP and
+The competency development team con
+CAC competencies
+ducted two rounds of virtual Delphi consultations to gather feedback
+gauge agreement with the content of the draft FP and CAC competencies
+and receive suggestions for improvement and additional content They
+recruited potential participants by sharing an invitation to FP and CAC
+practitioners and educators globally A wide variety of relevant orga
+nizations also nominated potential participants and an invitation was
+also distributed through the Implementing Best Practice IBP Network
+members
+Potential participants were invited to nominate other
+experts and practitioners in a snowball recruitment process using
+Survey Monkey The invitation included a short video explaining how
+important and valuable their expertise would be to the process to
+encourage them to join the consultation
+In the first round of the Delphi consultation of the expert
+PROFESSIONAL COMPETENCIES
+Foundational to practice competencies
+Person centeredness
+Decision making
+Communication
+Collaboration
+Evidence informed practice
+Personal conduct
+PRACTICE COMPETENCIES
+Shared FP and CAC competencies
+O FP competencies
+CAC competencies
+Fig Domains of FP and CAC competencies for the primary health care workforce Source Family planning and comprehensive abortion care toolkit for the
+primary health care workforce Volume Competencies Geneva World Health Organization Family planning and comprehensive abortion care toolkit for
+the primary health care workforce Licence CC BY NC SA IGO
+U R Loi et al
+panelists who expressed interest in participating fully completed
+the consultation and a further partially completed it Among the
+participants about half held master s degrees and another third had
+achieved a doctorate Most participants were either physicians or
+midwives
+Fig
+The competency development team developed the questions for the
+Delphi consultation based upon the findings of the literature review and
+previous similar surveys
+They provided a point Likert
+scale strongly agree agree neither agree nor disagree disagree
+strongly disagree to indicate panelists level of agreement with com
+p

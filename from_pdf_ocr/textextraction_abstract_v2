@@ -1,0 +1,36 @@
+import PyPDF2
+import re
+
+def find_abstract(pdf_path):
+    abstract = ""
+    pdf_file = open(pdf_path, 'rb')
+    pdf_reader = PyPDF2.PdfReader(pdf_file)
+
+    for page_num in range(len(pdf_reader.pages)):
+        page = pdf_reader.pages[page_num]
+        page_text = page.extract_text()
+
+        # Use regular expressions to identify the start and end of the abstract.
+        start_pattern = r"(?:^|\n)(abstract|summary)(?:$|\n)"
+        end_pattern = r"(?:^|\n)(keywords|introduction|background)(?:$|\n)"
+
+        start_match = re.search(start_pattern, page_text, re.IGNORECASE)
+        end_match = re.search(end_pattern, page_text, re.IGNORECASE)
+
+        if start_match:
+            abstract_start = start_match.end()
+        if end_match:
+            abstract_end = end_match.start()
+        else:
+            abstract_end = None  # If no clear end is found, assume the end of the page.
+
+        if 'abstract_start' in locals() and abstract_end:
+            abstract += page_text[abstract_start:abstract_end]
+            break
+
+    pdf_file.close()
+    return abstract
+
+pdf_path = './journal.pone.0254956 (5).pdf'
+abstract_text = find_abstract(pdf_path)
+print(abstract_text)

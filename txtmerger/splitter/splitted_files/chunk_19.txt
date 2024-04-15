@@ -1,0 +1,1285 @@
+characteris
+tics such as total number of pregnancies the total number of
+live birth history of obstetric complications during a previ
+ous pregnancy or labor and delivery or postnatal period
+history of current pregnancy danger signs previous place
+of birth and bad obstetric history
+Tool III Knowledge of Pregnancy Danger Signs The
+client s knowledge of pregnancy danger signs is assessed as
+a factor for their perception of pregnancy risk Knowledge
+about pregnancy danger signs yes or no options for being
+familiar with each pregnancy danger sign is the source of
+information about the pregnancy danger sign This tool con
+sists of questions which focus on general knowledge of
+pregnancy danger signs
+Tool IV Pregnancy Risk Perception Using the Health
+Belief Model The client s pregnancy risk perception using
+health belief model constructs was assessed Clients are
+asked a question about two constructs of the health belief
+model that ranges from five to twenty five score for
+perceived susceptibility and seven to thirty five score for
+perceived severity The total scores were calculated from
+the combined questions ranging from twelve to sixty The
+questions have five options strongly disagree dis
+agree neutral agree and strongly agree
+Data Collection Procedure Data were collected from
+April to Eleven midwives who are not working
+at the study site were recruited and trained for data collec
+tion One day of training on the objective of the study
+methods of data collection procedures and tools of data
+collection for data collectors and supervisors were given
+Each data collector completed questionnaires by interview
+ing clients who came on the day and completed them
+within days Regular supervision was done during data
+collection
+Data Quality Control Measuers To ensure the quality of
+data the training was given on the objective of the study
+methods of data collection procedures and tools of data
+collection by the researcher A pretest was conducted in
+of the sample on March Finote Selam health center
+Cronbach s alphas up to were used to check the
+internal consistency and reliability of the item The neces
+sary modification was made for any ambiguity confusion
+and diffcult words based on pretest data analysis Each data
+collector and supervisor were checked before and immedi
+ately after collection for the completeness and consistency
+of the questionnaire
+Data Processing and Analysis The data was cleaned
+coded and entered and analyzed using Statistical Package
+for Social Sciences SPSS version Descriptive statistics
+such as frequency percentage standard deviation and mean
+were used to characterize the participants in terms of socio
+demographic variables obstetric variables and knowledge of
+pregnancy danger signs A logistic regression model was
+fitted to assess the association between dependent and inde
+International Journal of Reproductive Medicine
+TABLE Sociodemographic characteristics of pregnant women
+attending antenatal care at Jabi Tenhan District health centers in
+April n
+Variables
+Age
+Religion
+Marital status
+Occupation
+Residence
+HH income
+Educational status
+Category
+Orthodox
+Muslim
+Married
+Divorced
+Housewife
+Employed
+Merchant
+Student
+Daily labor
+Urban
+Rural
+Yes
+No
+Illiterate
+Primary school
+Secondary school
+College university
+Illiterate
+Primary school
+Frequency Percent
+Partner educational level
+Secondary school
+College university
+pendent variables with a p value of in the bivariable
+analysis that will be included in the multivariable analysis
+The adjusted odds ratio together with confidence inter
+vals was computed and the results with pvalue were
+considered to declare a result as significantly associated
+Results
+Sociodemographic Characteristics Four hundred twenty
+one pregnant women have completed the questionnaire
+making the response rate of the study The mean
+age of respondents was and nearly one third
+of respondents were aged between and years
+All respondents were Amhara in ethnicity and were
+orthodox in religion Almost all the respondents
+were married and more than half of the respon
+dents were housewives Of the total study participants
+of respondents lived in rural areas Concerning educational
+status slightly more than one third of respondents
+have no formal schooling Table
+International Journal of Reproductive Medicine
+Obstetric Characteristics Of respondents
+were primigravida and were nulliparous Of multigra
+vida women had experienced obstetric complications
+in the previous pregnancy or labor or postpartum period
+and the majority of respondents had no history of
+bad obstetric history Table
+Knowledge of Pregnancy Danger Signs Vaginal bleeding
+was the most common mentioned danger sign dur
+ing pregnancy followed by loss of fetal movement
+the onset of labor before the expected date of delivery
+and persistent vomiting The least men
+tioned danger signs during pregnancy were convulsion loss
+of consciousness Table
+Pregnancy Risk Perception Of the total respondents
+nearly half of them and had good preg
+nancy risk perception as shown in Figure
+Concerning the perceived severity of pregnancy related
+complications perceived that pregnancy and delivery
+problems would last a long time while of respondents
+perceived that pregnancy complications would not threaten
+the relationship with their partner The majority of the
+respondents perceived that their baby will be born
+prematurely of respondents strongly agree that their
+baby would not survive the pressure that comes with labor
+and delivery Table
+Factors Affecting Pregnancy Risk Perception in Jabi
+Tehnan In bivariable analysis residence own income
+knowing a woman who died due to pregnancy related com
+plications past obstetric complications current pregnancy
+danger signs the number of ANC visits bad obstetric history
+and awareness of pregnancy danger signs showed p value less
+than making them eligible for multivariable analysis
+In multivariable analysis awareness of pregnancy danger
+signs bad obstetric history past obstetric complications and
+knowing a woman who died due to pregnancy related com
+plications were associated with pregnancy risk perception
+Those who know at least one pregnancy danger sign were
+times AOR CI more likely to
+have good pregnancy risk perception than their counter
+parts Respondents who had bad obstetric history were
+times AOR CI more likely to have
+good pregnancy risk perception than their counterparts
+Respondents who had past obstetric complications were
+times AOR CI more likely to
+have good pregnancy risk perception than their counter
+parts Knowing women died due to pregnancy related com
+plications were times AOR CI
+more likely to have good pregnancy risk perception than
+their counterparts Table
+Discussion
+A major finding of this study was that above half of pregnant
+women had significantly poor risk perception Out of the
+total study subjects had a good pregnancy risk percep
+tion The independent variables that affect pregnancy risk
+perception were history of obstetric complications knowing
+TABLE Obstetric characteristics of pregnant women attending
+antenatal care at Jabi Tenhan District health centers in April
+n
+Variable
+Gravidity
+Parity
+Past obstetric
+complications
+Pregnancy
+danger signs
+Bad obstetric history
+Category
+Primigravida
+Multigravida
+Grand multigravida
+Null
+One
+Two up to four
+Five and above
+Yes
+No
+Yes
+No
+Yes
+No
+Frequency Percent
+TABLE Knowledge of pregnancy danger signs among pregnant
+women attending antenatal care at Jabi Tehnan District health
+centers in April n
+Variables
+Awareness of pregnancy danger signs
+Vaginal bleeding
+Severe headache
+Persistent vomiting
+Swollen hand face
+Severe abdominal pain
+Convulsion loss of consciousness
+Blurred vision dizziness
+Loss of fetal movement
+Water break before labor
+The onset of labor before the expected
+Frequency
+Yes
+No
+date of delivery
+Persistent fever
+Pregnancy risk perception
+Good pregnancy risk
+perception
+Poor pregnancy risk
+perception
+FIGURE Perceived severity of pregnancy related complications
+among pregnant women attending antenatal care at Jabi Tenhan
+District health centers in April n
+International Journal of Reproductive Medicine
+TABLE Pregnancy risk perception of pregnant women attending antenatal care at Jabi Tehnan District health centers Ethiopia in April
+n
+Variables
+Perceived susceptibility
+Getting extremely pregnancy related complications
+Fears of having a diffcult pregnancy period
+Good possibility to get complications related to delivery and
+a
+Strongly
+disagree
+Frequency
+Disagree
+Neutral
+the postpartum period
+Getting pregnancy related complications are great
+Get bad pregnancy outcome
+Variables
+Perceived severity
+Pregnancy and delivery problems would last a long time
+Pregnancy complications would threaten the relationship
+with the partner
+Pregnancy related complications can lead to permanent
+changes in life
+Pregnancy would not last to term
+The baby would not survive the pressure that comes with
+labor and delivery
+If I got pregnancy related complications I fear I will not
+survive them
+Premature birth
+b
+Strongly
+disagree
+Disagree
+Frequency
+Neutral
+Agree
+Agree
+Strongly
+agree
+Strongly
+agree
+Mean
+SD
+Mean
+SD
+women who died due to pregnancy related complications
+bad obstetric history and awareness of pregnancy danger
+signs
+In this study of pregnant women had a good
+pregnancy risk perception Studies conducted at health and
+medical enters of Hamadan City in the west of Iran
+tertiary care hospitals in Winnipeg Manitoba two major
+teaching hospitals of a city in Western Canada and urban
+tertiary care hospital in western Canada showed that their
+mean score perception of pregnancy risk was below the
+midpoint of scales It means that of their study par
+ticipants perceived that their susceptibility to pregnancy
+related complications was mild This difference might be
+due to that all the research was conducted using a visual
+analog scale tool measurement which is only administered
+for literate people data collection tool difference sociocul
+tural difference sample size difference and time gap of the
+study
+This study showed that and of
+study subjects perceived that they were susceptible to
+pregnancy related complications This finding was higher
+than those studies conducted in Mandera County Kenya
+This difference might be due to sociocultural differ
+ences of study participants study population and time gap
+of the study
+This research showed that and of
+pregnant women were perceived them to be susceptible to
+bad pregnancy outcomes and and
+were perceived that they are susceptible to difficult preg
+nancy periods This finding was consistent with the study
+conducted in Mandera County Kenya
+In this study and of pregnant
+women perceived that their baby will be born prema
+turely This result was consistent with studies conducted
+in Mandera County Kenya But studies con
+ducted at Hamadan City Iran and Winnipeg Manitoba
+showed that mean score perceptions were below the
+midpoint of scales that indicate mild risk perception
+This difference might be due to the difference of mea
+surement scale sociocultural difference and time gap of
+the study
+This study revealed that and of
+pregnant women were perceived that the occurrence of preg
+nancy complications would not threaten their relationship
+with their partners which is lower than a study conducted
+in Mandera County Kenya This difference might
+be due to the sociocultural difference of study participants
+and the time gap of the study Besides it may be because
+Ethiopian women were honest with their husbands to keep
+their promise during the marriage
+International Journal of Reproductive Medicine
+TABLE Factors affecting pregnancy risk perception of pregnant women attending antenatal care at Jabi Tenhan District health centers in
+April n
+Variables
+Yes
+Knowing at least one pregnancy danger sign
+No
+Yes
+Bad obstetric history
+No
+Yes
+Obstetric complication
+No
+Yes
+Having pregnancy danger signs
+No
+Yes
+Knowing women died due to pregnancy related complications
+No
+Fourth
+Third
+Level of ANC visit
+Second
+First
+Urban
+Residence
+Rural
+Pregnancy risk
+perception
+Good
+Poor
+COR Cl
+AOR Cl
+p value
+SO OOI
+Yes
+Own income
+No
+In this study mean score perception pregnancy risk in
+pregnant women showed that they did not perceive that they
+are at risk for dying due to pregnancy related complications
+Studies conducted in Winnipeg Manitoba Western Canada
+and the west of Iran had mild risk perception This difference
+may be due to differences in measurement scale data collec
+tion tool sociocultural difference and educational status of
+respondents
+Approximately seventy percent of women perceived that
+their babies would die during labor and delivery This result
+was inconsistent with studies conducted in western Canada
+and Hamadan City in the west of Iran This difference may
+be due to differences in measurement scale sociocultural
+difference and educational status of respondents
+Pregnant women who had awareness of pregnancy
+danger signs were more likely to have positive pregnancy
+risk perception than their counterparts This may be due to
+knowledge about pregnancy danger signs clearing rumors
+about pregnancy related complications and increasing their
+awareness about pregnancy related complications
+According to this study pregnant women with bad obstet
+ric history were more likely to have positive pregnancy risk
+perception This may be due to pregnant women being famil
+iarized with the bad obstetric outcome and learning their
+susceptibility towards pregnancy related complications
+In this research one of the factors that affecting posi
+tively pregnancy risk perception was knowing a woman
+who died due to pregnancy related complications This
+may be because these women learned the probability of
+developing pregnancy related complications as well as the
+consequences of pregnancy related complications from
+women s death due to pregnancy related complications
+Generally pregnant women with a bad obstetric his
+tory past obstetric complication and knew a woman
+who died due to pregnancy related complications were
+associated with pregnancy risk perception This result
+was similar to the concept of availability of the Heuristic
+approach which means that an individual makes a judg
+ment about likelihood of an event based on experience
+or information from others In this study experience
+and information from others are pregnant women with
+bad obstetric history and past obstetric complications
+and knew a woman who died due to pregnancy related
+complications respectively
+In this study age of pregnant women is not significantly
+associated with pregnancy risk perception But women
+aged years had statistically significantly associated
+with pregnancy risk perception than women aged to
+in studies conducted at health and medical centers of
+Hamadan City in the west of Iran This difference might
+be due to sampling size difference pregnant women
+versus pregnant women age category difference
+years versus years study participant difference both
+nulliparous and multiparous versus only nulliparous mea
+surement scale differences Likert scale versus visual analog
+scale and the difference in data collection tools
+Conclusion
+The pregnant women perceive that they were risky in
+developing pregnancy related complications and their
+consequences were low Only forty eight percent of preg
+nant women had good pregnancy risk perception This is
+likely to have implications for medical care and pregnancy
+outcomes
+History of obstetric complication and bad obstetric his
+tory was associated with a higher degree of actual risk per
+ception in pregnancy whilst women who knew the death of
+pregnant women due to pregnancy complication and knew
+at least one pregnancy danger signs were more likely to be
+concerned about risk
+Strength The strength of this research is that it is the
+primary research conducted in Ethiopia and Africa Besides
+the research measures the outcome variables using the two
+components of the health belief model perceived suscepti
+bility and severity
+Limitations This study was conducted within the
+clinical area Therefore the results cannot be generalized to
+a woman who failed to attend antenatal care In addition
+cultural influence of pregnancy risk perception should be
+identify using a qualitative research approach but this
+research lacks it
+Abbreviations
+International Journal of Reproductive Medicine
+Authors Contributions
+DA and AM wrote study design data entry data analysis
+and result AM was responsible of the data analysis results
+writing preparing the manuscript and reading and approv
+ing the final manuscript DM collected and entered the data
+WK YD YD LB FT DM AA and BT managed the man
+uscript writing and read and approved the final manuscript
+Acknowledgments
+We would like to thank the Hailu Alemu College for the
+financial support to this study and the Debre Markos Uni
+versity for granting permission to this study
+References
+ANC
+FANC
+HBM
+MMR
+PPH
+Antenatal care
+Focused antenatal care
+Health belief model
+Maternal mortality ratio
+Postpartum hemorrhage
+Data Availability
+The original data for this study are available from the
+corresponding author upon reasonable request
+Ethical Approval
+Ethical clearance was obtained from the Debre Markos Uni
+versity College of Health Sciences ethical review committee
+Besides permission was obtained from the Jabi Tehnan Dis
+trict Health Bureau All study participants were informed
+about the purpose of the study and informed consent was
+obtained from each study participant orally
+Disclosure
+I would like to acknowledge that this is my original work
+and for sure not published anywhere
+print
+Conflicts of Interest
+The authors declare that there are no
+regarding the publication of this paper
+but posted as pre
+conflicts
+of interest
+C Darker Risk perception in Encyclopedia of Behavioral
+Medicine M D Gellman and J R Turner Eds pp
+Springer New York
+A Tversky and D Kahneman Judgment under uncertainty
+heuristics and biases Science vol no pp
+J Jackson N Allum and G Gaskell Bridging levels of anal
+ysis in risk perception research the case of the fear of crime
+Forum Qualitative Sozialforschung Forum Qualitative Social
+Research vol no
+S J Atkinson and M F Farias Perceptions of risk during
+pregnancy amongst urban women in Northeast Brazil Social
+Science Medicine vol no pp
+M Kowalewski A Jahn and S S Krmatta Why do at risk
+mothers fail to reach referral level Barriers beyond distance
+and cost African Journal Of Reproductive Health vol
+no pp
+P D Suplee K Dawley and J R Bloch Tailoring peripartum
+nursing care for women of advanced maternal age Journal of
+Obstetric Gynecologic Neonatal Nursing vol no
+pp
+M Fraser and M A Cooper Myles text book for midwives
+Midwifery vol no p
+Y Agus S Horiuchi and S E Porter Rural Indonesia
+women s traditional beliefs about antenatal care BMC
+Research Notes vol no pp
+S Gabrysch and O M Campbell Still too far to walk lit
+erature review of the determinants of delivery service use
+BMC Pregnancy And Childbirth vol no pp
+Y Baral K Lyons J Skinner and E Van Teijlingen Determi
+nants of skilled birth attendants for delivery in Nepal Kath
+mandu University Medical Journal vol no pp
+B N Sianchapa Knowledge and Perception of Women towards
+Danger Signs in Pregnancy in Choma District
+A Fitwi G Buruh M Rejeu et al Awareness and Perception of
+Husbands towards Obstetric Danger Signs in Northern Ethio
+Pia Researchsquare
+S Nurgi E Tachbele W Dibekulu and M A Wondim
+Knowledge attitude and practice of obstetric danger signs
+during pregnancy in Debre Berhan Ethiopia Health Science
+Journal vol no pp
+International Journal of Reproductive Medicine
+M Hiluf and M Fantahun Birth preparedness and
+complication readiness among women in Adigrat town North
+Ethiopia Ethiopian Journal of Health Development vol
+no pp
+W Mekonnen and A Gebremariam Causes of maternal
+death in Ethiopia between and systematic review
+with meta analysis Ethiopian Journal of Health Development
+vol no
+Organization W H International Statistical Classification of
+Diseases and Related Health Problems Tabular List World
+Health Organization
+L Say D Chou A Gemmill et al Global causes of maternal
+death a WHO systematic analysis The Lancet Global Health
+vol no pp
+World Health Organization Trends in maternal mortality
+to estimates by WHO UNICEF UNFPA World
+Bank Group and the United Nations Population Division
+World Health Organization
+A Conde Agudelo J M and C Lammers Maternal
+perinatal morbidity and mortality associated with adolescent
+pregnancy in Latin America cross sectional study American
+Journal Of Obstetrics And Gynecology vol no pp
+H E Knight A Self and S H Kennedy Why are women
+dying when they reach hospital on time A systematic review
+of the third delay Plos One vol no article
+S Thapa Risk Perception of Woman on Pregnancy Childbirth
+and the Postpartum Phase and the Association of the First
+Delay A Case of Rural Nepal Master s Thesis Wageningen
+University The Netherlands
+Central Statistical Agency Population And Housing Cen
+sus Of Ethiopia
+M Meseret M Shibabaw and G Tsegaye Determinants
+of tuberculosis among adults in Jabi Tehnan district West
+Gojjam zone Northwest Ethiopia a case control study
+International Journal of Public Health Safety vol
+no article
+S Thapa Risk perception of woman on pregnancy childbirth
+and the postpartum phase and the association to the first delay
+a case of rural Nepal Doctoral dissertation M Sc Thesis the
+Wageningen University Wageningen University
+M C Muthingu Uptake Of Focused Antenatal Care Services
+Among Women Of Reproductive Age In Nakuru County
+Kenya
+Z Taghizadeh M A Cheraghi A Kazemnejad J Pooralajal
+and S Aghababaei Difference in perception of pregnancy
+risk in two maternal age groups Journal Of Clinical And
+Diagnostic Research JCDR vol no pp
+A Gupton M Heaman and L W K Cheung Complicated
+and uncomplicated pregnancies women s perception of
+risk Journal of Obstetric Gynecologic Neonatal Nursing
+vol no pp
+H Bayrampour M Heaman K A Duncan and S Tough
+Comparison of perception of pregnancy risk of nulliparous
+women of advanced maternal age and younger age Journal
+of Midwifery Women s Health vol no pp
+M Heaman J Beaton A Gupton and J Sloan A comparison
+of childbirth expectations in high risk and low risk pregnant
+women Clinical Nursing Research vol no pp
+D A Alemu A M M Zegeye W K Dessie L B Zeleke and
+D M Belay Pregnancy Risk Perception and Associated Factors
+among Pregnant Women Attending Antenatal Care at Health
+Centers in Jabitehnan District Amhara Northwest Ethiopia
+object oriented paradigms such as inheritance All concepts
+are characterized and described with a set of attributes with
+all the details that describe each attribute For example Child
+concept has birthdate growth stage gender and disorders
+attributes which are used to describe a child status
+Domain Model
+Domain model represents the relations between concepts
+separated from the control of the expert system In the
+proposed system nutrition domain models are represented in
+many formats which including rules functions and tables
+Children nutrition problem solving contains three domain
+models These models are Age Stage Model Calculate
+Needed Calories and Determine Meals Schedule
+Age Stage Model
+This model includes Calculate Age and Calculate Age Stage
+relations Calculate age is represented as a function which
+calculates the age of the child as a pre step to determine
+his her growth stage Calculate age stage is represented as a
+relation which determines the growth stage of the child
+according to his her age The growth stages included in the
+prototype is Toddler Preschool Gradeschool and Teen
+Calculate Needed Calories
+Calculate Needed Calories is represented as a table which
+presents the relation between the age stage of the child and
+the required amount of daily needed calories according to the
+child s activity and gender The used calculate needed
+calories knowledge is shown in table l
+TABLE
+CALORIES NEEDED EACH DAY
+represented as table which determines each food item
+calories Needed Food Group Unit is represented as a set of
+rules which drives the suitable needed daily food group unites
+according to the child growth stage Meals schedule is
+represented as a set of rules which defines each meal contains
+according to the child needed calories and its healthy statues
+Birth Date
+Calculate Age Stage
+Age Stage
+Calculate Feeding
+Requirements
+Feeding Requirements
+Determine Meals Schedule
+Meal Schedule Details
+Display Results
+Age Stage Model
+Basic Person Data
+Feeding Requirements Model
+Health Status
+Meal Schedule Model
+Toddler
+Preschool
+Grashool I
+Teen
+Toddler
+Preschool
+Grashool I
+Teen
+Sedentary
+calories
+ooo
+Activity
+Moderately
+calories
+Very Active
+calories
+Determined Meals Schedule
+Determine Meals Schedule model is considered the main
+step as its output is the main system output This model
+presents a healthy diet schedule for the child according to the
+calculated calories amount gender and the required amount
+of each food group for the child One of the main criteria to
+determine the suitable meal for the child is his her healthy
+status such as diabetic children who needs special diet to
+avoid any consequences for the disease It includes four
+relations Determine Food Group Food Unit Calories
+Needed Food Group Unit and Meals schedule The
+Determine Food Group is represented as a set of rules which
+defines each food group items There are six food groups
+namely Milk Protein Fruit Vegetable Bread and cereal
+and Sugar and Oil The Food Unit Calories relation is
+Fig l Children Nutrition Inference Structure
+INFERENCE KNOWLEDGE
+Inference Knowledge layer presents the steps for the
+problem solving which applies the rules of the relations
+functions and tables which are describes in the domain model
+section
+As shown in Fig the inference structure contains three
+inference steps These steps are Calculate growth stage
+Calculate feeding requirement and Determine meal schedule
+The following subsections describe the details of each
+inference role in Fig including its input parameters output
+parameters with mapping the applied part of the domain
+knowledge
+Calculate Age Stage
+The objective of the Calculate Age Stage inference is to
+determine the age stage of the child according to his birth
+date This age stage is then taken into consideration in the
+next inference step as each age stage has its determined
+nutrition requirements
+In addition other personal
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+specifications are also considered such as the gender of the
+child Calculate Age Stage inference derives its goal by
+applying the Calculate Age function which calculates the age
+of the child and a set of Calculate Age Stage rules that are
+defined in the Age Stage Model
+Calculate Feeding Requirements
+The objective of Calculate Feeding Requirements inference
+is to determine the main feeding requirements for a specific
+child according to the determined age stage driven in the
+previous inference step with the support of a number of
+specifications such as gender and activity status The main
+feeding requirements are defined by driven the required
+amount of calories These determined requirements are then
+taken into consideration in producing the meals schedule for
+the child Calculate Feeding Requirements inference derives
+its goal by applying the Calculate Needed Calories table that
+is defined in the Feeding Requirements Model
+Determine Meals Schedule
+The objective of Determine Meals Schedule inference is to
+determine the main goal of the system which is presenting the
+suitable meals schedule for the child according to the child s
+feeding requirements with considering the child s health
+status of the child is considered as well as the food unites
+requirements The output of Determine Meals Schedule
+inference also depends on the knowledge demonstrating the
+existing description for each food group that can be part of
+the meal Determine Meals Schedule inference derives its
+goal by applying a set of rules in Needed Food Group Unit
+and meal schedule that are defined in the Determine Meals
+Schedule Model
+TASK KNOWLEDGE
+The goal of Task Knowledge layer is to present the control
+over all described inferences steps to reach the determined
+goal The task includes three subtasks which are Calculate
+Child Growth Stage Calculate Child Feeding Requirements
+and Determine Child Meals Schedule The following presents
+the Children Nutrition Task structure
+Task Child Nutrition
+Task Definition
+Goal determine the suitable meals for the child according to his her
+VI
+CASE STUDY
+A web application has been developed for the proposed
+system The knowledge base of the proposed children
+nutrition expert system is implemented using the Mini
+Knowledge Share and Reuse tool MiniKSR while the
+control of the system and the user interface were
+implemented by Visual Basic Net Microsoft Visual Studio
+We have applied two case studies on the developed
+system to determine the system accuracy in generating the
+suitable meal We changed the values of the required
+parameters for example in the health status parameter one
+experiment was applied for a healthy child while the second
+was applied for a diabetic child We then measured the
+accuracy of the system by reviewing the output with experts
+in the nutrition field who approved the generated nutrition
+schedule
+In this section we will present the steps applied in the
+developed system showing the steps of these experiments
+with demonstrating the developed user interface in the
+presented figures
+In fig the user enters the required information for the
+child they are the birth day gender and activity level and
+the health status if exists such as diabetic
+In the first case the child is a male was born in
+and his activity level is moderately with no health status that
+should be considered According to this inputs Calculate
+Child Growth Stage subtask will call Calculate Age Stage
+inference step to drive the child growth stage which is
+determined to be preschool Then Calculate Child Feeding
+Requirements subtask will use the output of the previous
+inference step to call Calculate Feeding Requirements
+inference step which drives the needed calories based on the
+child age stage gender and activity level The minimum need
+calories is determined by the system to be and the
+maximum is Now the Determine Child Meals Schedule
+subtask is ready to generate the suitable meal schedule
+The system determines the generated needed food unit from
+each food category for the presented case Then it determines
+the daily food items for preschool child as shown in Table
+CHILDREEN NUTRITION
+H me Nutrition
+specifications
+Input Birth Date Basic Person Data Health Status
+Output Meals Schedule Details
+Task Body
+Type Composite
+Subtasks Calculate Child Age Stage Calculate
+Requirements Determine Child Meals Schedule
+Additional Roles
+Child Age Stage
+Age Stage
+Feeding Requirements
+Child F Requirements
+Control Structure
+OBTAIN BD Child Birth Date from user
+Child
+Feeding
+Feeding
+Gere
+Artivtylevel
+Vale C Female
+O Seder
+Moderately Adve
+O Active
+Calculate Child Age Stage BD AS Child Age Stage
+OBTAIN BPD Child BasicPDate from user
+Calculate Child Feeding Requirements AS BPD FR Child
+Requirements
+OBTAIN HS Child HealthStatus from user
+Fig Child Nutrition Interface
+Determine Meals Schedule HS FR FUC Food Units calories FGU
+Food Groups Units amount MSD Child Meals Schedule Details
+Display Results BD BPD HS MSD
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+Food
+Group
+Milk
+Protein
+Fruit
+Vegetable
+Bread and
+cereal
+TABLE
+NEEDED FOOD ITEM FOR A DAY
+Food item
+cup of milk cup of yogurt grams of cheese
+grams of meat cup of cooked cereal
+cup juice a single grain of fruits
+quarter cup dried fruits
+half a cup of vegetables cup of leafy vegetables
+half a cup of vegetables
+one slice of bread a quarter of a loaf of Black one
+slice of bread a quarter of a loaf of Black one slice of
+bread a quarter of a loaf of Black one slice of bread a
+quarter of a loaf of Black one slice of bread a quarter
+of a loaf of Black grams beans ready to eat
+considers all age stages of the child with the target of
+providing a suitable daily diet This daily diet is given
+according to determined criteria such as gender age health
+status A case study is presented to prove the accuracy and
+applicability of the system However validating the
+knowledge for the proposed system and completing the
+knowledge base are two of the main future directions Since
+the proposed prototype is a first step towards a complete
+expert system for a broader target which is providing a whole
+nutrition plan for children with explanation facilities and
+different varieties of food based on their preferences We also
+aim to include more than one plan for the child status to
+provide more varieties considering different situations such as
+the family financial level Moreover we aim to provide
+bilingual interface English and Arabic for more population
+to the presented system to serve different levels of families
+including education level and financial level
+Finally the system determines the meals schedule and
+present it to the user as shown in Fig
+CHLNEEN NUTRITION
+Fig the meals schedule for a healthy preschool child
+In the second case the healthy status of the child is changed
+to be diabetic consequently the meals schedule changed as
+shown in fig The meals schedule is changed to be suitable
+for a diabetic person It includes three main meals and three
+snacks meals
+C LNEEN NUTATION
+Jl O
+Jlibil
+OJ
+Fig the meals schedule for a diabetic preschool child
+In this paper we proposed a prototype for a healthy
+nutrition expert system for children The proposed system
+REFERENCES
+Healthy Eating Research Recommendations for Responsible Food
+Marketing to Children A National Program of the Robert Wood
+Johnson Foundation January
+UniCeif Improving Child Nutrition The achievable imperative for
+global progress United Nations Publications Sales April
+Levels Trends in Child Malnutrition The United Nations
+Children s Fund the World Health Organization and the World Bank
+B Thuhli and K Busaidi Developing a Nutrition and Diet
+Expert System Prototype International Business Information
+Management Association Conference June
+S Sivilai C Snae and M Brueckner Ontology Driven Personalized
+Food and Nutrition Planning System for the Elderly In the
+International Conference in Business Management and Information
+Sciences Phitsanulok Thailand January
+J Aberg Dealing with Malnutrition A Meal Planning System for
+Elderly In AAAI Spring Symposium Argumentation for Consumers of
+Healthcare pp
+Stuart Russell and Peter Norvig Artificial Intelligence A Modern
+Approach Prentice Hall Series In Artificial Intelligence
+P J F Lucas and L C van der Gaag Principles of Expert Systems
+January Addison Wesley
+G Schreiber B Wielinga R de Hoog H Akkermans and W Van de
+Velde CommonKADS a comprehensive methodology for KBS
+development IEEE Xplore pp Dec
+Z A Mahmoud Nutrition in adolescence Food Technology
+Research Institute FTRI Agricultural Research Center ARC
+http www vercon sci eg indexUI htm
+visit on
+Therapeutic Nutrition National Nutrition Institute The General
+Organization For Teaching Hospitals and Institute
+http www nni org eg diabetes ar htm visit on
+Calories Needed Each Day National Heart Lug and blood institute
+National
+of Health
+retrieved from
+Institutes
+https www nhlbi nih gov health educ ational wecan downloads calreqti
+ps pdf last visited on
+Mohammed Elhelly Mohameed Yehia Mohammed Said KSRTOOL
+TR CLAES Agriculture Research Center Central
+Laboratory of Agricultural Expert System
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+Original Research
+Antenatal depression moderated the association
+between gestational diabetes mellitus and fetal
+hyperinsulinism
+Haixia Wang MS Wanjun Yin PhD Shuangshuang Ma PhD Peng Wang PhD Lei Zhang MPH
+Check for updates
+Xianxia Chen MD Peng Zhu PhD
+Gestational diabetes mellitus and antenatal
+BACKGROUND
+depression are common comorbidities However the combined effects of
+antenatal depression and diabetes mellitus during pregnancy on fetal
+cell function are unknown
+OBJECTIVE This study aimed to test whether the association of
+maternal gestational diabetes mellitus and glucose metabolism with cord
+blood C peptide levels varies with antenatal depression
+STUDY DESIGN Data on motheFchild pairs N from the
+Maternal and Infant Health Study in Hefei were analyzed
+Gestational diabetes mellitus was diagnosed using the g oral glucose
+tolerance test at to weeks of gestation Antenatal depression was
+measured using the Edinburgh Postnatal Depression Scale during
+midpregnancy and late pregnancy Cord blood samples were collected at
+delivery and tested for C peptide levels
+RESULTS A total of mothers were diagnosed with ges
+tational diabetes mellitus Gestational diabetes mellitus was associated with
+a confidence internl percentile higher cord blood
+C peptide level This association varied with depression severity the differen
+ces in cord blood C peptide percentile for gestational diabetes mellitus vs no
+gestational diabetes mellitus were confidence interual
+for nonantenatal depression confidence interual
+for moderate antenatal depression and confi
+dence interual for severe antenatal depression in midpreg
+nancy Similar associations stratified by antenatal depression in late
+pregnancy were observed Antenatal depression was significantly positively
+correlated with fetal hyperinsulinism in patticipants with gestational diabetes
+mellitus but not in patticipants without gestational diabetes mellitus
+CONCLUSION Antenatal depression which is related to maternal
+hyperglycemia can aggravate the risk of fetal hyperinsulinism in early life
+Key words antenatal depression cohort study cord blood C peptide
+Edinburgh Postnatal Depression Scale gestational diabetes mellitus
+Introduction
+estational diabetes
+mellitus
+GDM defined as diabetes melli
+tus diagnosed in the second or third tri
+mester of pregnancy that has not been
+overt diabetes mellitus before gestation
+is widespread and affects to
+of women worldwide Maternal hyper
+glycemia stimulates the production of
+fetal insulin and is associated with fetal
+hyperinsulinism Epidemiologic studies
+have shown that depression is a com
+mon comorbidity in patients with diabe
+tes mellitus However the specific role
+of antenatal depression AD in the rela
+tionship between GDM and fetal hyper
+insulinism has seldom been assessed
+C peptide concentration is a more sta
+ble indicator of insulin synthesis than
+Cite this article as Wang H Yin W Ma S et al Antena
+tal depression moderated the association between gesta
+tional diabetes mellitus and fetal hyperinsulinism Am J
+Obstet Gynecol MFM
+Elsevier Inc All rights reserved
+http dx doi org j ajogmf
+circulating insulin levels C peptide is
+released from the pancreatic cells and
+secreted in equimolar levels with insu
+lin Therefore cord blood C peptide
+level can be used as an indicator of fetal
+hyperinsulinism The gestation period is
+considered a crucial time for cell
+development and its structure and func
+tion may be altered by an adverse
+intrauterine environment In pregnant
+women with GDM hyperglycemia is
+transported to the fetus through the pla
+centa causing fetal hyperglycemia which
+stimulates the proliferation of fetal islet
+cells and increases insulin secretion
+thereby promoting fetal growth and fat
+accretion The impairment of placental
+function by placental inflammation
+which is caused by GDM may directly
+induce fetal injury or insult to the islet
+structures
+Depression is a prevalent central ner
+vous system condition that affects many
+people with diabetes mellitus
+In a
+meta analysis of studies AD was
+linked to risks of GDM with a fold
+higher incidence than in controls AD
+results in enhanced hypothalamic
+pituitary adrenal HPA axis activation
+and affects the epigenetic status and
+genetic expression in the placenta
+which may compromise placental bar
+rier function and influence fetal devel
+opment However to the best of our
+knowledge no study has examined
+whether the association between GDM
+and fetal hyperinsulinism varies with
+AD
+Given these previously reported
+associations we hypothesized that the
+relationship between maternal GDM and
+cord blood C peptide levels would vary
+with AD To test our hypothesis we
+conducted this multicenter prospective
+large sample cohort study to examine
+the relationship among maternal GDM
+cord blood C peptide level and AD
+Materials and Methods
+Participants
+Our study used data from the Maternal
+and Infant Health Cohort Study con
+ducted in Hefei From March to
+April pregnant participants
+at to weeks of gestation were
+recruited from hospitals in Hefei
+November AJOG MFM
+Original Research
+AJOG MFM at a Glance
+Why was this study conducted
+This study aimed to test whether the association of maternal gestational diabetes
+mellitus GDM and glucose metabolism with cord blood C peptide levels varies
+with antenatal depression AD
+Key findings
+GDM was associated with higher cord blood C peptide levels and varied by
+depression severity in both midpregnancy and late pregnancy In addition AD
+was significantly positively correlated with fetal hyperinsulinism in participants
+with GDM but not in participants without GDM
+What does this add to what is known
+AD which is related to maternal hyperglycemia can aggravate the risk of fetal
+hyperinsulinism in early life Thus psychological factors during pregnancy may
+be potentially important targets in the early stages of life for interventions to pre
+vent glucose metabolism disorders in childhood
+China The First Affiliated Hospital of
+Anhui Medical University Anhui
+Women and Child Health Care Hospi
+tal and The First People s Hospital of
+Hefei City The eligibility criteria were
+as follows participants aged to
+years at delivery living in Hefei sin
+gleton pregnancy conceived without the
+use of assisted reproductive technology
+singleton birth and no major malfor
+mation or death of the fetus or new
+born The exclusion criteria were as
+follows multiple pregnancies previous
+macrosomia diabetes mellitus diag
+nosed before pregnancy participants
+with systemic diseases or taking drugs
+interfering with glucose homeostasis
+before pregnancy family history of dia
+betes mellitus use of insulin or oral
+hypoglycemic medications illiteracy
+and communication problems A total
+of mother child pairs were ulti
+mately included The details of the
+recruitment of the pregnant participants
+are shown in Supplemental Figure
+All procedures were approved by the
+Ethics Committee of Anhui Medical
+University approval number
+All participants provided written
+informed consent before participating
+Study visit
+During recruitment we collected socio
+demographic information from eligible
+pregnant participants via face to face
+interviews using a structured question
+naire At and weeks of gestation
+AJOG MFM November
+the participants underwent a g oral
+glucose tolerance test OGTT includ
+ing fasting plasma glucose FPG
+I hour plasma glucose PG and
+hour PG According to the criteria
+pregnant participants with GDM had
+an FPG of mmol L a I hour PG
+of mmol L and or a hour PG
+of mmol L Nursing care is pro
+vided by the attending obstetrician
+Based on the results of the OGTT fur
+ther recommendations are made for
+dietary and lifestyle changes along with
+self monitoring of blood glucose
+SMBG by performing fasting pre
+meal and postmeal blood glucose mon
+itoring on to days per week Further
+advice on diet and lifestyle modification
+and initiation of insulin and or metfor
+min was individualized based on SMBG
+results If after undergoing dietary and
+exercise therapy for to days the
+patients fasting or premeal blood glu
+cose level is mmol L the patients
+hour postprandial blood glucose level
+is mmol L or the patients develop
+hunger ketosis after adjusting their diet
+and the patients blood glucose level
+exceeds the pregnancy standard again
+after increasing calorie intake insulin
+treatment should be promptly initiated
+We did not include participants who
+were taking any type of medication for
+diabetes mellitus or required insulin
+treatment during pregnancy
+Fasting maternal venous blood sam
+ples drawn from participants during
+midpregnancy weeks of gesta
+tion were used to evaluate maternal
+insulin resistance information using the
+homeostasis model assessment for insu
+lin resistance HOMA IR index The
+HOMA IR was calculated as follows
+glucose x insulin Cord blood
+was drawn from the participants during
+delivery and used to evaluate the C pep
+tide level and fetal cell function The
+samples were processed in the same labo
+ratory and stored in the freezer
+until use The samples were processed in
+the same laboratory and stored in the
+freezer until analyzed
+The participants were asked to report
+their food intake in a face to face inter
+view during late pregnancy using a food
+frequency questionnaire FFQ which
+was used to measure habitual dietary
+intake in the preceding months FFQ
+development and validation were previ
+ously documented
+The energy
+intake from carbohydrates was calcu
+lated as the consumption frequency
+multiplied by the carbohydrate content
+of each food item Information on
+maternal glucose levels and birth out
+comes sex gestational age weight
+small for gestational age SGA and
+large for gestational age LGA was
+collected from the patients medical
+records SGA was defined as a birth
+weight of percentile for gesta
+tional age whereas LGA was defined as
+a birthweight of percentile for
+gestational age
+Ascertainment of antenatal
+depression
+Maternal antenatal depressive symptoms
+were measured using the Edinburgh
+Postnatal Depression Scale EPDS at
+midpregnancy weeks of gesta
+tion and late pregnancy weeks
+of gestation to establish the natural
+course of the AD We used the Chinese
+version of the EPDS which has been
+translated into more than languages
+The EPDS is a self reported depression
+questionnaire composed of questions
+that have been validated for use in the
+perinatal period Having clinically signifi
+cant symptoms of depression was
+defined as an EPDS score of
+We defined levels of AD O to points
+non AD to points moderate
+depression and points severe
+depression These threshold levels are
+consistent with previous research and
+have been shown to have high specificity
+and a positive predictive value for
+depression for points and
+respectively for points
+and respectively
+Laboratory measurements
+All measurements were performed
+according to the manufacturer s
+instructions Serum insulin levels were
+determined using a sandwich immuno
+assay ADVIA Centaur Siemens
+Healthcare Diagnostics Inc Vienna
+Austria The assay and a sensitivity of
+mU L with an intra assay coeffi
+cient of variation CV of to
+and an interassay CV of to
+The cord blood C peptide concentra
+tion was measured using Sandhofer s
+Electrochemical Luminescence Detec
+tion Kit Manheim Germany fol
+lowing the manufacturer s instructions
+The intra and interassay coefficients of
+variation were both
+Statistical analysis
+The baseline characteristics of the
+mother child pairs included in this
+study were compared The data were
+analyzed and are shown as counts and
+percentages for categorical variables
+and as mean standard deviation SD
+for continuous variables We reflect the
+level of C peptide in percentiles which
+not only focuses on the actual value but
+also comprehensively reflects the
+changes in C peptide levels Linear
+models were used to estimate the associ
+ation between GDM and cord blood C
+peptide percentile Interaction analysis
+was performed to investigate the inter
+action between GDM and cord blood
+C peptide levels and the potential effect
+modifier We examined whether the
+maternal GDM cord blood C peptide
+association varied with AD We visual
+ized the associations between glucose
+levels and HOMA IR and cord blood
+C peptide percentile by group and AD
+severity using a fractional polynomial
+prediction plot Similarly we visualized
+the associations between AD score and
+fetal hyperinsulinemia cord blood C
+peptide percentile by maternal
+GDM using the same method
+Confounding was defined as covari
+ates associated with exposure maternal
+GDM and outcome cord blood C
+peptide but not on the potential causal
+pathway We adjusted for variables
+including field center maternal age at
+delivery prepregnancy body mass index
+BMI educational level household
+income maternal alcohol consumption
+carbohydrate intake mode of delivery
+child sex male or female and preterm
+birth yes or no
+All analyses using SPSS software ver
+Sion IBM Corporation Armonk
+NY were sided with P values of
+considered statistically significant
+Results
+The
+Table
+presents the overall charac
+teristics of the mother child pairs
+GDM and AD scores The mean SD
+age at delivery was years of
+the participants were
+multiparas and were
+overweight or obese Of the children
+were female and
+were born before term
+Supple
+mental Table shows the characteristics
+of the mother child pairs according to
+GDM and Table shows the charac
+teristics of the AD severity levels in
+midpregnancy and late pregnancy
+Compared with participants without
+GDM participants with GDM had
+lower educational levels vs
+were more likely multiparas
+vs and were more likely
+overweight or obese vs
+Mean difference in cord blood C
+peptide percentile in participants
+with vs without gestational diabetes
+mellitus
+Participants with GDM had a
+confidence interval CI
+percentile higher C peptide level than
+participants without GDM after the
+adjustment for confounders Figure
+This association did not vary by mater
+nal age at delivery prepregnancy BMI
+gestational weight gain child sex pre
+term birth SGA and LGA However
+the association between GDM and
+Original Research
+cord blood C peptide percentile varied
+with AD P for interaction
+between GDM and AD on cord blood
+C peptide
+Association between gestational
+diabetes mellitus and cord blood
+C peptide level overall and by
+antenatal depression severity
+Participants with GDM had a
+higher risk of fetal hyperinsulinemia
+than participants without GDM
+Supplemental Table By AD se

@@ -1,0 +1,928 @@
+ing Repository Cardiotocog
+raphy Data Set
+UCI Machine Learning Repository Cardiotocog
+raphy Data Set
+UCI Machine Learning Repository Cardiotocog
+raphy Data Set
+CTU CHB
+Database
+CTU CHB
+Database
+Intrapartum
+Intrapartum
+Cardiotocography
+Cardiotocography
+O
+z
+Data from seven Spanish general hospitals
+Data from seven Spanish general hospitals
+Fig Number of Papers per Year
+Descargado para Biblioteca Medica Hospital bibliomexico gmail com en National Library of Health and Social Security de ClinicalKey es por Elsevier en
+mayo Para uso personal exclusivamente No se permiten otros usos sin Copyright Elsevier Inc Todos los derechos reservados
+Y Du C McNestry L wei et al
+z
+International Journal of Medical Informatics
+ANN
+SVM
+Decision
+tree
+Logistic
+regression
+u n L uuna
+KNN
+Naive
+Bayes
+Random
+forest
+Supervised
+Naive
+Bayes
+AdaBoost
+SERA
+EM
+clustering
+Unsurpervised
+o
+z
+Fig Machine Learning Algorithms Used for Modeling
+white bo x
+black box
+white box
+black box
+Fig Number of Papers that Applied White Box and Black Box Algorithms for CDSSs
+algorithms for CDSSs in pregnancy care are support vector machine
+SVM and artificial neural network ANN which were used in six and
+seven papers included in this review respectively The remainder of
+the predictive algorithms decision tree logistic regression random for
+est naive Bayes combination of k nearest neighbors kNN and naive
+Bayes adaptive boosting AdaBoost success estimation using a rank
+ing algorithm SERA expectation maximization EM clustering are
+less common as they were used by one or two papers only There is
+a trend towards the use of complex predictive algorithms e g ANN
+SVM random forest and AdaBoost in the development of CDSSs for
+pregnancy care since
+are the machine learning models developed in these studies
+explainable
+Explainability provides insights into the decision making process of
+the machine learning based CDSSs There are two types of explanation
+methods ante hoc and post hoc methods Ante hoc methods involve de
+veloping machine learning models that are inherently transparent such
+as linear and logistic regression decision tree and kNN They reveal
+the decision logic to users and are referred to as white box models
+When non explainable black box algorithms ANNs SVMs random
+forests etc are used the models developed can be explained in a
+post hoc manner Post hoc methods generate approximations of the de
+cision logic of the models Post hoc explanations can be split into global
+explanations which provide an overall understanding into a model s
+behavior and local explanations which explain why a particular deci
+sion output is made
+Regarding the proportion of papers that develop white box and
+black box machine learning models for CDSSs for pregnancy care
+used white box models only which provide ante hoc explana
+tions The majority of the papers developed black box models
+only and developed both white box and black box models As
+shown in Fig an increasing trend of using black box models for
+CDSS development for pregnancy care in recent years especially be
+tween and is observed However the number of papers
+using white box models remains roughly stable after
+Among the papers that applied black box algorithms for CDSSs in
+the context of pregnancy care only one applied post hoc explanation
+methods Tortajada et al applied pruning which consists in delet
+Descargado para Biblioteca Medica Hospital bibliomexico gmail com en National Library of Health and Social Security de ClinicalKey es por Elsevier en
+mayo Para uso personal exclusivamente No se permiten otros usos sin Copyright Elsevier Inc Todos los derechos reservados
+Y Du C McNestry L wei et al
+Discussion
+Machine learning based CDSSs have been developed to assist clini
+cians in various stages and aspects of pregnancy care from preconcep
+tion to postpartum stages The main focus is on supporting diagnosis
+prognosis and treatment for both pregnant women and babies during
+pregnancy and childbirth The limited number n
+of publica
+tions towards the development of machine learning based CDSSs for
+pregnancy care suggests that it is still an under explored area How
+ever there is an increase in the number of studies in this field in recent
+years partly because of the rise in research studying cardiotocography
+data using machine learning
+As explainability is becoming increasingly prominent for systems
+it was of interest to identify to what extent these studies incorporated
+this element in their work CDSS explainability has the potential to
+enhance the clinicians trust towards the system
+l while high
+accuracy alone is insufficient especially as it is often achieved by
+complex and opaque models Arrieta et al have recommended that
+black box models should be selected only when necessary and the use
+of white box models should be prioritised over complex algorithms that
+require the application of post hoc XAI techniques The use of black
+box models is prevalent in machine learning based CDSSs for pregnancy
+care especially in the past few years Although there is an increasing de
+mand to make approaches explainable in medicine an overall lack of
+explainability and application of XAI methods is observed in this field
+More than half of the CDSSs are not explainable A small proportion
+used white box algorithms and only one paper used a model specific
+post hoc explanation to explain black box machine learning models
+globally Besides it comes to our attention that Du et al
+provided
+both post hoc global and local explanations in a web based CDSS for
+the prediction of gestational diabetes mellitus which was published af
+ter the literature search of this review With recent user studies showing
+the importance of XAI in CDSSs future researchers in related
+fields should consider incorporating explainability into the system de
+sign Also it is recommended in the World Health Organisation WHO
+Guidelines for Health
+There is a lack of awareness or specification of the cultural eth
+nic racial groups in the training data Most studies used data collected
+in a single centre or multiple centres within the same country This
+is likely to reflect the local population and limits the diversity of par
+ticipants As machine learning is data based it could limit the appli
+cability and validity of the CDSSs on other populations This calls for
+cross cultural ethnic racial validation of the CDSSs to evaluate system
+generalisability in difference populations and studies on more diverse
+populations If the former is not possible researchers should report
+the cultural ethnic racial distribution or bias in the data and clearly
+specify the applicability of the CDSSs in case of misuse Additionally
+when reporting clinical trials involving interventions of an Al machine
+learning based CDSS the Consolidated Standards of Reporting Trials
+Artificial Intelligence CONSORT call for descriptions of how
+input data for the CDSS are acquired and the populations for which
+CDSS intervention can be safely implemented This applies to machine
+learning based CDSSs not only in the context of pregnancy care but
+also in other medical fields
+Although several studies have addressed major unmet needs in
+the area of pregnancy care with the use of machine learning mod
+els for CDSS development we identified that their research has in
+most cases remained experimental In addition only a very limited
+amount of machine learning based CDSSs have been tested by clini
+cal users Nonetheless in these studies positive feedback was received
+regarding reducing diagnostic errors supporting diagnosis and treat
+ments and reducing clinicians workload This highlights the potential
+of such systems in improving healthcare delivery especially in rural ar
+eas where the healthcare practitioners might not be specialists
+For future researchers who aim to test machine learning based CDSSs in
+International Journal of Medical Informatics
+randomised trials it is recommended to follow the CONSORT
+and report the trials in a transparent and complete manner
+In this work we identified several aspects that require attention in
+order for machine learning based CDSSs to transfer into clinical use In
+addition to those there are other persisting challenges including miss
+ing values outliers and class imbalance These issues are
+common in medical datasets and need to be addressed appropriately
+We comprehensively reviewed CDSSs incorporating machine learn
+ing techniques for pregnancy care Many of our findings are aligned
+with previous reviews in related fields Davidson et al identified
+limited external validation in in maternal healthcare Dhombres et
+al found a lack of external validation and the fact that the contri
+butions of remain at the level of proof of concept in the use of in
+the obstetrics and gynecology domain Davidson et al discovered
+a lack of clinical adoption in the use of and machine learning to im
+prove pregnancy outcomes Drukker et al pointed out challenges
+with black box models and the absence of wide scale multi centre clin
+ical studies in the use of in ultrasound imaging in obstetrics and
+gynecology These indicate that the gaps we identified have implica
+tions on a broader context providing guidelines for future researchers
+The contributions of our review are highlighted by a novel focus
+on machine learning based CDSSs an area that endeavors to trans
+late machine learning studies into clinical application and an in depth
+analysis of explainability cultural ethnic racial bias system implemen
+tation and user testing The literature search was conducted on Google
+Scholar an academic search engine with a high level of comprehen
+siveness As opposed to Dhombres et al who focused on obstetrics
+and gynecology core journals only many of the papers we selected
+were published in multidisciplinary journals of computer science and
+medicine giving a more extensive overview of relevant literature
+One of the limitations of this review is that the studies that were
+not written in English or not accessible were excluded Additionally
+the use of pregnancy as a search keyword may have led to the omis
+Sion of some papers that focus on preconception and postpartum care
+Nevertheless this review provides valuable insight into the state of the
+art in this field and the aspects that require further research guiding
+future researchers in related fields
+Conclusion
+This systematic review comprehensively reviewed and summarised
+studies towards the development of CDSSs using machine learning for
+different aspects of pregnancy care It is observed that black box algo
+rithms are the most popular especially in recent years while the need
+for explainability in the models or systems is not sufficiently addressed
+We discovered that there is an overall lack of awareness experimen
+tation external validation and discussion around culture ethnicity or
+race and a lack of CDSS implementation and user testing Despite
+the open problems that remain positive feedback from clinicians was
+reported on the CDSSs that were tested reinforcing the potential of
+such systems to improve clinical practice Our findings can serve as
+guidelines for future researchers in related fields to assist them in in
+corporating their work in clinical practice and having a higher impact
+in the delivery of personalised care
+Summary table
+What is already known on the topic
+Clinical decision support systems CDSSs can provide various ad
+vantages to healthcare delivery
+Artificial intelligence and machine learning are being studied to
+optimize a variety of pregnancy outcomes
+Studies have shown that machine learning based CDSSs have posi
+tive effects on pregnancy care
+Descargado para Biblioteca Medica Hospital bibliomexico gmail com en National Library of Health and Social Security de ClinicalKey es por Elsevier en
+mayo Para uso personal exclusivamente No se permiten Otros usos sin Copyright Elsevier Inc Todos los derechos reservados
+Y Du C McNestry L wei et al
+V J Spilka M P Jank L Hruban M Huptych L Open
+access intrapartum CTG database BMC Pregnancy and Childbirth
+G S Collins J A de Groot S Dutton O Omar M Shanyinde A Tajar M Voysey
+R Wharton L M Yu K G Moons et al External validation of multivariable pre
+diction models a systematic review of methodological conduct and reporting BMC
+Med Res Methodol
+J F Rajotte R Bergen D L Buckeridge K El Emam R Ng E Strome Synthetic
+data as an enabler for machine learning applications in medicine iScience
+A S Bryant A Worjoloh A B Caughey A E Washington Racial ethnic disparities
+in obstetric outcomes and care prevalence and determinants Am J Obstet Gy
+necol
+A A Creanga C J Berg C Syverson K seed F C Bruce W M Callaghan Race
+ethnicity and nativity differentials in pregnancy related mortality in the United
+States Obstet Gynecol Part
+G Ghosh J Grewal T P Mendola Z Chen Y Xie S K Laughon
+Racial ethnic differences in pregnancy related hypertensive disease in nulliparous
+women Ethn Dis
+E E Petersen N L Davis D Goodman S Cox C Syverson K seed C Shapiro
+Mendoza W M Callaghan W Barfield Racial ethnic disparities in pregnancy
+related deaths United States Morb Mort Wkly Rep
+S Y P K Shiao C M Andrews R J Helmreich Maternal race ethnicity and predic
+tors of pregnancy and infant outcomes Biol Res Nurs
+L A Humphries O Chang K Humm D Sakkas M R Hacker Influence of race
+and ethnicity on in vitro fertilization outcomes systematic review Am J Obstet
+Gynecol el
+A Holzinger G Langs H Denk K Zatloukal H Causability and explain
+ability of artificial intelligence in medicine Wiley Interdiscip Rev Data Min Knowl
+Discov
+L H Gilpin D Bau B Z Yuan A Bajwa M Specter L Kagal Explaining expla
+nations an overview of interpretability of machine learning in IEEE
+International Conference on Data Science and Advanced Analytics DSAA
+pp
+International Journal of Medical Informatics
+S Tonekaboni S Joshi M D McCradden A Goldenberg What clinicians want con
+textualizing explainable machine learning for clinical end use in Machine Learning
+for Healthcare Conference PMLR pp
+A B Arrieta N Diaz Rodriguez J Del Ser A Bennetot S Tabik A Barbado S Gar
+cia S Gil D Molina R Benjamins et al Explainable artificial intelligence
+XAI concepts taxonomies opportunities and challenges toward responsible
+Inf Fusion
+Y Du A R Rafferty F M McAuliffe L Wei C Mooney An explainable machine
+learning based clinical decision support system for prediction of gestational diabetes
+mellitus sci Rep
+A Bussone S Stumpf D O Sullivan The role of explanations on trust and reliance
+in clinical decision support systems in International Conference on Health
+care Informatics IEEE pp
+C Panigutti A Beretta F Giannotti D Pedreschi Understanding the impact of ex
+planations on advice taking a user study for based clinical decision support sys
+tems in CHI Conference on Human Factors in Computing Systems pp
+A M Antoniadi M Galvin M Heverin L Wei O Hardiman C Mooney A clinical
+decision support system for the prediction of quality of life in ALS J Pers Med
+Y Du A M Antoniadi C McNestry F M McAuliffe C Mooney The role of IXAI
+in advice taking from a clinical decision support system a comparative user study
+of feature contribution based and example based explanations Appl Sci
+World Health Organization Ethics and governance of artificial intelligence for
+health WHO guidance
+X Liu S C Rivera D Moher M J Calvert A K Denniston Reporting guidelines for
+clinical trial reports for interventions involving artificial intelligence the CONSORT
+extension BMJ
+F Dhombres J Bonnard K Bailly P Maurice A T Papageorghiou J M Jouannic
+et al Contributions of artificial intelligence reported in obstetrics and gynecology
+journals systematic review J Med Internet Res
+L Drukker J Noble A Papageorghiou Introduction to artificial intelligence in
+ultrasound imaging in obstetrics and gynecology Ultrasound Obstet Gynecol
+Descargado para Biblioteca Medica Hospital bibliomexico gmail com en National Library of Health and Social Security de ClinicalKey es por Elsevier en
+mayo Para uso personal exclusivamente No se permiten Otros usos sin Copyright Elsevier Inc Todos los derechos reservados
+ELSEVIER
+Midwifery
+Contents lists available at ScienceDirect
+Midwifery
+journal homepage www elsevier com locate midw
+Midwifery
+Check for
+Turned away and sleeping apart A qualitative study on women s
+perspectives and experiences with family planning denial in Malawi
+Jaden Bendabenda c Alexander Mboma Mario Chen e John Stanback
+Jill M Peterson
+b
+Geir Gunnlaugsson
+a Department of Global Health and Population Research FHI Durham NC USA
+b Faculty of Sociology Anthropology and Folkloristics School of Social Sciences University of Iceland IS Reykjavik Iceland
+c Formerly of FHI Lilongwe Malawi
+d Midwifery Department Kamuzu University of Health Sciences Lilongvve Malawi
+e Department of Data and Analytics FHI Durham NC USA
+University of North Carolina at Chapel Hill Gillings School of Global Public Health Department of Maternal and Child Health Chapel Hill NC USA
+ARTICLE
+INFO
+Keywords
+Family planning
+Denial
+Turnaway
+Malawi
+Sub Saharan Africa
+Introduction
+ABSTRACT
+Introductiorr Barriers to family planning for potential clients have been explored in the literature but rarely from
+the perspective of the women themselves in a low income setting This research aimed to understand clients
+perspectives on being turned away from receiving a method of family planning at a facility on the day it was
+sought
+Methods Three focus group discussions were held in two districts of Malawi in with clients who had been
+turned away approximately three to six months prior
+Results The reasons for turnaway participants mentioned fell into eight categories no proof of not being preg
+nant method and or supply stock outs arriving late provider unavailable provider refusal needing to wait
+longer after delivery of a child financial constraints and medical reasons Participants were often turned away
+more than once before finally being able to initiate a method in some cases returning to the same facility and in
+others finding it through community health workers traditional healers or private facilities Clients often
+resorted to sleeping apart from their husbands until they could initiate a method and reported stress and worry
+resulting from being turned away
+Conclusions Clients are turned away without a method of FP on the day they seek one for multiple reasons nearly
+all of which are preventable Many examples given by the participants showed a lack of knowledge and respect
+for clients on the part of the providers Changing attitudes and behaviour however may be difficult and will
+require additional steps Increasing the availability and use of pregnancy tests having a more reliable supply of
+methods and materials increasing the number of providers including those trained well in all methods and
+providing daily FP services would all help reduce turnaway Improved access to family planning will help
+counties achieve their Sustainable Development Goals
+The importance of high quality family planning FP services in
+achieving the Sustainable Development Goals SDGs cannot be under
+estimated Traditionally recognised for its role in maternal and child
+health FP also contributes to the success of the SDGs in eliminating
+extreme poverty increasing health and well being ensuring quality
+education for all and lessening the impact of climate change among
+others
+In million
+Starbird et al United Nations
+women in low and middle income countries were estimated to have an
+unmet need for FP
+sully et al
+In many cases unmet need can be
+attributed to the various barriers women face in accessing FP
+Starrs
+et al
+Women must often overcome many barriers to FP before even
+reaching a facility that provides it including taking time away from
+domestic or income generating responsibilities to obtain services
+finding the resources needed to arrive at the facility and in some cases
+doing so while concealing their reason for the visit Women can
+Corresponding author at Department of Global Health and Population Research FHI Durham NC USA
+E mail address jillpeterson org J M Peterson
+https doi org j midw
+Received May Received in revised form September Accepted September
+Available online September
+The Authors Published by Elsevier Ltd This is an open access article under the CC BY NC ND license http creativecommons org licenses by
+nc nd O
+J M Peterson et al
+encounter other barriers after arriving at the facility resulting in them
+being turned away without receiving a method Those FP barriers that
+have been frequently categorised in the literature include geographic
+e g long distances between clients and services financial e g un
+affordable methods services or transportation to obtain a method and
+medical barriers Bertrand et al Campbell et al Starrs
+Medical barriers can include non medically necessary
+et al
+policies or practices that inappropriately prevent clients from receiving
+the contraceptive method of their choice or impose unnecessary process
+barriers to access family planning services Bertrand et al
+For
+example a medical barrier could include requiring direct observation of
+menstruation i e a soiled menstrual pad to rule out pregnancy lab
+tests or vaccinations Campbell et al Stanback et al
+Brunie et al Hazel et al
+Clients may also face barriers due
+to a lack of information on how FP or particular methods work
+stock outs of supplies or methods or bias on the part of providers Solo
+and Festin Campbell et al Bertrand et al
+In the case of provider bias providers may require clients to be
+married or of a certain age or they may impose their own beliefs
+regarding ideal family size or spacing of pregnancies including limiting
+the use of contraception for nulliparous women or women who have had
+fewer than the socially accepted number of children Campbell et al
+Stanback and Twum Baah Tavrow et al Tumlinson
+Providers may also determine the method dispensed to a
+et al
+client based on ease of initiation or availability of supplies rather than
+client preference Solo and Festin Farmer et al Hasselback
+et al
+Many of the barriers to FP are related to the social determinants of
+health including economic status area of residence education social
+inclusion and non discrimination and access to affordable quality
+health care Marmot et al These are defined by the WHO as
+non medical factors that influence health outcomes World Health
+Organization Marmot et al While social determinants of
+health exist in countries of all income levels they can be harder to
+overcome in low and middle income countries where resources and
+alternatives are more limited
+World Health Organization
+Overcoming or minimizing the impact of social determinants of health is
+a key element in helping the world to meet the SDGs and achieving
+equity in health yet their presence can be noted in many of the afore
+mentioned barriers to FP
+United Nations
+The term turnaway was first used by researchers exploring access to
+abortion services in the United States from Biggs et al
+In the Tavrow at al showed that many
+Foster
+Malawian women were denied FP at the facility entrance before even
+seeing a provider for reasons including missing group counselling
+coming on a non family planning day provider unavailability and un
+availability of commodities Tavrow et al More than two de
+cades later further research showed that Malawian women were still
+being turned away from FP services for reasons including refusing other
+services such as an HIV test or vaccination or a facility being closed
+during normal operating hours
+Hazel et al
+Turnaway in Malawi
+also resulted from closures or understaffing of facilities long wait times
+stock out of methods preferred by the women or FP being offered only
+on certain days of the week Peterson et al
+Unlike evidence on the presence and types of barriers to accessing FP
+facing women evidence on the impact of denying FP methods is sparse
+Although related issues such as a limited
+Solo and Festin
+method mix resulting from provider bias or method stock outs have
+been explored these studies have not given a strong voice to women on
+the effects on their lives of limited choice and access Solo and Festin
+Bertrand et al
+In this paper we aim to give women the
+opportunity to describe their experiences with turnaway from FP in
+Malawi and explore and analyse the reasons women understood they
+were turned away and the potential outcomes and consequences
+Midwifery
+Setting
+Malawi is a country of approximately million people located in
+southern Africa Central Intelligence Agency CIA It is divided
+into three regions and districts with approximately of the
+population living in rural areas Central Intelligence Agency CIA
+Christianity is the most common religion with of the pop
+ulation practising some type of Christianity whereas Muslims account
+for of the population Central Intelligence Agency CIA
+Malawi has a total fertility rate of an infant mortality rate of
+per live births and a maternal mortality ratio of per
+live births Malawi National Statistics Office World Health Or
+ganization The modern contraceptive prevalence rate for mar
+ried women is with an unmet need for FP of Malawi National
+Statistics Office the turnaway rate has been estimated to be
+for three districts studied Peterson et al Fewer than three
+quarters of women are literate Malawi National Statistics Office
+Malawi was one of few sub Saharan African countries to reach
+the Millennium Development Goal to lower child mortality which
+was achieved through general health system strengthening among other
+activities Gunnlaugsson and et al
+From to Malawi had a conservative FP policy in place
+requiring women to be married undergo a full physical exam meet age
+and parity restrictions and have permission from their husbands to
+initiate FP Tavrovv Devlin et al Health facilities offered
+FP services only once per week Tavrow In the Ministry of
+Health and Population MOHP introduced a new FP policy relaxing
+many of these restrictions
+The policy eliminated re
+Tavrow
+quirements related to age parity and permission of husband and
+allowed FP for limiting births rather than just birth spacing It also set
+the expectation that FP services should be offered daily at MOHP
+facilities
+Today trained community health workers in Malawi are allowed to
+initiate women on oral contraceptive pills OCPs and injectable
+contraception but facility based services remain an important source of
+FP for many women in Malawi Government of Malawi Ministry of
+Facility based FP services are usually provided by nurses
+Health
+midwives clinicians and health surveillance assistants HSAs who
+generally start with a group counselling session for prospective clients
+which is held in the morning During each session various FP methods
+are explained to clients including their possible side effects After the
+group counselling session has ended clients speak with providers indi
+vidually to decide upon and receive a method as appropriate and
+available
+Methodology
+This qualitative study was part of a larger mixed method study that
+gathered data on clients and providers from FP units in health fa
+cilities in three districts in Malawi from October to December
+Peterson et al Peterson et al In the first part of the
+study clients who were turned away from receiving a method of FP at a
+facility on the day they sought one participated in a survey on the day of
+turnaway Clients who agreed and provided a phone number were fol
+lowed up six and weeks post turnaway At the time of the week
+follow up visit or the six week follow up for those reporting preg
+nancy at six weeks research assistants asked clients via telephone if
+they would be willing to participate in a focus group discussion FGD
+The two districts with the highest turnaway rates were selected for the
+FGDs Data collectors attempted to reach all clients who lived in the two
+selected districts and stopped when they had eight participants agreeing
+to participate No alternate participants were selected Turned away
+clients were eligible for an FGD if they had access to a phone were
+willing to be contacted and expressed interest in participating
+We chose to use FGDs to allow women to share their experiences in
+J M Peterson et al
+their own words Qualitative research including FGDs allows for a
+greater understanding of complex issues than quantitative methods
+alone and offers greater opportunities to bring unanticipated findings to
+light
+Baum Bryman Krueger and Casey
+In our
+case a qualitative methodology put the turned away clients in the po
+sition of expert witnesses and allowed researchers to see the world
+through their eyes Bryman In some cultures participants may
+feel shy about sharing personal information in a group setting In
+Malawi however local researchers advised that clients would feel more
+comfortable sharing personal information in an FGD than in individual
+interviews because they would know in a group setting that others were
+also sharing such information thus the risk of social desirability bias
+would be reduced
+Elrofaie
+Study design and data collection
+The qualitative data presented here are taken from three FGDs with
+turned away clients conducted three to six months after turnaway The
+number of FGDs was constrained by cost and feasibility The turned
+away clients came from two districts in Malawi Kasungu and Zomba
+The team intended to include six to eight participants per FGD but in
+two cases five participants attended Discussions took place in a private
+space at available primary school classrooms in each district in late
+March and early April Clients participating in FGDs were
+compensated Malawian kwachas or approximately US IO for
+their time as required by the Malawian institutional review board the
+National Health Sciences Research Committee NHSRC Although
+COVID had not yet been detected in Malawi at the time of the FGDs
+rates were rising throughout the world To accommodate social
+distancing in their transportation to and from the FGDs participants
+were offered transportation reimbursement and encouraged to use
+transportation that could best ensure social distancing motorcycle taxi
+in place of minibus for example Those needing reimbursement for
+transportation received US US depending on the distance trav
+elled and means of transportation used
+The data collection team consisted of a lead interviewer and a note
+taker both Malawian women with bachelor s degrees in relevant fields
+and previous experience with qualitative data collection in health
+related studies Both had participated in the quantitative portion of
+the study and were familiar with the research goals and objectives Prior
+to initiating the FGDs they received an additional two days of training
+on qualitative data collection including modules on key components of
+effective facilitation such as not interrupting respondents not making
+assumptions about what participants will say and clarifying points that
+are unclear
+During the FGD the interviewer used a semi structured open ended
+discussion guide to lead the participants through predetermined ques
+tions and topics The research team developed the discussion guide after
+analysis of the turnaway and follow up survey data The aim was to gain
+a deeper understanding of those results by allowing the women to ex
+press their views on their FP visits The broad topics included experi
+ences with and reasons for turnaway perceptions of the quality of the
+services they had received including their understanding of why they
+had been turned away what clients do as a result of being turned away
+and subsequent outcomes after turnaway The FGDs were conducted in
+Chichewa
+Data management and analysis
+FGDs were audio recorded and transcribed directly into English by
+the lead interviewer transcriptions were reviewed by the note taker
+present at the FGDs Transcriptions included bracketed notes from the
+transcriber lead interviewer to add context to comments where neces
+sary Further context was provided by Malawian members of the
+research team to its non Malawian members
+We used grounded theory to analyse the transcripts first by open
+Midwifery
+coding to find similarities and differences in results then using axial
+coding to establish connections between categories and subcategories
+and finally selective coding to establish core categories themes and the
+grounded theory
+While we expected some topics to
+Priest et al
+overlap with what we had found in the quantitative surveys regarding
+reasons for turnaway we chose to use a grounded theory framework to
+allow for new categories to emerge and to capture nuances in how cli
+ents might describe the reasons for turnaway and other topics explored
+We allowed themes to develop across questions rather than simply
+quantifying responses to particular questions
+The transcripts were imported into NVivo QSR International Pty
+Ltd
+for analysis We performed inter coder agreement checks
+with two coders and discussed any discrepancies until we reached
+agreement Demographic information for the FGD participants was
+based on follow up surveys conducted six and weeks post turnaway
+Specific comments made during FGDs were not linked to the de
+mographic details given at the time of the initial survey
+Ethics
+The study protocol was reviewed and approved by FHI s Pro
+tection of Human Subjects Committee in Durham NC USA as well as
+the National Health Science Research Committee in Malawi All study
+staff completed training on research ethics the protocol and informed
+consent administration All participants provided their written informed
+consent to participate
+Results
+Three FGDs were held two in Kasungu District with five partici
+pants each and one in Zomba District with six participants for a total of
+Participant quotes are presented verbatim with minimal editing for
+clarity
+Participant background and demographic data
+Demographic data for FGD participants were collected during the
+exit survey conducted at the facility the day they were turned away and
+was available for of the participants The participants were on
+average age years range All but one was married and all
+had given birth at least once including eight who had given birth within
+six months of the day we first spoke to them Nine had a primary school
+education and six had a secondary school education One of the par
+ticipants reported on the six week survey that her partner disapproved
+of her use of FP the others reported their partners had approved FP use
+Based on the six week post turnaway survey eight of the FGD partici
+pants were able to start a method by that time and three more were able
+to start by weeks post turnaway
+Reasons for turnaway
+After establishing the meaning of the term turnaway with FGD
+participants as leaving a health facility without a method of FP on the
+day a client wanted one facilitators asked about why clients get turned
+away Using thematic analysis as a part of our grounded theory frame
+work we classified the reasons for turnaway most discussed into eight
+categories Table All were mentioned in two or more FGDs
+No proof of not being pregnant
+Women discussed being turned away when they could not demon
+strate they were not pregnant If a woman had missed a period or came
+in between periods health workers asked her to come back after taking a
+pregnancy test or while she was menstruating In some cases not
+menstruating was mentioned in the context of initiating a new method
+but in many cases the participants were referring to clients coming for a
+reinjection Participants noted this was particularly unfair for women
+J M Peterson et al
+Table
+Data analysis depicting key codes themes and categories of reasons for turn
+away after seeking contraception method at a health facility participants in
+Kasungu District and Zomba District Malawi March April
+Codes
+Missed period
+In between periods
+No period while on
+methods
+Arrived late turned
+away immediately
+Arrived late not seen
+by
+Went to another service
+area first arrived late to
+Method not available
+in stock
+Insertion device not
+available
+Provider trained on
+preferred method not
+available
+Provider busy with
+other tasks
+Provider tired on break
+Not coming on assigned
+day
+Provider saving
+methods for someone
+else
+Baby must be six weeks
+old before starting a
+method
+Provider selling method
+Need to go to provider
+house to access method
+for a fee
+Fee for hospital
+construction
+Anemia
+High blood pressure
+Risk of blood clots
+Theme
+Menstruation related
+Arrival time to FP services area
+Method or supplies
+unavailable not in stock
+No provider available for
+service delivery
+Provider or method available
+that day but service still not
+received
+Coming too soon after delivery
+Payment requested in
+exchange for method or
+services
+Medical contraindications
+Categories
+No proof of not
+being pregnant
+Arriving late
+Methods and supply
+stock outs
+Provider
+unavailable
+Provider refusal
+Need to wait longer
+after delivery of a
+child
+Payment requested
+Medical reasons
+who missed a reinjection date by just a few days given that missing
+periods while using injectable contraception is common
+If the day you were appointed to come for FP and you did not come
+and go the following day they turn you away so that you get a
+pregnancy test first so they see evidence that you are eligible to
+access FP FGD
+If a woman has gone after the appointed date has passed she is told
+to come back when she is menstruating It s not right because some
+methods make some women not to menstruate For example Depo
+injectable most people stop menstruating when they are using this
+method and yet the providers want you to menstruate first as proof
+that you are not pregnant This is not right FGD
+Method and or supply stock outs
+Facilities can run out of methods or the supplies needed to initiate a
+method such as the trocar needed to insert a contraceptive implant
+Known as stock outs this reason for turnaway was frequently
+mentioned by FGD participants Specifically noted by the participants
+were stock outs of injectables implants intrauterine devices IUDs and
+insertion materials In some cases participants said that during a stock
+Midwifery
+out the providers would give them advice on where else they could go to
+get the method or a future date when the method should be back in
+supply Some women also mentioned being advised to use pills or con
+doms while waiting for injectables to be available but other women
+reported that they had not been offered any backup methods and had
+simply been turned away One participant gave an example of the
+consequences of stock outs
+Sometimes they know that we are going to get our children checked
+by the scale at the under five growth monitoring clinic but the
+stock is little like for Depo injectable to cater for all of us They
+communicate when we should come back but while waiting some
+women end up pregnant FGD
+Participants found it disappointing to be turned away for method or
+supply stock outs but understood this reason for turnaway when all
+women seeking that method were turned away
+Arriving late
+Participants explained that they can get turned away when there are
+too many clients for providers to see by a certain time In one example a
+participant reported that providers will see clients up until but any
+clients still waiting at that time are asked to come back another day In
+other cases clients who arrive late to the facility are turned away upon
+arrival Like for Health Centre they open at clock so if you are
+late beyond clock they send us away one client explained FGD
+Another participant tried to access two services on one day making
+her late for FP services
+The second time I was turned away they said that I came in late
+That day I was also weighing my child at the under five growth
+monitoring clinic When I explained they said that I should only
+come for one thing FGD
+Being turned away for these reasons was frustrating for clients who
+came long distances and preferred to receive more than one service in a
+single trip to a facility but other participants saw it as fair
+Provider unavailable
+Providers must not only be present but also trained in all methods
+Participants described being asked to return on a different day when the
+provider trained to supply a particular method was not present on the
+day they were seeking it For example if you want the method placed in
+the arm the providers know that the person responsible to insert the
+method is not around they advise that you come the following day when
+the specific provider comes around FGD
+Another client shared another example of a difficult to understand
+reason for turnaway
+Like when you go and you know that you don t react well to Depo
+and you want to collect pills they tell you that we have no pills or
+the person responsible to supply pills is not there You end up
+disappointed because the pills are needed every day FGD
+Clients also discussed that providers may get pulled in to work with
+other clients such as those in need of immediate care leaving the FP
+service area temporarily without a provider Although clients could
+understand the need for FP providers to respond to emergency circum
+stances they found this disappointing and frustrating
+Provider refusal Participants described situations in which providers
+refused to give them a method They had trouble understanding why
+they should be turned away just because a provider was tired or wanted
+to take a lunch break or had other responsibilities to tend to One
+participant said The supplies may be available but the providers will
+say they are tired and the clients won t get the methods FGD OI OI
+More frequently mentioned was refusal when a client showed up for
+J M Peterson et al
+a reinjection but not on the assigned day One participant explained FP
+days at our facility is Tuesday and Thursday If the appointment date
+falls on a different day other than Tuesday or Thursday we are turned
+back Sometimes we end up falling pregnant as a result of this FGD
+In some cases that participants found frustrating providers appeared
+to be saving the requested method for particular women such as those
+who arrived in cars or who had personal connections to the providers
+It also happens at our health facility that others access the same FP
+methods you are going for and yet we are turned away Usually they
+prefer well to do people those that have come by car go straight in
+the provider room and get assisted while the rest of us are sent back
+Sometimes they judge us with the way we are looking or are dressed
+we are turned away without any assistance FGD
+Needing to wait longer after delivery of a child Some FGD participants
+had been told they had come to initiate FP too soon after delivery
+Sometimes they tell us that the baby is still young so it is impossible to
+get a method of FP before the baby reaches six weeks FDG
+Participants said they had been told to wait until six weeks after the birth
+of a child to initiate a method without mentioning the method they had
+been denied or if they had been offered a backup method such as
+progesterone only pills or IUDS which can be used immediately after
+delivery
+Payment requested Despite methods being offered for free at public fa
+cilities FGD participants noted several examples of providers asking for
+payments from clients Some participants mentioned providers selling
+methods for a profit or needing to be connected to a provider to receive
+methods that are in short supply One participant said It happens that
+sometimes that some providers are selling the family planning
+methods so maybe money is hard to find so we fail to access FP FGD
+Another said
+The providers share amongst themselves We go to the facilities and
+they tell us that there is a stock out but the same provider will tell
+you that the same method he has at home So I was wondering why
+the FP services are found in their homes and not at the health facility
+I did not go to their house to get a method FGD
+Yet another participant mentioned making payments When asked to
+clarify if the payment was for all services or particular services she
+explained
+It s mostly the method one is looking for to help build another
+hospital Like when I went there they said we should pay
+kwachas and then the person handling the records suggested that we
+pay more the next time we go like add kwachas so that each one
+should contribute kwachas approximately USD in total
+FGD
+Participants expressed frustration in these cases and did not under
+stand why they should have to pay for methods that should be available
+for free They reported refusing to pay and instead going without FP
+until it could be obtained for free
+Medical reasons Women also discussed medical reasons for being
+turned away including showing up before a scheduled resupply or
+reinjection date anaemia high blood pressure and risk of blood clots
+One participant said For me when I was getting a removal they denied
+me another method because I was told I have anaemia and so I was told
+to wait for three months to observe the situation FGD
+Participants understood that for medical reasons some methods
+were incompatible with some women
+Midwifery
+What do clients do when turned away
+Participants mentioned several approaches they take to cope when
+turned away Most frequently mentioned was sleeping apart from their
+husbands to abstain from sexual relations This was preferred to eating
+sweets still in their wrappers the local saying used to describe having
+sex with condoms But women also mentioned the failure to obtain a
+contraceptive method leading to quarrels with their husbands who
+sometimes felt their wives had deliberately failed to get a method
+because they wanted more children
+Other coping mechanisms discussed were returning to the facility on
+a different day seeking FP through an outreach service and accepting a
+second choice method in place of the one they preferred Accepting an
+alternate method was usually noted in conjunction with a second or
+third turnaway Going to an HSA who is a paid and trained community
+health worker a traditional healer or an assistant at a private facility
+were also mentioned One participant said there was nothing she could
+do because other facilities did not exist in her area Several noted the
+stress of the situation One participant said You get stressed when
+turned away You go everywhere You ask friends neighbours and HSAs
+for help FGD
+Participants in all three of the groups discussed the advantages of
+going to private facilities when they can afford it because at private
+facilities all methods are in stock and available They tried other facil
+ities either public or private when they felt they had not been treated
+well by a provider or thought they had a better chance of accessing a
+preferred method
+I didn t take long before I sought a method I knew that my husband
+sleeping alone was not a good idea so I tried hard to visit the Dis
+trict Hospital to look for my method and so I got it a week later
+FGD OI OI
+Participants said they did not return to any facility when they were
+geographically isolated and or had to pay large amounts for transport to
+a facility Sometimes the transportation is tricky You see that you
+travelled a long distance only to be turned away So you start
+contemplating on not going back for fear of experiencing a similar
+predicament FGD
+Finally unwanted pregnancies were noted as an unfair consequence
+of turnaway Sometimes you go to access FP methods and you are not
+assisted it leads to an unexpected pregnancy so this is hurtful FGD
+As described by another participant It s not right to be turned
+away because if we get turned way there are high chances of us getting
+pregnant and we will be giving birth frequently FGD OI OI
+Multiple turnaways are common
+Participants in the focus groups described being turned away one to
+three times in relation to the time we first met them Many went back in
+the week following the initial turnaway and were then able to initiate a
+method But for others it was more difficult One participant said The
+first time I was turned away was in December due to a holiday The
+second time they told me there was a stock out of sterilizing materials I
+got a method on my third try FGD
+Another participant looking for an implant explained After being
+turned away from my local health centre I went to another hospital
+but I didn t find it again and then I found an outreach service and
+that s where got it FGD
+One participant spoke of finding implants stocked out twice and
+then the materials for inserting implants were unavailable so she finally
+agreed to an injectable instead Another participant said after two un
+successful attempts at her local public facility she visited a private fa
+cility and was able to initiate her chosen method
+J M Peterson et al
+Perceived quality of services
+When asked about providers during the FGDs participants expressed
+several concerns about the quality of the services provided For example
+participants mentioned that providers do not always take the time to
+explain methods and can treat clients poorly when they are in a hurry
+Like when they want to inject us with Depo they do not consider that
+we are in pain they just bring in many people and inject us in a hurry
+then we go back home we start swelling up FGD
+Clients said sometimes there are not enough staff and providers get
+tired One participant suggested that providers be rotated among facil
+ities We need to reshuffle the providers because the ones we have now
+are used to us and don t respect us anymore FGD Participants
+also reported that providers can be mean and shout at us
+Some participants provided positive feedback related to providers
+giving them comprehensive information on all methods and helping
+them find the right one for their circumstances One participant recog
+nised that providers give better information than friends do
+The problem that I noticed amongst women is that we listen to our
+friends we find out they are complaining about FP services and we
+take it from them that there is no help we can get from the providers
+We get easily discouraged but if we could take the initiative to hear
+from the providers themselves I believe it would help us all FGD
+Discussion
+This qualitative resear

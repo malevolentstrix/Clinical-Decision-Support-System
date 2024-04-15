@@ -1,0 +1,904 @@
+gestation to investigate the prevention of GDM using a behavioural antenatal lifestyle intervention
+supported by a smartphone application in pregnancies complicated by overweight and obesity Maternal written
+informed consent was acquired at study enrolment The PEARS participants were stratified by BMI and randomly
+assigned into control standard antenatal care and intervention additional dietary and physical activity advice
+with reinforcement using mHealth technology groups During the PEARS study a variety of data were collected
+from these participants including maternal characteristics blood biomarkers ultrasound measurements food
+intake exercise and lifestyle behaviors maternal and neonatal outcomes GDM was diagnosed according to the
+International Association of the Diabetes and Pregnancy Study Groups IADPSG at approximately
+weeks gestation
+In this research we excluded PEARS participants who dropped out or were excluded from the PEARS study
+and those without available GDM diagnostics As a result PEARS participants were included Because the
+PEARS study did not find any significant difference between the incidence of GDM in the control and interven
+tion group we did not consider the impact of the PEARS intervention in this research
+As we aimed to predict GDM in early pregnancy the descriptive features used are clinical data collected at
+the PEARS randomisation visit weeks gestation also referred to as the baseline These features are
+maternal anthropometry demographic characteristics family history and blood biomarkers They are described
+in Table
+Figure shows the workflow overview of this research
+Data preparation Many features included in this research have missing values as shown in Fig We
+dropped features with greater than missing values complement component C reactive protein
+CRP leptin and adiponectin The missing values in the remaining features were imputed Several imputation
+methods were considered median or mean for numerical features and mode for categorical features k Nearest
+Neighbors kNN imputation and iterative imputation In order to select the best imputation method for our
+dataset we extracted the complete cases of the dataset and generated missing values in these cases fol
+lowing the same missing pattern in the entire dataset This is done by randomly selecting instances from the
+entire dataset and copying the feature missingness in these instances into the complete cases Then we imputed
+these generated missing values using the candidate imputation methods and calculated the mean absolute error
+MAE between the imputed and true values after a min max scaler As shown in Fig mean mode impu
+tation achieved the highest MAE followed by median mode imputation and kNN imputation with different
+parameters Iterative imputation achieved the lowest MAE showing that this method is able to generate imputed
+values closest to the real values for this dataset Therefore we applied the iterative imputation to impute the miss
+ing values in the dataset
+of the participants included were white therefore participants from other ethnic origins were held
+out as an independent cross cultural ethnic test set After that of the white participants in the dataset
+stratified by the GDM diagnosis were randomly selected as the training set The remaining was used as an
+independent test set
+Feature selection First of all we aimed to remove redundant features to avoid the curse of dimension
+ality and reduce the number of inputs required to use the models in a clinical setting Figure shows the
+Pearson correlation between features We defined redundant features as those with correlation greater than
+As a result maternal weight BMI and mid upper arm circumference MUAC insulin and C peptide and total
+cholesterol and Low Density Lipoprotein LDL cholesterol were deemed to be redundant This is consistent
+with the medical knowledge weight BMI and MUAC are all anthropometric measurements that provide assess
+ment of nutritional status and BMI is derived from height and weight Insulin and C peptide are released from
+the pancreas at the same time and the same rate LDL cholesterol is calculated from total cholesterol High Den
+sity Lipoprotein HDL cholesterol and triglycerides To reduce feature redundancy we removed features with
+higher percentage of missing values prior to imputation see Fig to minimise the impact of imputation and
+ensure the credibility of data As a result MUAC and C peptide are removed The remaining redundant features
+that have the same level of missing values are weight and BMI and LDL cholesterol and total cholesterol Ihe
+latter of each pair is calculated from the former Among them we removed derived features BMI LDL choles
+terol and kept the original features weight total cholesterol to save computational time
+Moreover we conducted the feature selection process in close collaboration with clinical experts In the
+existing literature there is conflicting evidence reporting both positive and negative relationships with GDM
+and maternal education level a indicator of socioeconomic In our dataset the average education level
+is higher in GDM participants than non GDM participants which can be explained by the positive relationship
+between maternal age and education This is consistent with the indirect effect of maternal education on GDM
+through high pre pregnancy BMI and older age that Bertolotto et al suggested based on data collected in Italy
+However a cohort study in the Netherlands suggests low educated women have an increased risk of
+In order for our modeling results to be generalisable among different populations and to avoid confusion in a
+clinical setting we removed education in consultation with clinical experts
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+ature
+Numerical
+Gestational Age Weeks
+Maternal Age Years
+Pobal HP Deprivation Index
+Parity
+Height m
+Weight kg
+Body Mass Index BMI kg
+Mid Upper Arm Circumstance MUAC cm
+White cell Count L
+Fasting Glucose mmol L
+Insulin mU L
+C peptide ng mL
+Total Cholesterol mmol L
+High Density Lipoprotein HDL Cholesterol mmol L
+Low Density Lipoprotein LDL Cholesterol mmol L
+Triglycerides mmol L
+Complement Component mg dL
+C Reactive Protein CRP mg L
+Leptin ng mL
+Adiponectin ug mL
+Categorical
+Ethnicity
+White Irish
+Other White
+Black
+Chinese
+Other Asian
+Mixed
+Not Specified
+Education
+Level l No schooling
+Level Primary school education only
+Level Some secondary education only
+Level Complete secondary education only
+Level Some third degree education only
+Level Complete third degree education
+Family History of Diabetes Mellitus DM
+Yes
+No
+Mean SD
+Number
+Mean SD
+Number
+Table Descriptive features for gestational diabetes mellitus prediction
+In order to develop a clinically usable CDSS we aimed to develop multiple models for different use cases
+Model was designed to be theoretical and feature agnostic where all included features were considered candi
+dates and acts as a baseline Model was designed to be more usable and to fit into clinical routine easily Fasting
+blood biomarkers fasting glucose insulin C peptide lipid profile total cholesterol HDL cholesterol triglycer
+ides were excluded because pregnant women do not normally attend an antenatal visit fasted and fasting blood
+biomarkers are not routinely assessed Also excluding these features can reduce the cost for a GDM prediction
+Pobal HP deprivation index a measurement of the women s socioeconomic status based on the geographical
+area of their residence was excluded because it is only available in Ireland and it limits the applicability of our
+model to other regions Model was designed to work in remote settings without a hospital visit so all features
+that cannot be recalled or measured outside of a clinical setting were excluded In addition to features removed
+in Model for example all blood biomarkers Also Pobal HP deprivation index was excluded All included
+features for each model are further selected during cross validation described in Section Modeling
+Modeling We adopted several machine learning algorithms namely logistic regression random forest
+support vector machine SVM adaptive boosting AdaBoost and extreme gradient boosting XGBoost for
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+Training Set
+participants
+LGA
+non LGA
+Model Training
+Five fold
+cross validation
+Models
+SHAp
+Explain
+PEARS study
+participants
+Excluded participants
+PEARS study dropout exclusion
+GDM diagnostics unavailable
+Included participants
+non GDM
+Preprocessing
+Wh ite
+Non white
+Independent Test Set
+participants
+GDM
+non GDV
+Evaluate
+Explainable Models
+Figure l
+Workflow diagram
+Adiponectin
+Leptin
+CRP
+MUAC
+Fasting glucose
+C peptide
+Insulin
+Triglycerides
+LDL cholestero
+HDL cholesterol
+Total cholesterol
+Education
+Parity
+Family history of DM
+Maternal age
+White cell count
+Gestational age
+Height
+Pobal HP deprivation index
+Weight
+Ethnicity
+Independent Cross
+Test set
+participants
+GDM
+non GDM
+Evaluate
+CDSS
+Median mode Mean mode
+Percentage of Missing Data
+a
+Iterative
+mputation Method
+b
+Figure a Percentage of missing values for each feature b Mean absolute error for generated missing
+values using different imputation methods
+data modeling In our dataset of white women were diagnosed with GDM at approximately
+gestational weeks which means the dataset is highly unbalanced For each model we applied sequential steps
+of synthetic minority oversampling technique SMOTE feature selection by the highest ANOVA F values and
+machine learning with each algorithm on the training set in a pipeline The number of nearest neighbors used
+to construct synthetical samples in SMOTE is set to three The number of top features to select from one to the
+total number of candidate features as well as hyper parameters for each algorithm were tuned using balanced
+accuracy as the evaluation metric in a stratified five fold cross validated grid search The hyper parameters
+tuned for each algorithm can be found in Table Probability estimates are enabled so that the models false
+positive rate are adjustable for different settings All other parameters were set to the default
+In this research scikit learn imbalanced learn fancyimpute xgboost and shap
+libraries were used for data processing The developed algorithm was implemented in Python MSC
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+Gestational age
+Maternal age
+Education
+pobal HP deprivation index
+Family history of DM
+Height
+Weight
+MUAC
+parity
+White cell count
+Insulin
+C peptide
+Total cholestero
+HDL cholestero
+LDL cholestero
+Triglycerides
+Fasting glucose
+O
+Figure
+Correlation plot
+c
+Logistic regression
+Random forest
+Support vector machine
+Adaptive boosting
+Extreme gradient boosting
+solver newton cg lbfgs liblinear sag saga
+penalty II liblinear saga solver only elasticnet saga solver only
+auto sqrt
+l
+kernel rbf poly sigmoid linear
+c
+degree poly kernel only
+gamma scale auto rbf poly sigmoid kernel only
+objective binary logistic
+subsample I
+I
+Scientific Reports I
+Table
+Hyper parameters for each algorithm in the grid search
+https doi org
+nature portfolio
+www nature com scientificreports
+v bit and IPython in Jupyter notebook from Anaconda This method runs on a
+Windows pc with Intel R Core TM CPU and RAM
+Evaluation The models were tested on the independent test set AUC PR area under curve of precision
+versus recall and AUC ROC area under curve of sensitivity versus false positive rate were used to evaluate
+the overall performance of the probabilistic prediction model The models specificity sensitivity and balanced
+accuracy ACC were evaluated at a decision threshold of The equations for these evaluation metrics can be
+found in
+Precision
+Recall Sensitivity
+TN
+Specificity
+False Positive Rate
+Specificity Sensitivity
+Balanced ACC
+where
+True positives T P the number of GDM cases that are predicted GDM
+False positives FP the number of non GDM cases that are predicted as GDM
+True negatives TN the number of non GDM cases that are predicted as non GDM
+False negatives FN the number of GDM cases that are predicted as non GDM
+In addition to investigate the effect of the imputation we compared the models performance on the entire
+independent test set with that on the complete cases in the independent test set
+Finally the models performance on the independent cross cultural ethnic test set is evaluated using the
+same evaluation metrics to investigate if the models which are trained on white data generalise well to non
+white population
+Explainability Logistic regression models are inherently transparent and explainable Random forest
+SVM AdaBoost and XGBoost models are more algorithmic complex making it more diffcult for clinicians to
+understand how predictions are made For such models we applied Kernel a model agnostic game the
+oretic post hoc interpretation method to improve model explainability SHAP is a unified approach of feature
+importance with desirable properties and it provides both explanations for the structure of the model global
+explainability and for a specific prediction local explainability SHAP was applied to improve explainability
+for a machine learning based CDSS in In our research global feature importance is calculated by
+the averaged absolute SHAP values of the entire independent test set for each feature to help users gain insight
+of the overall behavior of the model Furthermore we used SHAP values of a particular instance to explain how
+each feature and its value contribute to the predicted GDM risk for this participant
+Results
+The majority of the participants included were white and predominantly white Irish All
+participants had at least some secondary education and most women had at least some third degree
+education At baseline maternal age was years height m body weight kg
+and BMI kg At approximately weeks gestation were diagnosed with GDM and
+were not
+Feature and algorithm selection To select the best machine learning algorithm for our models we
+compared the balanced accuracy of different algorithms with optimal feature sizes and hyper parameters evalu
+ated in cross validation As shown in Fig SVM achieved the highest balanced accuracy for Model and
+respectively and was thus selected over the other algorithms For Model five features
+are included in the optimal feature set of this model family history of diabetes mellitus DM weight white cell
+count fasting glucose and insulin For Model five features are included in the model They are gestational age
+maternal age family history of DM weight and white cell count For Model four features are included in the
+final feature set gestational age maternal age family history of DM and weight
+Model evaluation Table shows the performance of models evaluated on the independent test set as well
+as the complete cases in the independent test set Model performs the best achieving the AUC PR of and
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+u
+Modell
+Logistic Regression
+Random Forest
+SVM
+AdaBoost
+XGBoost
+Figure Models balanced accuracy in cross validation
+Odel
+Table
+Test cases
+All cases
+Complete cases
+All cases
+Complete cases
+All cases
+Complete cases
+AUC PR
+AUC ROC
+Sensitivity
+Specificity
+Balanced accuracy
+Model performance on the entire independent test set and complete case independent test set
+Model feature agnostic model Features family history of diabetes mellitus weight white cell count fasting
+glucose insulin Model clinical routine model Features gestational age maternal age family history of
+diabetes mellitus weight white cell count Model remotely usable model Features gestational age maternal
+age family history of diabetes mellitus weight
+AUC ROC of on the independent test set At the decision threshold of the model predicts of the
+white GDM participants and of the white non GDM participants correctly giving a balanced accuracy of
+The performance of the model on the complete cases is slightly higher than on the independent test set
+The model achieved the AUC PR of AUC ROC of and a balanced accuracy of at decision
+threshold of
+Model gives a lower but acceptable performance with an AUC PR of and AUC ROC of on the
+independent test set At the decision threshold of Model predicts of the white GDM participants and
+of the white non GDM participants correctly which gives a balanced accuracy of On the complete
+cases the model achieved similar performance giving an AUC PR of an AUC ROC of and a bal
+anced accuracy of at decision threshold of
+Model performs similarly to Model Model achieved an AUC PR of and an AUC ROC of
+on the independent test set At decision threshold of of the white GDM participants and of the
+white non GDM participants are predicted correctly which gives a balanced accuracy of On the complete
+cases the model achieved an AUC PR of an AUC ROC of and a balanced accuracy of which
+are similar to that on the independent test set
+Model outperforms Model and which can be explained by the exclusion of fasting blood biomakers in
+Model and This indicates that fasting blood biomarkers especially fasting glucose and insulin are strong
+predictors of GDM Our models perform similarly on the entire independent test set and the complete cases in
+the independent test set showing that the imputation has little effect on model evaluation
+Comparison between white and non white populations Table shows the performance of models
+evaluated on the independent cross cultural ethnic test set compared with the independent test set On the
+independent cross cultural ethnic test set Model achieved good overall performance comparable to the per
+formance on the independent test set The model achieved the AUC PR of and AUC ROC of How
+ever the model gives higher specificity than sensitivity at the decision threshold of It predicts of the
+non white GDM participants and of the non white non GDM participants correctly giving a balanced
+accuracy of
+Model achieved an AUC PR of and an AUC ROC of on the independent cross cultural ethnic
+test set comparable to that on the independent test set However at the decision threshold of of non
+white non GDM participants and only of non white GDM participants are correctly predicted
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+od
+est population
+Non white cases
+White cases
+Non white cases
+White cases
+Non white cases
+White cases
+ensitivlty
+pecificity
+alance ac
+Table Model performance on the independent test set and independent cross cultural ethnic test set
+Model feature agnostic model Features family history of diabetes mellitus weight white cell count fasting
+glucose insulin Model clinical routine model Features gestational age maternal age family history of
+diabetes mellitus weight white cell count Model remotely usable model Features gestational age maternal
+age family history of diabetes mellitus weight
+ase
+Outcome
+GDM
+non GDM
+Gestational age
+weeks
+Maternal age years
+Family history of DM
+no
+no
+Weight kg
+ite cell coun
+L
+Fasting glucose
+mmol L
+Insulin mU L
+Table Independent test cases
+Model achieved similar overall performance on the non white and white population giving an AUC PR of
+and an AUC ROC of However at the decision threshold of the model is able to correctly predict
+of non white non GDM participants and only of non white GDM participants
+From the comparison of the model performance on the independent test set and the independent cross
+cultural ethnic test set we found that our models especially Model and achieved high specificity but low
+sensitivity at the decision threshold of on the independent cross cultural ethnic test set although similar
+overall performance AUC PR and AUC ROC was observed In order to achieve an unbiased performance a
+lower decision threshold for non white population is required As a result we conclude that our GDM prediction
+models require a lower decision threshold to generalise to a non white population
+Implementation and worked example Our models have been implemented as a web server which
+serves as a CDSS prototype The prototype allows users to submit the values for features required and it predicts
+the probability that the person will develop GDM It also provides explanations in order for users to understand
+and trust the predictions The prototype is freely available for academic use at http lisda ucd ie GDM risk
+calculator
+To test the prototype we selected two test cases which are similar but have different outcomes from the
+independent test set see Table The two cases have similar values in most of the maternal characteristics except
+for weight Case the GDM participant has extremely high weight while Case the non GDM participant
+has below average weight Regarding blood biomarkers Case and have similar white cell count but Case
+has higher fasting glucose and insulin than Case
+Suppose a user wants to test our CDSS prototype on these cases They can simply enter the feature values for
+each case into the corresponding input boxes on the web page and press the calculate button to get the results
+The CDSS will present the predicted risk for the case as well as the explanations
+Both cases were predicted correctly by Model and The predicted GDM risks for Case and are
+and by Model and by Model and and by Model
+Our models are SVM based models and they are explained by Kernel SHAP in a post hoc manner Figure
+shows the features ranked by their the global feature importance based on mean absolute SHAP values in all
+models Fasting glucose plays the most important role in Model achieving mean absolute SHAP values much
+higher than all other features White cell count and weight are then of importance followed by family history
+of DM and insulin In Model weight is the most important feature followed by maternal age and white cell
+count Gestational age and family history of DM play a less important role in Model In Model maternal age
+is the most important predictor followed by weight gestational age and family history of DM
+Figure shows the the local feature contribution based on SHAP values for Case and as well as the pre
+dicted GDM risk A blue band indicates that the feature is dragging the prediction down to class non GDM
+while a pink band shows that the feature leads to an increase in the predicted GDM risk The length of the band
+indicates the magnitude of the effect It can be seen that the feature contributing the most to the opposite outcome
+of Case and in Model is fasting glucose The fasting glucose of mmol L largely increases the predicted
+GDM risk for Case but the fasting glucose of mmol L decreases the risk for Case greatly This makes sense
+because Case has fasting glucose close to the average in GDM participants but Case has fasting glucose equal
+to the average in non GDM participants see Table In Model and the features that contribute the most
+to the opposite outcome of Case and is weight A weight of kg largely increases the predicted GDM risk
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+Fasting glucose
+White cell count
+Weight
+Family history of DM
+Insulln
+Weight
+Maternal age
+White cell count
+Gestational age
+Family history of DM
+mean lSHAP valuel average impact on model output magnitude
+b
+mean lSHAP valuel average impact on model output magnitude
+a
+Maternal age
+Weight
+Gestational age
+Family history of DM
+mean lSHAP valuel average impact on model output magnitude
+c
+Figure Global feature importance based on mean absolute SHAP value for a Model b Model c
+Model
+for Case but a weight of kg decreases the risk for Case This makes sense because Case has extremely
+high weight but the weight of Case is lower than average
+In conclusion the case study provides illustrative examples of the applicability of our CDSS prototype and
+it shows that SHAP is able to reliably explain the individual predictions made by our models
+Discussion
+This is the first machine learning study that specifically targets pregnant women with overweight and obesity for
+GDM prediction As opposed to previously published models see Table that predict GDM among all preg
+nant women we focused on an at risk group rather than prediction of GDM in a general pregnant population
+Targeting a high risk group is more helpful for clinicians as GDM is more diffcult to identify in this cohort and
+it would allow GDM screening in an effcient manner in a clinical setting Also this can be particularly helpful
+in clinical practice if combined with a mobile health supported lifestyle intervention that has been proven cost
+effective in pregnant women with an elevated
+Our dataset is highly unbalanced as the non GDM participants outnumber GDM participants greatly This
+is also the case in previous works due to the prevalence of GDM Unless properly handled it can lead to a
+model that only performs well on the majority non GDM class i e achieves high specificity but low sensitivity
+see We applied SMOTE to oversample the minority class in the training data All of our models achieved
+similar specificity and sensitivity showing that the class imbalance problem is adequately addressed In addition
+we used balanced accuracy instead of accuracy when testing because the former gives a better evaluation of the
+model performance in a class imbalance setting On the contrary accuracy is likely to overestimate the overall
+performance of a model when it only performs well on the majority class
+An advantage of the study is that we carefully took the clinical usability into account in the modeling process
+Three models were developed Model which included all features available including fasting blood biomarkers
+to assess GDM risk in a theoretical way Model which excluded fasting blood biomarkers for GDM prediction
+in a clinical routine and Model including self reportable features only for remote use In contrast to our work
+most models in the literature included data from clinical tests that are not routinely performed in an Irish clinical
+setting see Table including fasting blood test as well as other tests that are not available in our dataset such
+as coagulation function test and gene testing The inclusion of these data may lead to an increase in the model
+performance but at the cost of usability because it makes the models diffcult to translate into clinical use Our
+Model performs well achieving AUC ROC of O This is slightly lower than some published models which
+included fasting blood tests because we included fewer blood tests and have focused on a high risk group of
+women with overweight and obesity among whom GDM prediction is more diffcult compared to a general
+pregnant population Our Model and although they gave lower performance than Model have greater
+potential in a clinical setting as the features they use are easier to access clinically Compared with previous
+works our Model included only one feature from routine blood tests whereas published models included
+at least two blood test related features Our Model is the first model that does not include any blood test To
+the best of our knowledge there is no other published model that is directly comparable to ours Our models
+provide a novel benchmark for future researchers in GDM prediction We recognise that the performance of
+our models may require further improvement for use in a clinical setting for example by using some intelligent
+optimization algorithms
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+Case I
+base value
+Insulin White cell count
+higher lower
+Fasting glucose
+Case
+Case I
+we ght
+higher lower
+fix
+a
+base value
+base value
+weight
+higher ower
+White cell count Fasting glucose
+base value
+estational age CWhite cell count
+higher lower
+Nx
+Family history of DM
+higher glower
+fix
+Weight Maternal age
+Case
+Gestational age
+Case I
+Gestational age
+Case
+D
+White cell count
+higher lower
+Matemal age
+b
+osc
+Gestational age
+Maternal age
+weight
+base value
+weight
+c
+Figure Local interpretation based on SHAP values for a Model b Model c Model
+To further improve clinical usability we used feature selection to keep the amount of data entry on the CDSS
+to a minimum so that our CDSS would not be time consuming for clinicians who have heavy workload to fit
+into their workflow Our models included a very small set of features or compared with published models
+which means our models would be easier and faster to use Moreover our feature selection process was
+conducted in collaboration with clinical experts In our dataset education level is higher in GDM participants
+than non GDM participants and we trained models on such data which also reflected that a higher education
+increased the risk of GDM In literature conflict evidence was reported on the association of education and
+GDM In order to avoid confusion and for our models to translate into clinical practice education was removed
+in consultant with clinical experts
+This is also the first machine learning study to investigate the potential ethnic cultural difference in GDM pre
+diction In previous works all or the majority of the participants are from one ethnic group Artzi et al utilized
+the electronic health records data in Israel Hou et al trained a model based on data from an unknown popula
+tion All others used data collected in a single centre in different cities in China
+Beijing and the participants are all or mainly Chinese For this reason these researchers did not consider the
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+od
+Model I
+Model
+Model
+Qiu et al
+Zheng et al
+Ye et al
+Artzi et al
+Xiong et al
+Yan et al
+Hou et al
+Wu et al
+Wu et al
+pulation
+Overweight obese
+Overweight obese
+Overweight obese
+General
+General
+General
+General
+General
+General
+General
+General
+General
+o o features
+test need
+Fasting blood test fasting glucose insulin white cell count
+Routine blood test white cell count
+No
+Fasting blood test fasting plasma glucose complete blood count
+liver function test
+Fasting blood test fasting plasma glucose triglycerides
+Fasting blood test fasting glucose HbAlc triglycerides
+Laboratory tests including fasting blood test glucose white cell
+count blood pressure measurement urine test and blood test
+in previous pregnancy glucose tolerance test
+Blood test in previous pregnancy HbAlc test glucose challenge
+test oral glucose tolerance test
+Routine blood test hepatic and renal function examination
+coagulation function examination
+Blood test complete blood test liver function test urine test
+urine glucose urinary gallbladder nitrite
+Single nucleotide polymorphism genes blood test cholesterol
+white blood cell
+Fasting blood test fasting plasma glucose complete blood count
+liver function test
+Fasting blood test fasting plasma glucose HbAlc triglycerides
+Blood test complete blood count liver function test ferritin
+pecifici
+ensitivlty
+o
+Table Comparison with previously published machine learning based GDM prediction models
+impact of culture ethnicity on GDM prediction and their models may not be applicable to other populations
+Our data was collected in a single centre in Dublin Ireland The majority of the participants are white
+but black Chinese other Asian and mixed ethnic women are also included For the purpose of a novel inves
+tigation of the cross cultural ethnic difference in GDM prediction in women with overweight and obesity we
+trained models on a white population and tested them on non white women Our results show that AUC PR
+and AUC ROC are similar between both groups however the decision threshold of leads to lower sensitiv
+ity and higher specificity in non white women than white women It shows that a lower decision threshold is
+required for a non white population as opposed to a white population in GDM prediction This is consistent
+with medical literature which specifies that GDM is more prevalent in non white women than white women
+We considered the explainability important in a CDSS Despite an open debate in literature on whether or not
+XAI is necessary or worth the substantial cost the use of XAI has been reported to make CDSSs more acceptable
+and trustworthy to users and it may translate into a greater use of In our research SHAP was applied
+to explain overall behavior of our models as well as the specific prediction made for an instance Our case study
+showed that SHAP generated reasonable explanations for our models In addition the effect of features on GDM
+risk shown in the case study is consistent with medical knowledge We found out that a high baseline fasting
+glucose increased the risk of GDM This is inline with medical literature which suggests median fasting glucose
+is higher in GDM participants than others We also showed that a high maternal weight increased the risk of
+GDM consistent with the increased risk of GDM with overweight and obesity indicated in literature Therefore
+we anticipate that the explanations would help clinical users to gain insights into the model behavior and increase
+the acceptability and trustworthiness of our CDSS and thus enhance the potential for use in a clinical setting
+It also fills in the gap of the overall lack of XAI use in CDSSs
+To protect data privacy mandated by the General Data Protection Regulation GDPR in EU and the Health
+Research Regulations HRR in Ireland we avoided the use of instance based learning algorithms such as
+k Nearest Neighbours kNN KNN models are lazy learners and they involve saving the original training set
+for computation when new data come in They are suboptimal for a CDSS because they may lead to personal
+data breaches
+Our work has been implemented into a web server that is currently available for academic use It resolves
+the problem of the lack of an open access model or system for academic benchmarking Further research is
+required before adoption into clinical practice Also further cross cultural ethnic testing preferably on a much
+larger sample size is needed to investigate the optimal decision threshold for different minority cultural or
+ethnic groups In addition future work will be conducted to validate our prototype CDSS in a clinical setting
+Conclusion
+We developed an explainable machine learning based CDSS for the prediction of GDM in women with over
+weight and obesity to identify high risk women for targeted intervention early in pregnancy The CDSS includes
+multiple models for theoretical routine antenatal and remote settings to enhance clinical usability It also provides
+Scientific Reports I
+https doi org
+nature portfolio
+www nature com scientificreports
+explanations for both the structure of the models and each specific prediction to gain trust from clinicians A
+web based prototype of the CDSS is implemented and publicly available for academic use We also investigated
+the cross cultural ethnic difference in GDM prediction which implies that a non white population requires a
+lower decision threshold than a white population Further research is required to validate the CDSS in a clinical
+setting
+Received October Accepted January
+Published online January
+References
+Metzger B E et al Summary and recommendations of the fourth international workshop conference on gestational diabetes
+mellitus Diabetes Care
+Shin D Song W O Prepregnancy body mass index is an independent risk factor for gestational hypertension gestational
+diabetes preterm labor and small and large for gestational age infants J Matern Fetal Neonatal Med
+Ng M et al Global regional and national prevalence of overweight and obesity in children and adults during A
+systematic analysis for the global burden of disease study Ihe Lancet
+O Sullivan E et al Atlantic diabetes in pregnancy DIP The prevalence and outcomes of gestational diabetes mellitus using new
+diagnostic criteria Diabetologia
+Reece E A The fetal and maternal consequences of gestational diabetes mellitus J Matern Fetal Neonatal Med
+Quinlivan J A Lam L T Fisher J A randomised trial of a four step multidisciplinary approach to the antenatal care of obese
+pregnant women Aust N Z J Obstet Gynaecol
+Sun Y Zhao H The effectiveness of lifestyle intervention in early pregnancy to prevent gestational diabetes mellitus in Chinese
+overweight and obese women A quasi experimental study Appl Nurs Res
+Wang C et al A randomized clinical trial of exercise during pregnancy to prevent gestational diabetes mellitus and improve
+pregnancy outcome in overweight and obese pregnant women Am J Obstet Gynecol
+Cutler D M Nikpay S Huckman R S The business of medicine in the era of covid JAMA
+Shortliffe E H Sepulveda M J Clinical decision support in the era of artificial intelligence JAMA
+Antoniadi A M et al Current challenges and future opportunities for Xai in machine learning based clinical decision support
+systems A systematic review Appl Sci
+Caruana R et al Intelligible models for healthcare Predicting pneumonia risk and hospital day readmission In Proceedings
+of the th ACM SIGKDD international conference on knowledge discovery and data mining
+Li G Wang G G Dong J Yeh W C Li K DLEA A dynamic learning evolution algorithm for many objective optimization
+Inf sci
+Li W Wang G G Gandomi A H A survey of learning based intelligent optimization algorithms Arch Comput Methods
+Eng
+Li W Wang G G Alavi A H Learning based elephant herding optimization algorithm for solving numerical optimization
+problems Knowl Based Syst
+Li W Wang G G Elephant herding optimization using dynamic topology and biogeography based optimization based on
+learning for numerical optimization Eng Comput
+Qiu H et al Electronic health record driven prediction for gestational diabetes mellitus in early pregnancy Sci Rep
+Zheng T et al A simple model to predict risk of gestational diabetes mellitus from to weeks of gestation in Chinese women
+BMC Pregnancy Childbirth
+Ye Y et al Comparison of machine learning methods and conventional logistic regressions for predicting gestational diabetes
+using routine clinical data A retrospective cohort study J Diabetes Res
+Artzi N S et al Prediction of gestational diabetes based on nationwide electronic health records Nat Med
+Xiong Y et al Prediction of gestational diabetes mellitus in the first weeks of pregnancy using machine learning techniques
+J Matern Fetal Neonatal Med
+Yan J et al A prediction model of gestational diabetes mellitus based on first pregnancy test index In International Conference
+on Health Information Science Springer
+Hou E Cheng Z Kang L Zheng W Prediction of gestational diabetes based on lightgbm In Proceedings of the Confer
+ence on Artificial Intelligence and Healthcare
+Wu Y T et al Early prediction of gestational diabetes mellitus in the Chinese population via advanced machine learning J Clin
+Endocrinol Metab
+Wu Y et al A risk prediction model of gestational diabetes mellitus before gestational weeks in Chinese pregnant women
+Diabetes Res Clin Pract
+Zhang C et al Effect of an individualised nutritional intervention on gestational diabetes mellitus prevention in a high risk popu
+lation screened by a prediction model study protocol for a multicentre randomised controlled trial BMC Pregnancy Childbirth
+Kennelly M A et al Pregnancy exercise and nutrition with smartphone application support A randomized controlled trial Obstet
+Gynecol
+International Association of Diabetes and Pregnancy Study Groups Consensus Panel et al International association of diabetes
+and pregnancy study groups recommendations on the diagnosis and classification of hyperglycemia in pregnancy Diabetes Care
+Bellman R E Adaptive Control Processes Princeton University Press Princeton
+Wang J VV et al Association between maternal education level and gestational diabetes mellitus A meta analysis J Matern Fetal
+Neonatal Med
+Bertolotto A et al Is maternal educational level a risk factor for gestational diabetes in caucasian women Diabetic Med J Br
+Diabet Assoc
+Bouthoorn S H et al Low educated women have an increased risk of gestational diabetes mellitus The generation r study Acta
+Diabetol
+Pedregosa F et al Scikit learn Machine learning in Python J Mach Learn Res
+Lemaitre G Nogueira F Aridas C K Imbalanced learn A python toolbox to tackle the curse of imbalanced datasets in
+machine learning J Mach Learn Res
+Rubinsteyn A Feldman S fancyimpute An imputation library for python https github com iskandr fancyimpute
+Chen T Guestrin C XGBoost A scalable tree boosting system In Proceedings of the ACM SIGKDD International Confer
+ence on Knowledge Discovery and Data Mining KDD
+Lundberg S M Lee S I A unified approach to interpreting model predictions In Proceedings of the International Confer
+Scientific Reports I
+II
+ence on Neural Information Processing Systems
+https doi org
+nature portfolio
+www nature com scientificreports
+Antoniadi A M Galvin M Heverin M Hardiman O Mooney C Prediction of caregiver quality of life in amyotrophic lateral
+sclerosis using explainable machine learning Sci Rep
+O Sullivan E J Rokicki S Kennelly M Ainscough K McAuliffe F M Cost effectiveness of a mobile health supported
+lifestyle intervention for pregnant women with an elevated body mass index Int J Obes
+Wang G G Deb S Cui Z Monarch butterfly optimization Neural Comput Appl
+Wang G G Deb S Coelho L D S Earthworm optimisation algorithm A bio inspired metaheuristic algorithm for global
+optimisation problems Int J Bio Inspired Comput
+Wang G G Moth search algorithm A bio inspired metaheuristic algorithm for global optimization problems Memet Comput
+Li S Chen H Wang M Heidari A A Mirjalili S Slime mould algorithm A new method for stochastic optimization Futur
+Gener Comput syst
+Heidari A A et al Harris hawks optimization Algorithm and applications Futur Gener Comput Syst
+Dornhorst A et al High prevalence of gestational diabetes in women from ethnic minority groups Diabetes Med
+Ozgu Erdinc A S et al Prediction of gestational diabetes mellitus in the first trimester comparison of c reactive protein fasting
+plasma glucose insulin and insulin sensitivity indices J Matern Fetal Neonatal Med
+Acknowledgements
+We would like to gratefully acknowledge the participating mothers and to the research and clinical staff who
+enabled the recruitment of the participants in this study This research is funded by UCD School of Medicine
+and UCD School of Computer Science University College Dublin Ireland
+Author contributions
+F M M and C M conceived the experiment s Y D conducted the experiment s Y D A R R F M M and
+C M analysed the results Y D L W and C M implemented the web server All authors wrote and reviewed the
+manuscript
+Competing interests
+The authors declare no competing interests
+Additional information
+Correspondence and requests for materials should be addressed to C M
+Reprints and permissions information is available at www nature com reprints
+Publisher s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiations
+Open Access This article is licensed under a Creative Commons Attribution International
+License which permits use sharing adaptation distribution and reproduction in any medium or
+format as long as you give appropriate credit to the original author s and the source provide a link to the
+Creative Commons licence and indicate if changes were made The images or other third party material in this
+article are included in the article s Creative Commons licence unless indicated otherwise in a credit line to the
+material If material is not included in the article s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use you will need to obtain permission directly from
+the copyright holder To view a copy of this licence visit http creativecommons org licenses by O
+O The Author s
+Scientific Reports I
+https doi org
+nature portfolio
+Original Research Article
+DOI
+Study of high risk scoring in pregnancy and perinatal outcome
+Vasavi Kollurul Anantha
+IAssistant Professor Dept of Obstetrics Gynaecology Kamineni Institute of Medical Sciences Telangana
+Corresponding Author
+Email vasavimdco yahoo com
+Abstract
+Introduction High risk pregnancy refers to pregnancy with an increased risk of adverse outcome in mother or the baby Scoring
+the risk will identify mothers at risk earlier so that proper resource allocation planned management or timely referral to higher
+centers is facilitated and thereby perinatal mortality or morbidity can be reduced
+Methods pregnant women with term gestation admitted to labour room were evaluated The risk factors in each case were
+assessed and their individual risk scores were determined using a simple scoring system Subsequently their perinatal outcomes
+were compared to their respective risk scores
+Results It was found that there was a significant association between poor perinatal outcome and high risk pregnancies predicted
+by this scoring schedule of the cases belonged to high risk group out of which cases had maternal complications
+Significant association between high risk score and perinatal mortality and birth asphyxia was found
+Conclusions There was a significant correlation between high risk and poor perinatal outcome So a simple scoring system such
+as the one used in our study can be adopted at primary and rural health centers as a screening tool to predict pregnancies at high
+risk for poor perinatal outcome Thereby facilitating early referral of these women to tertiary care centres
+Keywords High risk pregnancy Risk score Perinatal mortality Birth asphyxia Low birth weight
+Introduction
+A relatively small percentage of high risk obstetric
+population gives rise to a disproportionately high
+percentage of perinatal and maternal morbidity and
+mortality Scoring the risk factors will be of immense
+help to detect high risk pregnancies earlier and to
+optimize their management l In our study we use a
+simple and easily applicable risk scoring system for
+detection of high risk pregnancy and to find the
+correlation between the various degrees of risk and
+perinatal outcome Such a scoring schedule will
+facilitate early detection proper resource allocation
+planned management and timely referral of high risk
+antenatal women and thereby reduces perinatal
+morbidity and mortality
+Methods
+Study Design Prospective analytical study
+Study Period January June
+Study Setting Department of Obstetrics and
+Gynaecology Kamineni Institute of Medical Sciences
+Narketpally
+Pregnant women with term gestation reporting
+to the labour room at our institute during the study
+period between January to june were
+recruited regardless of their booked unbooked status
+age parity socioeconomic status associated diseases
+or complications etc Careful history was elicited
+followed by thorough general systemic obstetric
+examination and relevant investigations to determine
+the risk factors in each case
+The observations were recorded in prenatal scoring
+form based on scoring system suggested by Dutta and
+Das and individual risk scores were calculated Table
+Based on their total scores the cases were divided
+into low moderate and high risk
+groups
+Subsequently the outcome for the mother in terms
+of Mode of delivery and Complications like
+postpartum haemorrhage perineal tears wound
+infections sepsis and mortality were studied
+The perinatal outcome variables studied for the
+babies were Birth weight low birth weight defined
+as gms including both pre term and SGA
+APGAR score at one and five minutes Birth
+asphyxia diagnosed by Apgar at one and five
+minutes after birth and acidemia umbilical artery Ph
+and Perinatal mortality intrauterine deaths still
+births and early neonatal deaths upto seven days of
+life
+These observations were compared with the
+respective risk scores of the mothers For statistical
+evaluation Chi square test for the analysis of
+significance was used
+Results
+The antenatal women who have been recruited in
+the study were classified as low risk moderate
+risk
+and high risk based on the
+cumulative total of their respective scores Out of the
+total cases studied were graded as low risk
+as moderate risk and belonged to high
+risk
+of the low risk women and of the
+moderate risk group women were unbooked The
+prevalence of unbooked cases among high risk women
+was as high as The need for operative intervention
+increased with increasing risk score of the mother It
+Indian Journal of Obstetrics and Gynecology Research
+Clinical Epidemiology and Global Health
+Contents lists available at ScienceDirect
+Clinical Epidemiology and Global Health
+journal homepage
+www elsevier com locate cegh
+ELSEVIER
+Original article
+Clinical Epidemiology
+Hea
+Check for
+The voice of Indian women on family planning A qualitative
+systematic review
+Shradha S Parsekara Praveen Hoogar Vijay Shree Dhyani a Uday Narayan Yadav
+c
+a Public Health Evidence South Asia Departrnent of Health Information Prasanna School of Public Health Manipal Academy of Higher Education Manipal India
+b Centre for Bio Cultural Studies Directorate of Research Manipal Academy of Higher Education Manipal India
+c Centre for Primary Health Care and Equity Faculty of Medicine University of New South Wales Sydney Australia
+ARTICLE
+Keywords
+Contraception
+Family planning
+India
+INFO
+Qualitative systematic review
+Introduction
+ABSTRACT
+Objective The systematic review explores personal experiences and perceptions of and on resident Indian
+women on family planning
+Methods We included qualitative studies conducted among women husbands and mothers in law Search on five
+databases published between and May and forward and backward citations search of included
+studies were undertaken April Three stage screening and data extraction were done independently
+Iterative process was followed to thematically analyse the data and presented it using the World Health Orga
+nization conceptual framework on social determinants of health
+Result Of citations we included qualitative studies Women s intent of using family planning services
+methods was influenced by multiple factors such as socio demographic characteristics Women s agency and
+social status affected their standing in family planning decision making Fear of side effects of contraception
+methods access to information and support and cultural

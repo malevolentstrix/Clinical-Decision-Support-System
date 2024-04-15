@@ -1,0 +1,893 @@
+ults Table tests whether
+mothers who gave birth in regions and times affected by the cholera epidemic are
+different from the rest of mothers in several observable variables Columns I to of
+show that there is no significant correlation between the variation of the epidemic
+that we exploit and the maternal educational attainment in years and levels with the
+probability of a mother to be illiterate and with mother s age In column we observe
+a negative relationship with respect to the probability of the mother of being indige
+nous however this correlation attenuates the effect of the epidemic on childhood
+mortality since childhood mortality was larger among indigenous mothers exposed
+to the epidemic
+Columns and of Table test whether access to piped water and a toilet or
+cesspit as opposed to open defecation are correlated with the spread of the disease
+We find no significant correlation between these variables and the variation of the
+epidemic that we exploit Unfortunately we do not have access to variables regarding
+sanitation at the time of the epidemic only at the time of the census years after the
+epidemic broke up but it is still reassuring to see no significant correlation These
+results are maybe unsurprising since at the regional level and over time and at least
+in the first year the abruptness and severity of the epidemic as well as the speed
+of contagion make the geographical proximity of the regions to the initial cases the
+main drivers of the disease
+Columns and of Table present other placebos for the correlation with the
+number of children born alive per mother and on the size of the cohort of last chil
+dren born alive Pregnancy rates could have decreased as a response to the cholera
+epidemic We can see however that there is a statistically significant correlation with
+the total number children born alive per women but the correlation is positive and
+very small This result is not surprising given that most children in our sample were
+conceived before the outbreak of the epidemic Moreover we will see below that our
+results remain very similar even when we limit the sample to those children born
+in the first semester of that is conceived before the outbreak of the epidemic
+Finally the exposure to the cholera outbreak while in utero may have reduced the
+probability that a family replace a lost child and this in turn would bias our results
+on mortality If that were the case exposure to cholera would reduce the number of
+all the children born alive and would increase size of the cohort of last children
+born alive As we have seen above there is no negative correlation between expo
+sure to cholera during the third trimester and the number of all children born alive
+nor is there any positive correlation with the size of the cohort of last children
+born alive
+Finally Table tests whether temperature are rainfall were correlated with the
+spread of the disease Column reveals that there is no significant correlation
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+between temperature in the third trimester in utero and the variation of the epi
+demic that we exploit in that same trimester Likewise column reveals that there
+is no significant correlation between temperature in the first trimester in utero and
+the variation of the epidemic that we exploit in that same trimester Columns
+and show rainfall is indeed positively correlated with cholera incidence Never
+theless including or not rainfall as a control in our regressions has virtually no
+effect in our results except for additional statistical significance in some of our esti
+mates The lack of sensitivity of our results to the inclusion on temperature and
+rainfall as control variables is in part due to the inclusion of month region fixed
+effects in our regressions which diminish the role of seasonal factors on childhood
+mortality
+We test the sensitivity of our results to other specifications and samples including
+children born to women who did not relocate to a different district during the years
+preceding the census between and and our results are very similar We
+also show that the estimated effect on mortality is concentrated on those children
+born in the first half of that is those who were already in utero when the
+epidemic broke out Please refer to Tables A and A of the working paper Ritter
+and Sanchez to see these results
+As we mentioned in Section a Fuzzy DD approach has two important and
+somewhat strong assumptions a stable treatment effect over time and homoge
+neous treatment effects for switchers of both treatment and comparison groups We
+relax these assumptions and estimate Intertemporal Treatment Effects following de
+Chaisemartin and D Haultfceuille and exploiting the Stata command Did
+Multiplegt de Chaisemartin et al Please refer to Figure A I to Figure A
+and Table A of the working paper Ritter and Sanchez to see these results
+This exercise shows that the Fuzzy DiD assumptions are too strong for our setting
+but the bias seems to go against our results Since our Fuzzy DiD model is more
+conservative and it has more statistical power we keep it as the main specification of
+the study
+Appendix B Robustness survey data
+Table presents placebo regressions for the correlation with birth order tempera
+ture and rainfall We do not observe any significant correlation Additionally we test
+the sensitivity of our results to other specifications Please refer to Tables B to B
+of the working paper Ritter and Sanchez to see these results Our main results
+are very robust to the different specifications Finally we do not find any signifi
+cant effect of exposure to cholera during the first trimester after birth or during one
+trimester before conception
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+Acknowledgements We are grateful to Jorge Aguero Ana Balsa Miguel Angel Carpio Willa Friedman
+Delia Furtado Stepan Jurajda Gabriel Natividad Nikolas Mittag Stephen Ross David Simon Rodrigo
+Soares Sebastian Tello Trillo and participants at the International Health Economics Association
+Conference and the LACEA s Health Economics Network Workshop in addition to the two anony
+mous reviewers and editor Shuaizhang Feng for their valuable comments and suggestions All errors and
+onusslons are our own
+References
+Adam MB Muma S Modi JA Steere M Cook N Ellis W Chen CT Shirk A Nyagetuba JKM Hansen
+EN Paediatric and obstetric outcomes at a faith based hospital during the day public sector
+physician strike in Kenya BMJ Glob Health
+Aizer A Currie J The intergenerational transmission of inequality maternal disadvantage and
+health at birth Science
+Ali M Lopez AL You Y Kim YE Sah B Maskery B Clemens J The global burden of cholera
+Bull World Health organ
+Almond D Is the influenza pandemic over Long term effects of in utero influenza exposure
+in the post US population J Political Econ
+Almond D Currie J Killing Me Softly The fetal origins hypothesis J Econ Perspect J Am Econ
+Assoc
+Almond D Currie J Duque V Childhood circumstances and adult outcomes Act ii J Econ Lit
+Alpert A Powell D Pacula RL Supply side drug policy in the presence of substitutes evidence
+from the introduction of abuse deterrent opioids Amer Econ J Econ Policy
+Anderson M L Multiple inference and gender differences in the effects of early intervention
+A reevaluation of the Abecedarian Perry Preschool and Early Training Projects Journal of the
+American statistical Association
+Baird S Friedman J Schady N Aggregate income shocks and infant mortality in the developing
+world Rev Econ Stat
+Banerjee R Maharaj R Heat infant mortality and adaptation evidence from India J Dev Econ
+Barreca The long term economic impact of in utero and postnatal exposure to malaria J Hum
+Resour https doi org lO jhr
+Bharadwaj P Johnsen J V KV Smoking bans maternal smoking and birth outcomes J
+Public Econ
+Bharadwaj P KV Neilson C Early life health interventions and academic achievement Am
+Econ Rev
+Bozzoli C Deaton AS Quintana Domeque C Child Mortality Income and Adult Height
+Brookes J Cholera kills in peru and marches on reaching the brazilian border New York
+Times
+Cameron AC Gelbach JB Miller DL Bootstrap based improvements for inference with clustered
+errors Rev Econ Stat
+Chowdhury FR Nur Z Hassan N von Seidlein L Dunachie S Pandemics pathogenicity and chang
+ing molecular epidemiology of cholera in the era of global warming Ann Clin Microbiol Antimicr
+Christensen D Dube O Haushofer J Siddiqi B Voors M Building resilient health systems
+Experimental evidence from sierra leone and the ebola outbreak The World Bank
+Ciglenecki I Bichet M Tena J Mondesir E Bastard M Tran N T Antierens A Staderini N Cholera
+in Pregnancy Outcomes from a Specialized Cholera Treatment Unit for Pregnant Women in
+Haiti PLoS Negl Trop Dis https doi org l journal pntd
+Collins AE Vulnerability to coastal cholera ecology Soc Sci Med
+Cueto M The return of epidemics health and society in peru during the twentieth century Taylor
+Francis
+Currie J Gruber J Health insurance eligibility utilization of medical care and child health Quart
+J Econ
+Springer
+P l Ritter R A Sanchez
+Currie J Vogl T Early life health and adult circumstance in developing countries Annu Rev Econ
+Cutler D Fung W Kremer M Singhal M Vogl T Early life malaria exposure and adult outcomes
+evidence from malaria eradication in India Amer Econ J Appl Econ
+Dagnelie O De Luca GD Maystadt J F Violence selection and infant mortality in congo J Health
+Econ
+Daysal NM Trandafir M Van Ewijk R Saving lives at birth The impact of home births on infant
+outcomes Amer Econ J Appl Econ
+De Chaisemartin C d Haultfoeuille X Fuzzy differences in differences Rev Econ Stud
+de Chaisemartin C D X Difference in Differences Estimators of Intertemporal
+Treatment Effects Available at SSRN
+de Chaisemartin C D Haultfoeuille X Guyonvarch Y Stata module to
+estimate sharp Difference in Difference designs with multiple groups and periods
+de Chaisemartin C D X Difference in differences estimators of intertemporal
+treatment effects Available at SSRN
+Emch M Feldacker C Islam MS Ali M Seasonality of cholera from to a review of
+global patterns Int J Health Geograph
+Evans WN Lien DS The benefits of prenatal care evidence from the pat bus strike J Econ
+Friedman W Keats A Disruptions to health care quality and early child health outcomes Evidence
+from health worker strikes in Kenya Technical Report Working Paper
+Friedman W Keats A Institutional births and early child health Evidence from ghana s free
+delivery policy Technical Report Working Paper
+FT Coronavirus tracked the latest figures as countries start to reopen The Financial Times Limited
+Godlonton S Okeke EN Does a ban on informal health providers save lives evidence from Malawi
+J Dev Econ
+Goodman Bacon A Public insurance and mortality evidence from medicaid implementation J
+Polit Econ
+Gotuzzo E El en el Peru Universidad Peruana Cayetano Heredia Instituto de Medicina
+Tropical Alexander von Humboldt UPCH Hospital Nacional Cayetano Heredia
+Grados P Battilana CA El tratamiento de la diarrea coleriforme en la PAHO WHO
+Institutional Repository
+Grout L Martinez Pino I Ciglenecki I Keita S Diallo AA Traore B Delamou D Toure O Nicholas S
+Rusch B Staderini N Serafini M Grais RF Luquero FJ Pregnancy outcomes after a mass
+vaccination campaign with an oral cholera vaccine in guinea a retrospective cohort study PLoS
+Neglected Trop Diseas
+Harris JB Khan LaRocque RC Dorer DJ Chowdhury F Faruque ASG Sack DA Ryan ET Qadri F
+Calderwood SB Blood group immunity and risk of infection with vibrio cholerae in an area
+of endemicity Infection Immunity
+Hirschhorn N Chowdhury AKMAllauddin Lindenbaum J Cholera in pregnant women The Lancet
+Hoynes H Schanzenbach D W Almond D Long run impacts of childhood access to the safety
+net American Economic Review
+INEI Encuesta nacional de viviendas Instituto Nacional de Estadisticas del Peru
+INEI Censo nacional de poblacion y vivienda Instituto Nacional de Estadisticas del Peru
+Jain R Dupas P The effects of indias covid lockdown on critical non covid health care and
+outcomes medRxiv
+Jayachandran S Air quality and early life mortality evidence from indonesia s wildfires J Human
+Resour
+Jones SA Gopalakrishnan S Ameh CA White S van den Broek NR women and babies are dying
+but not of ebola the effect of the ebola virus epidemic on the availability uptake and outcomes of
+maternal and newborn health services in sierra leone BMJ Glob Health I
+Keskin P Shastry GK Willis H Water quality awareness and breastfeeding evidence of health
+behavior change in Bangladesh Rev Econ Stat
+Kling JR Liebman JB Katz LF Experimental analysis of neighborhood effects Econometrica
+Springer
+The effects of an epidemic on prenatal investments childhood
+Lam C Octavia S Reeves P Wang L Lan R Evolution of seventh cholera pandemic and origin of
+epidemic Latin America Emerg Infect Diseas
+Lama JR Seas CR R Gotuzzo E Sack RB Environmental temperature cholera and
+acute diarrhoea in adults in Lima Peru J Health Popul Nutr
+Lanata C Las enfermedades diarreicas en el Peru MINSA Oficina de Estadfstica e
+de actividades de salud Tomo I
+la y nada detiene La pp
+Maguifia Vargas C Seas Ramos C Rodas E Canchanya S J Historia del en el
+Peni en Acta Peruana
+Maitra P Parental bargaining health inputs and child mortality in india J Health Econ
+Matson GA Sutton HE Swanson J Robinson A Distribution of hereditary blood groups among
+indians in South America ii in Peru Amer J Phys Anthropol
+O Seminario L Taxe R Beingolea L Palacios AMM L Vargas R Moreno D Rodriguez
+M Tejada E Quick R Reiss A Jackson D Swerdlow DL Mintz ED L
+del en el Peru Lecciones para un Continente en riesgo Rev Med Herediana
+Nilsson JP Alcohol availability prenatal conditions and long term economic outcomes J Polit
+Econ
+Ogasawara K Inoue T Long run effects of early childhood exposure to cholera on final height
+Evidence from industrializing Japan SSM Popul Health
+Okeke EN Chari AV Health care at birth and infant mortality Evidence from nighttime deliveries
+inNigeria Soc Sci Med
+Paxson C Schady N Child health and economic crisis in Peru World Bank Econ Rev
+Pollarolo P La reforma del sector salud Abusada Roberto
+Ritter PI Born to be obese and self employed long term effects of prenatal exposure to a cholera
+epidemic Working Paper
+Ritter PI Sanchez RA The Effects of an Epidemic on Prenatal Investments Childhood Mortal
+ity and Health of Surviving Children Working papers University of Connecticut Department of
+Economics
+Rocha R Soares RR Water scarcity and birth outcomes in the brazilian semiarid J Dev Econ
+Saona P Astudillo J Figueroa M MARADIEGUE E en gestantes en el hospital nacional
+cayetano heredia lima Rev Med Herediana
+Seas C Gotuzzo E Vibrio cholerae Principles and practice of infectious diseases ed Churchill
+Livingstone Philadelphia pp
+Shope R Global climate change and infectious diseases Environ Health Perspect
+Simon D Does Early Life Exposure to Cigarette Smoke Permanently Harm Childhood Welfare
+Evidence from Cigarette Tax Hikes Amer Econ J Appl Econ https ideas repec org a
+aea aejapp html
+Smith KF Goldberg M Rosenthal S Carlson L Chen J Chen C Ramachandran S Global rise in
+human infectious disease outbreaks J R Soc Interface
+Strong AE Schwartz DA Effects of the west african ebola epidemic on health care of pregnant
+women Stigmatization with and without infection In Pregnant in the time of Ebola Springer pp I I
+R Bradford B The economic impact of the cholera epidemic in peru an application of the
+cost of illness methodology Water and Sanitation for Health project
+Ognio L Epidemia de en el peri General de Epidemiologia Ministerio
+de Salud Peru
+Swerdlow DL Mintz ED Rodriguez M Tejada E Ocampo C Espejo L Barrett T J Petzelt J Bean
+NH Seminario L et al Severe life threatening cholera associated with blood group O in Peru
+implications for the latin american epidemic J Infect Dis
+Valdivia Rey MP Sensacionalismo prejuicios y estereotipos en los diarios limefios durante la
+epidemia de de
+WB From panic and neglect to investing in health security Financing pandemic preparedness at a
+national level International Working Group World Bank and Wellcome Trust
+Springer
+P l Ritter R A Sanchez
+WHO Diarrhoea Why children are still dying and what can be done The United Nations Children s
+Fund UNICEF Health Organization WHO
+WHO Barriers to rapid containment of the ebola outbreak World Health Organization
+WHO Antibiotic resistance
+WHO Ending cholera a global road map to World Health Organization
+Willmott CJ Matsuura K Terrestrial air temperature and precipitation Monthly and annual time
+series
+Publisher s note Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations
+Springer
+Journal of Population Economics is a copyright of Springer All Rights Reserved
+ELSEVIER
+European Journal of Surgical Oncology
+Contents lists available at ScienceDirect
+European Journal of Surgical Oncology
+journal homepage www ejso com
+Chemotherapy is not needed when complete evacuation of gestational
+choriocarcinoma leads to hCG normalization
+a
+M Margaillan a A Braga c P Sauthier K Elias e M Seckl
+Pa Bolze
+S Schoenen
+M Winter g J Coulter C Lok U Joneborg M Undurraga Malinverno T Hajri a
+b
+J Massardiera B You a F Golfiera F Goffin
+a Centre Francais de des Maladies Trophoblastiques CHU Lyon Sud France
+b Centre Belge de des Maladies Trophoblastiques Belgium
+c Rio de Janeiro Trophoblastic Disease Reference Center Rio de Janeiro Brazil
+des Maladies Trophoblastiques Du Canada
+e New England Trophoblastic Disease Center Division of Gynecologic Oncology Departrnent of Obstetrics and Gynecolou Brigham and Women s Hospital Boston USA
+f Charing Cross Gestational Trophoblastic Disease Center London UK
+g Sheffield Center for Trophoblastic Diseases Sheffield UK
+Departrnent of Gynaecology Obstetrics Cork University Maternity Hospital Cork Ireland
+Center of Gynaecologic Oncology Amsterdam Netherlands
+j Department of Women s and Children s Health and Department of Pelvic Cancer Karolinska Institutet University Hospital Stockholm Sweden
+D de et Universitaires de Geneve Geneve Switzerland
+Check for
+ARTICLE
+Keywords
+Choriocarcinoma
+INFO
+Gestational trophoblastic neoplasia
+Chemotherapy
+Human chorionic gonadotropin
+ABSTRACT
+Background The standard treatment for gestational choriocarcinoma is chemotherapy
+Objective To describe the risk of recurrence with expectant management of gestational choriocarcinoma that has
+reached a normal human chorionic gonadotropin level after tumor removal without adjuvant chemotherapy
+Methods A retrospective multicenter international cohort study was conducted from to involving
+gestational trophoblastic disease reference centers with patient s follow up extended until Clinical and
+biological data of included patients were extracted from each center s database The inclusion criteria were i
+histological diagnosis of gestational choriocarcinoma in any kind of placental tissue retrieved ii spontaneous
+normalization of human chorionic gonadotropin level following choriocarcinoma retrieval iii patient did not
+receive any oncological treatment for the choriocarcinoma iv and at least months of follow up after the first
+human chorionic gonadotropin level normalization
+Results Among patients with retrieved gestational choriocarcinoma and whose human chorionic gonado
+tropin level normalized without any other oncological therapy none had a recurrence of choriocarcinoma after a
+median follow up of months The median interval between choriocarcinoma excision and human chorionic
+gonadotropin level normalization was days The International Federation of Gynecology and Obstetrics
+World Health Organization risk score was in of the cases
+Conclusions This multicenter international study reports that selected patients with gestational choriocarcinoma
+managed in gestational trophoblastic disease reference centers did not experience any relapse when the initial
+tumor evacuation is followed by human chorionic gonadotropin level normalization without any additional
+treatment Expectant management may be a safe approach for highly selected patients
+Corresponding author Department of Obstetrics and Gynecology University Hospital Liege University of Liege Liege Belgium
+Corresponding author French Center for Trophoblastic Diseases University Hospital Lyon Sud Pierre France
+E mail addresses pierre adrien bolze chu lyon fr P Bolze s schoenen chuliege be S Schoenen
+co first authorship
+https doi org j ejso
+Received December Received in revised form January Accepted February
+Available online February
+Elsevier Ltd BASO The Association for Cancer Surgery and the European Society of Surgical Oncology All rights reserved
+P Bolze et aL
+Introduction
+Gestational trophoblastic diseases GTD encompass among others
+premalignant complete and partial hydatidiform moles and malignant
+lesions called gestational trophoblastic neoplasia GTN one of which is
+gestational choriocarcinoma GCC GCC is a rare and aggressive GTN
+subtype with a high metastatic potential Although most GCC occur after
+a molar pregnancy they can also be found after any other kind of
+pregnancy i e ectopic pregnancy miscarriage or term delivery The
+incidence of GCC is estimated to be approximately
+term pregnancies and complete hydatidiform mole
+Standard treatment of GCC is chemotherapy with a regimen based
+on the tumor s risk profile An International Federation of Gynecology
+and Obstetrics FIGO World Health Organization WHO scoring sys
+tem based on eight prognostic factors has been established to evaluate
+the risk of resistance to single agent chemotherapy Low risk tumors
+i e with a FIGO WHO risk score lower or equal to are treated with
+single agent chemotherapy whereas high risk tumors i e with a FIG
+O WHO risk score higher than are treated with multiagent chemo
+therapy Monitoring serum human chorionic gonadotropin hCG is
+used as a reliable tumor biomarker
+The early initiation of low risk GTN adequate treatment is associated
+with a year survival rate of However the histology of
+choriocarcinoma is predictive of a decreased effectiveness of first line
+single agent treatments compared to post mole GTN It has been
+suggested that patients with histopathological evidence of choriocarci
+noma and a FIGO WHO risk score of or may benefit from upfront
+multiagent chemotherapy in case of pre treatment hCG level
+mlU mL or metastatic disease
+The diagnostic confirmation of GCC often requires expert histo
+pathological review which may delay the final pathological diagnosis
+During this reviewing interval hCG level can decline spontaneously and
+eventually normalize without additional therapy
+The objective of this international study conducted in GTD reference
+centers was to assess the recurrence rate of GCC after primary complete
+tumor removal followed by hCG normalization without adjuvant
+therapy
+Materials and methods
+Study design
+This retrospective multicenter international cohort study involved
+GTD reference centers
+affiliated to the International Society
+Fig
+for the Study of Trophoblastic Diseases ISSTD Patients treated
+between and were included Clinical biological and outcome
+data of included patients were extracted from each center s database
+Follow up was extended until April
+z
+European Journal of Surgical Oncology
+Patients registered in trophoblastic diseases reference centers pro
+vided informed consent for anonymous data analysis and storage in local
+databases and informed consent was waived if deidentified and anony
+mized records were reviewed with institutional review board approval
+or ethics committees of the respective participating centers approval
+where required
+Patients enrollment
+Patients were included in this study if they were diagnosed with GCC
+in any kind of pathology specimen second third trimester placenta
+product of curettage uterus fallopian tube or metastasis resection
+Ovarian choriocarcinomas were included only if molecular genotyping
+proved the gestational origin Referent pathologists of each center have
+systematically reviewed all initial histological diagnoses At least
+normal serum hCG level following GCC removal without any additional
+treatment was necessary Patients who received a single methotrexate
+injection for an initial context of a suspected ectopic pregnancy prior to
+the diagnosis of GCC were not excluded from the study At least
+months of follow up at one of the reference centers after the first
+normalized hCG level was required
+Patients with a previous history of GCC cured by chemotherapy or
+patients with non gestational choriocarcinoma were excluded
+Patients with metastatic disease were not excluded from the study
+Initial workup and management of gestational choriocarcinoma
+Along with clinical history and physical examination an initial im
+aging workup was performed at the time of GCC diagnosis for the
+anatomical staging It was considered complete if it included imaging of
+all the following anatomical regions pelvis ultrasound or MRI
+abdomen CT scan or ultrasound and chest X ray for FIGO score CT
+scan imaging Brain evaluation CT scan or MRI was performed
+selectively in women with suspected distant lesions
+The FIGO WHO risk score was calculated for each patient based on
+available data For the item antecedent pregnancy in the absence of
+molecular genotyping we considered either the current term pregnancy
+for intraplacental choriocarcinoma or the last known pregnancy When
+the patient reported no previous pregnancy we scored missed abortion
+by default
+For the item interval from index pregnancy we used the interval
+between last known pregnancy termination and the excision of
+choriocarcinoma
+We defined the first hCG value available as the item pre treatment
+hCG Since the diagnosis of choriocarcinoma was not suspected at the
+time of placental removal in most cases first hCG level was measured
+after tumor evacuation for of patients n which may have
+underestimated the FIGO WHO risk score
+Rio de Janeiro Brazil
+Lyon France
+Sheffield UK
+London UK
+Canada
+Geneva Switzerland
+Nijmegen Netherlands
+Belgium
+Stockholm Sweden
+Cork Ireland
+Boston USA
+Year of registration year
+Fig Number and year of registration of choriocarcinoma cases followed by hCG normalization without chemotherapy in Trophoblastic Reference Centers
+between and
+P Bolze et aL
+For the item largest tumor size we used the size on gross patho
+logical examination or tumor size on pelvic imaging when the patho
+logical size was not available
+Disease recurrence was defined as rising hCG level after initial
+normalization confirmed after weeks in the absence of a new
+concomitant pregnancy
+Follow up duration was calculated from the first normal serum hCG
+level to the last known hCG level
+Results
+Center and patient characteristics
+Eleven international trophoblastic diseases reference centers partic
+ipated in this study Rio de Janeiro Brazil Lyon France Sheffield United
+Kingdom London United Kingdom Canada Liege Belgium
+Nijmegen Netherlands Geneve Switzerland Stockholm Sweden Bos
+ton USA and Cork Ireland Eighty patients with a pathological diagnosis
+of GCC and normalized hCG level were included
+shows the
+Fig
+number of patients per center and the year of registration
+The diagnosis of GCC was made in of women after uterine
+curettage n in after hysterectomy n in after
+delivery in the placenta n in in the fallopian tube n
+and in after metastatic resection lung n kidney n
+Two patients received two injections of and mg methotrexate
+respectively for suspected ectopic pregnancy
+The clinical characteristics of patients according to the type of tumor
+excision are summarized in
+Median age at the diagnosis was
+Table
+years range The median time between the index pregnancy and
+the GCC diagnosis was days range The median first hCG
+level available was mlU mL range The estimated
+tumor size was cm for of cases n and n
+had a tumor size cm Tumor measurements were not available for
+patients The majority of patients had FIGO stage I n or II
+n disease Five patients presented with metastatic lesions
+on imaging In patients multiple lung lesions were described on chest
+CT scan performed after hysterectomy One patient presented with a
+cm cervical mass after intraplacental choriocarcinoma excision None of
+these patients received chemotherapy since their hCG spontaneously
+fell rapidly after primary treatment The remaining patients with
+metastasis on imaging workup presented with a unique lung lesion
+Table
+Patients characteristics according to the type of tumor excision
+European Journal of Surgical Oncology
+corresponding to the excised GCC
+The FIGO WHO risk scores ranged from O to
+Fig
+O in patients
+in patients in patients in pa
+tients in patient in patients in pa
+tients and greater than in patients
+Due to normalized hCG level at the time of the diagnosis and in the
+absence of symptoms imaging work up was not always exhaustive
+Imaging workup could be considered as complete in n of
+cases For example two patients with intraplacental choriocarcinoma
+had for example no imaging since the hCG level was already normalized
+at the time of diagnosis
+All cases were validated by an experienced team in gestational
+trophoblastic reference centers Anatomopathological review imaging
+work up and scoring FIGO may lead to a time laps between surgery and
+treatment decision Expectant management was decided in case of
+spontaneous normalization hCG in this interval Omission of chemo
+therapy was never due to patient refusal or medical contraindication
+Recurrence rate
+After a median follow up of months range months none
+of the patients experienced a GCC recurrence
+o
+FIGO prognostic score n
+Fig Distribution of FIGO WHO risk scores among the patients included
+In green low risk diseases with FIGO WHO risk scores In red high risk
+diseases with FIGO WHO risk scores This graph shows that majority of
+the patients included in this study had low risk diseases For interpretation of
+the references to colour colour in this figure legend the reader is referred to the
+Web version of this article
+Age median year range
+Antecedent pregnancy n VOY
+Term delivery
+Miscarriage
+Ectopic pregnancy
+Hydatidiform mole
+Interval from antecedent pregnancy and
+choriocarcinoma excision median day range
+Pre excision hCG median mlU mL range C
+First post excision median mlU mL range
+Interval between excision and first normal serum hCG
+median day ranger
+Follow up median month range
+Uterine curettage
+n
+Hysterectomy
+n
+Term
+placenta
+n
+Fallopian tube
+n
+o
+Metastasis
+resection
+Total
+n
+hCG human Chorionic Gonadotropin mlU mL milli International Units milliliter NA not availableFigures
+missing data for patient
+b
+missing data for patient
+missing data for patients
+missing data for patients
+missing data for patients
+P Bolze et aL
+Characterization of hCG normalization
+Pre evacuation serum hCG levels were available in cases n
+with a median value of mlU mL range Me
+dian post evacuation hCG level was mlU mL range and
+was measured after a median interval of days range day
+months
+The median interval between GCC primary removal and hCG
+normalization was days range For of the patients hCG
+level had normalized within months post removal Statistical analysis
+showed a correlation between first hCG post evacuation level and time
+to normalization Pearson s correlation coefficient r p
+First hCG post evacuation level accounts for
+of total variability of necessary time to tumor marker normal
+ization High first hCG post evacuation levels were therefore associated
+with a longer interval for hCG normalization
+Fig
+Among patients with intraplacental choriocarcinoma n
+had normal values at their first hCG measurement
+Discussion
+Principal findings
+This multicentre international study shows no relapses of GCC after
+primary complete evacuation followed by hCG level normalization
+without any additional treatment These results highlight the opportu
+nity to avoid chemotherapy exposure in highly selected patients
+Results in the context of published literature
+The centralization of care in expert GTD centers has contributed to
+the improvement of GCC management in terms of treatment morbidity
+and mortality The process of histopathological review in these
+reference centers requires time and is associated with a delay between
+specimen evacuation final diagnosis of GCC and treatment initiation In
+several cases hCG level normalizes within this time interval Manage
+ment of patients with normal tumor marker level and no evidence of
+residual disease after GCC removal is a particularly controversial issue
+Some published data leave open the question whether non
+metastatic GCC should be managed with
+O
+o
+o
+careful follow up only or
+e OS
+First post evacuation hCG serum level mlU mL
+Fig Study of the correlation between the first post evacuation hCG level and
+the time required to obtain normalization of hCG This graph shows a corre
+lation between first post evacuation hCG level and time to normalization
+Pearson s correlation coefficient r p
+European Journal of Surgical Oncology
+immediate chemotherapy
+Very limited data are available on
+the specific subset of patients with normalized hCG level after GCC
+evacuation It is not clear if postponing chemotherapy is an
+undertreatment
+A retrospective study compared expectant management versus im
+mediate chemotherapy for low risk and non metastatic GCC In this
+population of patients managed by surveillance only achieved
+complete sustained remission Interestingly among the cases with
+normalized hCG level no patient required chemotherapy which is
+concordant with our observation
+Regarding the specific condition of intraplacental choriocarcinoma
+a systematic review considering non metastatic cases showed no
+relapse in out of patients managed by surveillance only
+However it is not clear which criteria were applied to decide between
+prophylactic chemotherapy or simple surveillance The authors of this
+study recommend to avoid adjuvant chemotherapy in patients with
+non metastatic disease and normal hCG level but lifelong hCG moni
+toring is required
+The population of the present study is heterogeneous in terms of
+pregnancy gestational age first second or third trimester and meta
+static status Moreover of patients were older than years old
+which is a known risk factor for resistance to monochemotherapy in the
+treatment of GCC
+The duration of post normalized hCG monitoring is still debated after
+chemotherapy for GTN Published data show that most recurrent GTN
+appear in the first year of follow up regardless of the FIGO WHO score
+risk
+Recurrent GCC occurs usually within the years
+The
+consensus is to follow up patients for at least year after cessation of
+therapy though with some centers advocating up to years of
+follow up
+In the present study the median follow up was
+years which is in accordance with practice in most centers and allows
+the diagnosis of the vast majority of recurrences
+Strengths and limitations
+The strengths of this study are the multicentric international design
+and the involvement of recognized expert trophoblastic diseases centers
+with systematic histopathological review This cohort of patients is
+the largest cohort available in the literature in this very restricted sub
+group of patients
+We also acknowledge some limitations such as the retrospective
+design FIGO scores were calculated thanks to available data sometimes
+without knowing the index pregnancy since genotyping is not routinely
+done Our conclusions should therefore be interpreted with caution and
+the surveillance only decision must be validated in a multidisciplinary
+expert GTD center to avoid metastatic disease as a deleterious conse
+quence of postponing chemotherapy
+Clinical and research implications
+Our results highlight the consideration of an expectant approach in
+highly selected cases of GCC when the hCG level falls and eventually
+normalizes after complete tumor removal especially in early stage Iow
+risk disease These results need to be validated in a larger and pro
+spective study In the future it may change the FIGO recommendation to
+initiate chemotherapy in all cases of GCC histology This management
+should always be validated by an experienced team in gestational
+trophoblastic reference centers
+Conclusions
+This international multicenter study shows that patients with a pri
+mary diagnosis of GCC managed in GTD reference centers do not relapse
+when the initial tumor excision is followed by a normalization of hCG
+level without adjuvant treatment These results however should be
+interpreted with some reservation as they only concern a selected cohort
+P Bolze et al
+of patients
+Conflict of interest
+The authors report no conflict of interest
+Conflict of interest statement
+The authors have no competing interests to declare with respect to
+this article
+CRediT authorship contribution statement
+Pa Bolze had full access to all the data in the study and take re
+sponsibility for the integrity of the data and the accuracy of the data
+analysis Study concept and design Formal analysis interpretation of
+data Drafting of the manuscript Statistical analysis Study supervision
+S Schoenen had full access to all the data in the study and take re
+sponsibility for the integrity of the data and the accuracy of the data
+analysis Formal analysis interpretation of data Drafting of the manu
+script Statistical analysis M Margaillan Drafting of the manuscript
+Statistical analysis A Braga Acquisition of data Critical revision of the
+manuscript for important intellectual content P Sauthier Acquisition
+of data Critical revision of the manuscript for important intellectual
+content K Elias Acquisition of data Critical revision of the manuscript
+for important intellectual content M Seckl Acquisition of data Critical
+revision of the manuscript for important intellectual content M
+Winter Acquisition of data Critical revision of the manuscript for
+important intellectual content J Coulter Acquisition of data Critical
+revision of the manuscript for important intellectual content C Lok
+Acquisition of data Critical revision of the manuscript for important
+intellectual content U Joneborg Acquisition of data Critical revision
+of the manuscript for important intellectual content M Undurraga
+Malinverno Acquisition of data Critical revision of the manuscript for
+important intellectual content T Hajri Statistical analysis Adminis
+trative technical or material support J Massardier Acquisition of
+data Critical revision of the manuscript for important intellectual con
+tent B You Acquisition of data Critical revision of the manuscript for
+important intellectual content F Golfier Acquisition of data Critical
+revision of the manuscript for important intellectual content F Goffin
+had full access to all the data in the study and take responsibility for the
+integrity of the data and the accuracy of the data analysis Study concept
+and design Formal analysis interpretation of data Drafting of the
+manuscript Study supervision
+Acknowledgements
+We warmly thank the patients for their trust and all the members of
+the reference centers for their daily work in data collecting and patient
+support We are also grateful to the members of the International Society
+for the Study of Trophoblastic Diseases ISSTD and the European
+Organisation for Treatment of Trophoblastic Diseases EOTTD who
+participated for their trust and their commitment
+European Journal of Surgical Oncology
+Antonio Braga wishes to thank the National Council for Scientific and
+Technological Development CNPq and Carlos Cha
+gas Filho Foundation for Research Support of the State of Rio de Janeiro
+FAPERJ E
+References
+Lurain JR Gestational trophoblastic disease I epidemiology pathology clinical
+presentation and diagnosis of gestational trophoblastic disease and management
+of hydatidiform mole Am J Obstet Gynecol
+Hui P Baergen R Cheung A Fukunaga M Gersell D Lage JM et al Gestational
+trophoblastic neoplasms In Kurman w L CM S HG H YR editors WHO
+classification of tumours of female reproductive organs p Lyon
+Ngan HY Bender H Benedet JL Jones H Montruccoli Cyc et al FIGO Committee
+on Gynecologic Oncology Gestational trophoblastic neoplasia FIGO staging
+and classification Int J Gynaecol Obstet
+Ngan HYS seckl MJ Berkowitz RS Xiang Y Golfier F et al Diagnosis and
+management of gestational trophoblastic disease update Int J Gynaecol
+Obstet suppl
+Bolze PA Riedl C Massardier J Lotz JP You B et al Mortality rate of gestational
+trophoblastic neoplasia with a FIGO score of Am J Obstet Gynecol Mar
+Freitas F Braga A Viggiano M Velarde LGC Maesta I et al Gestational
+trophoblastic neoplasia lethality among Brazilian women a retrospective national
+cohort study Gynecol Oncol
+You B Pollet Villard M Fronton L Labrousse C Schott AM et al Predictive values
+of hCG clearance for risk of methotrexate resistance in low risk gestational
+trophoblastic neoplasias Ann Oncol Aug
+Strohl AE Lurain JR Postmolar choriocarcinoma an independent risk factor for
+chemotherapy resistance in low risk gestational trophoblastic neoplasia Gynecol
+Oncol
+Frijstein MM Lok C van Trommel NE Ten Kate Booij MJ Massuger L et al Lung
+metastases in low risk gestational trophoblastic neoplasia a retrospective cohort
+study BJOG
+Braga A Paiva G Ghorani E Freitas F Velarde LGC et al Predictors for single
+agent resistance in FIGO score or gestational trophoblastic neoplasia a
+multicentre retrospective cohort study Lancet Oncol Aug
+Available https isstd org
+Lok C van Trommel N Massuger L Golfier F Seckl M Clinical Working Party of
+the EOITD Practical clinical guidelines of the EOTTD for treatment and referral of
+gestational trophoblastic disease Eur J Cancer May
+Brewer JI Eckman TR Dolkart RE Torok EE Webster A Gestational trophoblastic
+disease A comparative study of the results of therapy in patients with invasive
+mole and with choriocarcinoma Am J Obstet Gynecol Jan
+Jiao L Ghorani E Sebire NJ Seckl MJ Intraplacental choriocarcinoma systematic
+review and management guidance Gynecol Oncol Jun
+Braga A Campos V Filho JR Lin LH Sun SY et al Is chemotherapy always
+necessary for patients with nonmetastatic gestational trophoblastic neoplasia with
+histopathological diagnosis of choriocarcinoma Gynecol Oncol Feb
+Bolze PA Mathe M Hajri T You B Dabi Y et al First line hysterectomy for women
+with low risk non metastatic gestational trophoblastic neoplasia no longer wishing
+to conceive Gynecol Oncol
+Balachandran K Salawu A Ghorani E et al When to stop human chorionic
+gonadotrophin hCG surveillance after treatment with chemotherapy for
+gestational trophoblastic neoplasia GTN a national analysis on over
+patients Gynecol Oncol
+Powles T Savage PM Stebbing J et al A comparison of patients with relapsed and
+chemo refractory gestational trophoblastic neoplasia Br J Cancer
+Sun Y Xiang Y Wan XR Yang XY Factors related to recurrence of
+choriocarcinoma and evaluation of treatment outcomes Zhonghua Fu Chan Ke Za
+Zhi
+Savage P Winter M Parker V Harding V Sita Lumsden A et al Demographics
+natural history and treatment outcomes of non molar gestational choriocarcinoma
+a UK population study BJOG
+ORIGINAL ARTICLE
+High Risk pregnant Women s Experiences of
+Risk Management A Qualitative Study
+Talat Khadivzadehl PhD Zahra PhD Ali PhD
+I Nursing and Midwifery Care Research Center Mashhad University of Medical Sciences
+Mashhad Iran
+Department of Midwifery School of Nursing and Midwifery Mashhad University of Medical Sciences
+Mashhad Iran
+of Midwifery Quchan Branch Islamic Azad University Quchan Iran
+Faculty of the William Glaser institute Sydney Australia
+Corresponding Author
+Zahra Shojaeian PhD Department of Midwifery Quchan Branch Islamic Azad University Kilometer
+Quechan Mashed Road Postal code Quchan Iran
+Tel Fax Email zshogaeian yahoo com
+Received September Revised December Accepted December
+ABSTRACT
+Background Maternal and fetal morbidity and mortality depend on identifying of pregnancy risks
+and risk management There is a dearth of information about the experiences of high risk pregnant
+mothers in self mitigation of the risk in the socio cultural setting of Iran This research was conducted
+to explore the risk management experiences of high risk pregnant mothers
+Methods This Qualitative study was conducted in educational hospitals in Mashhad Iran from July
+to December The purposive sampling method was used to recruit the participants based on
+medical or obstetric high risk conditions in pregnancy Qualitative data were obtained from in depth
+and semi structured interviews Mothers experiences of pregnancy in a risky condition were
+asked and the interview continued until data saturation Data were analyzed using the MAXQDA
+software and the Elo and method
+Results Maternal experiences for risk management in pregnancy were formed by nine sub categories
+and three categories the excitement of emotion including feeling worry and despair gladness
+in the shadow of hope and optimism momentary shocking and excitement and inactivity and
+helplessness self contemplation including active analysis of the ways of moderating the risk
+cognitive denial and ignoring the risk and witnessed action including problem focused and
+rational actions and avoidance and inefficient engagements
+Conclusion Risk management experiences of pregnant women with high risk pregnancies include a
+wide range of positive and negative feelings effective and ineffective thoughts and behaviors Mutual
+collaboration between mothers and midwives obstetricians by providing high quality risk management
+counseling can lead to choosing effective risk management strategies
+Keywords Pregnancy Risk management High risk
+Please cite this article as Khadivzadeh T Shojaeian Z Sahebi A High Risk pregnant Women s Experiences of
+Risk Management A Qualitative study IJCBNM doi
+Copyright Olnternational Journal of Community Based Nursing and Midwifery This is an open access article distributed
+underthe terms ofthe Creative Commons Attribution Noncommercial Share Alike Unported wh ich permits unrestricted
+use distribution and reproduction in any medium provided the original work is properly cited
+Khadivzadeh T Shojaeian Z Sahebi A
+INTRODUCTION
+A high risk pregnancy HRP refers to
+pregnancies in which the mother or the fetus has
+an increased risk of complications compared to
+uncomplicated pregnancies l Besides maternal
+death fetal complications e g fetal death
+premature delivery low birth weight and other
+poor outcomes more likely increase due to
+HRP The prevalence ofl IRPs in Iran and other
+countries ranges from to In the
+past it was not recommended for childbearing
+in high risk conditions due to the mother and
+baby with more complications Recent advances
+in medical treatments have enabled many
+women with chronic illnesses to get pregnant
+and experience motherhood
+Women s risk perception affects decision
+making and behavior in pregnancy This
+means that mothers must control their
+environment diet activity and any risk for
+raising their chances of fulfilling the goal of
+childbearing A qualitative study of pregnant
+women in Iran found that challenges of
+family anticipation for motherhood future
+pregnancies and challenge of adaptation in
+pregnancy were experiences of high risk
+pregnant women Many pregnant women with
+hypertensive disorders felt that they weren t
+well informed of management decisions
+and had a desire to be involved in decision
+making A study found that thoughts and
+feelings about safety the physical environment
+and the perceived psychological influence
+of the location of birth are the factors that
+women consider when deciding on place of
+birth process Barriers to management of
+diabetes during pregnancy were financial
+barriers to maintaining a healthy diet and
+exercising communication difficulties lack
+of social support and barriers related to
+diabetes care ll A grounded theory study has
+found becoming the best mom that I can be
+is a complex process Women need to rebuild
+the self and regain control of their lives This
+process needs reorganization of the problem
+dealing with their shame and embarrassment
+identifying an understanding healthcare
+provider and considering the consequences
+of the depression and its management A
+systematic research finding recommended
+that the maternal health experiences should
+be highlighted particularly when it comes to
+decision making about care
+Despite the fact that pregnancy outcome
+will be safer with risk management no
+qualitative study to investigate management
+of risk in high risk pregnant Iranian women
+has been conducted in Iran One study
+evaluated Risk Management Model of Iran s
+Health System According to the Ministry
+of Health and Medical Education statistics in
+Iran HRPs were cared with standard practice
+set by the reference books as a single policy
+across Iran HRP management includes
+medical interventions and supportive cares
+Experiences during HRP have a unique
+meaning for the person The researcher s
+experience indicates that prenatal care is
+carried out based on standards and without
+considering the views and opinions of
+mothers in Iran Therefore mothers may
+not act correctly when the recommendations
+and the mother s point of view conflict
+which is dangerous for the mother s health
+Mother s desire is to preserve the health of
+the fetus and herself The experiences and
+behaviors of Iranian pregnant women with
+regard to the management of HRP remain
+mainly unexplored Understanding this matter
+and aligning the prenatal care according to
+the mother s discretion can be beneficial in
+advancing or improving the health of the
+mother and the fetus in HRPs The choice
+for a qualitative study is its effectiveness in
+obtaining the perceptions and experiences and
+understanding concerns and feelings of people
+with health issues The present qualitative
+study was conducted to better understand the
+experiences of women with HRP regarding
+the management of risk during pregnancy
+MATERIALS AND METHODS
+The current qualitative study which used the
+content analysis approach was conducted on
+ijcbnm

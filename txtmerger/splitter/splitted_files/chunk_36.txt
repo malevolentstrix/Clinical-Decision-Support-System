@@ -1,0 +1,803 @@
+a lot of attention globally According to a recent
+concept analysis women s perceptions about risk during pregnancy have an impact on their decision making during
+pregnancy and childbirth Pregnancy related risk perception is a complicated topic because it affects both the mother
+and the fetus Because even well intentioned measures may not be successful without this understanding prenatal care
+professionals must be aware of how women perceive risk
+Unexpected events that happen to pregnant women during pregnancy labor childbirth or postpartum are known as
+obstetric danger indicators Among the most frequently observed obstetric danger symptoms include impaired vision
+the absence of fetal movements vaginal bleeding a gush of fluid from the vagina high temperature foul smelling
+vaginal discharge convulsions abdominal pain and severe headaches More than of maternal mortality in
+developing nations are caused by pregnancy related conditions which are preventable
+Maternal health promotion
+and education for women men and community members to enhance awareness about obstetric danger signs are effective
+measures that can prevent birth related complications Henceforth the World Health Organization WHO suggests
+educating all pregnant women about obstetric danger signs at each prenatal visit Doing so will enable early detection
+of obstetric danger signs and facilitate appropriate emergency obstetric care
+Numerous studies revealed that the level of knowledge of obstetric danger signs was low in sub Saharan Africa and
+Asia even though recognizing and understanding them plays an important role in reducing both maternal and child
+mortality by prompting the decision to seek emergency interventions
+Studies have shown that pregnant women put off making decisions to seek obstetric treatment because of poor
+understanding of the risks and difficulties in pregnancy related complications
+Studies done in Ethiopia revealed that
+there is a lack of awareness of obstetric danger signs among pregnant women The majority of the research on
+pregnant women s awareness of obstetric danger signs in Ethiopia was conducted in urban and institutional settings This
+study helps in identifying the gaps in the community s understanding of obstetric danger signs level of knowledge of
+pregnancy risk perception and attitude toward skilled delivery service use among pregnant women in rural areas It will
+also be a resource for health service providers policymakers and program managers as they develop intervention
+strategies to increase community awareness of obstetric danger signs and pregnancy risk As far as we are aware there
+has never been a published study done in the rural environment on the topic Therefore this study sought to evaluate
+pregnant women s perceptions of pregnancy risks degree of understanding of obstetric danger signs attitudes toward
+using skilled delivery services and related factors in rural areas of Hadiya Zone Southern Ethiopia
+Methods
+Study Design and Setting
+This study was conducted in two districts of Hadiya Zone Lemo and Ameka districts Hadiya Zone is situated
+kilometers from Addis Ababa the capital city of Ethiopia in the South nation and nationalities regional state of Southern
+Ethiopia The study took place between February and March A cross sectional study with a focus on the
+community was used
+All of the pregnant women who lived in the two districts during the study period comprised the source population
+Participants who were gravely ill and unable to communicate were not included in this study This study was part of a cluster
+randomized control trial study that examined the effectiveness of engagement of religious leaders in maternal health
+https doi org
+DovePress
+International Journal of Women s Health
+Dovepress
+Sadore et al
+education It is part of the baseline survey The sample size was determined based on a cluster randomized control trial study
+design According to the Ethiopia Demographic and Health Survey skilled birth attendance in a rural area of Ethiopia
+was predicted to be The sample size was based on power to detect a percentage point anticipated difference in
+the proportion of skilled delivery service utilization an increase from to With a error level and design effect of
+A sample size of pregnant mothers per cluster was required and accordingly the final calculated sample size was per
+pregnant mothers per group after considering a loss
+Twelve clusters from two Hadiya Zone districts were involved in this study Lemo and Ameka districts In order to locate
+clusters kebeles a simple random sampling technique was used Pregnant women were then contacted using a cluster
+sampling technique Interviews with pregnant women who met the inclusion requirements were conducted for the study The
+participants in the baseline study did not Intend to leave their current residence before the completion of the follow up period
+In cooperation with health extension workers and kebele leaders a census was carried out to determine all eligible pregnant
+women of reproductive age years who permanently resided in the selected districts from the selected clusters Once
+pregnancy was detected through census work the women would be recruited for the study
+Data Collection and Procedure
+We used questionnaires that already existed from studies done before and adapted them to fit our needs The questionnaires
+were pretested and administered by an interviewer They were developed by the Johns Hopkins Program for International
+Education in Gynaecology and Obstetrics JHPIEGO maternal and neonatal health program and we tweaked them to fit the
+local context and our research goals We pre tested a survey among pregnant mothers who were not a part of the main
+study The survey had five sections socio demographic obstetrics risk perception danger signs during pregnancy labor
+delivery and postpartum period and attitude The data collectors went to respondents houses and interviewed them in person
+to gather the data We recruited data collectors clinical nurses and BSc nurses and supervisors BSc degree in public
+health We chose them based on their data collection experience and fluency in the language of the community They were
+then trained on the objectives of the study the survey and the data collection process The principal investigators and
+supervisors double checked the surveys to make sure they were complete and relevant
+Quality Control
+Internal consistency reliability was tested by calculating Cronbach s Alpha using SPSS window version
+Furthermore health behavior experts crosschecked the content validity of the tool Data collectors and supervisors
+were trained about the study instrument and data collection procedure The principal investigator and the supervisors
+checked the collected data for completeness
+Measurement and Operational Definitions of the Scale Variables
+Pregnancy risk perception was assessed using the questionnaire developed from a previous study This questionnaire is made
+up of nine questions which assess how a pregnant women perceive potential dangers during pregnancy In this study the
+questionnaire consists oftwo subscales that include four questions about the risk to self mother for example Is the risk of
+having a caesarean section and five questions about risk to the baby for example is a risk of baby having a birth defect
+Respondents were asked to rate on a five pomt scale no risk at all unlikely possible High extremely high
+how they perceived the pregnancy risk The scores from each of the items were added up to get a total pregnancy risk
+perception score A higher score means that the person has a greater perception of risk The mean score was used to divide
+people into two groups those with a high perception of risk and those with a low perception of risk
+Pregnant women in this study mentioned danger signs during pregnancy delivery and postpartum period We
+measured how much they knew about these danger signs by asking them to name them without giving leading questions
+We sorted their knowledge into two categories pregnant women with good knowledge and pregnant women with poor
+knowledge In this study a pregnant woman was deemed to be knowledgeable about the danger signs if she could either
+spontaneously or upon prompting name at least three significant danger signs for each of the three periods of pregnancy
+childbirth and postpartum The mothers were prompted by giving them more time to attempt and recall these periods
+International Journal of Women s Health
+https org lO lJWH
+DovePress
+Sadore et al
+Dovepress
+Attitude toward skilled delivery service utilization has items that were measured by using a Likert scale where
+respondents were supposed to strongly agree agree neutral disagree and strongly disagree The overall attitude score
+was computed by summing up the items after performing the reverse scoring for negatively worded sentences A higher
+composite score indicated a more positive attitude The Mean score was used to categorize attitudes into positive and
+negative attitudes
+Data Processing and Analysis
+Data were cleaned and entered using Epidata version and analyzed using SPSS version Logistic regression was
+carried out to identify determmants of obstetric danger signs knowledge Variables with p in the bivariate analysis
+were selected as candidate variables for multivariate logistic analysis to control the effect of confounders Adjusted odd
+ratios AORs with their confidence interval and p were considered to have a significant association between
+the outcome and independent variables The model fitness was checked using Hosmer and Lemeshow and was found fit
+Results
+Socio Demographic Features of the Respondents
+Overall pregnant women participated with a response rate of More than half and
+of the respondents were in the age range of years and had primary education status respectively A majority
+of the respondents were protestant and were Orthodox Table l
+Table I Socio Demographic Characteristics of Pregnant Mothers Hadiya Zone Southern Ethiopia
+N
+Variables
+Age
+Religion
+Maternal Educational
+Husband education
+occupation
+Marital status
+Family size
+https doi org
+DovePress
+Category
+Protestant
+Orthodox
+Muslim
+Catholic
+Illiterate
+Primary education
+Secondary education
+Tertiary education college or university
+Illiterate
+Primary education
+Secondary education
+Tertiary education college or university
+Housewife
+Merchant
+Government employee
+Farmer
+Married
+Widowed
+persons
+persons
+persons
+Frequency
+Percent
+International Journal of Women s Health
+Dovepress
+Obstetric History of Respondents
+Sadore et al
+Among the total participants were multigravida Most of the respondents visited antenatal care
+at least once Table
+Pregnancy Risk Perception
+The findings revealed that participants had a low mean score of for their perception of pregnancy risk with a standard
+deviation of Less than half of the study participants had high levels of pregnancy risk perception This
+study showed that pregnancy risk perception was high among mothers in the age group of years
+mothers with educational status of primary education mothers who visited ANC once twice and
+multigravida mothers One hundred sixty and respondents thought that they
+had the possibility of losing too much blood having a cesarean section and dying during their pregnancy respectively
+The majority of study participants thought that the pregnancy risk to themselves and their babies was unlikely Table
+Table Obstetric Characteristics of Pregnant Mothers Hadiya Zone
+Southern Ethiopia N
+Gravidity
+Parity
+ANC visit times
+Pregnancy
+Place of previous birth
+Previous PNC at least once
+History of Stillbirth
+Primigravida
+Multigravida
+Nullipara
+Primipara
+Multipara
+Yes
+No
+Planned
+Unplanned
+Home
+Health Facility
+Yes
+No
+Yes
+No
+Table Pregnancy Risk Perception of Pregnant Mothers Hadiya Zone Southern Ethiopia N
+Items
+Risk for self Mother
+The risk for myself during this pregnancy is
+My risk of hemorrhaging losing too much blood during this
+pregnancy is
+My risk of having a cesarean section is
+My risk of dying during this pregnancy is
+International Journal of Women s Health
+No Risk
+at All
+Unlikely
+Possible
+High
+Extremely
+High
+Mean
+SD
+I
+Continued
+https org lO lJWH
+DovePress
+Sadore et al
+Table Continued
+Items
+Risk for baby
+The risk for my unborn baby during this pregnancy is
+My baby s risk of being born prematurely is
+My baby s risk of having a birth defect is
+My baby s risk of needing to go to the Neonatal Intensive
+Care Unit is
+My baby s risk of dying during this pregnancy is
+Overall pregnancy risk perception
+No Risk
+at All
+l
+High levels
+Low levels
+Unlikely
+Possible
+High
+Extremely
+High
+Dovepress
+Mean
+SD
+Knowledge of Obstetric Danger Signs Among Pregnant Mothers
+Only of respondents had knowledge about obstetric danger signs in all categories pregnancy childbirth and
+postpartum period and of study subjects mentioned at least three danger signs
+during pregnancy labor postpartum and childbirth respectively Only of respondents were knowledgeable
+about danger signs during pregnancy One hundred thirty nine of respondents were knowledgeable about danger
+signs during labor and childbirth and of respondents were knowledgeable about danger signs during the
+postpartum period Weakness vaginal bleeding and reduced fetal movement were
+frequently mentioned danger signs by respondents during pregnancy Labor of more than h and abnormal
+fetal position were frequently mentioned danger signs by study participants during labor and childbirth One
+hundred ninety six of respondents mentioned vaginal bleeding as a danger sign during the postpartum period
+Table
+Table Obstetric Danger Signs Reported by Pregnant Mothers
+Hadiya Zone Southern Ethiopia N
+During Labor Delivery Postpartum Period
+Danger Signs
+Vaginal bleeding
+Abdominal pain
+Weakness
+Reduced fetal movement
+Swelling of hands faces and legs
+Blurred vision
+Breathing difficulty
+Severe headache
+Fever
+Convulsion
+https doi org
+DovePress
+During Pregnancy
+Number
+Number
+Number
+Continued
+International Journal of Women s Health
+Dovepress
+Table Continued
+Danger Signs
+Labor more than h
+Abnormal fetal position
+Excessive bleeding
+Placenta not delivered within
+Foul smelling lochia
+Loss of consciousness
+hour
+During Pregnancy
+Number
+Good knowledge
+Poor knowledge
+During Labor DeIivery
+Number
+Sadore et al
+Postpartum Period
+Number
+Overall knowledge of obstetric danger signs
+Abbreviation NA Not applicable
+Related Factors with Knowledge of Obstetric Danger Signs
+In the multivariate logistic regression analysis the age of respondents maternal education and parity were significantly
+related with knowledge of obstetric danger signs Pregnant mothers in the age group of years were times
+more likely to be knowledgeable of obstetrics danger signs than pregnant mothers who were in the age group of
+years AOR CI Pregnant mothers with the educational status of primary education were
+times more likely to be knowledgeable of obstetrics danger signs than pregnant mothers with the educational status of
+illiterate AOR CI It was also observed that the probability of knowing obstetric danger signs
+decreased by among primipara mothers compared to nullipara mothers AOR CI Table
+Attitude Toward Skilled Delivery Service Utilization
+This study revealed that participants had a mean score of for their attitude toward skilled delivery service utilization
+with a standard deviation of More than half of the study participants had a positive attitude toward skilled
+delivery service utilization Table
+Table Factors Associated with Knowledge of Obstetric Danger Signs in Hadiya Zone South Ethiopia n
+Variables
+Maternal Educational
+Parity
+Category
+Illiterate
+Primary education
+Secondary education
+Tertiary education college or university
+Nullipara
+Primipara
+Multipara
+Knowledge of Obstetric Danger Signs AOR CI
+Good
+Poor
+Notes l reference group A value of p bold is statistically significant
+Abbreviations AOR adjusted odds ratio Cl confidence interval
+International Journal of Women s Health
+I
+I
+I
+I
+https org lO lJWH
+DovePress
+P value
+o
+Sadore et al
+Dovepress
+Table Attitude Towards Skilled Delivery Service Utilization Among Pregnant Mothers in Hadiya Zone Southern Ethiopia N
+Items
+Some people believe that any pregnant woman can
+develop delivery complication
+Some people feel that delivery complications can be
+dangerous to the health of a woman
+It is believed that delivery complications cannot be
+dangerous to the health of the newborn
+According to some people s belief a woman should
+plan ahead of time where she will give birth to her baby
+Some women feel that they shouldn t plan ahead of time
+how they will get to the place where they will give birth
+Some women feel that every pregnant woman need
+skilled care at delivery needs skilled care during delivery
+Few women feel that being attended by male health
+personnel during delivery is unethical and shame
+According to the feelings of some pregnant women it
+is very shameful to deliver on the delivery bed in the
+labor ward
+Many women believe that women do not go to a health
+facility for delivery mainly because it is too expensive
+Many women believe that women do not go to a health
+facility for delivery because health personnel do not
+treat them respectfully
+Overall attitude
+Strongly
+Disagree
+I
+Positive attitude
+Negative attitude
+Disagree
+Neutral
+l
+Agree
+Strongly
+Agree
+l
+Mean SD
+l
+l lO
+l Ol
+Factors Associated with Attitude Toward Skilled Delivery Service Utilization
+In the multivariate logistic regression analysis perception of pregnancy risk and parity were significantly associated with
+attitude towards skilled delivery service utilization Pregnant mothers with a high perception of pregnancy risk were
+times more likely to have a positive attitude towards skilled delivery service utilization than pregnant mothers with low
+pregnancy risk perception AOR CI Parity was another factor that was independently associated
+with the attitude towards skilled delivery service utilization pregnant mothers who were multiparous were times
+more likely to have a positive attitude towards skilled delivery service utilization than nulliparous pregnant mothers
+AOR Cl Table
+Discussion
+The majority of preventable maternal deaths in developing countries are due to delays in the pregnant mother or her
+family s decision to seek care delays in visiting the place of delivery and delays in receiving adequate hospital care In
+such cases the lack of knowledge about pregnancy risk and obstetric danger signs and attitude towards skilled delivery
+service utilization contribute to the delays in seeking emergency obstetric care resulting in high mortality and morbidity
+rates Pregnant mothers can avoid obstetric complications if they can identify the forewarning pregnancy risks and
+obstetric danger signs In resource limited countries like Ethiopia increasing the level of awareness of obstetric danger
+signs and skilled delivery service utilization among women are feasible strategies to reduce maternal mortality and
+https doi org
+DovePress
+International Journal of Women s Health
+Dovepress
+Sadore et al
+Table Factors Associated with Attitude Towards Skilled Delivery Service Utilization in Hadiya Zone South Ethiopia n
+Variables
+Age
+Knowledge of obstetric danger signs
+Pregnancy risk perception
+Parity
+Gravidity
+Category
+Poor knowledge
+Good knowledge
+Low perceived risk
+High perceived risk
+Nullipara
+Primipara
+Multipara
+Primigravida
+Multigravida
+Attitude Towards Skilled Delivery Service AOR CI
+Utilization
+Positive
+Negative
+l
+I
+I
+I
+I
+P value
+o
+Notes l reference group Significant level at p value indicated in bold
+Abbreviations AOR adjusted odds ratio Cl confidence interval
+morbidity related to obstetric complications However the pregnancy risk perception and level of knowledge are low
+among women in Southern Africa including Ethiopia
+This study was conducted to assess the current
+pregnancy risk perception attitude towards skilled delivery service utilization and level of pregnant women s knowledge
+of obstetric danger signs and related factors in rural areas in Hadiya Zone Southern Ethiopia
+The result showed that more than half of pregnant mothers had a low perception of obstetric risks and the total and
+a low mean score of pregnancy risk perception of This finding is lower than the one reported using different
+instruments to measure pregnancy risk perception in Northern Ethiopia This study found that of respondents had
+a high level of pregnancy risk perception The mean score in our study score is lower than the findings reported in
+Canada mean score which utilized the same instrument to measure pregnancy risk perception among nulliparous
+Canadian women of advanced maternal Similarly a study in Thailand found that women of advanced maternal age had
+mean scores of perception of pregnancy risk that fell below This difference might be because of the difference
+in maternal age and measurement instruments Another possible explanation is that risk perception in pregnancy is
+multifaceted and influenced by multiple personal factors
+In this research the overall proportion of knowledge of obstetric danger signs among pregnant mothers was
+This finding is consistent with the finding reported in South Ethiopia in Yirgachefe city and Eastern
+Democratic Republic of the Congo Our study was done among rural mothers In this study the knowledge
+of obstetric danger signs was higher than the findings reported in Wolayita Sodo City in Southern Ethiopia and
+Jordan
+In addition it is lower than the values reported by studies conducted in Chamwino District Tanzama
+Angolela Tera District in Northern Ethiopia Hossan Town Southern Ethiopia Shashemane
+Town in the Oromia region in Ethiopia and KwaZulu Natal in South Africa This discrepancy could be
+differences in the sociocultural backgrounds that characterize each of these regions
+In this study obstetric danger signs were categorized into three parts pregnancy labor childbirth and the postpartum
+period The danger signs that were most frequently discussed during pregnancy were weakness vaginal
+bleeding and reduced fetal movement which is contradictory to a study reported in the Eastern
+International Journal of Women s Health
+https org lO lJWH
+DovePress
+Sadore et al
+Dovepress
+Democratic Republic of the Congo which found that severe abdominal pain was the best known danger sign This
+result was in line with other research findings published in Ethiopia and Africa and revealed that severe vaginal bleeding
+was the frequently mentioned obstetric danger sign during pregnancy and postpartum period
+Labor of more
+than hours and abnormal fetal position were the most common danger Signs mentioned by study participants during
+labor and childbirth This finding was consistent with the finding reported in Wolayita Sodo Town Southern Ethiopia
+In this study the age of pregnant mothers maternal education and parity were determinants of knowledge of obstetric
+danger signs Pregnant mothers aged years were more likely than other age groups to be knowledgeable of
+obstetric danger indicators This result is consistent with results from other studies that have been done in Arbaminch
+Wolayita Sodo and Yirgacheffe Towns South Ethiopia and South Eastern Nigeria Women in this age category are
+believed to be physically and psychologically ready to accept information about obstetric danger signs This result
+contradicts a study conducted in the Eastern Democratic Republic of the Congo that found women aged years
+were more likely than other age groups to be knowledgeable of obstetric danger indicators
+In this study maternal age education and parity were determinants of knowledge of obstetric danger signs Pregnant
+mothers aged years were more likely than other age groups to be knowledgeable of obstetric danger indicators
+This result is consistent with results from other studies that have been done in Arbaminch Wolayita Sodo and
+Yirgacheffe Towns South Ethiopia and South Eastern Nigeria Women in this age category are believed to be physically
+and psychologically ready to accept information about obstetric danger signs This result contradicts a study conducted in
+the Eastern Democratic Republic of the Congo that found women aged years were more likely than other age
+groups to be knowledgeable of obstetric danger indicators
+The multivariate logistic regression revealed that
+the knowledge of obstetric danger signs among pregnant women was associated with parity The probability of knowing
+obstetric danger signs decreased by among primipara mothers compared to nullipara mothers This finding contra
+dicts the finding reported in Eastern Democratic Republic of the Congo However it is consistent with the results
+reported in other studies
+In this study the mean score of attitude towards skilled delivery service utilization was More than half of the study
+participants had a positive attitude towards skilled delivery service utilization This finding was lower than the
+finding reported in Oromia Region Ethiopia Our finding is higher than the result reported in Northwest Ethiopia
+A possible explanation could be differences in study setting and health program implementation This study
+revealed that pregnant mothers with a high perception of pregnancy risk were more likely to have a positive attitude toward
+skilled delivery service utilization than pregnant mothers with a low pregnancy risk perception This is because having risk
+perception could develop a positive attitude towards health service utilization The utilization behavior of individuals is
+driven by their perception to develop a positive attitude and take over the action It was also observed that pregnant mothers
+who were multiparous were more likely to have a positive attitude towards skilled delivery service utilization than
+nulliparous pregnant mothers This may be because pregnant mothers who experienced previous births were more likely
+to benefit from maternal health services and learn from their experiences
+The results of this study have important policy implications Determining the level of the pregnancy risk perception
+knowledge of obstetric danger signs and attitude of pregnant women towards skilled delivery service utilization can
+predict their preventive practice and identifying variables is crucial for developing appropriate risk communication
+methods and measures
+Limitations
+Regarding limitations of this study bias might be provoked in prompting the participants to mention the danger signs
+though the authors tried their best to avoid it In addition reports of the pregnant mothers may under overestimate the
+result because the data was collected by self report
+Conclusion
+In this study pregnancy risk perception attitude towards skilled delivery service utilization and level of pregnant
+women s knowledge of obstetric danger indicators in Lemo and Ameka Districts of Hadiya Zone were low
+Maternal age maternal education and parity of the respondents were determinants of knowledge of obstetric
+https doi org
+DovePress
+International Journal of Women s Health
+Dovepress
+Sadore et al
+danger signs It was also observed that perception of pregnancy risk and parity were significantly associated with
+attitude towards skilled delivery service utilization Based on the findings of this study we recommend that
+stakeholders of the health sector develop a strategic plan to Increase pregnancy risk perception pregnant women s
+knowledge of obstetric danger indicators and develop a positive attitude towards skilled delivery service utilization
+to reduce maternal death through the provision of health education and health promotion
+Ethics Approval and Consent to Participate
+This study has been approved by the Institutional Review Board of the Jimma University Ref no JUIH
+Permission letter was obtained from respective health departments An information sheet including the purpose and
+importance of the study confidentiality of the participant s response and study benefits and risks was prepared and explained
+to the study participants Informed voluntary written and signed consent was sought from women aged years For those
+aged years parental informed consent was obtained as per the approval by the ethical review committee For the
+participants who were unable to read and write the informed consent was read by the data collectors to them and put their
+fingerprints on the consent form of their agreement Confidentiality of data was guaranteed by using identification numbers
+rather than names and limiting access to the data Finally the study was conducted per the declaration of Helsinki
+Acknowledgments
+To the best of the authors knowledge this is the first study to assess pregnant mothers pregnancy risk perception
+attitude towards skilled delivery service utilization and level of knowledge of obstetric danger signs in rural areas in the
+study area This study was conducted in a large sample of participants It was a community based study in a rural setting
+which makes it a representation of the true population
+The authors would like to thank the study participants supervisors and data collectors
+Author Contributions
+All authors made a significant contribution to the work reported whether that is in the conception study design
+execution acquisition of data analysis and interpretation or in all these areas took part in drafting revising or critically
+reviewing the article gave final approval of the version to be published have agreed on the journal to which the article
+has been submitted and agree to be accountable for all aspects of the work
+Funding
+This research work was funded by Jimma University The funders had no role in study design data collection and
+analysis decision to publish or preparation of the manuscript
+Disclosure
+The authors report no conflicts of interest for this work
+References
+WHO Trends in Maternal Mortality to Estimates by WHO UNICEF UNFPA World Bank Group and the United Nations Population
+Division Geneva
+Adedini SA Babalola S Ibeawuchi C et al Role of religious leaders in promoting contraceptive use in Nigeria evidence from the Nigerian urban
+reproductive health initiative Global Health doi GHSP D
+Kanmaz AG inan AH Beyan E et al Effect of advanced maternal age on pregnancy outcomes a single centre data from a tertiary healthcare
+Lee S Risk perception in women with high risk pregnancies Br J Midwifery doi lO bjom l
+Mwilike B Nalwadda G Kagawa M et al Knowledge of danger signs during pregnancy and subsequent healthcare seeking actions among women
+in Urban Tanzania a cross sectional study BMC Pregnancy Childbirth doi lO
+Agunwa CC Nnebue CC Duru CB et al Knowledge of obstetric danger signs among women of reproductive age in rural communities in Enugu
+state Nigeria Am J Health Res doi j ajhr
+Rogo K Aloo Obungu C Ombaka C et al Maternal mortality in Kenya the state of health facilities in a rural district East Afr Med J
+doi eamj
+Wajid A Rashid Z Mir AM Initial assessment of community midwives in rural Pakistan JSI Research and Training Institute
+International Journal of Women s Health
+https org lO lJWH
+DovePress
+Sadore et al
+Dovepress
+ICF E P H E a Ethiopia Mini Demographic and Health Survey Final Report Rockville Maryland USA EPHI and ICF
+Baltimore M JHPIEGO Pregnancy and Child Birth Danger Signs of Pregnancy Johns Hopkins Center for Communication Programs
+II Heaman MI Gupton AL Psychometric testing of the perception of pregnancy risk questionnaire Res Nursing Health
+doi nur
+Sangin S Phonkusol C Perception of pregnancy risk and related obstetric factors among women of advanced maternal age Pacific Rim
+Int J Nursing Res
+Bililign N Mulatu T Knowledge of obstetric danger signs and associated factors among reproductive age women in Raya Kobo district of Ethiopia
+a community based cross sectional study BMC Pregnancy Childbirth doi lO
+Maternal J Neonatal Health Monitoring Birth Preparedness and Complication Readiness Tools and Indicators for maternal and Newborn Health
+Johns Hopkins Bloomberg School of Public Health Center for communication programs Family Care International
+United Nations Department of Economic and Social Affairs Population Division World Population Prospects Summary of Results
+UN DESA POP TR NO
+Ossai E Uzochukwu B Knowledge of danger signs of pregnancy among clients of maternal health service in urban and rural primary health centres
+of Southeast Nigeria J Community Med Health Educ doi
+Maseresha N Woldemichael K Dube L Knowledge of obstetric danger signs and associated factors among pregnant women in Erer district
+Somali region Ethiopia BMC Women Health doi
+Alemu DA Zegeye AM Zeleke LB et al Pregnancy Risk Perception and Associated Factors among Pregnant Women Attending Antenatal Care at
+Health Centers in Jabi Tehnan District Amhara Northwestern Ethiopia Int J Reproductive Med doi
+Bayrampour H Heaman M Duncan KA et al Comparison of perception of pregnancy risk of nulliparous women of advanced maternal age and
+younger age J Midwifery Women s Health
+Hibstu DT Siyoum YD Knowledge of obstetric danger signs and associated factors among pregnant women attending antenatal care at health
+facilities of Yirgacheffe town Gedeo zone Southern Ethiopia Arch Public Health doi lO y
+Thaddeus S Maine D Too far to walk maternal mortality in context Soc sci med
+Kabakyenga JK P O Turyakira E et al Knowledge of obstetric danger signs and birth preparedness practices among women in rural
+Uganda Reproductive Health doi
+Desta H Hailemariam B Knowledge about obstetric danger signs and associated factors among mothers in Tsegedie District Tigray Region
+Ethiopia J Health Dev
+Demissie E Dessie F Level of awareness on danger signs of pregnancy among pregnant women attending antenatal care in Mizan Aman General
+Hospital Southwest Ethiopia institution based cross sectional study J Womens Health Care doi lO
+Imani Ramazani BE Mabakutuvangilanga Ntala SD Katuashi Ishoso D et al Knowledge of Obstetric Danger Signs among Pregnant Women in
+the Eastern Democratic Republic of the Congo Int J Environ Res Public Health
+Bolanko A Namo H Minsamo K et al Knowledge of Obstetric Danger Signs and Associated Factors Among Pregnant Women in Wolaita Sodo
+Town South Ethiopia A Community Based Cross Sectional Study SAGE Open Medicine
+Okour A Alkhateeb M Amarin Z Awareness of danger signs and symptoms of pregnancy complication among women in Jordan Int J Gynecol
+Obstetrws doi j ijgo
+Bintabara D Mpembeni RN Mohamed AA Knowledge of obstetric danger signs among recently delivered women in Chamwino district
+Tanzania a cross sectional study BMC Pregnancy Childbirth doi lO Ol
+Woldeamanuel GG Lemma G Zegeye B Knowledge of obstetric danger signs and its associated factors among pregnant women in Angolela Tera
+District Northern Ethiopia BMC Research Notes
+Wassihun B Negese B Bedada H et al Knowledge of obstetric danger signs and associated factors a study among mothers in Shashamane town
+Oromia region Ethiopia Reproductive Health
+Hamad KK The Association Between Antenatal Attendance and Knowledge on Obstetric Danger Signs Among Postnatal Mothers in Zanzibar
+A Community Based Cross Sectional Study The University of Dodoma
+Girmaye E Mamo K Ejara B et al Assessment of knowledge attitude and practice of skilled assistance seeking maternal healthcare services and
+associated factors among women in West Shoa Zone Oromia region Ethiopia Nursing Res Practice doi
+Ayana A Kassie A Azale T Intention to use institutional delivery service and its predictors among pregnant women North West Ethiopia using
+theory of planned behavior PLoS One doi lO journal pone
+Nigusie A Azale T Yitayal M et al The impact of perception on institutional delivery service utilization in Northwest Ethiopia the health belief
+model BMC Pregnancy Childbirth doi w
+International Journal of Women s Health
+Publish your work in this journal
+Dovepress
+The International Journal of Women s Health is an international peer reviewed open access journal publishing original research reports
+editorials reviews and commentaries on all aspects of women s healthcare including gynecology obstetrics and breast cancer The manuscript
+management system is completely online and includes a very quick and fair peer review system which is all easy to use Visit http www
+dovepress com testimonials php to read real quotes from published authors
+Submit your manuscript here https www dovepress com international journal of womens health journal
+DovePress
+International Journal of Women s Health
+Journal of Population Economics
+https doi org l O
+ORIGINAL PAPER
+Check for
+updates
+The effects of an epidemic on prenatal investments
+childhood mortality and health of surviving children
+Patricia l Ritter I D Ricardo A
+Received August Accepted December Published online March
+O The Author s under exclusive licence to Springer Verlag GmbH Germany part of Springer Nature
+Abstract
+The potential death toll from an epidemic is larger than the number of deaths directly
+associated with the infection In this study we find that prenatal exposure to a cholera
+epidemic in Peru increased childhood mortality and that surviving children were
+more likely to be underweight and to suffer from diarrhea We further find that a sig
+nificant part of this mortality happened during the first day of life and that prenatal
+exposure to cholera decreased prenatal care and institutional deliveries suggesting
+that the mortality and possibly other longer term effects were partially driven by a
+reduction in prenatal investments
+Keywords Childhood mortality Parental investments Epidemics In utero
+Prenatal care Institutional deliveries Infectious diseases Diarrheal diseases
+Cholera
+JEL Classification JIO
+Introduction
+Epidemics have been on the rise for the past several decades and will likely continue
+to do so in the near future The potential death toll attributable to an epidemic is
+considerably larger than the number of deaths directly associated with the infection
+Children exposed to an epidemic while in utero are particularly vulnerable infected
+Responsible editor Shuaizhang Feng
+Patricia I Ritter
+patricia ritter uconn edu
+Ricardo A Sanchez
+ricardo sanchez bse eu
+Department of Economics University of Connecticut Storrs CT USA
+Barcelona School of Economics Barcelona Spain
+Springer
+P l Ritter R A Sanchez
+pregnant women can transmit the disease through the placenta and even if the virus
+or bacteria does not affect the fetus directly symptoms of the disease such as dehy
+dration high fever or stress can affect the fetus in ways that are not visible until after
+the child is born or even later in life Additionally the economic hardship that an
+epidemic imposes to pregnant women and their households and the potential satu
+ration of the healthcare capacity can affect parental investments including maternal
+nutrition vaccines and skilled care during pregnancy and during birth We know
+from a number of studies in epidemiology and economics that in utero is a critical
+developmental period and that shocks during this period including epidemics have
+long term consequences Almond and Currie We know less about their effect
+on postnatal childhood mortality and the potential mediating role of prenatal invest
+ments In this study we aim to contribute to this literature by exploring the effects of
+prenatal exposure to the Peruvian cholera epidemic in the early
+There have been seven cholera pandemics in the last years The seventh began
+in the early in Asia and spread through Africa and Europe in the early
+Cholera rates remained relatively low during the and were confined to Asia
+and Africa but in the early an outbreak began in Peru that became the first
+cholera epidemic in Latin America since Lam et al Peru suffered the
+most severe outbreak of cholera of the region and the health system collapsed in many
+regions of the country Cueto With a large majority of the population work
+ing informally without access to medical paid leave the epidemic also generated
+important economic consequences for households and Bradford
+From an empirical perspective studying the cholera epidemic in Peru is conve
+nient because it began unexpectedly Disease control experts are largely at a loss to
+explain why cholera has returned to South America in the first epidemic since
+Brookes p The bacteria seemed to originate from the Pacific Ocean the
+first cases spread from the coastal cities of Peru to other regions of the country and
+later to other countries as well The abruptness and severity of the epidemic as well
+as the speed of contagion provide us with a nearly ideal natural experiment In April
+a professor from the University of Maryland School of Medicine commented
+about the cholera epidemic in Peru It s pure guesswork as to where it is going
+Brookes p In retrospect it seems that the spread of the disease over differ
+ent regions of the country over time in particular during the first year of the epidemic
+was largely determined by each region s geographical proximity to the initial cases
+Within a region contagion was more likely under unsanitary conditions but not even
+households with access to piped water at home were safe from contagion because
+water was not sufficiently chlorinated Cueto
+We apply a difference in difference methodology exploiting the spread of the
+cholera epidemic in Peru by month and region Our data comes mainly from two
+sources the Population Census of in which mothers were asked the birth date
+of their youngest child born alive and whether or not that child was alive at the time
+of the interview and the Health and Demographic Survey of which includes
+information of childhood mortality and parental investments and allows us also to
+control for mother fixed effects
+Springer
+The effects of an epidemic on prenatal investments childhood
+We find that an increase in I standard deviation in the incidence of cholera during
+the last trimester in utero increases average childhood mortality rate by per
+centage points or according to our most conservative estimate The event study
+shows that this effect was not driven by a pre existing trend We also find that later
+mortality is concentrated in girls and that surviving children are more likely to suffer
+from severe diarrhea and have lower weight for age and are more likely to be under
+weight Finally we find that the epidemic increased first day mortality and reduced
+prenatal care and institutional deliveries suggesting the mortality and possibly other
+longer term effects were partially driven by a reduction in prenatal investments
+There is a well established literature that shows that in utero is a particular sensi
+tive stage in life for the formation of human capital Most of this literature focuses
+on long term effects of prenatal exposure to a variety of shocks Almond and Currie
+The seminal study of Almond finds that in utero exposure to the
+influenza pandemic had long term negative effects in terms of education attainment
+physical disability income and socioeconomic status Closely related to our study
+Ogasawara and Inoue and Ritter find negative long term effects of pre
+natal exposure to the cholera epidemic among adults in Japan and Peru respectively
+A relatively smaller number of studies have shown that in utero shocks may have an
+effect on postnatal childhood mortality In particular it has been shown that expo
+sure to pollution Jayachandran extreme rainfall Rocha and Soares
+extreme heat Banerjee and Maharaj and violent conflict Dagnelie et al
+increases infant mortalityl This paper aims to contribute to this literature by ana
+lyzing the effect of prenatal exposure to an epidemic on childhood mortality Our
+results are particularly relevant in a context where official reports of deaths due to
+epidemics in many countries differ considerably from estimations of the number of
+excess deaths FT These estimations however do not disentangle what pro
+portion of the excess deaths is due exclusively to underreporting of direct deaths from
+that attributable to indirect deaths According to our estimations the total number of
+children who died due to exposure to the cholera epidemic while in their last trimester
+in utero was approximately while the official number of total cholera deaths for
+is This means that the human cost of the epidemic was approximately
+larger if we consider the effect of prenatal exposure on postnatal childhood mor
+tality Moreover the official mortality rate from the cholera epidemic in Peru during
+is in every inhabitants while our estimated mortality rate due to
+prenatal exposure is in every children that were born alive in
+With this paper we also aim to contribute to the literature by providing evidence of
+the potential role of prenatal investments in particular prenatal care and institutional
+deliveries as mediators between the in utero shock and the effect on childhood mor
+tality and possibly longer term human capital outcomes Prenatal care is important to
+prevent and treat conditions that might affect the mother and or the fetus but it is also
+Other important studies that investigate postnatal early childhood shocks on mortality rate are included
+in the review of Almond et al
+As of July Peru has more than excess deaths per million inhabitants the highest rate in the
+world which largely exceed reported numbers of Covid deaths Fl
+Springer
+P l Ritter R A Sanchez
+important because it can affect maternal behavior such as smoking alcohol consump
+tion nutrition and weight gain folic acid intake among others see for example
+Evans and Lien and these behaviors have been shown to affect birth outcomes
+and have long term human capital outcomes Aizer and Currie Nilsson
+Simon Bharadwaj et al Barreca Institutional deliveries typically
+involve skilled professionals with adequate equipments during and immediately after
+birth which are important because they can perform C sections when needed resus
+citate newborns at birth and treat maternal infections among other things According
+to the World Health Organization approximately of all under five child deaths
+are neonatal deaths and approximately half of all neonatal deaths occur after a home
+birth and without any healthcare
+There is also more rigorous evidence of the impact of institutional births and
+access to healthcare on birth outcomes and infant lives Currie and Gruber
+Maitra Daysal et al Godlonton and Okeke Goodman Bacon
+Adam et al Okeke and Chari Friedman and Keats a Moreover
+there is evidence that skilled care during and immediately after birth can treat prema
+turity underweight and other conditions affecting newborns with proper care such as
+artificial lung surfactant and specialized nutritional supplements that has long term
+consequences on human capital Bharadwaj et al Epidemics have the poten
+tial to affect access to prenatal care and institutional deliveries this has been seen for
+example in the case of the Ebola epidemic in West Africa Jones et al Strong
+and Schwartz although this evidence comes from correlational studies The
+Ebola epidemic is probably an extreme case given the high probability of getting
+infected in hospitals in addition to the fear of getting tested and isolated Strong and
+Schwartz WHO In the case of COVID there is evidence that the
+lockdown in India increased mortality rate by among dialysis patients The main
+channels in this case appear to be barriers to transportation and disruption in hospital
+services Jain and Dupas
+In this study we show that even epidemics involving less contagious diseases
+and that do not impose a need for social isolation such as the cholera epidemic can
+generate a reduction in prenatal care and institutional deliveries Moreover many
+other shocks that have been analyzed in the fetal origins literature droughts wars
+famines and hurricanes among other things have the potential to affect access to
+skilled care during pregnancy and birth hence the results of this paper can apply to
+a wide range of shocks
+Finally this paper speaks to the literature on diarrheal diseases childhood mor
+tality and malnutrition Although we have found that the cholera epidemic reduced
+prenatal investment we cannot discard the potential direct role of the disease in our
+mortality estimates and on the health status of the surviving children The World
+Health Organization estimates that each year diarrheal diseases such as cholera kill
+around half a million children under five and are the leading cause of malnutrition
+On a positive note Christensen et al show that certain interventions focused on enhancing health
+worker performance led to improvements in maternal utilization of clinics during the Ebola crisis in rural
+Sierra Leone
+Springer
+The effects of an epidemic on prenatal investments childhood
+Typically these estimates come from contemporaneous effects of these diseases and
+hence most programs target children after they are born This study suggests how
+ever that protecting children from these diseases after they are born might already be
+too late
+Background cholera and the cholera epidemic in Peru
+Cholera is one of the most common diarrheal diseases along with Rotavirus E coli
+Shigella Campylobacter and Salmonella WHO It is generated by a bacte
+rial infection The main effect is acute diarrhea and all the other consequences are
+believed to derive from this main effect Seas and Gotuzzo Profuse diarrhea
+causes dehydration pathogens damage the intestines causing an excessive amount of
+water and other nutrient rich fluids to be secreted rather than being absorbed Among
+pregnant women particularly during the third trimester severe dehydration is associ
+ated with a reduction of amniotic fluid reduced blood flood to the placenta placental
+hemorrhage hypotension preterm births and miscarriages Grados and Battilana
+Grout et al Hirschhorn et al Ciglenecki et al
+Over the last years there have been cholera pandemics The last pandemic
+still lingers in many countries As of approximately billion people were
+at risk for cholera and approximately million cholera cases occur annually in
+countries where it is endemic while approximately cholera cases occur in
+non endemic countries Ali et al In terms of deaths approximately
+and people are reported to die annually of choler

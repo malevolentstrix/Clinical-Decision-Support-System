@@ -1,0 +1,1155 @@
+l and
+individual way of approaching older pregnant women as
+well as being up to date and well informed of all the risks
+related to AMA
+More studies involving larger samples are needed in
+order to define the actual risks during pregnancy and the age
+to which the term advanced maternal age could properly
+be used It has been shown that there is an inconsistency in
+the literature between the definition of and the risk
+assessment of the older pregnant woman In addition
+healthcare providers perceptions and experiences of caring
+for women of AMA would also be an invaluable resource if
+it were to be documented Healthcare providers would then
+be able to find out how other members of their profession
+have managed the wide range of situations that occur when
+in contact with older pregnant women
+ACKNOWLEDGEMENTS
+This study has been financially supported by University
+of Kuopio Kuopio University Hospital and the Finnish
+Foundation for Nurse Education
+REFERENCES
+Carolan M First time mothers over years challenges for care Birth
+Issues
+Stakes Parturients births and newboms Statistical summary
+Available from http www stakes fi tilastot tilastotiedotteet
+pdfNov
+Lampinen et al
+Socialstyrelsen och Graviditeter
+och barn Medicinska
+Available from http www socialstyrelsen se NR rdonlyres
+CB rev
+pdf June I
+Carolan M Nelson S First mothering over years questioning the
+association of matemal age and pregnancy risk Health Care Women Int
+Carolan MC Towards understanding the concept of risk for pregnant
+women some nursing and midwifery implications J Clin Nurs
+Braveman FR Pregnancy in patients of advanced matemal age
+Anesthesiol Clin
+Carolan M The graymg of the obstetric population implications
+for the older mother J Obstet Gynecol Neonatal Nurs
+Aref Adib M Freeman Wang T Ataullah I The older obstetric patient
+Obstet Gynaecol Reprod Med
+Newburn Cook CV Is older matemal age a risk factor for preterm birth
+and foetal growth restriction a systematic review Health Care Women
+Int
+Suplee PD Dawley K Bloch JR Tailoring peripartum nursing care for
+women of advanced matemal age J Obstet Gynecol Neonatal Nurs
+Huang L Matemal age and risk of stillbirth a systematic review
+CMAJ
+Benzies K Tough S Tofflemire K et al Factors influencing
+women s decisions about timing of motherhood J Obstet Gynecol
+Neonatal Nurs
+Maheshwari A Porter M Shetty A Bhattacharya S Women s
+awareness and perceptions of delay in childbearing Fertil Steril
+Tough S Benzies K Fraser Lee N Newburn Cook C Factors
+influencing childbearing decisions and knowledge of perinatal risks
+among Canadian men and women Matem Child Health J I I
+Zasloff E Schytt E Waldenstrom U First time mothers pregnancy and
+birth experiences varying by age Acta Obstet Gynecol Scand
+Viau PA Padula CA Eddy B An exploration of health concems
+health promotion behaviors in pregnant women over age MCN Am
+J Matern Child Nurs
+Carolan M The project having a baby over years Women Birth
+Carolan M Health literacy and the information needs and dilemmas of
+first time mothers over years J Clin Nurs
+Bell JS Can obstetric complications explain the high levels of obstetric
+interventions and matemity service use among older women a
+ospective analysis of routinely collected data Int J Obstet Gynaecol
+Cleary Goldman J Impact of maternal age on obstetric outcome
+Obstet Gynecol Part l
+Jacobsson B Advanced maternal age and adverse perinatal
+outcome Obstet Gynecol
+Jolly M Sebire N Harris J obinson S Regan L The risks associated
+with pregnancy in women aged years or older Hum Reprod
+Joseph KS Allen AC Dodds L Turner LA Scott H Liston R The
+perinatal effects of delayed childbearing Obstet Gynecol
+Ozalp S Tanir HM Sener T Yazan S Keskin AE Health risks for
+early and late childbearing Arch Gynecol Obstet
+Robb FV Alder EM Prescott RJ Do older primigravidas differ from
+younger primigravidas in their emotional experience of pregnancy J
+Reprod Infant Psychol
+Ataullah I Freeman Wang T The older obstetric patient Curr Obstet
+Gynaecol
+Accepted June
+Received May
+Lampinen et al Licensee Bentham Open
+O
+Revised June
+This is an open access article licensed under the terms of the Creative Commons Attribution Non Commercial License http creativecommons org licenses by
+nc which permits unrestricted non commercial use distribution and reproduction in any medium provided the work is properly cited
+International Conference on Control Automation and Systems ICCAS
+Oct in Kimdaejung Convention Center Gwangju Korea
+A Child Safety and Gmwth Management System
+Kim Young Chan Kim Kim Seung Cheol Jung Gi Sik Kim Oe Young Kim Jung Myeon Ho
+Human Tech Corp IT Convergence Division of Technopark Tongyeong City
+Abstract Recent upsurge of social working couples low income levels of welfare support for children etc As the country
+expanded most of the home by parents entrust their children to kindergarten or preschool child s growth education and has
+commissioned As a result shipments of kindergarten children or helping with school bus accidents occur frequently in and
+out and also a national problem of low birth rate due to the increase in child or family members including two children
+and their children too much attention on the increase due to the obese children that is no drill Thus children in the park in
+order to maintain a safe and healthy life safety and growth of children by building management systems with their parents
+and their teachers hayeogeum park comfortably and safely establish a system to manage children hayeoteum
+I Introduction
+A Children in govemment health care continues to rise
+many govemment policies such as obesity management are
+suggested However the management of this series is
+entirely parent or the kindergarten nursery school teacher s
+duty of care of business due to a unique addition to the
+existing restaurant that is more burdened Childhood
+obesity related youth years when the prevalence of
+obesity in to from in has shown an
+increasing phenomenon In addition the relationship
+between the park with a large number of children living
+disease caused by a large number of children is expected
+to spread and also as a kindergarten school bus accidents
+is steadily and rapidly School children and the vehicle in
+front of the house before you alTive to pick you and your
+child must be pre waiting and waiting for the vehicle to
+inclement weather has been caused inconvenience
+Therefore these social problems and to manage and protect
+children from parents and teachers while reducing the
+workload of infants comfortably and safely manage the
+introduction of a system that can be kept safe and
+comfortable life in the system was applied
+Applying such a system to spread ETRI Korea
+Electronics and Telecommunications Research Institute
+oversees the competent authorities Gyeongnam Techno
+Park with the participation of the intelligent home
+network the construction of industrial infrastructure was
+perfomed Heating company in Techno Park Kyungnam
+province Soft Co Ltd etc involved with corporate and
+Tongyeong Tongveong bamboo growing children in day
+care and safety management system by establishing a more
+convenient and secure children while maintaining sarbeul
+hayeogeum with parents and teachers more better child care
+and educational support to enable the growth was
+II A Gildren s th and safety
+system for sewice
+The Jook lim Nursery were measured in Tongyeong the
+status of the virgin more than nursery child care
+teachers in patients one nurse nutritionist and consists
+of one person the main classroom facilities rooms
+clinic room gyosasil a room a place where restaurant
+kitchens and archives are composed of two
+A Olildren s Gowth Nhnagenwnt Services System
+Figure I Tongyeong bamboo nursery management system
+built on the composition of growth also shows the content
+and services
+This system of day care children in height weight body
+fat by measuring the children s growth and trend analysis
+to provide information on health status
+The measured u Health and Welfare Infonnation Center
+Building Tongyeong second position and daycare center
+and parents in real time via web or phone to check your
+child s growth trend is a system
+Of Engineering Kollam Dow ed on January at UTC from IEEE Xplore Restrictions apply
+real time monitoring of child related crimes can be
+prevented in advance of services In addition RFID tags
+readers deadbolts and children s risk areas by utilizing
+blocking of access in advance and prevent the risk of
+Vehicle location Information
+vehicleoetection risk notification
+GPS
+WCOMA
+Reader
+a
+accidents is a party
+was implemented
+Major equipment
+applied
+Crime Seuity
+CCTV
+the automatic doors opened feature
+includes CCTV RFID system is
+Video Recoroinr
+Venicle Camera
+enicle
+Camera
+e
+DVR
+Fig Sman Kid bus service
+A ccesscointrd cnilcren
+RFID
+USN
+Bloc rn Access areas
+c
+Deadbolt
+Fig Safety monitoring
+Snuut Kid sewice
+seivice
+Honp Entertlinnent Services
+Figure shows the Nursew is the home entertainment
+services This system of nurselY teachers nurselY news
+events photos and content to the web or smart devices to
+register primeval family information is available through the
+nursery within the entrance porch and installed in each
+classroom media content is registered with the board is the
+service provided The main equipment of digital picture
+frames media boards etc were used The main equipment
+of digital picture frames media boards etc were used
+Figure shows the children a vehicle for school bus
+service system was a smart kid
+This system utilizes GPS and WCDMA technology to
+collect information about the location of the school bus and
+analyzes it to the user s location based services that provide
+the estimated time of arrival RFID technologv utilizes
+check whether children aboard the vehicle and the safety of
+children at boarding prevention of accidents and incidents
+on CCTV installations throughout the system that can take
+advantage of sources of information was established
+Through the establishment of such a service system in
+recent nursery school bus accidents that occur while parents
+in advance to prevent the child safely hayeogeum life has
+been engaged to give a sense of confidence in the service
+system Major systems GPS systems WCDMA RFID etc
+were used
+News Alere
+smnto
+Event Alerts
+OICIOI
+TV Boardl
+smart onone web
+FamIY
+Fig Home Entenainment Service
+Integmted control service
+Figure the day care service of the integrated control
+system respectively This system is provided in nursery
+clean indoor air service security video services security
+monitoring services Smart Kid bus home entertainment
+services via the TV monitor to check tonghapgwan
+u Health and Welfare Centre Manager and a possible
+real time management to be composed
+Major equipment includes the collection server the
+Authorized licensed use limited to Amrita School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+control system was composed of
+Indoor air cleaning Service
+Crme Vldeo Service
+satety Monitoring service
+Smartn Kid Bus Service
+Home Entertairunent Servic
+lay
+onitO
+In anon MMM
+Fig Integrated control
+Ill Cnncltsion
+service
+mistakes has occurred and is too much
+Remaining challenges include the future to solve the
+problem in addition to the above details for each service
+significant cost savings by finding ways to make available
+to the public by developing cheap package deals to spread
+work developed in each region between similar products
+and related products mutual compatibility and
+interoperability testing to ensure a plan to raise industry
+standards to enable a complete and early work remains
+Finally this pilot project helped us to successfully
+perform the electronics industry and the Ministry of
+Knowledge Economy Industrial Technology Evaluation and
+Management Service is responsible PD ERTI
+Gyeongsangnam do Tongveong etc will offer words of
+thanks to everyone involved
+As mentioned above the construction of Tongyeong day
+care services in the intelligent home what you have done
+for the pilot project were described in detail The selection
+of pilot demonstration area of the business presentation and
+through the residents needs and demand survey for the
+implementation of the projects was detemined by
+examining the positive side Intelligent Home Services For
+details of the service is considerate and socially
+disadvantaged and social welfare can be pursued at the
+same time our country is facing a low birth rate the
+change of diseases including childhood obesity IT
+technology trends determined by considering changes was
+This pilot project is carried through the activation of an
+intelligent home industry was laying the foundation for
+reserve housing especially for building an intelligent home
+service settings were default direction a pilot project
+continues to spread and establish the foundation for the
+expansion project each of the intelligent home service
+business that can be detailed for each service to check
+availability and plan was established
+Issues presented by this pilot project include the
+maintenance of the installed system costs bome by local
+govemments based on a difficult financial situation is that
+too often In addition such as sensors and devices and the
+server took too costly to build and the installation
+malfunctions and bugs in the initial operation and the usefs
+II HealthAul
+YR
+EIC QQ SZE
+IT
+VIS
+Authorized licensed use limited to Amrita School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+mm
+mm
+HealthCare
+RFID USN
+Authorized licensed use limited to Amrita School Of Engineering Kollam on January at UTC from IEEE Xplore Restrictions apply
+Hindawi
+Journal of Pregnancy
+Volume Article ID pages
+https doi orgno
+Research Article
+Hindawi
+Prevalence Awareness and Control of Hypertensive Disorders
+amongst Pregnant Women Seeking Healthcare in Ghana
+Pauline Boachie Ansah l Berko Panyin Afia Frimpomaa Asare Marfo
+O
+Edward Tieru Dassah D Constance Caroline CobboldO and Morrison Asiamah
+Department of Pharmacy Practice Faculty of Pharmacy and Pharmaceutical Sciences Kwame Nkrumah University of Science
+and Technology Kumasi Ghana
+Department of Population and Family Reproductive Health School of Public Health Kwame Nkrumah University of Science
+and Technology Kumasi Ghana
+Department of Obstetrics and Gynaecology Komfo Anokye Teaching Hospital Kumasi Ghana
+Department of Pharmacotherapeutics and Pharmacy Practice School of Pharmacy and Pharmaceutical Sciences
+University of Cape Coast Ghana
+Department of Electron Microscopy and Histopathology Noguchi Memorial Institute for Medical Research University of Ghana
+Legon Accra Ghana
+Correspondence should be addressed to Pauline Boachie Ansah paulineboachie ansah gmail com
+Received March Revised August Accepted August Published September
+Academic Editor Cemil oglak
+Copyright Pauline Boachie Ansah et al This is an open access article distributed under the Creative Commons Attribution
+License which permits unrestricted use distribution and reproduction in any medium provided the original work is
+properly cited
+Hypertensive disorders in pregnancy HDPs are no longer seen as transitory diseases cured by delivery It accounts for up to
+of maternal deaths Information concerning HDPs is less in developing countries like Ghana This study was conducted to
+find out the prevalence awareness risk factors control and the birth outcomes of HDPs This was a retrospective cohort
+study conducted among pregnant women seeking care in selected health facilities in the Ashanti Region Data on
+demographics HDPs and its associated birth outcomes were collected Logistic regression models were used to examine the
+association of the independent variables with HDPs The burden of HDPs was among the mothers enrolled with
+chronic hypertension superimposed with preeclampsia accounting for chronic hypertension and preeclampsia
+whilst gestational hypertension was It was observed that of the mothers had excellent knowledge on
+HDPs Oral nifedipine and methyldopa were frequently used for HDP management and it resulted in a significant reduction
+in HDP burden from to Factors that influenced the increased risk of HDPs were grand multigravida
+AOR CI family history of hypertension AOR CI and the consumption of herbal
+preparations AOR CI and alcohol AOR CI during pregnancy HDPs increased the
+risk of preterm delivery AOR CI stillbirth AOR CI and undergomg caesarean
+section AOR CI amongst mothers during delivery The burden of HDPs is high amongst pregnant
+mothers seeking care in selected facilities There is the need for intensified campaign on HDPs in the Ashanti Region of Ghana
+Background
+Hypertensive disorders in pregnancy HDPs are the leading
+cause of maternal mortality It contributes to and
+maternal mortality worldwide and in Sub Saharan
+Africa SSA respectively Chronic hypertension pre
+eclampsia eclampsia gestational hypertension and chronic
+hypertension superimposed preeclampsia are the four cate
+gories of hypertensive disorders in pregnancy In Ghana
+it is estimated that the maternal mortality rate is deaths
+per live births This is about times higher
+than the UN recommended rate One of commonest cause
+of direct maternal death identified was severe preeclampsia
+eclampsia which accounted for of all direct maternal
+deaths and of all maternal deaths in
+Factors such as educational level age higher parity
+occupation family of HDPs gravida complications of preg
+nancy and others such as healthcare systems and social cul
+tural and economic factors are seen to be associated with
+HDPs Studies have shown that a woman s knowledge
+about her condition can influence early health seeking
+behaviour and compliance to treatment which would result
+in early diagnosis and prevent pregnancy complication
+including death Lack of knowledge on HDPs could lead
+to misconceptions which may include interpretation of
+warning signs as normal occurrence during pregnancy or
+as spiritual attacks Although maternal serum
+concentrations have been found to be associated with
+early onset preeclampsia the cause of HDPs remains
+unclear and treatment remains symptomatic with the pri
+mary objective being the safety of the mother Over the
+years HDPs have being controlled with regular blood pres
+sure monitoring use of approved pharmacotherapeutics
+and other nonpharmacological preventive measures
+Target of the Sustainable Development Goals SDG
+as set by the United Nations is aimed at reducing the mater
+nal mortality ratio to per live births by
+However the burden of hypertension has been increas
+ing over the past few decades in SSA and a large percentage
+of the population with hypertension remains untreated inef
+fectively treated or even undiagnosed Furthermore
+this study is important because much research has studied
+the prevalence awareness and control of hypertension
+among the general population however there is a need for
+studies focused on pregnant women as the effect of HDPs
+include risk of harm not only to the mother but also to the
+unborn child HDPs are no longer seen as transitory dis
+eases cured by delivery but as windows into the woman s
+future health that needs integrated care coordinating treat
+ment to identify risk factors and correct them This
+study is aimed at identifying the prevalence risks awareness
+control and the birth outcomes of HDPs among pregnant
+women in some selected health facilities in the Ashanti
+Region of Ghana
+Methods
+Study Design and Site This was a retrospective cohort
+study which employed a well structured pretested close
+response questionnaire to obtain data from pregnant women
+who were seeking care at four hospitals in the Ashanti
+Region The Ashanti Region is the second most populous
+region in Ghana GSS with over hospitals both
+private and public hospitals The study sites included the
+Ejisu Government Hospital Ejisu Municipal Kwame
+Nkrumah University of Science and Technology KNUST
+Hospital Oforikrom Municipal Kumasi South Hospital
+Asokwa Municipal and the Komfo Anokye Teaching
+Hospital KATH Kumasi Metropolis Bantama sub metro
+district These facilities were chosen because of their loca
+Journal of Pregnancy
+tion in the region and the large coverage of patients they
+cater for
+Sample and Sampling This study included pregnant
+women above the ages of years who had been admitted
+for delivery and those who had delivered at the hospital dur
+ing the period of the study Pregnant women who were on
+admission for other reasons besides delivery were excluded
+At a significance level of the Yamane method was
+used to determine the sample size The estimated num
+ber of live births in the Ashanti Region in was
+If the number of live births equals the number of preg
+nant women for the year a sample size of pregnant
+women would be suffcient Considering nonresponse rate
+a minimum of about pregnant women were recruited
+From this figure and
+mothers were recruited from the Ejisu District
+Hospital KNUST Hospital Kumasi South Hospital and
+KATH respectively Employing quota sample size for each
+facility was determined using the documented average
+monthly delivery at each hospital
+Consented participants were screened for eligibility Par
+ticipants who were eligible for this study were numbered and
+randomly sampled using an online number generator Par
+ticipants whose numbers were generated were included in
+the study
+Development and Validation of Questionnaire The
+questionnaire was developed after reviewing several litera
+tures to ensure that the items capture a meaningful construct
+to have causality to the outcome of interest The question
+naire was piloted within a selected hospital To assess the
+reliability of the construct of composite variables such as
+the level of knowledge a Cronbach alpha test was con
+ducted For the Cronbach alpha test for level of knowledge
+the score was which indicates that the composite vari
+able is reliable Information was collected on their socio
+demographic characteristics factors influencing their risk
+of hypertensive disorders in pregnancy level of awareness
+management of the disorders and the birth outcomes
+The level of knowledge was assessed as an item com
+posite variable For a correct response a code of was
+assigned and for a wrong response a code of O was assigned
+Therefore a participant can score a maximum of and a
+minimum of O Where a participant scores less than and
+then the participant has poor level of knowledge scoring
+between and was considered satisfactory level of knowl
+edge and to was considered good level of knowledge
+A participant is considered to have an excellent level of
+knowledge on HDPs if the participant scores to
+Code of was assigned to participants who had HDPs
+and O to participants who did not have evidence of HDPs
+Thus the dependent variable hypertensive disorder in preg
+nancy was measured as a binary outcome
+Data Collection A research team comprising medical
+offcers pharmacists pharmacy house offcers research sci
+entists and midwives was formed and oriented through
+series of meetings on the procedures and the objectives of
+Variable
+Age
+Educational background
+No education
+Primary
+JHS
+SHS
+Tertiary
+Marital status
+Single
+Married
+Divorced
+Religion
+Christian
+Moslem
+Others
+Occupation
+Gov employee
+Housewife
+Private business
+Setting of facility receiving ANC
+Periurban
+Urban
+Knowledge
+Poor
+Satisfactory
+Good
+Excellent
+TABLE Sociodemographic characteristics of study respondents
+Without HDPs
+With HDPs
+Journal of Pregnancy
+Total
+to undergo caesarean section during delivery AOR
+Cl Table
+In addition to the birth outcomes of the study it was
+realized that mothers who were diagnosed of HDPs were
+times more likely to have stillbirth during delivery
+compared to mothers who were not diagnosed of HDPs
+AOR CI Other predictors such as
+maternal age anxiety over pregnancy history of chronic
+medical condition and consumption of alcohol did not
+influence the risk of stillbirth amongst mothers Table
+Discussion
+Hypertensive disorders in pregnancy HDPs have been
+established to be a leading cause of maternal deaths
+accounting for about to of all maternal deaths
+in the country In a study conducted in a teaching hos
+pital in Ghana in the burden of HDPs was found
+which is about two times the global burden With
+a national maternal mortality of in it was esti
+mated that up to maternal deaths in Ghana were caused
+by hypertensive disorders
+The burden of HDPs in this study was and
+of the participants had no HDPs which is comparable to a
+study by Awuah et al in which the burden of HDPs
+was and the proportion of women without HDPs
+was Although the sample size was less compared to
+this study the prevalence of gestational hypertension and
+preeclampsia were high compared to chronic hypertension
+in pregnancy Awuah recorded and for preeclamp
+sia and gestational hypertension respectively against
+and in this study Another study which was conducted
+in a tertiary hospital in the Ashanti Region also recorded a
+prevalence of and for gestational hypertension
+Journal of Pregnancy
+Variable
+Gravida
+Primigravida
+Multigravida
+Grand multigravida
+Miscarriage
+No
+Yes
+Had caesarean section
+No
+Yes
+Anxious of pregnancy
+No
+Yes
+Alcohol consumption
+No
+Yes
+History of chronic condition
+No
+Yes
+Family history of HDPs
+No
+Yes
+First antenatal visit
+First trimester
+Second trimester
+Third trimester
+Number of ANC visit
+times
+times
+Above times
+TABLE Medical characteristics of study respondents
+Without HDPs
+With HDPs
+Total
+and preeclampsia respectively A systematic review of
+HDPs in Ethiopia pooled a national prevalence of with
+subgroup analysis by region showing a higher prevalence of
+HDPs This confirms the high prevalence of HDPs in
+the region and the needs for better strategies for prevention
+to improve pregnancy outcomes are required in the mater
+nity care centers
+The disparity of the disease burden among the various
+studies could be attributed to a lack of consensus on the
+diagnostic criteria of the various hypertensive disorders
+This is because the health facilities in this study all use treat
+ment protocols similar to the national standard treatment
+guidelines for management of HDPs However the
+blood pressure level to start treatment depends on the facil
+ity prescriber on duty and other patient related factors
+It would be appropriate to address these discrepancies so
+that accurate prevalence can be recorded and tackled well
+Despite the above explanation Ghana has often recorded
+a high burden of HDPs and this should be of national health
+concern because it has been a major cause of maternal and
+prenatal morbidity and mortality
+Knowledge of an individual on a particular health condi
+tion influences the health seeking behaviour of individual
+Thus knowledge on HDPs has been assessed as efforts
+at preventing HDP burden It is evident from this study that
+almost half of the women have excellent knowledge of
+HDPs This is very encouraging Having more knowledge
+would mean that the mother would be informed on the
+causes risk factors signs symptoms and possibly treatment
+options for HDPs Considering the negative effect of these
+disorders on both maternal and neonatal outcomes coupled
+with the associated economic cost of management an
+increase in knowledge would go a long way to decrease the
+burden of the disorders improve treatment compliance
+and overall reduce maternal and neonatal morbidities and
+mortalities associated with the disorders It is expected that
+as the knowledge of an individual increases the risk of con
+tracting that disease reduces
+Normotensive
+Chronic HPT
+Chronic HPT
+superimposed with
+pre eclampsia
+Pre eclampsia
+Gestational HPT
+FIGURE Proportion of various types of HDPs amongst study
+respondents
+Oral nifedipine and oral methyldopa at different doses
+were the drugs often prescribed This finding is similar to
+the findings of Kumar et al where it was observed that both
+nifedipine and methyldopa are the most prescribed antihy
+pertensives in pregnancy Nifedipine is a calcium chan
+nel blocker which is effective at reducing blood pressure
+without uteroplacental blood flow nor slowing foetal heart
+rate While methyldopa is preferred because it is a cen
+trally acting a agonist that decreases sympathetic outflow to
+decrease BP it has a very long duration of action and the
+best safety profile amongst the antihypertensive drugs used
+during pregnancy Currently methyldopa has no associ
+ated congenital anomaly The prescribed medications are
+accepted for the management of hypertensive disorders in
+pregnancy because of their low risk of adverse complications
+in pregnancy All the prescribed drugs are in line with the
+stated guidelines
+The mean blood pressure of pregnant women at week
+gestation was mmHg which is considered nor
+mal However this average is confounded by several factors
+such as the gestational stage and the baseline blood pressure
+at the start of the pregnancy At around the fifth week of ges
+tation there is an expansion of the blood volume which
+causes a drop in the blood pressure of the mother At this
+critical stage hypertensive mothers may appear to have a
+normal blood pressure This may have accounted for
+the normotensive mean blood pressure of mothers at that
+gestational age At the point of delivery it was realized that
+the mean BP of the mothers was mmHg which
+saw a significant increase of the mean diastolic pressure of
+the mothers Even though the mean blood pressures of the
+mothers were still within the normotensive regions This
+increase in the mean diastolic pressure may be normaliza
+tion of the BP after the initial drop of the blood pressure
+Again from the results obtained it was realized that
+there was a significant decrease in the proportion of mothers
+who had high blood pressure by Table This
+indicates that management of mothers who had high blood
+Journal of Pregnancy
+pressure at week gestation resulted in a decrease of the
+proportion of mothers who had high blood pressure at the
+time of delivery It is also worth noting that as part of man
+agement some proportion of mothers delivered preterm as
+part of efforts to avert adverse birth complications Thus
+at time of delivery these mothers would be hypertensive
+Hence although there was a drop the proportion of mothers
+who were hypertensive at delivery was significantly higher
+and of public health concern
+The level of education influenced the risk of being hyper
+tensive in pregnancy such that mothers who had junior high
+school education were less likely to develop HDPs com
+pared to the likelihood of mothers without any formal edu
+cation developing HDPs This finding is consistent with
+the findings of Abalos et al where evidence obtained
+established that education was a risk factor for hypertensive
+disorders This may be that as an individual that is educated
+there is an increased chance of been informed on the risk
+factors and prevention of HDPs So that they may take nec
+essary measures to prevent the risk of developing HDPs
+However there was no statistical significance association
+between the odds of mothers who had no formal education
+developing HDPs compared to the odds of mothers who
+had other levels of education developing HDPs Under the
+bivariate analysis mothers with tertiary education were
+times more likely to develop HDPs compared to
+mothers who had no formal education However after
+adjusting for known confounders this association dimin
+ished with no statistical significance This indicates that the
+observed association maybe an anomaly and as such it is
+inconclusive to suggest that education status influences the
+risk of HDPs in this study
+It was also realized that high number of pregnancies
+greatly influenced the risk of HDPs Table Though sev
+eral studies such as Sengodan and Sreeprathi have
+established that primigravid mothers were at risk of HDPs
+the findings from this study corroborate the evidence by
+Cho et al that mothers with multiple gestation have
+an increased risk of hypertensive disorders in pregnancy
+particularly preeclampsia However it has been established
+that up to about of hypertensive disorders do not
+resolve after delivery When these hypertensions do
+not resolve before a woman gets pregnant again it is consid
+ered as chronic hypertension in pregnancy and thus
+increases the cumulative burden of hypertensive disorders
+amongst mothers with multigravidity
+Genetics has been explained to influence the risk of
+chronic disease in several populations The evidence of this
+study suggests that mothers who have family history of
+HDPs were at times increased risk of developing HDPs
+compared to women who have no family history of hyper
+tensive disorders This is in sync with the systematic review
+by Tesfa et al which confirmed that family history of
+hypertension increased the risk of hypertensive disorders
+in pregnancy by fourfolds Since family members share some
+genetic make up and some lifestyle or habits there is an
+increased likelihood that they may share similar risk of a
+particular disease burden This explains why mothers
+with family history of hypertensive disorders are at an
+Journal of Pregnancy
+Variable
+Mean systolic BP
+Mean diastolic BP
+Prop with high BP
+Oral nifedipine Hydralazine Tab methyldopa IV mag sulphate Tab prazosin
+FIGURE Medicines used to manage HDPs in the selected health facilities
+TABLE Effect of antihypertensive therapy on BP control among women with HDPs
+At weeks
+mmHg
+mmHg
+At delivery
+mmHg
+mmHg
+Difference CI
+mmHg
+increased risk of HDPs It is therefore recommended that in
+diagnosing a mother of HDPs the risk profile should con
+sider the history of hypertension in the family This would
+help in early diagnosing and management of hypertensive
+disorders
+The use of complementary and alternative medicine
+CAM is predominant in Ghana and it is recognized by
+the health system Nonetheless the role of CAM in
+management of HDPs is scarce Evidence from this
+study found that mothers who used herbal medicines were
+times more likely to have HDPs Some studies have
+reported the beneficial use of CAM in pregnancy and how
+it has improved on blood pressure levels and also on various
+obstetric outcomes
+This study s finding does not imply that the use of herbal
+medicines negatively increases blood pressure This is
+because the study is methodologically limited to the use of
+herbal medicines It did not assess the type of herbal medi
+cine used how the herbal medicines were used and whether
+it was prescribed or was appropriate for use However this
+finding reveals a very critical issue of the appropriate use
+of herbal medicines in pregnancy Herbal medicines are
+made up of several constituents and the safety of their use
+should be ascertained Currently there is paucity of infor
+mation on the use of herbal medicine in the management
+of hypertensive disorders particularly in pregnancy More
+research evidence would be needed to understand why preg
+nant women in selected health facilities use these medicines
+its constituents and appropriateness for use in hypertensive
+disorders
+Alcohol consumption is known to influence hyperten
+Sive disorders in adults Several studies have propounded
+that alcohol consumption particularly heavy consumption
+increases the risk of hypertension in normotensive individ
+uals From this study alcohol consumers were times
+more likely to experience HDPs compared to nonalcohol
+consumers Alcohol has a biphasic effect on blood pressure
+In less than hours after consumption alcohol reduces
+blood pressure and subsequently after hours alcohol
+tends to increase blood pressure It is believed to influence
+the blood pressure through the renin angiotensin aldosterone
+system by increasing the concentration and activity of renin
+in blood An increase in renin is associated with an
+increase in a potent vasoconstrictor called angiotensin II
+responsible for the rise in blood pressure Additionally alcohol
+is believed to reduce the baroreceptor sensitivity thus affecting
+blood pressure regulation at the long term It is advised
+that mothers must be counseled during ANC visits to strictly
+avoid alcohol intake during pregnancy
+The aetiology of these HDPs however is not known
+It is therefore recommended that to effectively reduce
+the incidence of HDPs pregnant women should be coun
+seled on the risk factors of these conditions and screened
+for during their antenatal care visits to prevent the adverse
+effects of its complications
+Some studies have established that HDPs influence the
+birth outcomes at delivery From this study mothers who
+had HDPs were times more likely to have preterm babies
+This finding is consistent with a study by Xiong et al
+where it was realized that HDPs increased the risk of stillbirth
+by twelvefolds Hypertension is known as the leading cause of
+stillbirth by affecting the development of the placenta by
+restricting nutrient and oxygen flow to the foetus Also it
+increases the risk of abnormal bleeding between the placenta
+and uterine walls leading to placenta abruption All these
+causes foetal distress and subsequently death Thus it is
+Variable
+Age
+Residence
+Educational status
+Occupation
+Had caesarean section
+Anxious of pregnancy
+History chronic condition
+Gravida
+History of HDPs
+First antenatal visit
+Number of antenatal care visit
+Journal of Pregnancy
+TABLE Factors influencing risk of hypertensive disorders of pregnancy
+Average monthly salary
+Herbal medication consumption
+Alcohol consumption
+Source of information
+Monitoring of blood
+Pressure during ANC
+Category
+Periurban
+Urban
+No education
+Primary school
+Junior high school
+Senior high school
+Tertiary
+Gov employee
+Housewife
+Private Business
+Yes
+Yes
+Yes
+Primigravida
+Multigravida
+Grand multigravida
+Yes
+First trimester
+Second trimester
+Third trimester
+times
+times
+Above times
+Less than
+More than
+Yes
+Yes
+Health professionals
+Family friends
+Media
+Others
+No
+Yes
+Not sure
+Frequency
+COR
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+AOR
+Ref
+Ref
+Ref
+Ref
+I
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Adjusted for all other variables shown Statistically significant COR crude odds ratio CI confidence interval AOR adjusted odds ratio The entries in
+boldface are significant and must bear the symbol
+as shown in the table
+Adjusted for all other variables shown Statistically significant COR crude odds ratio CI confidence interval AOR adjusted odds ratio
+TABLE Predictors of caesarean section
+Journal of Pregnancy
+Variable
+Setting of ANC facility
+Hypertensive status
+Alcohol consumption
+Family history of HDPs
+Variable
+Hypertensive status
+Alcohol consumption
+Family history of HDPs
+Variable
+Age
+History of C S
+Anxious of pregnancy
+History of chronic condition
+Hypertensive status
+Alcohol consumption
+TABLE
+Category
+Periurban
+Urban
+Not hypertensive
+Predictors of risk of preterm delivery
+Hypertensive
+Not consumer
+Consumer
+No history
+History
+COR
+Ref
+Ref
+Ref
+Ref
+AOR
+Ref
+Ref
+Ref
+Ref
+Category
+Not hypertensive
+Hypertensive
+Not consumer
+Consumer
+No history
+History
+Category
+No
+Yes
+No
+Yes
+No
+Yes
+Not hypertensive
+Hypertensive
+Not consumer
+Consumer
+COR
+ref
+ref
+ref
+Cl
+AOR
+ref
+ref
+ref
+Cl
+Adjusted for all other variables shown Statistically significant COR crude odds ratio CI confidence interval AOR adjusted odds ratio
+TABLE Predictors of stillbirth
+COR
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Adjusted for all other variables shown Statistically significant COR crude odds ratio CI confidence interval AOR adjusted odds ratio
+AOR
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Cl
+critical to deliver the baby before term to avert foetal distress
+and possibly foetal wastage
+Another evidence from this study reveals that hyperten
+Sive mothers were times more likely to undergo caesar
+ean section This finding is consistent with the findings of
+Roberts et al where it was realized that HDPs were
+associated
+with an increased risk of caesarean section
+amongst mothers during delivery Considering this evidence
+it is recommended that health professionals in charge of
+antenatal care critically monitor hypertensive mothers dur
+ing care and to pragmatically help to control their blood
+pressure to normotensive status before delivery
+Conclusion and Recommendations
+The overall prevalence of HDPs was with chronic
+hypertension superimposed with preeclampsia having the
+highest prevalence of Lack of formal education fam
+ily history multigravida consumption of alcohol and herbal
+preparation were identified as factors that could influence
+the risk of HDPs The use oral nifedipine and methyldopa
+considerably reduced the proportion of mothers with high
+blood pressure The selected mothers with HDPs were likely
+to undergo caesarean sections experience stillbirth or have
+preterm babies The burden of HDPs is high amongst preg
+nant women seeking care in selected facilities There is the
+need for intensified campaign on HDPs in the Ashanti
+Region of Ghana
+Considering the increasing risk of HDPs in the Ashanti
+region its increased adverse association to obstetric out
+comes such as stillbirth preterm and caesarean section
+there is the need to investigate the cost impact of HDPs on
+the mother and the household Additionally the quality of
+life of mothers diagnosed with HDPs and the impact of
+HDPs on the risk of prenatal and postnatal depression
+should be assessed further
+Strength and Limitations
+This study was well powered considering the sample size as
+such reducing the risk of type error Additionally the par
+ticipants were clearly defined using the inclusion and exclu
+Sion criteria outcomes were appropriately measured and
+potential confounding factors were considered in the analy
+sis Therefore findings of this study are generalizable to
+pregnant women seeking antenatal care in the Sub Saharan
+African region
+This study required mothers to recall past event and this
+subjected the responses to recall bias To minimize this bias
+where mothers could not recall an event they were permit
+ted to skip the item on a questionnaire Additionally this
+study does not establish causality but rather provides the
+strength of association between the outcome variables and
+predictors as such interpretations of the findings should be
+done carefully
+Data Availability
+All the data obtained during this study are available from the
+corresponding author upon request
+Ethical Approval
+The KNUST Committee for Human Research and Ethics
+Reference CHRPE AP and the Komfo Anokye
+Teaching Hospital Institutional Review Board KATH IRB
+AP provided the ethical clearance for the conduct
+of the study In addition approvals were given from the
+research board of KNUST Hospital UH Vol Ejisu
+Government Hospital EJ EGH EJ and the Kumasi
+South Hospital KSH RESH All study procedures were
+conducted in line with related guidelines and regulations
+Journal of Pregnancy
+Consent
+Informed consents were sought from all pregnant women
+before enrolment in the study Participants were assured of
+their right to be informed about the findings of the study
+Conflicts of Interest
+The authors of this study have no competing interests
+Authors Contributions
+Conception design acquisition and analysis of data were
+conducted by PBA BPA AFAM ETD CCC and MA
+PBA BPA AFAM and ETD drafted and revised the manu
+script Revising and approval of final manuscript to be
+published were conducted by PBA BPA and AFAM
+Acknowledgments
+The authors acknowledged the GNPC Foundation research
+team and all participants of the study Authors received
+local scholarship from the GNPC Foundation Ghana
+GNPC FDN KNUST
+References
+J Fokom Domgue and J J N Noubiap Diagnosis of hyper
+tensive disorders of pregnancy in Sub Saharan Africa a poorly
+assessed but increasingly important issue Journal of Clinical
+Hypertension vol no pp
+L Say D Chou A Gemmill et al Global causes of maternal
+death a WHO systematic analysis The Lancet Global Health
+vol no pp
+G Hypertension The American College of Obstetricians and
+Gynecologists Gestational hypertension and preeclamp
+sia ACOG practice bulletin summary number Obstetrics
+and Gynecology vol no pp
+P A Apanga and J K Awoonor Williams Maternal death in
+rural Ghana a case study in the upper east region of Ghana
+Frontiers in Public Health vol p
+Globally Harmonized System United Nations Children s
+Fund Unfpa World Health Organization and ASEAN Medi
+cal Device Directive National assessment for emergency obstet
+ric and newborn care Ghana August Ministry of Health
+WHO Table of Contents
+A Mahran H Fares R Elkhateeb et al Risk factors and out
+come of patients with eclampsia at a tertiary hospital in Egypt
+BMC Pregnancy and Childbirth vol no pp
+A Nath S Venkatesh S Balan C S Metgud M Krishna and
+G V S Murthy The prevalence and determinants of
+pregnancy related anxiety amongst pregnant women at less
+than weeks of pregnancy in Bangalore southern India
+International Journal of Women s Health vol pp
+K O Osungbade and O K Ige Public health perspectives of
+preeclampsia in developing countries implication for health
+system strengthening Journal of Pregnancy vol Article
+ID pages
+normal pregnancies and those with diabetes and high blood
+pressure Literature review International Journal of Morphol
+ogy vol no pp
+C L Roberts J B Ford D J Henderson Smart C S Algert
+and J M Morris Hypertensive disorders in pregnancy a
+population based study The Medical Journal of Australia
+vol no pp
+Journal of Pregnancy
+International Journal of Women s Health
+Open Access Full Text Article
+Dovepress
+open access to scientific and medical research
+ORIGINAL RESEARCH
+o
+V
+V
+o
+o
+o
+o
+o
+Pregnancy Risk Perception Knowledge of Obstetric
+Danger Signs and Attitude Towards Skilled Delivery
+Service Utilization Among Pregnant Mothers in
+a Rural Setting in South Ethiopia A Community Based
+Cross Sectional Study
+Yohannes Zewdie Birhanu
+Abinet Arega Sadore
+Department of Health Behaviour and Society Faculty of Public Health Institute of Health Jimma University Jimma Ethiopia of Public
+Health College of Medicine and Health Sciences Wachemo University Hossana Ethiopia
+Correspondence Abinet Arega Sadore PO Box Hossana Ethiopia Email gmail com
+Background Poor pregnancy risk perception ignorance of obstetric risk symptoms and attitudes toward institutional delivery
+services are factors that prevent pregnant women from choosing to receive emergency obstetric treatment
+Objective To assess pregnancy risk perception attitude towards skilled delivery service and knowledge of obstetric danger signs
+and associated factors among pregnant mothers
+Methods A cross sectional community based study design was used The pregnant women who participated in this study were
+chosen using a multi stage sampling methodology Data were gathered using a pretested questionnaire that was presented by an
+interviewer To find independent factors logistic regression analysis was used With a p value of less than which denotes
+statistical significance a corresponding confidence interval CI was calculated
+Results Pregnancy risk perception was shown to have a lower mean score overall Only of the study participants had high
+pregnancy risk perception Over of respondents had a positive attitude towards skilled delivery service utilization In all categories of
+obstetric danger signs only respondents or knew what the obstetric danger signs were Maternal age AOR I CI I
+maternal education AOR and parity AOR CI were factors affecting knowledge of
+obstetric danger signs Pregnancy risk Perception AOR CI and parity AOR CI I were significantly
+associated with attitudes on the use of skilled delivery services
+Conclusion This study found that pregnant women in rural locations had poor levels of knowledge of obstetric danger sign attitude
+toward using skilled delivery services and perception of pregnancy risk The knowledge of obstetric danger indicators among pregnant
+women was considerably affected by the mother s age education and parity The perception of pregnancy risk and parity were found
+to be substantially associated with attitudes towards skilled delivery services
+Keywords pregnancy risk perception pregnant mothers Ethiopia
+Background
+In too many women died from pregnancy related causes and childbirth related causes Complications during and
+after childbirth claimed the lives of close to women Most of these deaths were avoidable and took place
+in low income settings Two thirds and one fifth of all maternal deaths occurred in sub Saharan
+Africa and Southern Asia respectively Sub Saharan Africa accounted for approximately of all maternal
+deaths
+Ethiopia is one of the nations most affected by high maternal and newborn deaths Obstetric problems such as
+bleeding obstructed labor ruptured uterus pregnancy induced hypertension puerperal infection and unsafe abortions are
+International Journal of Women s Health
+Received
+September
+Accepted
+November
+Published
+November
+cc i Sadore et al This work is published and licensed by Dove Medical Press Limited The full terms of this license are available at https www dovepress com terms
+php and incorporate the Creative Commons Attribution Non Commercial unported License http creativecommons org licenses by nc O By accessing the
+work you hereby accept the Terms Non commercial uses of the work are permitted Without any further permission from Dove Medical Press Limited provlded the work is properly attributed For
+permission for commercial use of this work please see paragraphs and of our Terms https www dovepress com terms php
+Sadore et al
+Dovepress
+the main causes of mother death in Ethiopia Anaemia and malaria were the two most reported indirect causes of
+maternal death Ethiopia s maternal and infant mortality rates have reduced by since however they are still
+excessively high at per live births and per respectively
+Risk perception is the way that individuals judge and assess the hazards to which they may be exposed It appears
+that a higher perception of health danger enhances protective motivation thus it is critical to comprehend how people
+view health risks how correct these views are and how their perception influences their behaviour High risk pregnant
+women s decisions about prenatal care and the care they receive during their pregnancies are greatly influenced by their
+risk perception Risk perception is a significant concern particularly during pregnancy when behavioural changes in
+health have the potential to affect both the mother and the fetus
+Pregnancy related risk perception is a subject that has attracted 

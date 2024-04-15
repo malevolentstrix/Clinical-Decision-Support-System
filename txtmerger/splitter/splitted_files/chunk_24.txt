@@ -1,0 +1,988 @@
+etworks
+with different topologies were trained and the performance of each
+network was assessed based on the testing validation and train
+ing dataset application For training the MLP network the dataset
+was randomly split into training validation and test
+ing data For the RBF network we randomly split the dataset
+into training and testing data
+Evaluation of the networks and development of the CDSS
+In order to evaluate and select the most accurate network we
+used a confusion matrix and calculated the percentage of sensi
+tivity specificity and accuracy of each network In addition the
+performance of the networks was evaluated by the receiver oper
+ating characteristic ROC curve and the area under the ROC curve
+AUC Maximizing AUC indicates a satisfying classification
+In addition for the selected MLP and RBF networks we used fold
+cross validation too All calculations were based on the standard
+equations published elsewhere
+Finally we developed the
+CDSS based on the most accurate network MATLAB software
+was applied to design the CDSS
+Results
+Identifying important variables for predicting pregnancy
+outcomes among women with SLE
+Initially we identified variables that appeared to affect the
+pregnancy outcomes among SLE women Among the pregnancies
+resulted in live births including preterm and
+full term In addition there were spontaneous abortions
+Results of evaluating RBF networks with a different number of neurons based on
+total data
+Accuracy X Specificity X Sensitivity X Number of neurons in Number
+the hidden layer
+first trimester abortions and second trimester abor
+tions
+Table
+shows these variables and their definitions After run
+ning the binary logistic regression we selected the most significant
+factors for predicting the pregnancy outcome Twelve variables
+with P value O and four variables with P value O were
+selected Table Tables and indicate the distribution of these
+features for the SLE affected women in our dataset
+Designing and evaluating MLP and RBF neural networks
+RBFstructure
+The radial basis function RBF network architecture consisted of
+basic functions combination of simple functions in a single hid
+den layer and linear functions in an output layer We developed
+several networks with a different number of neurons and func
+tions spread in the hidden layer Table indicates the performance
+of some of the trained networks with the different number of neu
+rons As seen Network was the most accurate In this network
+there are epochs The spread of basic functions is and the
+goal is reaching the zero error Outcomes are classified by two neu
+K Paydar et al International Journal of Medical Informatics
+Table
+The confusion matrix in test data RBF network for predicting pregnancy outcomes
+in SLE affected women
+Table
+Confusion matrix in test data MLP network for predicting pregnancy outcomes in
+SLE affected women
+Live birth
+Abortion
+Live birth
+Specificity
+Abortion
+Sensitivity
+Accuracy
+Abortion
+Sensitivity
+ROC for classification by RBF network
+Live birth
+Abortion
+Live birth
+Specificity
+ROC for classification by MLP network
+False positive rate
+Accuracy
+False rate
+Fig The ROC graph of the selected RBF network for predicting pregnancy out
+comes in SLE affected women
+Table
+Results of evaluating MLP networks with a different number of neurons based on
+total data
+Accuracy X Specificity X Sensitivity X Number of neurons in Number
+the hidden layer
+rons in the output layer These neurons represent the occurrence of
+spontaneous abortion and live birth in pregnant women with SLE
+As shown in Table
+accuracy sensitivity and specificity for
+the selected RBF network in the test data were and
+respectively In addition Fig shows the ROC graph of this
+network The AUC of this RBF network was for the total data
+The fold cross validation for this RBF showed accuracy
+MLP structure
+The multi layer perceptron MLP network architecture con
+sisted of sigmoid activation functions in the single hidden layer and
+a log sigmoid activation function in the output layer
+Table indi
+cates the performance of some of the trained networks As seen
+Network was the most accurate In this network there are
+epochs The gradient is and the goal reaches the zero error
+Outcomes are classified by one neuron which represents the
+occurrence of spontaneous abortion and live birth in pregnant
+women with SLE
+According to
+Table
+accuracy sensitivity and specificity in the
+test data were and respectively In addition
+the ROC graph of the selected MLP network is shown in
+The
+Fig
+Fig The ROC graph of the selected MLP network for predicting pregnancy out
+comes in SLE affected women
+AUC of this network was for the total data The fold cross
+validation for this MLP showed accuracy
+Developing the CDSS
+Comparing the performance of the trained networks indicated
+that the MLP s Network was the most accurate for developing the
+CDSS The graphical user interface of this CDSS is shown in
+Fig
+As seen in this figure rheumatologists can easily input the values
+of the variables and get the result of prediction of the pregnancy
+outcome
+Discussion
+Predicting the outcome of pregnancy in women with SLE and
+providing proper and effective care for these patients can increase
+the expectancy of foetal survival for families However predict
+ing this problem is still complicated because of the multiplicity
+of affecting variables and the complexity of their relationships
+with regard to this problem We developed a CDSS for predict
+ing pregnancy outcomes among SLE affected women We applied
+two neural networks for this prediction According to the results
+accuracy of MLP and RBF networks for the test data was and
+respectively In addition the MLP outperformed RBF net
+works using the total data
+Although to the best of our knowledge there are no other
+studies related to developing models using neural networks or
+other machine learning algorithms for predicting the pregnancy
+outcomes of SLE affected women researchers successfully applied
+neural networks for either multivariate analysis or predicting a
+range of diseases or for disease risk estimation
+According to
+the previous research the performance of the classification algo
+rithms especially neural networks may be different from one
+K Paydar et al International Journal of Medical Informatics
+Prediction of Pregnancy Outcome in SLE Women
+Laboratory Test
+Before Pregnancy
+During Pregnancy
+first trimester
+Hematuria During Pregnancy
+PLT Betore pregnancy
+PLT During pregnancy
+Proteinuria Before Pregnancy
+Proteinuria During Pregnanci
+CRP Before Pregnancy
+Anti ds DNA During Pregnancy
+IgG During
+pregnancy
+Positive
+Positive
+Problems
+APS Syndrome
+Leuckopenia Anemia Before
+Pregnancy
+lupus Before
+Pregnancy
+Drugs
+ASA During Pregnancy
+AZA Before or During
+Pregnancy
+Hydroxychloroquine
+Before Pregnancy
+Result
+Yes
+Yes
+Yes
+Yes
+SLE Pregnancy
+Spontaneous Aborton
+Outcome of Pregnancy
+Fig The graphical user interface of the CDSS developed for predicting pregnancy outcomes in women with SLE
+dataset to another
+However in most studies in which the
+performance of different neural networks has been compared the
+MLP network performance was better than the others in the field
+of prediction task of medicine a result that is consistent with our
+findings For example a study was conducted by Bovis et al to iden
+tify masses in digital mammograms using both the MLP and the
+RBF based on Gaussian kernels networks in the UK This study
+revealed that the MLP network with the best performance showed
+an AUC value of in contrast to the AUC value of RBF
+In addition Kurt et al compared the performance of classification
+methods in order to predict the presence of coronary artery dis
+ease CAD and found that areas under the ROC curves were
+and for MLP logistic regression LR clas
+sification and regression tree CART and RBF respectively
+The
+better accuracy of the MLP networks has been confirmed for pre
+dicting and classifying other medical conditions such as internal
+carotid arteries ICA stenosis vs middle cerebral
+artery MCA stenosis vs and thyroid diseases
+based on different learning algorithms vs
+However there are studies indicating that RBF performance may
+be somewhat better than the MLP in some areas such as predict
+ing the risk of essential hypertension disease vs
+Therefore researchers should avoid making a conclusion based on
+only one method The decision of a method selection should be
+made based on a comparison between different methods applied
+to a specific dataset
+As our results indicate the MLP network with a scaled
+conjugate gradient trainscg back propagation learning algorithm
+with accuracy had the best performance The network con
+sisted of sigmoid functions and neurons in the single hidden
+layer and a log sigmoid function and one neuron in the output
+layer Therefore we applied this model to develop a CDSS
+The risk of undesirable foetal outcomes estimation in the early
+first trimester of pregnancy by rheumatologists may guarantee
+a desirable pregnancy outcome When an SLE affected pregnant
+woman is visited for the first time by a rheumatologist the lat
+ter enters the values of effective factors into the developed
+which then predicts the outcome of the pregnancy
+CDSS
+Fig
+in two classes spontaneous abortion and live birth by a click on
+the button for pregnancy outcome in the designed system In this
+way the rheumatologist can decide optimally about the patient
+and her treatment While the system predicts spontaneous abor
+tion for one case that case should be considered as high risk
+In this setting the expert rheumatologist can start to manage the
+pregnancy more skilfully to have a favourable outcome in these
+high risk pregnancies by regular monitoring and the recommen
+dation to take appropriate medications during pregnancy adjusted
+to the patient s medical history and risk factors
+It is generally
+accepted that systematic monitoring is needed for all SLE affected
+women to improve their pregnancy outcome
+Thus more fre
+quent specific care and interventions are required for the mothers
+for whom the system predicts spontaneous abortion rather than
+those for whom the system predicts live birth this may ensure
+correct planning and management of care for these patients
+In addition many women with SLE discontinue their medications
+when they find themselves pregnant
+Thereby awareness of
+the risk for the mothers can help to manage the condition prop
+erly with regard to alterations in their medications and appropriate
+counselling by some recommended continuation and discontinu
+ation of the medications
+Therefore rheumatologists can
+decrease the effect of specific factors associated with incidence
+of spontaneous abortion in SLE affected women until delivery by
+specifically maintaining and monitoring the mother It can improve
+the health of the mother and maximize the chances of a successful
+delivery
+Hence this system may be effective to reduce
+the risk of foetal loss
+Some limitations should be considered in this research Most
+cases of pregnant patients with SLE were excluded due to a large
+quantity of missing data in their medical records or the related
+databases Therefore the results may not be generalizable In addi
+tion we could not access data about five variables anti Ro ss A
+and anti La ss B antibodies anti glycoprotein I antibody anti
+serum albumin level and antihypertensive use Finally we
+removed these five variables Therefore conducting similar studies
+with a larger dataset is recommended
+In this study we replaced missing data Although this approach
+is a standard pre processing technique it might result in bias We
+re built the selected MLP network without replacing any missing
+data According to the results the accuracy of this new network
+was
+In addition we first identified important features based on the
+literature review and then selected the most important ones using
+logistic regression For comparison we re developed the network
+without any feature selection The results indicated that the accu
+racy sensitivity and specificity of this new network were
+and respectively These results show that the network
+K Paydar et al International Journal of Medical Informatics
+in rural primary healthcare facilities in sub Saharan Africa the QUALMAT
+experience Int J Med Inf
+J Han M Kamber J Pei Data Mining Concepts and Techniques Elsevier
+Mandal N Sairam Accurate telemonitoring of Parkinson s disease diagnosis
+using robust inference system Int J Med Inf
+J M A D Hummel F M Cohrs V L Sdepanian I T Pisa H de
+Marin Artificial intelligence techniques applied to the development of a
+decision support system for diagnosing celiac disease Int J Med Inf
+P I puerta S P Azen L LaBree Use of neural networks in predicting the risk
+of coronary artery disease Comput Biomed Res
+L Ozyilmaz T Yildirim Diagnosis of thyroid disease using artificial neural
+network methods in Proceeding of the International Conference on
+Neural Information Processing ICONIP accessed
+http ieeexplore ieee org xpl login
+j url http ieee
+M T Hagan H B Demuth M H Beale Neural Network Design Pws Pub
+Boston
+S Haykin Neural Networks A Comprehensive Foundation Pearson
+Education Delhi India
+K Gurney An Introduction to Neural Networks CRC Press London
+H A Isma eel P C Cremer S Khalaf M M Almedawar I H Elhajj G E sakr
+W A Jaber Artificial neural network modeling enhances risk stratification and
+can reduce downstream testing for patients with suspected acute coronary
+syndromes negative cardiac biomarkers and normal ECGs Int J Cardiovasc
+Imaging
+Kurt M Ture A T Kurum Comparing performances of logistic regression
+classification and regression tree and neural networks for predicting
+coronary artery disease Expert Syst Appl
+K Polat S Breast cancer diagnosis using least square support vector
+machine Digit Signal Process
+G E Batista R C Prati M C Monard A study of the behavior of several
+methods for balancing machine learning training data ACM SIGKDD Explor
+H S Ko H Y Ahn D G Jang S K Choi Y G Park I Y Park G Lee S H Park J C
+Shin Pregnancy outcomes and appropriate timing of pregnancy in
+pregnancies in Korean patients with SLE Int J Med sci
+Y Molad T Borkowski A Monseiise A Ben Haroush J Sulkes M Hod D
+Feldberg J Bar Maternal and fetal outcome of lupus pregnancy a prospective
+study of pregnancies Lupus
+Ateka Barrutia M A Khamashta The challenge of pregnancy for patients
+with SLE Lupus
+A Mankee M Petri L S Magder Lupus anticoagulant disease activity and low
+complement in the first trimester are predictive of pregnancy loss Lupus Sci
+Med
+A S Fauci Harrison s Principles of Internal Medicine McGraw Hill Medical
+New York
+J Buyon M Kim M Guerra C Laskin M Petri M D Lockshin L
+Sammaritano D W Branch T F Porter A Sawitzke Pregnancy outcomes in
+patients with lupus Am Coll Physicians
+A G Singh V R Chowdhary Pregnancy related issues in women with
+systemic lupus erythematosus Int J Rheum Dis
+A N Baer F R Witter M Petri Lupus and pregnancy Obstet Gynecol Surv
+M E Clowse L Magder F Witter M Petri Hydroxychloroquine in lupus
+pregnancy Arthritis Rheum
+M E Clowse M Petri Pregnancy and Systemic Lupus Erythematosus
+Handbook of Systemic Autoimmune Diseases Elsevier Amsterdam pp
+A S Arfaj N Khalil Pregnancy outcome in pregnancies in patients with
+SLE in Saudi Arabia Lupus
+A Smyth G H Oliveira B D Lahr K R Bailey S M Norby V D Garovic A
+systematic review and meta analysis of pregnancy outcomes in patients with
+systemic lupus erythematosus and lupus nephritis Clin J Am Soc Nephrol
+S De Carolis A Botta S Santucci S salvi S Moresi E Di Pasquo G Del Sordo
+C Martino Complementemia and obstetric outcome in pregnancy with
+antiphospholipid syndrome Lupus
+A Sliwinski N Zvaifler Decreased synthesis of the third component of
+complement in hypocomplementenic systemic lupus erythematosus
+Clin Exp Immunol
+L Andreoli M Fredi C Nalli R Reggia A Lojacono M Motta A Tincani
+Pregnancy implications for systemic lupus erythematosus and the
+antiphospholipid syndrome J Autoimmun
+W Lim Antiphospholipid antibody syndrome Hematol Am Soc Hematol
+Educ Program
+M Lockshin Antiphospholipid antibody syndrome Rheum Dis Clin N Am
+J P Buyon M Y Kim M M Guerra C A Laskin M Petri M D Lockshin L
+Sammaritano D W Branch T F Porter A Sawitzke Predictors of pregnancy
+outcomes in patients with lupus a cohort study Ann Intern Med
+M Tjoa J Van vugt A Go M Blankenstein C Oudejans l Van Wijk Elevated
+C reactive protein levels during first trimester of pregnancy are indicative of
+preeclampsia and intrauterine growth restriction J Reprod Immunol
+M A Fitzgerald A case of acute drug induced hepatitis Nurse Pract
+N Ruperto P Garcia Munitis L Villa M Pesce A Aggarwal A Fasth T Avcin
+S C Bae Z Balogh C Li J De Inocencio PRINTO PRES international website
+for families of children with rheumatic diseases www
+pediatric rheumatology printo lt Ann Rheum Dis
+M Barbhaiya B L Bermas Evaluation and management of systemic lupus
+erythematosus and rheumatoid arthritis during pregnancy Clin Immunol
+J H Koh H S S K Kwok J H Ju S H Park Hydroxychloroquine and
+pregnancy on lupus flares in Korean patients with systemic lupus
+erythematosus Lupus
+K K Temprano R Bandlamudi T L Moore Antirheumatic drugs in pregnancy
+and lactation semin Arthritis Rheum
+A Barnado L Wheless A K Meyer G S Gilkeson D L Kamen Pregnancy
+outcomes among African American patients with systemic lupus
+erythematosus compared with controls Lupus Sci Med
+T Podymow P August Update on the use of antihypertensive drugs in
+pregnancy Hypertension
+M Ture I Kurt A T Kurum K Ozdamar Comparing classification techniques
+for predicting essential hypertension Expert Syst Appl
+H Sug Performance comparison of RBF networks and MLPs for classification
+Proceedings of the WSEAS International Conference on Applied
+Informatics And Communications AIC accessed http
+w seas us e moscow AlC pdf
+K Bovis S Singh J Fieldsend C Pinder Identification of masses in digital
+mammograms with MLP and RBF nets in Proceedings of the
+IEEE INNS ENNS International Joint Conference on Neural Networks IJCNN
+accessed
+http ieeexplore ieee org xpl login
+jsp tp arnumber url http ieee
+H YS ldgrgm H B Altgnsoy N Bargpqg U E ogur F Hardalaq I
+Classification of the frequency of carotid artery stenosis with MLP and RBF
+neural networks in patients with coroner artery disease J Med Syst
+U N AT Ozan S E ogur F Hardalaq i
+Classification of MCA stenosis in diabetes by MLP and RBF neural network J
+Med syst
+K Mitchell M Kaul M E Clowse The management of rheumatic diseases in
+pregnancy Scand J Rheumatol
+M A Brucato H Carp C Chambers R J Dolhain A Doria F
+C Gordon S Hahn M Khamashta M D Lockshin Pregnancy and reproduction
+in autoimmune rheumatic diseases Rheumatology
+A Lateef M Petri Management of pregnancy in systemic lupus
+erythematosus Nat Rev Rheumatol
+CARDIOVASCULAR JOURNAL OF AFRICA Volume No March April
+Physiological changes in pregnancy
+Priya Soma Pillay Catherine Nelson Piercy Heli Tolppanen Alexandre Mebazaa
+Abstract
+Physiological changes occur in pregnancy to nurture the
+developing foetus and prepare the mother for labour and
+delivery Some of these changes influence normal biochemical
+values while others may mimic symptoms of medical disease
+It is important to differentiate between normal physiological
+changes and disease pathology This review highlights the
+important changes that take place during normal pregnancy
+Keywords hypercoagulable state diabetogenic uterine contrac
+tions
+Submitted accepted
+Cardiovasc J Afr
+DOI CVJA
+www cvja co za
+During pregnancy the pregnant mother undergoes significant
+anatomical and physiological changes in order to nurture and
+accommodate the developing foetus These changes begin after
+conception and affect every organ system in the body l For
+most women experiencing an uncomplicated pregnancy these
+changes resolve after pregnancy with minimal residual effects
+It is important to understand the normal physiological changes
+occurring in pregnancy as this will help differentiate from
+adaptations that are abnormal
+Haematological changes
+Plasma volume increases progressively throughout normal
+pregnancy Most of this increase occurs by weeks
+Department of Obstetrics and Gynaecology University of
+Pretoria and Steve Biko Academic Hospital Pretoria South
+Africa
+Priya Soma Pillay MB ChB MMed et G Pret FCOG Cert
+Maternal and Foetal Med SA Priya Soma Pillay up ac za
+Department of Obstetric Medicine Women s Health Academic
+Centre King s Health Partners Guy s and St Thomas
+Foundation Trust and Queen Charlotte s and Chelsea
+Hospital Imperial College Healthcare Trust London UK
+Catherine Nelson Piercy MA FRCP FRCOG
+INSERM UMRS Paris France
+Heli Tolppanen MD
+Alexandre Mebazaa MD
+Heart and Lung Centre Helsinki University Central
+Hospital Finland
+Heli Tolppanen MD
+University Paris Diderot Sorbonne Paris Paris
+Department of Anesthesia and Critical Care
+APHP France
+Alexandre Mebazaa MD
+gestation and is proportional to the birthweight of the baby
+Because the expansion in plasma volume is greater than the
+increase in red blood cell mass there is a fall in haemoglobin
+concentration haematocrit and red blood cell count Despite this
+haemodilution there is usually no change in mean corpuscular
+volume MCV or mean corpuscular haemoglobin concentration
+MCHC
+The platelet count tends to fall progressively during normal
+pregnancy although it usually remains within normal limits
+In a proportion of women the count will reach levels
+of x cells l by term and this occurs in the absence
+of any pathological process In practice therefore a woman is
+not considered to be thrombocytopenic in pregnancy until the
+platelet count is less than x cells l
+Pregnancy causes a two to three fold increase in the
+requirement for iron not only for haemoglobin synthesis but
+also for for the foetus and the production of certain enzymes
+There is a to fold increase in folate requirements and a
+two fold increase in the requirement for vitamin BE
+Changes in the coagulation system during pregnancy
+produce a physiological hypercoagulable state in preparation
+for haemostasis following delivery The concentrations
+of certain clotting factors particularly VIII IX and X are
+increased Fibrinogen levels rise significantly by up to and
+fibrinolytic activity is decreased Concentrations of endogenous
+anticoagulants such as antithrombin and protein S decrease
+Thus pregnancy alters the balance within the coagulation system
+in favour of clotting predisposing the pregnant and postpartum
+woman to venous thrombosis This increased risk is present from
+the first trimester and for at least weeks following delivery In
+vitro tests of coagulation activated partial thromboplastin time
+APT T prothrombin time PT and thrombin time TT remain
+normal in the absence of anticoagulants or a coagulopathy
+Venous stasis in the lower limbs is associated with venodilation
+and decreased flow which is more marked on the left This is due
+to compression of the left iliac vein by the left iliac artery and
+the ovarian artery On the right the iliac artery does not cross
+the vein
+Cardiac changes
+Changes in the cardiovascular system in pregnancy are profound
+and begin early in pregnancy such that by eight weeks gestation
+the cardiac output has already increased by The primary
+event is probably peripheral vasodilatation This is mediated
+by endothelium dependent factors including nitric oxide
+synthesis upregulated by oestradiol and possibly vasodilatory
+prostaglandins Peripheral vasodilation leads to a
+fall in systemic vascular resistance and to compensate for this
+cardiac output increases by around during pregnancy This
+is achieved predominantly via an increase in stroke volume but
+also to a lesser extent an increase in heart rate The maximum
+cardiac output is found at about weeks gestation There is
+a minimal fall at term
+CARDIOVASCULAR JOURNAL OF AFRICA Volume No March April
+An increase in stroke volume is possible due to the early
+increase in ventricular wall muscle mass and end diastolic
+volume but not end diastolic pressure seen in pregnancy The
+heart is physiologically dilated and myocardial contractility
+is increased Although stroke volume declines towards term
+the increase in maternal heart rate bpm is maintained
+thus preserving the increased cardiac output Blood pressure
+decreases in the first and second trimesters but increases to
+non pregnant levels in the third trimester
+There is a profound effect of maternal position towards
+term upon the haemodynamic profile of both the mother and
+foetus In the supine position pressure of the gravid uterus on
+the inferior vena cava IVC causes a reduction in venous return
+to the heart and a consequent fall in stroke volume and cardiac
+output Turning from the lateral to the supine position may
+result in a reduction in cardiac output Pregnant women
+should therefore be nursed in the left or right lateral position
+wherever possible If the woman has to be kept on her back
+the pelvis should be rotated so that the uterus drops to the side
+and off the IVC and cardiac output and uteroplacental blood
+flow are optimised Reduced cardiac output is associated with
+a reduction in uterine blood flow and therefore in placental
+perfusion which could compromise the foetus
+Although both blood volume and stroke volume increase
+in pregnancy pulmonary capillary wedge pressure and central
+venous pressure do not increase significantly Pulmonary vascular
+resistance PVR like systemic vascular resistance SVR
+decreases significantly in normal pregnancy Although there is no
+increase in pulmonary capillary wedge pressure PCWP serum
+colloid osmotic pressure is reduced by The colloid
+osmotic pressure pulmonary capillary wedge pressure gradient
+is reduced by about making pregnant women particularly
+susceptible to pulmonary oedema Pulmonary oedema will be
+precipitated if there is either an increase in cardiac pre load
+such as infusion of fluids or increased pulmonary capillary
+permeability such as in pre eclampsia or both
+Labour is associated with further increases in cardiac output
+in the first stage and in the second stage Uterine
+contractions lead to an auto transfusion of ml of blood
+back into the circulation and the sympathetic response to pain
+and anxiety further elevate the heart rate and blood pressure
+Cardiac output is increased between contractions but more so
+during contractions
+Following delivery there is an immediate rise in cardiac
+output due to relief of the inferior vena cava obstruction and
+contraction of the uterus which empties blood into the systemic
+circulation Cardiac output increases by followed by
+a rapid decline to pre labour values within about one hour of
+delivery Transfer of fluid from the extravascular space increases
+venous return and stroke volume further
+Those women with cardiovascular compromise are therefore
+most at risk of pulmorary oedema during the second stage of
+labour and the immediate postpartum period Cardiac output
+has nearly returned to normal pre pregnancy values two
+weeks after delivery although some pathological changes e g
+hypertension in pre eclampsia may take much longer
+The above physiological changes lead to changes on
+cardiovascular examination that may be misinterpreted as
+pathological by those unfamiliar with pregnancy Changes may
+include a bounding or collapsing pulse and an ejection systolic
+murmur present in over of pregnant women The murmur
+may be loud and audible all over the precordium with the first
+heart sound loud and possibly sometimes a third heart sound
+There may be ectopic beats and peripheral oedema
+Normal findings on ECG in pregnancy that may partly relate
+to changes in the position of the heart include
+atrial and ventricular ectopics
+Q wave small and inverted T wave in lead III
+ST segment depression and T wave inversion in the inferior
+and lateral leads
+left axis shift of QRS
+Adaptive changes in renal vasculature
+The primary adaptive mechanism in pregnancy is a marked fall
+in systemic vascular resistance SVR occurring by week six of
+gestation The fall in SVR also affects the renal vasculature
+Despite a major increase in plasma volume during pregnancy the
+massive decrease in SVR creates a state of arterial under filling
+because of the volume resides in the venous circulation
+This arterial under filling state is unique to pregnancy The fall
+in SVR is combined with increased renal blood flow and this is in
+contrast to other states of arterial under filling such as cirrhosis
+sepsis or arterio venous fistulas
+Relaxin a peptide hormone produced by the corpus luteum
+decidua and placenta plays an important role in the regulation
+of haemodynamic and water metabolism during pregnancy
+Serum concentrations of relaxin already elevated in the luteal
+phase of the menstrual cycle rise after conception to a peak at
+the end of the first trimester and fall to an intermediate value
+throughout the second and third trimester Relaxin stimulates
+the formation of endothelin which in turn mediates vasodilation
+of renal arteries via nitric oxide NO synthesis
+Despite activation of the renin angiotensin aldosterone
+RAA system in early pregnancy a simultaneous relative
+resistance to angiotensin II develops counterbalancing the
+vasoconstrictive effect and allowing profound vasodilatation
+This insensitivity to angiotensin II may be explained by the
+effects of progesterone and vascular endothelial growth factor
+mediated prostacyclin production as well as modifications in
+the angiotensin I receptors during pregnancy The vascular
+refractoriness to angiotensin II may also be shared by other
+vasoconstrictors such as adrenergic agonists and arginine
+vasopressin AVP IO It is possible that in the second half of
+pregnancy the placental vasodilatators are more important in
+the maintenance of the vasodilatatory state
+Changes in renal anatomy and function
+As a consequence of renal vasodilatation renal plasma flow
+and glomerular filtration rate GFR both increase compared
+to non pregnant levels by and respectively In
+addition the increase in plasma volume causes decreased oncotic
+pressure in the glomeruli with a subsequent rise in GFR II
+Vascular resistance decreases in both the renal afferent and
+efferent arterioles and therefore despite the massive increase in
+renal plasma flow glomerular hydrostatic pressure remains stable
+avoiding the development of glomerular hypertension As the
+GFR rises both serum creatinine and urea concentrations decrease
+to mean values of about gmol l and mmol l respectively
+CARDIOVASCULAR JOURNAL OF AFRICA Volume No March April
+The increased renal blood flow leads to an increase in renal
+size of cm reaching the maximal size by mid pregnancy
+The kidney pelvis and calyceal systems dilate due to mechanical
+compressive forces on the ureters Progesterone which reduces
+ureteral tone peristalsis and contraction pressure mediates these
+anatomical changes II The increase in renal size is associated with
+an increase in renal vasculature interstitial volume and urinary
+dead space There is also dilation of the ureters renal pelvis
+and calyces leading to physiological hydronephrosis in over
+of women There is often a right sided predominance of
+hydronephrosis due to the anatomical circumstances of the right
+ureter crossing the iliac and ovarian vessels at an angle before
+entering the pelvis Urinary stasis in the dilated collecting system
+predisposes pregnant women with asymptomatic bacteriuria to
+pyelonephritis
+There are also alterations in the tubular handling of wastes
+and nutrients As in the non pregnant state glucose is freely
+filtered in the glomerulus During pregnancy the reabsorption of
+glucose in the proximal and collecting tubule is less effective with
+variable excretion About of pregnant women with normal
+blood glucose levels excrete g of glucose per day Due to the
+increases in both GFR and glomerular capillary permeability to
+albumin the fractional excretion of protein may increase up to
+mg day and protein excretion also increases In normal pregnancies
+the total protein concentration in urine does not increase above
+the upper normal limit Uric acid excretion also increases due to
+increased GFR and or decreased tubular reabsorption II
+Body water metabolism
+Arterial under filling in pregnancy leads to the stimulation of
+arterial baroreceptors activating the RAA and the sympathetic
+nervous systems This results in a non osmotic release of AVP
+from the hypothalamus These changes lead to sodium and
+water retention in the kidneys and create a hypervolaemic hypo
+osmolar state characteristic of pregnancy Extracellular volume
+increases by and plasma volume by Maternal
+blood volume increases by to approximately to
+ml above non pregnant values By the late third trimester the
+plasma volume increases by more than with a lower
+increase in red blood cell mass and therefore plasma osmolality
+falls by mosmol kg The increase in plasma volume plays
+a critical role in maintaining circulating blood volume blood
+pressure and uteroplacental perfusion during pregnancy
+Activation of the RAA system leads to increased plasma
+levels of aldosterone and subsequent salt and water retention in
+the distal tubule and collecting duct In addition to the increased
+renin production by the kidneys ovaries and uteroplacental
+unit produce an inactive precursor protein of renin in early
+pregnancy The placenta also produces oestrogens that
+stimulate the synthesis of angiotensinogen by the liver resulting
+in proportionally increased levels of aldosterone compared to
+renin Plasma levels of aldosterone correlate well with those of
+oestrogens and rise progressively during pregnancy The increase
+in aldosterone is responsible for the increase in plasma volume
+during pregnancy Progesterone which is a potent aldosterone
+antagonist allows natriuresis despite the sodium retaining
+properties of aldosterone The rise in GFR also increases
+distal sodium delivery allowing excretion of excess sodium
+Progesterone has antikaliuretic effects and therefore excretion of
+potassium is kept constant throughout pregnancy due to changes
+in tubular reabsorption and total body potassium increases
+during pregnancy
+Hypothalamic AVP release increases early in pregnancy as a
+result of increased relaxin levels AVP mediates an increase in water
+reabsorption via aquaporin channels in the collecting duct The
+threshold for hypothalamic secretion of AVP and the threshold
+for thirst is reset to a lower plasma osmolality level creating the
+hypo osmolar state characteristic of pregnancy These changes are
+mediated by human chorionic gonadotropin hCG and relaxin
+In middle and late pregnancy there is a four fold increase in
+vasopressinase an aminopeptidase produced by the placenta
+These changes enhance the metabolic clearance of vasopressin
+and regulate the levels of active AVP In conditions of increased
+placental production of vasopressinase such as pre eclampsia or
+twin pregnancies a transient diabetes insipidus may develop I
+As a consequence of this volume expansion the secretion of
+atrial natriuretic peptides increases by in the third trimester
+and rises further during the first week postpartum The levels of
+natriuretic peptides are higher in pregnant women with chronic
+hypertension and pre eclampsia
+Respiratory changes
+There is a significant increase in oxygen demand during normal
+pregnancy This is due to a increase in the metabolic rate
+and a increased consumption of oxygen There is a
+increase in minute ventilation mostly due to an increase in
+tidal volume rather than in the respiratory rate This maternal
+hyperventilation causes arterial to increase and arterial
+to fall with a compensatory fall in serum bicarbonate to
+mmol l see Table A mild fully compensated respiratory
+alkalosis is therefore normal in pregnancy arterial pH
+Diaphragmatic elevation in late pregnancy results in decreased
+functional residual capacity but diaphragmatic excursion and
+therefore vital capacity remain unaltered Inspiratory reserve
+volume is reduced early in pregnancy as a result of increased
+tidal volume but increases in the third trimester as a result of
+reduced functional residual capacity see Fig Peak expiratory
+flow rate PEFR and forced expiratory volume in one second
+FEVI are unaffected by pregnancy
+Pregnancy may also be accompanied by a subjective feeling of
+breathlessness without hypoxia This is physiological and is most
+common in the third trimester but may start at any time during
+gestation Classically the breathlessness is present at rest or while
+talking and may paradoxically improve during mild activity
+Adaptive changes in the alimentary tract
+Nausea and vomiting are very common complaints in pregnancy
+affecting of pregnancies This might be an adaptive
+Table Reference ranges for respiratory function in pregnancy
+Normal values
+Investigations
+mmHg kPa
+mmHg kPa
+Base excess
+Bicarbonate mmol l
+Pregnant
+No change
+Non pregnant
+CARDIOVASCULAR JOURNAL OF AFRICA Volume No March April
+mechanism of pregnancy aiming at preventing pregnant women
+from consuming potentially teratogenic substances such as
+strong tasting fruits and vegetables The exact underlying
+mechanism is not clear but pregnancy associated hormones
+such as human chorionic gonadotropin hCG oestrogen and
+progesterone could to be involved in the aetiology The levels of
+hCG peak at the end of the first trimester when the trophoblast
+is most actively producing hCG correlating with the nausea
+symptoms Nausea is also more frequent in pregnancies with
+high levels of hCG such as in twin pregnancies
+Thyroid hormones may also be involved in the development
+of nausea symptoms as a strong association with nausea and
+abnormal thyroid function tests has been found Thyroid
+stimulating hormone TSH and hCG have similar biomolecular
+structures and therefore hCG cross reacts with TSH stimulating
+the thyroid gland Psychological causes genetic incompatibility
+immunological factors nutritional deficiencies as well as
+Helicobacter pylori infection have been proposed as aetiological
+factors of nausea and vomiting during pregnancy
+The nausea symptoms usually resolve by week but
+about of the patients experience symptoms beyond
+week and some until the end of the pregnancy In most
+cases minor dietary modification and observation of electrolyte
+balance is sufficient About of pregnant women develop
+hyperemesis gravidum a severe form of nausea and excessive
+vomiting often resulting in dehydration electrolyte imbalance
+ketonuria weight loss and vitamin or mineral deficiencies
+In these cases intravenous fluid and vitamin substitution is
+commonly required Thiamine supplementation is important in
+order to avoid the development of Wernicke s encephalopathy
+As pregnancy progresses mechanical changes in the
+alimentary tract also occur caused by the growing uterus The
+stomach is increasingly displaced upwards leading to an altered
+axis and increased intra gastric pressure The oesophageal
+sphincter tone is also decreased and these factors may predispose
+to symptoms of reflux as well as nausea and vomiting
+Changes in oestrogen and progesterone levels also influence
+the structural alterations in the gastrointestinal tract These
+include abnormalities in gastric neural activity and smooth
+muscle function leading to gastic dysrhythmia or gastroparesis
+The alterations are pronounced in women with pre existing
+Inspiratory
+reserve
+volume
+Lung
+volume
+Respirator
+rate
+Tidal
+volume
+Functional
+residual
+capacity
+gastrointestinal diseases such as gastroesophageal reflux disease
+diabetic gastroparesis gastric bypass surgery or inflammatory
+bowel disease
+Endocrine changes
+Thyroid
+There is an increase in the production of thyroxine binding globulin
+TBG by the liver resulting in increased levels of thyroxine TO
+and tri iodothyronine T Serum free T IT and T levels
+are slightly altered but are usually of no clinical significance Levels
+of free T and do however decrease slightly in the second and
+third trimesters of pregnancy and the normal ranges are reduced
+Free T and T are the physiologically important hormones and are
+the main determinants of whether a patient is euthyroid
+Serum concentrations of TSH are decreased slightly in the
+first trimester in response to the thyrotropic effects of increased
+levels of human chorionic gonadotropin Levels of TSH increase
+again at the end of the first trimester and the upper limit in
+pregnancy is raised to gmol l compared with the level of
+gmol l in the non pregnant state Table
+Pregnancy is associated with a relative iodine deficiency The
+causes for this are active transport of iodine from the mother
+to the foeto placental unit and increased iodine excretion in the
+urine The World Health Organisation recommends an increase
+in iodine intake in pregnancy from to mg day If
+iodine intake is maintained in pregnancy the size of the thyroid
+gland remains unchanged and therefore the presence of goiter
+should always be investigated The thyroid gland is larger in
+patients who are iodine deficient
+Adrenal gland
+Three types of steroids are produced by the adrenal glands
+mineralocorticoids glucocorticoids and sex steroids The RAA
+system is stimulated due to reductions in vascular resistance and
+blood pressure causing a three fold increase in aldosterone levels
+in the first trimester and a fold increase in the third trimester
+Levels of angiotensin II are increased two to four fold and renin
+activity is increased three to four times that of non pregnant values
+During pregnancy there is also an increase in serum levels
+of deoxycorticosterone corticosteroid binding globulin CBG
+adrenocorticotropic hormone ACT H cortisol and free cortisol
+These changes cause a state of physiological hypercortisolism and
+may be clinically manifested by the striae facial plethora rising
+blood pressure or impaired glucose tolerance Total cortisol levels
+increase at the end of the first trimester and are three times higher
+than non pregnant values at the end of pregnancy Hypercortisolism
+in late pregnancy is also the result of the production of corticotropin
+releasing hormone by the placenta one of the triggers for the onset
+of labour Diurnal variations in ACTH and cortisol levels are
+maintained The hypothalamic pituitary axis response to exogenous
+glucocorticoids is blunted during pregnancy
+Table Reference ranges for thyroid function in pregnancy
+Non
+Thyroid function pregnant
+pmol l
+pmol l
+TSH mU l
+trimester
+Fig Physiological changes in respiratory function in pregnancy
+trimester
+rd
+trimester
+CARDIOVASCULAR JOURNAL OF AFRICA Volume No March April
+Pituitary gland
+The pituitary gland enlarges in pregnancy and this is mainly due
+to proliferation of prolactin producing cells in the anterior lobe
+Serum prolactin levels increase in the first trimester and are
+times higher at term The increase in prolactin is most likely due
+to increasing serum oestradiol concentrations during pregnancy
+Levels of follicle stimulating hormone FSH and luteinising
+hormone LH are undetectable during pregnancy due to the
+negative feedback from elevated levels of oestrogen progesterone
+and inhibin Pituitary growth hormone production is decreased
+but serum growth hormone levels are increased due to growth
+hormone production from the placenta
+The posterior pituitary produces oxytocin and arginine
+vasopressin AVP Oxytocin levels increase in pregnancy
+and peak at term Levels of antidiuretic hormone ADH
+remain unchanged but the decrease in sodium concentration in
+pregnancy causes a decrease in osmolality There is therefore a
+resetting of osmoreceptors for ADH release and thirst
+Glucose metabolism
+Pregnancy is a diabetogenic state and the adaptations in glucose
+metabolism allow shunting of glucose to the foetus to promote
+development while maintaining adequate maternal nutrition
+Insulin secreting pancreatic beta cells undergo hyperplasia resulting
+in increased insulin secretion and increased insulin sensitivity in
+early pregnancy followed by progressive insulin resistance
+Maternal insulin resistance begins in the second trimester
+and peaks in the third trimester This is the result of increasing
+secretion of diabetogenic hormones such as human placental
+lactogen growth hormone progesterone cortisol and prolactin
+These hormones cause a decrease in insulin sensitivity in the
+peripheral tissues such as adipocytes and skeletal muscle by
+interfering with insulin receptor signalling The effect of
+the placental hormones on insulin sensitivity is made evident
+postpartum when there is a sudden decrease in insulin resistance
+Insulin levels are increased in both the fasting and postprandial
+states in pregnancy Fasting glucose levels are however decreased
+due to
+increased storage of tissue glycogen
+increased peripheral glucose use
+decrease in glucose production by the liver
+uptake of glucose by the foetus
+Insulin resistance and relative hypoglycaemia results in lipolysis
+allowing the pregnant mother to preferentially use fat for fuel
+preserving the available glucose and amino acids for the foetus and
+minimising protein catabolism The placenta allows transfer of
+glucose amino acids and ketones to the foetus but is impermeable
+to large lipids If a woman s endocrine pancreatic function is
+impaired and she is unable to overcome the insulin resistance
+associated with pregnancy then gestational diabetes develops
+Lipid metabolism
+There is an increase in total serum cholesterol and triglyceride
+levels in pregnancy The increase in triglyceride levels is mainly as a
+result of increased synthesis by the liver and decreased lipoprotein
+lipase activity resulting in decreased catabolism of adipose tissue
+Low density lipoprotein LDL cholesterol levels also increase
+and reach at term High density lipoprotein levels increase
+in the first half of pregnancy and fall in the third trimester but
+concentrations are higher than non pregnant levels
+Changes in lipid metabolism accommodate the needs of the
+developing foetus Increased triglyceride levels provide for the
+mother s energy needs while glucose is spared for the foetus
+The increase in LDL cholesterol is important for placental
+steroidogenesis
+Protein metabolism
+Pregnant women require an increased intake of protein during
+pregnancy Amino acids are actively transported across the
+placenta to fulfill the needs of the developing foetus During
+pregnancy protein catabolism is decreased as fat stores are used
+to provide for energy metabolism
+Calcium metabolism
+The average foetus requires about g of calcium to maintain its
+physiological processes Most of this calcium is transferred to the
+foetus during the third trimester and is derived from increased
+dietary absorption by the mother There is a decrease in total
+serum calcium concentration during pregnancy This is mainly
+due to a decrease in serum albumin levels due to haemodilution
+resulting in a decrease in the albumin bound fraction of calcium
+However the physiologically important fraction serum ionised
+calcium remains unchanged Therefore maternal serum levels
+of calcium are maintained during pregnancy and foetal needs are
+met by increased intestinal absorption which doubles from
+weeks gestation However the peak demand for calcium is only
+in the third trimester This early increase in calcium absorption
+may allow the maternal skeleton to store calcium in advance l
+Serum levels of hydroxyvitamin D increase and this is
+metabolised further into I dihydroxyvitamin D The increase
+in dihydroxyvitamin D is directly responsible for the
+increase in intestinal calcium absorption
+Increased calcium absorption is associated with an increase in
+calcium excretion in the urine and these changes begin from
+weeks During periods of fasting urinary calcium values are low
+or normal confirming that hypercalciuria is the consequence of
+increased absorption Pregnancy is therefore a risk factor for
+kidney stones
+Skeletal and bone density changes
+There is controversy regarding the effect of pregnancy on maternal
+bone loss Although pregnancy and lactation are associated with
+reversible bone loss studies do not support an association between
+parity and osteoporosis in later life Bone turnover is low in the
+first trimester and increases in the third trimester when foetal
+calcium needs are increased The source of the calcium in the third
+trimester is previously stored skeletal calcium
+A study of bone biopsies in pregnancy has shown a change
+in the micro architectural pattern of bone in pregnancy but not
+overall bone mass The changes reflect the need for the maternal
+skeleton to be resistant to bending forces and biochemical
+stresses needed to carry the growing foetus
+Other musculoskeletal changes seen in pregnancy include
+exaggerated lordosis of the lower back forward flexion of the
+neck and downward movement of the shoulders
+CARDIOVASCULAR JOURNAL OF AFRICA Volume No
+March April
+joint laxity in the anterior and longitudinal ligaments of the
+lumbar spine
+widening and increased mobility of the sacroiliac joints and
+pubic symphysis
+References
+II
+Locktich G Clinical biochemistry of pregnancy Crit Rev Clin Lab Sci
+Rodger M Sheppard D Gandara E Tinmouth A Haematological
+problems in obstetrics Best Prac Res Clin Obstet Gynaecol
+Ramsay M Normal hematological changes during pregnancy and
+the puerperium In Pavord S Hunt B ed The Obstetric Hematology
+Manual Cambridge Cambridge University Press
+Wilson M Morganti AA Zervoudakis I Letcher RL Romney BM
+Von Oeyon P et al Blood pressure the renin aldosterone system and sex
+steroids throughout normal pregnancy Am J Med
+Davison JM Renal haemodynamics and volume homeostasis in preg
+nancy Scand J Clin Lab Invest suppl
+Tkachenko O Shchekochikhin D Schrier RW Hormones and hemody
+namics in pregnancy Int J Endocrinol Metab
+Conrad KP Emerging role of relaxin in the maternal adaptations to
+normal pregnancy implications for preeclampsia Semin Nephrol
+Gant NF Worley RJ Everett R B MacDonald PC Control of vascu
+lar responsiveness during human pregnancy Kidney Int
+Irani R A Xia Y Renin angiotensin signaling in normal pregnancy and
+preeclampsia Semin Nephrol
+Conrad KP Davison JM The renal circulation in normal pregnancy
+and preeclampsia is there a place for relaxin Am J Physiol Renal
+Physiol Fl
+Cheung K L Lafayette RA Renal physiology of pregnancy Adv Chronic
+Kidney Dis
+Rasmussen PE Nielsen

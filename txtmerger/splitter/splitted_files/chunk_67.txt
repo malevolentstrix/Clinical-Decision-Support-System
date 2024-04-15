@@ -1,0 +1,750 @@
+crease the demand for emergency care Maeng et al document that primary care visits appear to be com
+plementary to multiple ED visits while Chen et al find that increased usage of primary care following increases
+in Medicaid reimbursement rates does not decrease ED usage suggesting that primary care and ED care may not be
+substitutes on the margin In our setting if a portion of prenatal care appointments are used to communicate common
+signs of infant distress that require timely care prenatal care may make mothers more likely to recognize when an
+appropriate threshold for seeking care has been crossed This information would induce a mother to seek care in either
+an outpatient urgent care or emergency setting for her child depending on what is available at the moment the
+threshold is breached Our results suggest this is the case and that the information effect dominates the health effect for
+both well child and ED care
+DATA
+Vital statistics data
+Although United States federal law requires the collection and publication of Vital Statistics data Federal Vital Statistics
+do not contain personal identifiers However some individual states will release personally identifiable information for
+specific research purposes In this study we use Natality Data from the State of South Carolina for the time period of
+The data are collected from birth certificates and include nearly all births occurring in South Carolina
+I CONTEMPORARY ECONOMIC POLICY
+BERSAK AND SONCHAK ARDAN
+during the time period under investigation Researchers from the Division of Biostatistics of the South Carolina
+Department of Health and Environmental Control linked mothers across time and provided de identified data for this
+project These data include detailed information on infant health at birth including birth weight gestational age the
+presence of birth abnormalities and whether the child was admitted into the neonatal intensive care unit NICU They
+also contain basic demographic information pertaining to mother and child maternal education age race child s
+gender detailed measures of maternal pre pregnancy and pregnancy risk factors and information on prenatal care
+utilization We use these data to construct our main measures of infant health and provide summary statistics in
+Table
+The Natality data provide information on the number of prenatal care visits the month of pregnancy during which
+prenatal care was initiated and the adequacy of prenatal care All of these measures have variously been employed in
+different studies throughout the literature We focus on first trimester initiation of prenatal care which is indicative of
+prenatal care timing and an early commencement of prenatal care is urged by doctors Additionally as pointed out by
+Currie and Rossin Slater the number of prenatal care visits may not be an appropriate measure as the number of
+visits are at least partially determined by the length of gestation which is an important determinant of birth weight
+itself While our primary specifications compare first trimester initiation of care to an aggregated measure of any other
+initiation our first trimester results are robust to separately controlling for second and third trimester initiation relative
+to no prenatal care
+Because early initiation of prenatal care may not fully capture the amount of prenatal care received by mothers we
+employ an alternative measure as a robustness check the adequacy of prenatal care as measured by the Kotelchuck
+index This index is constructed by calculating a ratio of observed to expected prenatal care visits adjusted for gesta
+tional age classified into four categories inadequate intermediate adequate and adequate plus Kotelchuck We
+compress this categorical variable into a binary indicator for whether a mother received at least adequate prenatal care
+Finally in online Appendix E we re estimate our models with indicators for first trimester initiation third trimester
+initiation and no prenatal care to allow for a finer gradation of the impacts of prenatal care than those of our binary
+measures as presented in the main text
+For outcomes we employ a continuous measure of birth weight as well as the incidence of low birth weight
+g and very low birth weight g Medical and economic research has generally found convincing
+evidence of the detrimental effects of low birth weight on infant survival and future health An additional indicator
+for infant health is gestational age at birth Infants that are born prematurely less than weeks of gestation have a
+much higher incidence of mortality According to Mathews et al health issues related to prematurity were
+responsible for of all infant deaths in Additionally premature infants may suffer long term neurological
+impairments developmental delays and physical disabilities leading to significant health care costs throughout life
+Although gestational age can directly influence the number of visits it cannot influence the onset of prenatal care
+Therefore we also estimate the effect of prenatal care on the likelihood of being born prematurely as well as on the
+likelihood of being small for gestational age SGA and being admitted into a NICU Finally we estimate the impacts
+of prenatal care on the incidence of high birth weight g maternal smoking during pregnancy and maternal
+weight gain as these outcomes are likely to reflect the pure informational impacts of prenatal care as measured at
+birth
+Medicaid claims data
+The South Carolina Revenue and Fiscal Affairs office provided data from South Carolina Medicaid claims of children
+between and These claims are submitted to the state for reimbursement and provide a rich source of in
+formation on health care utilization for Medicaid enrollees Specifically each claim provides information on medical
+procedures that took place during health care encounters medical diagnoses indicators for whether the claim origi
+nated in an ED or IP setting and includes a unique patient identifier Additionally each claim has an associated
+encounter identifier which allows us to identify whether multiple claims are associated with the same event while we
+use this encounter ID to generate all count variables we continue to refer to the encounters as claims for ease of
+exposition We use procedure codes and to identify WCVs and ICD diagnoses to identify
+children who have ever received care for several ambulatory care sensitive early childhood conditions ACSCs which
+are referenced in online Appendix A We provide sample means for all outcomes of interest in results Tables and
+Although South Carolina does cover some children through the Children s Health Insurance Program which
+BERSAK AND SONCHAK ARDAN
+T A B L E Summary statistics
+Variable
+First trimester prenatal care
+Adequate prenatal care
+Birth weight
+Preterm
+SGA
+NICU
+Low weight
+Very low weight
+Gestation
+Inpatient claims
+ED claims
+WCV claims
+Male
+Mother s age
+Race black
+Race other
+Less than HS
+Some college
+College
+Prepreg tobacco
+Pregnancy tobacco
+Prepregnancy diabetes
+Prepregnancy hypertension
+Gest diabetes
+Gest hypertension
+Previous preterm
+Previous poor outcome
+Previous c section
+First born
+BMI
+WIC participation
+Sibling with year age diff
+CONTEMPORARY ECONOMIC POLICY
+All mothers
+Multiparous
+mothers
+Switch PNC
+Difference
+SE of
+Continues
+CONTEMPORARY ECONOMIC POLICY
+BERSAK AND SONCHAK ARDAN
+T A BLE Continued
+Variable
+Sibling with years age diff
+Sibling with years age diff
+Sibling with years age diff
+Sibling with years age diff
+Sibling with years age diff
+Income missing
+Income
+Income
+Income
+Income over
+Observations
+All mothers
+Multiparous
+mothers
+Switch PNC
+Difference
+SE of
+Note Summary statistics in column reflect all births Those in column reflect all births to mothers with multiple observed births in our sample Those
+in column reflect all births to mothers who are observed to change first trimester initiation of prenatal care across births in our sample Column reports
+the average difference between all multiparous mothers and those who change prenatal care initiation and column reports the standard errors of these
+differences All variables are binary except for those with standard errors denoted in parentheses underneath the reported means
+operated as a separate program through until it was converted to a Medicaid Expansion program only our data
+exclude these children and only include claims from infants covered under the Pregnant Women and Infants provision
+of Medicaid which provides coverage through the first year of an infant s life for families making less than of the
+federal poverty level
+We construct all health and health care utilization measures by aggregating observed claims for each child within
+the first year of life We choose to focus on the first year of life because we only observe claims for children that are
+covered by Medicaid The vast majority over of Medicaid paid births in our sample are observed to have
+continuous Medicaid coverage in the year they are born limiting concerns about endogenous movements in and out of
+Medicaid eligibility For health care utilization we create count variables for the number of claims each child has in an
+IP setting or originating in an ED for all claims as well as all WC Vs
+Sample construction
+Because our identification strategy relies on mothers with multiple observed births we start with a sample of
+singleton multiparous births between and that are observed to have any Medicaid eligibility before
+From this we exclude observations with no observed claims during the first year of life births to mothers
+aged younger than or older than and observations because of missing data Because this process leaves
+some observations without sibling pairs we eliminate a further observations leaving us with a final unit of
+analysis of multiparous children Of these births are from distinct mothers that change their
+prenatal care utilization across pregnancies While our estimated impacts of prenatal care are only identified by those
+mothers who change their utilization of prenatal care across pregnancies we provide summary statistics for all
+observed births with Medicaid eligibility and no missing data for comparison We choose to exclude children
+with observed claims because any child moving out of state or obtaining access to an alternate source of care or
+insurance would not show up in our claims data Given that this group represents only about of our sample we
+believe it is likely that the majority of these infants are obtaining care outside of the South Carolina Medicaid system
+rather than truly forgoing all care including well child care Finally it should be noted that the children included
+in our analysis represent approximately of the total births observed in South Carolina between and
+BERSAK AND SONCHAK ARDAN
+ESTIMATION STRATEGY
+CONTEMPORARY ECONOMIC POLICY
+We assume outcomes for child i born to mother j at time period t in county c and in month m can be represented by
+yt Ac V m Cijtcm
+ijtcm
+Yijtcm is a child outcome such as birth weight in grams or number of WCVs PCijtcm represents a measure of prenatal
+care Xijtcm is a vector of observed maternal and child characteristics including mother s age race education reported
+household income pre pregnancy BMI length of gestation in weeks indicator variables for whether a mother was
+smoking before pregnancy pre pregancy diabetes and hypertension previous poor birth outcomes or preterm birth
+previous c section child gender first born status indicators for ages of older siblings at the time of birth and prenatal
+WIC participation We also include separate indicators yt Ac and l m for year month and county of birth respectively
+Finally gj represents unobserved time invariant characteristics of the mother such as health attitudes or endowments
+while Eijtcm represents unobserved time variant factors that influence health outcomes
+As previously discussed one difficulty associated with obtaining causal estimates of prenatal care s impacts on
+future outcomes is that unobserved maternal characteristics may simultaneously influence these outcomes and how a
+pregnant mother utilizes prenatal care If this is the case unobserved maternal characteristics gj will be correlated
+with the measure of prenatal care PC For instance health conscious mothers may initiate early and frequent
+ijtcm
+doctors visits and be more likely to give birth to healthy babies independently of prenatal care This will result in
+positive selection and OLS estimates of Equation will overstate the benefits of prenatal care On the other hand
+unhealthy mothers may compensate for their own poor health by utilizing more prenatal care In this case the OLS
+estimated impact of prenatal care on birth outcomes will be biased downward
+To circumvent bias stemming from the inability to control explicitly for maternal health endowments or attitudes
+we employ mother specific fixed effects The availability of panel data allows us to compare birth outcomes to the same
+mother and control explicitly for gj meaning the key identifying assumption is that the decision to utilize prenatal care
+is only uncorrelated with time variant unobserved maternal characteristics Cijtcm We will obtain consistent estimates as
+long as there are not unobserved time variant factors that influence both outcomes and prenatal care utilization and by
+explicitly controlling for gj our estimated impacts of prenatal care are obtained from differences in outcomes for
+mothers who change their prenatal care behavior across pregnancies
+We attempt to mitigate any concerns about our identification strategy in a number of ways To control for the
+possibility of feedback across pregnancies our preferred specifications include a rich set of controls related to outcomes
+of prior pregnancies and add a full set of year month and county of birth fixed effects to control for geographic or
+temporal factors that may influence access to care We mitigate concerns that changes in family income insurance
+status or access to care could potentially drive changes in prenatal care utilization and future outcomes by limiting our
+analyses to only those infants who are eligible for Medicaid within their first year of life and all reported results are
+robust to controlling for the observed payer at delivery and further control for reported family income to address
+concerns that changes to the Medicaid income eligibility threshold for infants during our study period are driving our
+results Finally we present all fixed effects estimates with both the complete exclusion of controls and with a limited
+subset of demographic controls to illustrate the stability of the estimates and the degree to which prenatal care is
+correlated with observed time variant factors Our estimates are quite stable to the inclusion of these controls sug
+gesting that prenatal care is not highly correlated with observed factors that also influence outcomes and diminishing
+the concern that it is likely correlated with unobserved factors
+We test for reverse causality using observed pre pregnancy maternal health factors as outcomes as correlations
+may indicate other unobserved components of maternal health that are related to both the decision to seek pre
+natal care and to future health outcomes Even with these robustness checks our identification strategy may still
+be biased if there are unobserved factors that are specific to a given pregnancy such as low maternal weight gain
+or vaginal bleeding during the first trimester that influence the decision to seek care and outcomes for that
+pregnancy Although we cannot directly rule this possibility out factors such as these seem most likely to reveal
+the potential for poor health status and would therefore bias our results downwards causing us to underestimate
+any benefits of prenatal care Concerns that the decision to seek prenatal care is directly related to variations in
+household income or insurance status are mitigated by the fact that all of our estimated impacts on future uti
+lization are obtained within the sample of Medicaid eligible children While there may be some concern due to the
+CONTEMPORARY ECONOMIC POLICY
+BERSAK AND SONCHAK ARDAN
+fact that our data span both the Great Recession and the implementation of the Affordable Care Act these events
+would only pose identification problems if they changed the composition of Medicaid eligible births or directly
+influence prenatal care utilization and future outcomes However South Carolina was one of the states which did
+not expand Medicaid following the passage of the Affordable Care Act and we only observe slight no more than
+from baseline increases in the number of Medicaid eligible births during the Great Recession Additionally we
+observe between and of mothers with first trimester initiation of prenatal care for each of the years in
+our data suggesting that if any changes in utilization patterns are driven by the Great Recession they are small in
+nature
+A final concern is that the subgroup of mothers who change their prenatal care utilization across pregnancies are
+fundamentally different from mothers with consistent prenatal care In Table we present summary statistics for three
+distinct groups of mothers all mothers in column multiparous mothers in column and mothers with differences in
+first trimester initiation of care across different births in column Although the subgroup of mothers in column look
+somewhat similar to the full sample of multiparous mothers along many dimensions most differences between the
+groups are statistically significant due to the large sample sizes It is important to remember that inclusion in this group
+is conditional upon having at least one pregnancy in both groups of prenatal care and it is therefore logical and to be
+expected that the averages for the prenatal care variables as well as all potential outcome variables would be signifi
+cantly different from the full sample averages
+Equation assumes the impacts of prenatal care are constant and symmetric across the birth order and irre
+spective of the direction of change meaning we will not identify any impacts of prenatal care that arise through
+mechanisms which durably impact future outcomes For instance if an educational component of prenatal care
+provides durable human capital then any mothers with adequate prenatal care in an early pregnancy would continue
+to see impacts in future pregnancies regardless of future prenatal care utilization Broadly speaking we find no
+consistent differential impacts of prenatal care for first born children when we relax these assumptions and we report
+results from this set of estimates and provide a brief discussion of the theoretical implications in online Appendix C
+Our approach also implicitly assumes that prenatal care from an early pregnancy does not influence observed
+maternal pre pregnancy risk factors such as smoking status or BMI before becoming pregnant To the extent that
+these assumptions are invalid they will bias us against finding any impacts of prenatal care and our estimates that
+control for observed pre pregnancy risk factors can be interpreted as the impacts of prenatal care net of any impacts
+arising through these channels
+In spite of these robustness checks our results still rest on the key assumption of this identification strategy that
+changes in prenatal care utilization across pregnancies are not related to unobserved changes in maternal charac
+teristics There are a number of exogenous factors that could cause changes to prenatal care utilization stemming from
+the supply side of the health care delivery system Low income Medicaid women may have difficulties finding a
+physician willing to accept them scheduling health care appointments or having to wait for long periods in clinics
+Beckmann et al Sunil et al Some studies identified changes in Medicaid reimbursement rates to
+physicians for treating Medicaid patients as a determinant of the amount of prenatal care received by women
+Gray Sonchak Other studies have exploited factors that influence access to care such as a lack of
+transportation transportation disruptions or distance to clinics Evans and Lien estimate that a transportation
+strike in Pennsylvania contributed to missed prenatal care visits while in related work Rossin Slater finds
+geographic access to a clinic impacts a mother s likelihood of participation in the Women Infants and Children WIC
+program
+Unfortunately because our data only come from South Carolina and do not include particularly fine measures of
+patient or provider location we are not able to empirically identify specific external factors that cause changes in
+prenatal care over time in our setting However as mentioned above we control for a rich set of time variant personal
+maternal characteristics as well as provide a battery of robustness checks that adds credence to our findings Addi
+tionally this identification strategy has been recently used by Yan to estimate the impacts of prenatal care on
+outcomes at birth and by Bersak and Sonchak and Chorniy et al to provide plausibly causal estimates of
+the impact of receiving WIC on childhood health and health care outcomes To the extent that the reasons behind
+changes in prenatal care are exogenous to changes in factors we are unable to control for these results will provide
+causal estimates on the effect of prenatal care on infant health and health care utilization Additionally it should be
+noted our that findings that primary care visits and ED visits are used in a complementary fashion in the production of
+infant health do not rely on the validity of this identification strategy
+BERSAK AND SONCHAK ARDAN
+CONTEMPORARY ECONOMIC POLICY
+RESULTS
+Validity of fixed effects strategy
+Table contains our estimated impacts of prenatal care on pre pregnancy smoking body mass index BMI hyper
+tension diabetes and for second or later births prior poor pregnancy outcomes Because each of these outcomes
+occur prior to pregnancy they cannot be influenced by prenatal care and therefore observed correlations are indicative
+of self selection into prenatal care The OLS estimates contained in column suggest there is on net some negative
+selection into prenatal care as early initiation of care is associated with a higher probability of pre pregnancy smoking
+obesity hypertension and prior poor pregnancy outcomes Within mothers however we find more limited evidence of
+selection into prenatal care across pregnancies with the exception of prior poor birth outcomes In column we report
+fixed effects estimates that exclude all other controls and estimate that only pre pregnancy hypertension and prior poor
+birth outcomes are associated with early initiation of prenatal care In column with the inclusion of demographic
+controls we see a small and marginally significant relationship between prenatal care initiation and pre pregnancy
+tobacco usage and a positive and statistically significant relationship between prenatal care and prior poor out
+comes Finally in column we estimate that receiving adequate prenatal care is associated with a statistically sig
+nificant percentage point decrease in the probability of maternal smoking prior to pregnancy While this result is
+statistically different from it represents a decrease of less than from the baseline probability of smoking before
+pregnancy and is therefore a relatively small change Taken on the whole the estimates in Table suggest that after the
+inclusion of maternal fixed effects prenatal care is at worst weakly related to observed maternal risk factors while the
+T A BL E Validity of fixed effect identification reverse causality
+Outcome
+Tobacco
+mean
+PP BMI
+mean
+PP diabetes
+mean
+PP hypertension
+mean
+Prior poor outcomes
+mean n
+Measure of PNC
+First trimester
+Kotelchuck
+Controls
+Maternal FE
+Demographics
+Year county month FE
+Observations
+R squared
+Number of mothers
+x
+x
+x
+x
+x
+oooo
+x
+x
+x
+x
+x
+x
+x
+x
+Note All reported coefficients are estimated impacts of prenatal care on outcome of interest Column contains OLS estimates for comparison purposes
+while all other columns contain maternal fixed effects Demographic controls include family income maternal age and education dummies child gender
+presence of siblings gestational age first born status and indicators for year of birth All standard errors are reported in parentheses and are heteroskedastic
+robust and clustered by mother Statistical significance at the and levels is denoted by and respectively
+CONTEMPORARY ECONOMIC POLICY
+BERSAK AND SONCHAK ARDAN
+OLS results are indicative of negative selection bias with some mothers compensating for other risky behaviors by
+initiating prenatal care earlier There is some stronger evidence that some prenatal care may be related to prior
+pregnancy outcomes where some mothers may self sort into early initiation of prenatal care which is more concerning
+for our identification strategy However the low baseline frequency of prior poor outcomes means that a relatively small
+number of mothers are in this group and are therefore unlikely to drive our other results As a robustness check to
+ensure that selection following prior poor outcomes does not drive our results in online Appendix D we exclude all
+births occurring to mothers with prior poor outcomes and obtain qualitatively similar results
+Impacts of prenatal care on outcomes at birth
+Table shows the impacts of prenatal care on outcomes measured at birth We present OLS results in column for
+comparison fixed effects estimates with the complete exclusion of controls in column and fixed effects estimates with
+the inclusion of only demographic controls in column The point estimated impacts of prenatal care are remarkably
+stable across all fixed effects specifications although they are somewhat more precise with the inclusion of controls
+Using our preferred specifications in column which contain fixed effects and all controls first trimester initiation of
+prenatal care is associated with an increased birth weight of g as well as a decrease in the probability of being born
+below the low birth weight and very low birth weight thresholds of and g by and percentage points
+respectively Because these are relatively rare outcomes this represents a decrease in the incidence of infants
+born at low birth weight and a decrease in the incidence of infants born at very low birth weight
+First trimester initiation of prenatal care is also associated with between a and percentage point reduction
+in the probability of being SGA or being admitted to the NICU at birth which represent between a and
+reduction in the baseline incidence Although all point estimates obtained from fixed effects specifications are smaller
+than those obtained via OLS they are all statistically significant at a confidence level While we estimate that early
+initiation of prenatal care is associated with a reduction in the probability of preterm birth in columns and when we
+include controls the relationship is small and statistically insignificant In column we report estimates using the
+Kotelchuck index as an alternative measure for prenatal care for the most part these results are similar to those ob
+tained when using first trimester initiation with the notable exception that adequate prenatal care is associated with a
+statistically significant increase in the probability of pre term births However this difference is not particularly sur
+prising given that the number of observed visits relative to gestational age is a component of the index itself meaning
+that a mother with a set number of visits will be classified as having received adequate care if her infant is born at a
+younger gestational age
+The final three outcomes in Table indicate the extent to which prenatal care changes maternal behaviors during
+pregnancy and influences outcomes through informational rather than purely clinical mechanisms Across all fixed
+effects specifications we estimate that first trimester initiation of care is associated with a statistically significant in
+crease in the probability of an infant being born at high birth weight and of maternal weight gain during pregnancy
+Excessively high birth weight is viewed as an adverse outcome meaning that the association between prenatal care and
+high birth weight is almost definitely reflecting maternal behavioral changes during pregnancy rather than clinical
+interventions We also generally estimate that prenatal care is associated with a decrease in the probability of maternal
+smoking during pregnancy though this result is not statistically significant when controls other than maternal fixed
+effects are excluded in column and the point estimated impact in our preferred specifications in column of
+percentage points represents only a decrease from baseline
+Impacts of prenatal care on early childhood health care utilization
+Table presents estimated impacts of prenatal care on early childhood health care utilization for three distinct types of
+care care received in an IP setting an ED setting and WCVs We estimate prenatal care is associated with a statistically
+significant increase in both WCVs and ED utilization along with a small but statistically significant decrease in the
+number of IP stays and all sets of results are qualitatively robust to the exclusion or inclusion of additional controls
+though the estimates are somewhat attenuated after controlling for demographics and year county and month fixed
+effects Additionally they are quite stable to the inclusion of maternal risk factors suggesting that feedback across
+pregnancies is not a large concern The estimated impact of first trimester initiation of care on both ED and WC Vs is
+BERSAK AND SONCHAK ARDAN
+T A B L E Impacts of prenatal care on birth outcomes
+CONTEMPORARY ECONOMIC POLICY
+Outcome
+Birth weight
+mean
+Prob low birth weight
+mean
+Prob VLBW
+mean
+SGA
+mean
+NICU admission
+mean
+Prob preterm birth
+mean
+Prob high weight
+mean
+Maternal weight gain
+n mean
+Preg tobacco
+mean
+Measure of PNC
+First trimester
+Kotelchuck
+Controls
+Maternal FE
+Demographics
+Year county month FE
+Maternal risk factors
+Observations
+Number of mothers
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Note All reported coefficients are estimated impacts of prenatal eare on outcome of interest Column contains OLS estimates for comparison purposes
+while all other columns contain maternal fixed effects Demographic controls include family income maternal age and education dummies child gender
+gestational age first born status presence of siblings and WIC enrollment during pregnancy and indicators for year month and county of birth Maternal
+risk factors include observed pre pregnancy risk factors of tobacco usage hypertension diabetes or BMI over along with indicators for prior caesarian
+section or prior poor pregnancy outcomes All standard errors are reported in parentheses and are heteroskedastic robust and clustered by mother Statistical
+significance at the and levels is denoted by and respectively
+significant at a level while for future IP care utilization it is statistically significant across all specifications at the
+confidence level When using the Kotelchuck index as our measure of prenatal care the point estimated impacts of all
+three types of care are moderately larger and all are significant at the confidence level The estimates in columns
+and suggest that prenatal care is associated with between a and increase in the number of claims in an ED
+and between a and increase in the number of WC Vs from baseline It should also be noted that the vast
+majority of infants in our sample have an initial hospital claim associated with birth discounting this initial claim
+would mean that our estimates in columns and suggest that prenatal care is associated with a to
+decrease in the number of additional IP claims from the baseline mean
+CONTEMPORARY ECONOMIC POLICY
+T A BLE Impacts of prenatal care on health and health care utilization
+BERSAK AND SONCHAK ARDAN
+Outcome
+Total inpatient claims
+mean
+Total ED claims
+mean
+Total WCV claims
+mean
+Measure of PNC
+First trimester
+Kotelchuck
+Controls
+Maternal FE
+Demographics
+Year county month FE
+Maternal risk factors
+Infant birthweight
+Observations
+Number of mothers
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Note All reported coefficients are estimated impacts of prenatal eare on outcome of interest Column contains OLS estimates for comparison purposes
+while all other columns contain maternal fixed effects Demographic controls include family income maternal age and education dummies child gender
+gestational age first born status presence of siblings and WIC enrollment during pregnancy and indicators for year month and county of birth Maternal
+risk factors include observed pre pregnancy risk factors of tobacco usage hypertension diabetes or BMI over along with indicators for prior caesarian
+section or prior poor pregnancy outcomes Outcomes are cumulative incidence or count within first full year of life All standard errors are reported in
+parentheses and are heteroskedastic robust and clustered by mother Statistical significance at the and levels is denoted by and
+respectively
+On the whole the results presented in Table provide strong support for the theoretical prediction that prenatal
+care influences maternal information outlined in Equation and provide evidence that the information effect in
+creases the demand for certain types of future health care Our estimated impacts of health measured at birth as well as
+the dissipation of any significant impacts on IP care after we control for birth weight suggest prenatal care likely
+improves child health Given that IP care is usually not directly demanded by patients and is instead accessed through
+either a primary care gatekeeper or referral from an ED finding that prenatal care does not influence IP care through an
+information effect seems plausible However if prenatal care is associated with better health status as suggested by our
+birth outcome and IP results these results imply that the information effect of prenatal care must increase the demand
+for both well visits and ED care and that these impacts are larger than any reduction in demand caused by better health
+Our estimates around WCVs can be interpreted in a similar way although it seems plausible that the health effect
+would be negligible for well child care
+Differential impacts of prenatal care by race
+Table splits our sample and presents the estimated impacts of first trimester initiation of prenatal care for white and
+black mothers separately We report estimates corresponding to column in Tables and in columns and while
+our results in columns and include controls for birthweight and correspond to column in Table We generally
+estimate that prenatal care has a larger direct impact on health for infants of white mothers with our percentage point
+estimated impacts being larger for infant birthweight and the probability of being LBW or SGA Because infants born to
+black mothers tend to have worse outcomes on average the point estimated impacts of prenatal care on the probability
+BERSAK AND SONCHAK ARDAN
+Differential impacts of prenatal care by race
+TABLE
+CONTEMPORARY ECONOMIC POLICY
+White mothers
+Birth weight
+mean
+Prob LBW
+mean
+Prob VLBW
+mean
+SGA
+mean
+NICU
+mean
+Preterm
+mean
+Preg tobacco
+mean
+Prob high weight
+mean
+Maternal weight gain
+mean
+IP visits
+mean
+ED visits
+mean
+wcvs
+mean
+Measure of PNC
+First trimester
+Controls
+Maternal FE
+Demographics
+Year county month FE
+Maternal risk factors
+Birth weight
+Observations
+Number of mothers
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Black mothers
+Birth weight
+mean
+Prob LBW
+mean
+Prob VLBW
+mean
+SGA
+mean
+NICU
+mean
+Preterm
+mean
+Preg tobacco
+mean
+Prob high weight
+mean
+Maternal weight gain
+mean
+IP visits
+mean
+ED visits
+mean
+wcvs
+mean
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Note All reported coefficients are estimated impacts of prenatal care on outcome of interest Column contains OLS estimates for comparison purposes
+while all other columns contain maternal fixed effects Demographic controls include family income maternal age and education dummies child gender
+gestational age first born status presence of siblings and WIC enrollment during pregnancy and indicators for year month and county of birth Maternal
+risk factors include observed pre pregnancy risk factors of tobacco usage hypertension diabetes or BMI over along with indicators for prior caesarian
+section or prior poor pregnancy outcomes All standard errors are reported in parentheses and are heteroskedastic robust and clustered by mother Statistical
+significance at the and levels is denoted by and respectively
+CONTEMPORARY ECONOMIC POLICY
+BERSAK AND SONCHAK ARDAN
+of VLBW and NICU admission are smaller in relative terms for black mothers even though they are larger in absolute
+terms These results are similar to those found by Currie and Grogger and Sonchak who both estimated
+that prenatal care visits had positive benefits on birthweight for white mothers but not for black mothers
+This relationship however flips when we look at outcomes that are more likely to be influenced through the in
+formation mechanism We estimate that prenatal care is associated with larger relative changes in the probability of
+smoking during pregnancy having a high birth weight infant and maternal weight gain for black mothers Addi
+tionally we estimate that early initiation of prenatal care only increases utilization of emergency care for infants of
+black mothers and that it increases WCVs by nearly more for black mothers than it does for white mothers We
+also estimate that prenatal care is only associated with decreased utilization of IP care for white mothers though this
+effect is only marginally significant and dissipates after controlling for birth weight suggesting that these impacts may
+largely be due to the improvements in infant health that are observed for children of white mothers
+On the whole the results in Table provide interesting insights that deserve further investigation in future work
+While they suggest that the direct health effects of prenatal care exist for both black and white mothers they do appear
+to be larger for white mothers However the informational mechanism particularly as relates to future health care
+utilization appears to be much larger for black mothers These results are quite consistent with the proposals suggested
+by Gadson et al to reduce racial disparities in maternal outcomes during pregnancy and outline the many ways
+in which non hispanic black mothers experience worse outcomes than other racial groups Many of these innovations
+such as the CenteringPregnancy group prenatal care model which was rolled out in South Carolina during our study
+period do not substantively change the clinical aspects of prenatal care but do offer a wider range of opportunity for
+provider interactions and the provision of information and our results here support the hypothesis that these mech
+anisms may be particularly important for black mothers
+CONCLUSION
+We estimate that prenatal care is associated with improved infant health as measured by observable outcomes at birth
+Across the board our results for birth outcomes are consistent with the range of positive estimates reported in the
+literature detailed by Corman et al If IP health care utilization is a reasonable proxy for latent health status our
+results do suggest that prenatal care broadly improves child health during the first year of life though our results also
+suggest that at least some of this impact is driven by better health at birth Finally our results on the utilization of well
+child care are entirely consistent with Reichman et al lending them additional credibility
+Our results also suggest prenatal care is associated with increases in the future utilization of health care in most
+settings including ED care According to figures presented in Lu and Kuo the national average cost
+associated with a pediatric IP stay for an ACSC in was with a median cost of According to
+figures presented in McWilliams et al the average cost associated with a pediatric ED visit in in
+Charlotte NC for a condition related to an ACSC was in dollars Under the assumption that our
+estimated changes in utilization are associated with conditions that cost an average amount to treat in each of
+these settings using the point estimates in Table suggests that first trimester initiation of care is associated with a
+net reduction of in spending per child in emergency and IP settings within the first year of life and that
+adequate prenatal care was associated with a net reduction of in spending per child in emergency and IP
+settings within the first year of life While these cost savings are modest and are likely offset to some additional
+extent by an increase in costs associated with additional utilization of primary care they do suggest that the cost
+savings from reducing future hospitalizations are at least large enough to balance out any increased costs from
+additional ED care caused by increasing access to prenatal care
+As with all studies there are some important caveats and limitations to note regarding the external validity of
+our findings First it is important to reiterate that only mothers with multiple Medicaid eligible births are included
+in our sample meaning that our results may not generalize to mothers with only one child or those who are not
+eligible for Medicaid During the time period we look at however Medicaid does pay for a majority of births in
+South Carolina so the results are of interest even if they do not generalize beyond this group Our sample also
+only contains births occurring in South Carolina and the results may not necessarily generalize to other states
+When comparing births in our data set from with National Birth Certificates data for it is clear that the
+Medicaid eligible mothers in South Carolina are more disadvantaged than the average mother with a Medicaid paid
+birth In fact mothers in our sample are younger less educated and are more likely to have poor birth outcomes
+BERSAK AND SONCHAK ARDAN
+CONTEMPORARY ECONOMIC POLICY
+and various pregnancy risk factors than their whole country peer group Finally there may be concerns that
+tertiary factors such as low Medicaid reimbursement rates are acting as barriers to care and driving our results
+While it certainly seems plausible that access to care may be a determinant of both prenatal care and WCVs
+adequate access to care is not typically associated with increasing ED usage and so seems unlikely to drive our
+results If a different unobserved factor such as infant wantedness were driving our primary results it would still
+not jeopardize our conclusion that mothers of infants tend to utilize well child care and emergency care in a
+complementary fashion
+Although it is beyond the scope of what we are able to accomplish with this study one particularly fruitful area
+for future research will be to look at the path dependency of health care utilization The totality of our results
+appear most consistent with the explanation that prenatal care increases health care utilization perhaps through
+educating mothers about potential warning signs that could require urgent attention and therefore helps mitigate
+the severity of some early childhood ailments The model and results we present here suggest the demand for
+health care at a point in time is a function of prior health care consumed and more work is needed in this area to
+be able to make fully informed judgments as to the complete long run impacts and cost effectiveness of prenatal
+care as well as whether prenatal care is the most efficient means through which to provide maternal information
+Our results agree with the conclusion reached by Yan that expanding access to prenatal care would help
+improve infant health at birth relative to the status quo However our hypothesized mechanisms also suggest that
+expanding other community based programs providing educational resources and support to mothers could
+represent exciting opportunities for additional low cost interventions that may prove equally successful at
+improving infant health through informational mechanisms
+ACKNOWLEDGMENTS
+We would like to thank participants in sessions at the American Society of Health Economists and Western
+Economic Association International meetings and Carolina Region Empirical Economic Day as well as Thomas
+Mroz for their helpful comments and suggestions We would also like to thank Chris Finney Heather Kirby and Joe
+Magagnoli for their help in accessing and understanding the data Author names are alphabetical and should not be
+interpreted as reflecting a greater magnitude of contributions SUNY Oswego provided financial support necessary to
+access the data
+ENDNOTES
+In other words beliefs about the entire distribution of shocks in both the presence and absence of care
+Procedure codes and are technically used for children age to age but we observe a small number of likely coding errors in
+our sample from claims using these codes
+The reported point estimated impacts of prenatal care which follow are virtually identical to those obtained if we restrict the sample to
+only those mothers who change prenatal care utilization across pregnancies
+Except for the outcomes of preterm birth and probability of being small for gestational age
+We do not aggregate previous poor birth outcomes Rather the data element provided by the state of South Carolina is coded as Previous
+poor birth outcomes It is our understanding that this measure along with our other prior birth outcomes are reported as true if a
+mother experienced a poor birth outcome in any previous birth
+For all reported estimates errors are clustered at the level of the mother to allow for the influence of unobservables to be correlated across
+births for each mother However all statistical inference is robust to clustering the errors at the county level to allow for unobservables to
+be correlated geographically
+If for example changes in prenatal care across pregnancies are caused by unobserved changes in access to the health care system it
+would then mean that mothers with greater access to the health care system utilize both more primary and emergency department care
+Although not reported here we also estimate that early initiation of prenatal care is associated with increases of roughly additional
+sick visits those which do not originate in an ED nor are inpatient or the conditions included in within the first year of life suggesting
+that it is not solely access to care which is driving any observed increased utilization of emergency care
+Though not reported here the results presented in this and all subsequent subsections are also robust to the inclusion of controls for
+insurance payer at birth
+Though not reported we find small less than impacts of prenatal care on the extensive margin of any inpatient claims any care in an
+ED or any WCVs and these impacts are only statistically significant for ED visits or WCVs
+Less than of our final sample do not identify as white or black in our data and so are excluded from this analysis
+CONTEMPORARY ECONOMIC POLICY
+REFERENCES
+BERSAK AND SONCHAK ARDAN
+Abrevaya J Dahl C M The effects of birth inputs on birthweight evidence from quantile estimation on panel data Journal of
+Business Economic Statistics
+Almond D Chay K Y Lee D S The costs of low birth weight The Quarterly Journal of Economics
+Balsa A I Triunfo P The effectiveness of prenatal care in Uruguay s low income population a panel data approach Latin
+American Journal of Economics
+Beckmann C A Buford T A Witt J B Perceived barriers to prenatal care services MCN The American Journal of Maternal Child
+Nursing
+Behrman J R Rosenzweig M R Returns to birthweight Review of Economics and Statistics
+Bersak T Sonchak L The impact of WIC on infant immunizations and health care utilization Health Services Research
+Black S E Devereux P J Salvanes K G From the cradle to the labor market The effect of birth weight on adult outcomes
+The Quarterly Journal of Economics
+Chen J van den Berghe E Kaestner R Is primary care a substitute or complement for other medical care Evidence from Medicaid
+De Gruyter
+Chorniy A Currie J Sonchak L Does prenatal WIC participation improve child outcomes American Journal of Health Eco
+nomics
+Conway K S Deb P Is prenatal care really ineffective Or is the devil in the distribution Journal of Health Economics
+Corman H Dave D Reichman N E The effects of prenatal health on birth outcomes reconciling a Messy literature In Oxford
+research encyclopedia of economics and finance
+Currie J Grogger J Medicaid expansions and welfare contractions offsetting effects on prenatal care and infant health Journal of
+Health Economics
+Currie J Rossin Slater M Early life origins of life cycle well being research and policy implications Journal of Policy Analysis and
+Management
+Danagoulian S Grossman D S Slusky D Office visits preventing emergency room visits evidence from the Flint water switch
+National Bureau of Economic Research
+Dave D Kaestner R Health insurance and ex ante moral hazard evidence from Medicare International Journal of Health Care
+Finance and Economics
+Dave D M Kaestner R Wehby G L Does public insurance coverage for pregnant women affect prenatal health behaviors
+Journal of Population Economics
+Evans W N Lien D S The benefits of prenatal care evidence from the PAT bus strike Journal of Econometrics
+Freed G L Clark S J Pathman D E Schectman R Influences on the receipt of well child visits in the first two years of life
+Pediatrics Supplement
+Gadson A Akpovi E Mehta P K Exploring the social determinants of racial ethnic disparities in prenatal care utilization and
+maternal outcome Seminars in Perinatology
+Gray B Do Medicaid physician fees for prenatal services affect birth outcomes Journal of Health Economics
+Jones A M An econometric investigation of low birth weight in the United States Journal of Health Economics
+Kogan M D Alexander G R Jack B W Allen M C The association between adequacy of prenatal care utilization and subsequent
+pediatric care utilization in the United St

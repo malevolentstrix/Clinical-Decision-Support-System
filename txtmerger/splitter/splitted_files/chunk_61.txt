@@ -1,0 +1,832 @@
+a
+Continued
+https doi org y
+ection
+nature portfolio
+www nature com scientificreports
+ocio demographic factors
+Gestational diabetes
+IUGR
+Abnormal fetal doppler
+Macrosomia
+Threatening preterm labor
+Placenta previa
+PPROM
+Other
+Unknown
+Fetal malformation
+Risk of DS
+High risk
+Unknown
+regnant women with a confirmed
+n
+o
+ection
+Table Description of the population sociodemographic characteristics SARS CoV severe acute
+respiratory syndrome coronavirus y o years old IQR interquartile range BMI body mass index PPROM
+preterm premature rupture of the membranes IUGR intrauterine growth restriction DS Down syndrome
+WG weeks gestation
+OVID history
+Timing of exposure no
+WG
+Median GA at exposure WG IQR
+WG
+Median GA at exposure WG IQR
+Unknown
+Clinical manifestation no
+Asymptomatic
+Fever
+Cough
+Dyspnea
+Sore throat
+Myalgia
+Fatigue
+Headache
+Nausea vomiting
+Anosmia ageusia
+Other
+Maternal outcomes no
+No adverse outcomes
+Mild adverse outcomes
+Severe adverse outcomes
+Maternal deaths
+Admission to ICU
+Advanced oxygen support
+Pregnant women with a confirmed SARS CoV infection
+n
+Table Description of the population COVID history First trimester was defined from to
+weeks gestation WG second trimester from to WG and third trimester from WG For
+symptomatic patients trimester of exposure was defined as the gestational age GA at onset of symptoms
+For asymptomatic patients the trimester of exposure was defined as the GA at SARS CoV testing For
+symptomatic patients the trimester of exposure was defined as the gestational age GA at onset of symptoms
+For asymptomatic patients the trimester of exposure was defined as the GA at SARS CoV testing IQR
+interquartile range ICU Intensive Care Unit WG weeks gestation
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+regnant women with a OSIT test result for
+SARS CoV
+Severe adverse
+maternal outcomes
+No mild adverse
+maternal outcomes
+ternal outcomes
+Maternal age
+Age Y O
+Unknown
+Ethnicity
+Caucasian
+Unknown
+Previous pregnancies
+Nulliparous no
+Unknown
+n
+o
+Cl
+n a
+n
+Cl
+or
+value
+Maternal comorbidities gestational pre gestational
+Pre gestational comorbidi
+ties
+Pulmonary comorbidities
+Any other
+Cardiac comorbidities
+Renal diseases
+Immunosuppression
+Oncologic comorbidities
+Hematologic comorbidi
+ties
+Auto immune diseases
+Gestational comorbidities
+Multiple pregnancy
+Other
+Hypertensive disorders
+Pre gestational
+Gestational Pre eclampsia
+o
+o
+value
+aORC
+value
+Diabetes
+Pregestational
+Gestational
+Unknown
+Maternal BMI
+BMI
+BMI
+Unknown
+COVID exposure
+Timing of exposure
+weeks gestation
+Unknown
+Scientific Reports I
+Table Risk factors for severe adverse maternal outcomes among pregnant women with a positive SARS CoV
+test The effect of maternal characteristics known to be risk factors were tested i e maternal age year
+old obesity defined as a BMI hypertensive disorders including pre eclampsia pre and gestational
+diabetes pre existent pulmonary cardiovascular renal oncologic diseases and immunosuppression as well as
+pregnancy related risk factors such as pregnancy conditions threatened preterm labor placenta previa placental
+malfunction and preterm premature rupture of the membrane PPROM dichotomized as yes no nulliparity
+dichotomized as yes no ethnicity defined as Caucasian yes no multiple pregnancy age of pregnancy at
+infection dichotomized as or WG In bold are presented significant results SARS CoV Severe acute
+respiratory syndrome coronavirus OR odds ratio aOR adjuster odds ratio y o years old BMI Body Mass
+Index n a non applicable aORs were calculated without missing values b Adjusted for specific COVID risk
+factors maternal age pulmonary comorbidities hypertensive disorders diabetes mellitus maternal BMI and
+other maternal comorbidities with a low prevalence in the cohort specific pregnancy risk factors ethnicity
+parity other pregnancy conditions placenta previa preterm premature rupture of the membrane preterm labor
+IUGR and timing of exposure C Adjusted for specific COVID risk factors only maternal age pulmonary
+comorbidities hypertensive disorders diabetes mellitus maternal BMI and other maternal comorbidities with a
+low prevalence in the cohort
+https doi org y
+nature portfolio
+www nature com scientificreports
+symptoms n experienced severe maternal outcomes including n requiring
+advanced oxygen support and n requiring ICU admission maternal deaths were recorded
+Table
+Risk factors for severe maternal outcomes among positive pregnant women In a univariate
+analysis pulmonary comorbidities crude OR CI hypertensive disorders crude OR
+CI diabetes crude OR CI and BMI crude OR CI were signifi
+cantly associated with an increased risk of severe maternal outcomes Table In a multivariate analysis adjust
+ing for risk factors of COVID severity gestational risk factors of severe maternal outcomes and accounting
+for missing values through multiple imputation pulmonary comorbidities aOR CI hyperten
+Sive disorders aOR CI and diabetes CI remained significantly associated
+while BMI did not retain significance aOR CI When adjusting for COVID risk factors
+only similar results were obtained Table Common pregnancy related risk factors were not associated with
+severe maternal outcomes i e nulliparity ethnicity multiple pregnancy gestational age at infection
+Secondary outcomes Absolute risk of pregnancy obstetrical and neonatal outcomes No differences were
+observed in terms of livebirth rate among positive women with severe adverse outcomes i e cases compared
+to women with no or mild adverse outcomes i e controls absolute rate n compared to
+n Table although a trend toward poorer obstetrical outcomes was observed among women with
+severe adverse outcomes absolute rate of fetal loss WG n compared to
+An increased risk of caesarean section was observed among patients with severe adverse outcomes absolute
+caesarean sections rate n compared to n Similarly women with severe ma
+ternal outcomes were at increased risk of preterm delivery WG absolute risk n compared
+to and WG absolute risk n compared to most of which
+were iatrogenic n and n respectively Newborns born to mothers with severe
+adverse pregnancy outcomes were more frequently admitted to NICU absolute risk n compared
+to n The most frequent reasons for admission were prematurity n and res
+piratory distress n Table A positive SARS CoV test at birth was observed in of neo
+nates n The rates of suspected perinatal transmission and reduced birthweight were similar between
+newborns born to mothers with severe outcomes compared to those with no or mild outcomes
+Discussion
+In this study we present the largest cohort of pregnant women tested for SARS Cov worldwide and the first
+analysis of primary data stratified by the severity of maternal disease allowing us to identify specific risk factors
+associated with adverse maternal outcomes
+Severe adverse outcomes defined by maternal death admission to ICU and or advanced oxygen support
+were observed in of cases Pulmonary comorbidities hypertensive disorders and diabetes mellitus were
+significantly associated with an increased risk of severe maternal outcomes while usual pregnancy related risk
+factors were not No difference in the livebirth rate was observed between pregnant women with severe adverse
+outcomes and patients with an uncomplicated course Nevertheless a significant increased risk of caesarean sec
+tion preterm birth and neonatal admission to the intensive care unit was observed highlighting that obstetrical
+and neonatal outcomes are influenced by the severity of maternal disease
+The rate of severe disease observed here is similar to what has been previously reported in other large
+and summarized in a recent meta where the risk of severe disease among pregnant women
+with COVID was estimated to be CI Importantly this risk of severe maternal complica
+tions appears significantly higher when compared to a non pregnant population at an equivalent age with an
+increased odds of ICU admission or mechanical ventilation up to CI and CI
+Risk factors for severe maternal disease appear to be similar to what has been previously described in the
+general population namely pulmonary pathologies hypertension and Congruently in their meta
+analysis Allotey et al observed an increased risk of severe disease among pregnant women y o those with
+chronic hypertension pre existing diabetes or body mass index Interestingly in our study after adjust
+ment obesity was not independently associated with an increased risk of severe adverse outcomes This could be
+explained by the fact that overweight patients often suffer from hypertension and diabetes metabolic syndrome
+which could act as the predominant causal factors Both are associated with macro and micro vascular com
+plications and endothelial dysfunction has been suggested as a major pathophysiological mechanism associ
+ated with COVID severity In pregnancy endothelial change is a well known mechanism of obstetrical
+complications such as gestational hypertension HELLP Hemolysis elevated liver enzymes low platelets and
+pre and may contribute to the increased risk of COVID complications In our study we did
+not observe any association with maternal age This could be explained by the low number of patients Y O
+included Similarly ethnicity non Caucasian versus Caucasian was not associated with poorer outcomes unlike
+previously
+We observed a rate of positive test among newborns born to mothers with a positive SARS CoV test
+The clinical relevance of this finding remains unclear as at the time of the study we were lacking comprehensive
+data regarding COVID related symptoms or COVID suspected symptoms among newborns repeated testing
+and long term follow up Perinatal transmission of SARS CoV has been reported by others both in case of
+vaginal and cesarean sections and was associated in some cases with neonatal symptoms
+In all reported
+cases the possibility of postnatal infection through contacts with parents or medical personal remains diffcult
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+regnant women With a positive test result for
+SARS CoV
+Severe adverse maternal No mild adverse
+bstetrical neonatal outcomes
+Pregnancy outcomes WG
+Livebirth
+Fetal WG
+Termination of pregnancy
+Obstetrical outcomes among livebirth
+GA at delivery Weeks gestation
+Median GA IQR
+Unknown GA at delivery
+Obstetrical management
+All vaginal deliveries
+Vaginal delivery after spontaneous onset of labour
+Vaginal delivery after induction of labour
+Caesarean sections no
+Elective caesarean sections no
+Emergency pre labor caesarean sections no
+In labour caesarean sections after induction
+In labour caesarean sections after spontaneous
+Unknown
+Preterm birth among pregnancy with exposure WG
+All preterm birth WG no
+Latrogenic birth among preterm birth no
+Unknown no
+Unknown GA at delivery
+Preterm birth among pregnancy with exposure
+All preterm birth WG no
+Latrogenic birth among preterm birth no
+Unknown no
+Unknown GA at delivery
+Neonatal outcomes among livebirths
+Neonatal death
+NICU admission no
+All NICU admission
+Prematurity
+Respiratory distress
+Sepsis
+Cardiovascular complications
+Hypoglycemia
+Hyperbilirubinemia
+Coagulopathy
+Neurologic complications
+Other
+Unknown
+SARS CoV perinatal transmission rates
+Total of SARS CoV test at birth no
+Suspected SARS COV perinatal transmission positive RT PCR at birth no
+Birthweight
+Birthweight PIO no
+Unknown
+outcomes
+n
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+maternal outcomes
+Cl
+n a
+n a
+n a
+n
+o
+o
+o
+Cl
+n a
+n a
+Table Obstetrical and neonatal outcomes depending on maternal severity among women with a positive
+SARS CoV test Obstetrical and neonatal outcomes among positive women were assessed based on the
+severity of maternal disease through a case control study comparing positive women with severe adverse
+maternal outcomes cases to positive women with no or mild adverse maternal outcomes control SARS
+COV severe acute respiratory syndrome coronavirus CI confidence interval WG weeks gestation GA
+gestational age NICU Neonatal Intensive Care Unit n a non applicable
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+to excludel Alternatively transplacental transmission has been suspected in few cases where specific IgM
+were detected among newborns Nevertheless perinatal vertical transmission appear to be rare and mainly
+associated with good neonatal outcomes
+Our study has several limitations First we present here the outcomes among pregnant women with a con
+firmed SARS CoV infection and therefore only observational conclusions can be drawn regarding the absolute
+risks of severe disease and adverse obstetrical neonatal outcomes as a control group of negative patients was not
+included Nevertheless this was beyond the scope of the present study whose first aim was to identify specific
+risk factors
+Second heterogeneities exist between participating centers in the testing of pregnant women While some
+centers performed routine systematic screening of presenting women independently of compatible symptoms
+other only tested symptomatic pregnant women This could have led to a selections bias of more severe sympto
+matic COVID cases Ifa symptomatic SARS CoV infection is associated with poorer maternal obstetrical
+and neonatal outcomes this selection bias may have resulted in an overestimation of the absolute risk of adverse
+outcomes However the rate of asymptomatic infections among included positive women of n
+is quite similar to the rate of asymptomatic infection described in the general population estimated to range
+around and suggests a low impact of this potential bias Similarly patients admitted with severe
+disease were very likely systematically tested for SARS CoV which may have led to a possible overestimation
+of the actual rate of severe adverse outcome among positive patients Follow up analysis including patients with
+ongoing pregnancies with an uncomplicated course based on systematic screening will help assess the exact risk
+in a more general population of pregnant women
+Third most patients were included during the trimester of gestation with the majority included close
+to delivery while pregnancies were still ongoing at the time of analysis Although we did not observe any
+impact of the gestational age i e WG on the severity of maternal disease this could be related to a lack
+of statistical power Pregnancy related vascular complications only occur after WG which would suggest
+an increased risk of maternal complications in cases of maternal infection at a later stage of the pregnancy as
+observed by In our cohort severe maternal outcomes were also observed in women exposed at WG
+with an overall similar risk n to what was described in the whole cohort Therefore caution should
+also be taken with pregnant women infected in early pregnancy
+Although our data regarding obstetrical outcomes are reassuring definite conclusions cannot be drawn
+Infections occurring at an earlier stage of gestation may be associated with poorer obstetrical outcomes Viral
+particles have been detected within the placentas of women infected earlier during pregnancy
+Although
+placental infection seems rare it has been associated with evidence of malperfusion
+which is known to be
+associated with reduced fetal growth and intra uterine fetal death Of note Khalil et al have shown an increase in
+the number of stillbirths during the epidemic peak without being able to determine whether this is a direct effect
+of the At the time of analysis pregnancies WG that were exposed during the and trimesters
+were still ongoing Fig suggesting an uncomplicated course Subsequent analysis including those patients
+are needed to better define obstetrical and neonatal outcomes
+In conclusion pregnant women particularly those with associated comorbidities seem to be at higher risk
+of severe complications of SARS CoV infection Obstetrical and neonatal outcomes appear to be influenced
+by the severity of maternal disease complications include caesarean sections neonatal prematurity and neonatal
+admission to the intensive care unit Further studies are needed to assess maternal and neonatal outcomes for
+cases of earlier exposure
+Received January Accepted June
+Published online July
+References
+II
+Yu N et al Clinical features and obstetric and neonatal outcomes of pregnant patients with COVID in Wuhan China A
+retrospective single centre descriptive study Lancet Infect Dis
+Collin J E Carnahan A Ahrne M Public Health Agency of Sweden s Brief Report Pregnant and postpartum
+women with severe acute respiratory syndrome coronavirus infection in intensive care in Sweden Acta Obstet Gynecol Scand
+Knight M et al Characteristics and outcomes of pregnant women admitted to hospital with confirmed SARS CoV infection
+in UK National population based cohort study BMJ
+Martinez Perez O et al Association between mode of delivery among pregnant women with COVID and maternal and neonatal
+outcomes in Spain JAMA https doi org jama
+Vivanti A J et al Retrospective description of pregnant women infected with severe acute respiratory syndrome coronavirus
+France Emerg Infect Dis
+Allotey J et al Clinical manifestations risk factors and maternal and perinatal outcomes of coronavirus disease in pregnancy
+Living systematic review and meta analysis BMJ
+Zhou F et al Clinical course and risk factors for mortality of adult inpatients with COVID in Wuhan China A retrospective
+cohort study Lancet
+Petrilli C M et al Factors associated with hospital admission and critical illness among people with coronavirus disease
+in New York City Prospective cohort study BMJ m
+Badr D A et al Are clinical outcomes worse for pregnant women weeks gestation infected with COVID A multicenter
+case control study with propensity score matching Am J Obstet Gynecol https doi org l j ajog
+Sisman J et al Intrauterine transmission of SARS COV infection in a preterm infant Pediatr Infect Dis J https doi org lO
+Zeng L et al Neonatal early onset infection with SARS CoV in neonates born to mothers with COVID in Wuhan China
+JAMA Pediatr https doi org lO lOOl jamapediatrics
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+Baud D et al Second trimester miscarriage in a pregnant woman with SARS CoV infection JAMA https doi org l l l
+jama
+Algarroba G N et al Visualization of severe acute respiratory syndrome coronavirus invading the human placenta using electron
+microscopy Am J Obstet Gynecol
+Panchaud A et al An international registry for emergent pathogens and pregnancy Lancet
+Harris P A et al Research electronic data capture REDCap a metadata driven methodology and workflow process for provid
+ing translational research informatics support J Biomed Inform
+Harris P A et al The REDCap consortium Building an international community of software platform partners J Biomed Inform
+CDC COVID Response Team Preliminary estimates of the prevalence of selected underlying health conditions among patients
+with coronavirus disease United States February March MM WR Morb Mortal Wkly Rep
+Monteil V et al Inhibition of SARS CoV infections in engineered human tissues using clinical grade soluble human
+cell
+Varga Z et al Endothelial cell infection and endotheliitis in COVID Lancet
+Roberts J M et al Preeclampsia An endothelial cell disorder Int J Gynecol Obstet
+Sze S et al Ethnicity and clinical outcomes in COVID A systematic review and meta analysis EClinicalMedicine
+Wang S et al A case report of neonatal COVID infection in China Clin Infect Dis https doi org l cid
+Dong L et al Possible vertical transmission of SARS CoV from an infected mother to her newborn JAMA https doi org
+jama
+Zeng H et al Antibodies in infants born to mothers with COVID pneumonia JAMA https doi org jama
+Oran D P TOPOI E J Prevalence of asymptomatic SARS CoV infection A narrative review Ann Intern Med https doi
+org
+Lavezzo E et al Suppression of a SARS CoV outbreak in the Italian municipality of Vo Nature https doi org
+Penfield C A et al Detection of SARS COV in placental and fetal membrane samples Am J Obstet Gynecol MFM
+https doi org j ajogmf
+Prabhu M et al Pregnancy and postpartum outcomes in a universally tested population for SARS CoV in New York City A
+Shanes E D et al Placental pathology in COVID Am J Clin Pathol
+Hosier H et al SARS CoV infection of the placenta J Clin Investig https doi org lO
+Khalil A et al Change in the incidence of stillbirth and preterm delivery during the COVID pandemic JAMA https doi org
+jama
+Acknowledgements
+We thank all patients midwives and nurses involved in this project for their contribution and for providing cru
+Cial help in data management data entry and ethical procedures especially Mrs Karine Lepigeon and Caroline
+Lombard Lausanne University Hospital Othenin Girard Marika Santagata and Monia Moreau
+Geneva University Hospital
+Author contributions
+M V G F O M P L P D B and A P conceived and designed COVI Preg All authors n provided cases in
+COVI Preg M V and A P performed the statistical analysis M V G F L P D B and A P interpreted the results
+did the literature review and wrote the first draft All authors provided critical inputs to the paper reviewed and
+approved the final version
+Competing interests
+The authors declare no competing interests
+Additional information
+Supplementary Information The online version contains supplementary material available at https doi org
+y
+Correspondence and requests for materials should be addressed to D B
+Reprints and permissions information is available at www nature com reprints
+Publisher s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiations
+O O Open Access This article is licensed under a Creative Commons Attribution International
+License which permits use sharing adaptation distribution and reproduction in any medium or
+format as long as you give appropriate credit to the original author s and the source provide a link to the
+Creative Commons licence and indicate if changes were made The images or other third party material in this
+article are included in the article s Creative Commons licence unless indicated otherwise in a credit line to the
+material If material is not included in the article s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use you will need to obtain permission directly from
+the copyright holder To view a copy of this licence visit http creativecommons org licenses by O
+O The Author s
+Scientific Reports I
+https doi org y
+nature portfolio
+women
+Article
+MDPI
+Knowledge and Perception of Risk in Pregnancy and Childbirth
+among Women in Low Income Communities in Accra
+Patricia Anafi l and Wisdom Kwadwo Mprah
+Department of Kinesiology and Health Sciences College of Education and Health Professions
+Columbus State University Columbus GA USA
+Centre for Disability and Rehabilitation Studies Department of Health Promotion and Disability Studies
+School of Public Health Kwame Nkrumah University of Science and Technology Kumasi PMB Ghana
+Correspondence columbusstate edu Tel
+check for
+updates
+Citation Anafi P Mprah W K
+Knowledge and Perception of Risk in
+Pregnancy and Childbirth among
+Women in Low Income Communities
+in Accra Women
+https doi org
+Academic Editors Claudio
+Costantino and Maiorana Antonio
+Received October
+Accepted November
+Published November
+Publisher s Note MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affil
+iations
+cc
+i
+Copyright
+by the authors
+Licensee MDPI Basel Switzerland
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution CC BY license https
+creativecommons org licenses by
+Abstract Perception and knowledge of risk factors for pregnancy influence health behaviors during
+pregnancy and childbirth We used a descriptive qualitative study to examine the perception and
+knowledge of risk factors in pregnancy and childbirth in low income urban women in Ghana Over
+the course of three months focus group discussions and six individual interviews were conducted
+with participants selected from six communities in the study area Data were analyzed using
+inductive thematic content analysis Findings revealed that participants had knowledge of some risk
+factors although some had superstitious beliefs Participants viewed pregnancy as an exciting and
+unique experience but also challenging with a host of medical and psychological risks Pre existing
+medical conditions e g diabetes lack of physical activity poverty poor nutrition and lack of social
+support were identified as conditions that could lead to negative pregnancy outcomes Superstitious
+beliefs such as exposure to evil eye during pregnancy as well as curses and spells were also
+identified as risk factors for pregnancy complications This research has implications for policies and
+programs to improve pregnancy outcomes for low income women in Ghana Thus we recommend
+social and economic support programs as well as health education to change misperceptions about
+pregnancy risk and to support other efforts being made to improve maternal health outcomes
+Keywords perception knowledge risk in pregnancy women low income communities
+Introduction
+Risk is defined as a factor that presents eminent danger or increases the probability
+of experiencing adverse outcomes Perception on the other hand refers to a mental
+image or subjective ideas about a potential occurrence of a phenomenon The concept
+of perception is important because it is a driver of health seeking behavior and the man
+agement of health outcomes Risk perception therefore refers to risk interpretations
+or understanding as well as subjective judgements about risk In the field of health
+risk perception denotes subjective judgements about the likelihood of negative or adverse
+outcomes of conditions such as illnesses injuries diseases or death Perceptions and
+knowledge about risk are important determinants of health behaviors and risk related
+decision making such as whether to adopt or not to adopt healthy behaviors and reject or
+accept a certain level of health risks
+Risk perception has two dimensions the cognitive aspect which relates to how much
+individuals know and understand risks and the emotional aspect which relates to how
+people feel about themselves and a potential risk Research on risk perception often
+begins with the presumption that how people feel about danger is determined by the level
+of knowledge and certainty they have regarding that risk This idea is founded on the
+rational choice model of decision making which presents individuals as rational beings
+who evaluate the possibilities of health outcomes after first estimating the prospective costs
+and benefits On the other hand laypersons usually assess risk by using heuristics for
+Women https doi org
+https www mdpi com journal women
+Women
+example previous experiences and other informal ways of thinking This means that
+when people are aware of certain risks or potential risks they tend to believe that those
+risks could happen more frequently than the risks actually occur and vice versa These risk
+misinterpretations rooted in heuristics can cause people to overestimate or underestimate
+the occurrence and severity of potential health threats
+According to Lennon risk perception in pregnancy entails both the objective
+medical evaluation of risk as well as a subjective socially constructed risk guided by a
+complex web of personal psychological and cultural factors It includes the assessment of
+the possibility of harm or negative health outcomes to either the mother or the newborn
+or both However sometimes this harm or risk is not related to a particular medical
+condition instead women may see pregnancy and childbirth as inherent risks rather
+than conditions that cause the risk In recent years risk perception and the way risks are
+construed in pregnancy have received a lot of scholarly attention This can be explained
+in part by the growing prevalence of a medicalized perspective on pregnancy and the
+social pressure placed on women to behave in a way that lessens the perceived risks
+Increasingly medical interventions are seen as both necessary and desirable for successful
+pregnancies as the state of pregnancy has become more and more medicalized Thus
+seeking preventive services such as antenatal screening genetic screening and testing as
+well as health behavior modifications are considered necessary to reduce any potential risk
+of pregnancy complications
+Furthermore considerable evidence shows that perceptions and understanding or
+knowledge of risk are shaped by many factors including socio cultural background
+levels of literacy and religious or traditional beliefs An individual s knowledge
+and interpretation of risk is also dependent on their personal life philosophy and previous
+experience It has been documented that sometimes women perceive risk in relation to
+pregnancy from the social perspective where risk is seen as being influenced by the social
+cultural and political milieu in which they reside Wheeler and colleagues for
+example reported women s employment experience during pregnancy as an important
+factor in determining their perception of risk in pregnancy Furthermore other scholars
+have reported that maternal age personal and family history knowledge about
+pregnancy and childbirth as well as level of risk or complication in pregnancy
+are important determinants of perception and understanding of risk in pregnancy These
+factors can influence opinions interpretations of and values put on the risks and even
+benefits associated with pregnancy In a qualitative study on pregnancy risk perception
+and preterm birth Silva and colleagues found that personal negative experiences in
+previous pregnancies such as stillbirths miscarriages having a preterm birth or neonatal
+death informed risk perceptions of the current pregnancy Women s perception of risk in
+pregnancy has also been attributed to their knowledge base of risk
+Perception and understanding of risk in pregnancy have the effect of influencing
+various critical pregnancy and childbirth decisions They affect decisions such as when
+and where to seek antenatal care where to give birth or choice of maternity site who
+supervises the birth and even the mode of delivery Silva and colleagues also
+argued that a patient s risk perception of health guides his or her decisions on treatment
+and can further influence health seeking behavior during serious conditions such as pre
+term births one of the most critical potential risks faced during pregnancy Janson on
+childbirth decisions and traditional structures in Ghana explained that women who viewed
+childbirth as a natural process and without potential risks or ill health may consider home
+delivery as the best option Traditionally in Ghanaian society pregnancy and childbirth
+are viewed as a vulnerability and potentially dangerous experiences that do not only
+require biomedical care but also spiritual intervention Therefore many women seek a
+combination of care biomedical care traditional care which involves the use of herbal
+medicine and spiritual support faith healing and prayer in the pregnancy period with
+the hope of averting any perceived or actual health risk to the pregnancy and during
+childbirth The focus of this paper therefore is to present findings from a study
+Women
+that investigated women s perception and knowledge of risk in pregnancy and childbirth
+and how these affect their maternal healthcare seeking behavior in selected low income
+communities in Accra The implications of the findings for maternal and newborn health
+policies and programs are discussed
+Materials and Methods
+Study Design
+This was a descriptive qualitative study that targeted women in selected low income
+communities in Accra Ghana The data were gathered over a three month period through
+focus group discussions FGDs and interviews to examine women s perception and knowl
+edge about risk in pregnancy and childbirth
+Study Area
+The study was conducted in the Ashiedu Keteke sub metropolitan district in the city
+of Accra Ghana s capital Ashiedu Keteke is one of the sub metropolitan districts of
+Accra Metropolitan City and has some of the poorest communities in the city Using the
+Greater Accra region population growth of the sub metropolis has an estimated
+population of about in The sub metropolis has the Central Business
+District CBD and it is the center of major commercial activities within the city of Accra
+with an influx of approximately million people from all parts of the country daily As
+the center of commerce it houses the Markola and Agbogbloshie markets which are two
+major markets within the Greater Accra region The population of Ashiedu Keteke is made
+up of the indigenous Ga people who live in the coastal communities along the Gulf of
+Guinea the Atlantic Ocean and other migrant populations who reside a bit further away
+from the coast The main occupation of the indigenous Ga people is fishing the men do the
+fishing and the women smoke the fish for the market The migrant population engages in
+small scale commercial activities mostly trading
+In terms of health care the Ussher Polyclinic the Prince Marie Louise Children s
+Hospital and the James Town Maternity are among the major health facilities that provide
+care to residents in the sub metropolitan district Maternal health continues to be a health
+challenge as Ashiedu Keteke has one of the poorest maternal health outcomes in Accra and
+has a persistently high teenage pregnancy rate in the city There is high prevalence
+of the use of informal maternal health care traditional birth attendance faith healing and
+prayer by pregnant women in the area especially among the teenage and indigenous
+mothers From available data about of pregnant women who reside in the sub
+metropolitan district do not seek antenatal care until the second and third trimesters a
+situation quite a bit higher than the national average of
+Sampling of Participants and Data Collection
+Purposive sampling was utilized to select six communities within the study area for
+the FGDs and individual interviews Altogether women between the ages of and
+years were recruited for focus group discussions and six individuals were involved
+in the interviews For the FGDs a snowball sampling approach was employed to recruit
+women who had at least one child We conducted two FGDs in each of the communities
+We divided the women in the FGDs into two age cohorts those aged to and those aged
+to Each FGD had an average of seven participants and lasted between min We
+conducted six FGDs with each age cohort Additionally six women with at least one child
+from each of the six communities one mother from each community were interviewed for
+about min to elicit in depth perspectives on the subject matter Two community leaders
+assisted with the recruitment of the study participants
+The FGDs and individual interviews both used comparable questions which were
+framed around our research objectives We asked participants about their knowledge and
+risk perceptions with regard to pregnancy and childbirth and how these factors influenced
+their healthcare seeking decisions and behaviors during pregnancy and childbirth Both
+Women
+FGDs and interviews were carried out with the assistance of our two fieldworkers and in
+two local languages spoken in the study area The two field assistants were native speakers
+of the two local languages Ga and Twi The FGDs and interviews were audio recorded
+with the participants permission
+Ethical Consideration
+The Human Subject Review Committee of the University of Massachusetts Amherst
+School of Public Health granted the ethical approval of the research Additionally we
+received authorization from the local health administration in the study area and verbal
+consent from all study participants prior to their enrollment in the study Since most of our
+study participants had only a basic formal education we only sought verbal consent from
+them prior to recruitment into the study and assured them that information obtained from
+the FGDs and interviews would be kept confidential and only the lead researcher would
+have access to the raw data Participation in the study was voluntary and they had the
+option of withdrawing at any time
+Data Analysis
+The data analysis began during the data collection phase and continued following
+FGDs and interview sessions With the assistance of our two fieldworkers audio recordings
+of both FGDs and interviews were transcribed from the local languages into English
+Following transcription we cross checked the transcripts to confirm that the responses
+had been accurately transcribed and translated from the local languages to English We
+reviewed the final transcripts in order to determine which words phrases and statements
+were pertinent to our primary research questions and objectives We classified the data
+into nine themes using an inductive content analysis approach proposed by Corbin and
+Strauss and Miles and colleagues
+We first identified and cataloged the major concepts and recurring ideas in each
+interview transcript Second we compared and classified the significant concepts and
+emerging themes from the interview transcripts We did the same thing with the transcript
+data from the FGDs we compared significant concepts and developing themes within and
+across FGDs The raw text section containing the essential concepts and ideas were coded
+manually and classified according to the emergent themes To ensure the findings internal
+validity we compared and contrasted data segments from the FGDs with the individual
+interviews
+In this article we present data on nine themes that emerged from our
+analysis
+Results
+The nine themes were identified as the following factors first trimester experience
+medical conditions lack of physical activity antenatal care lack of social support poverty
+and poor nutrition sleeping posture and hot showers exposure to certain conditions and
+spells and curses
+First Trimester Experience
+According to most of the participants pregnancy during the first trimester period
+is associated with both joy and risk The participants reported that the usual thought of
+being pregnant brings joy and hope but the experience during this period could be
+challenging for many women Participants explained that during the first trimester the
+pregnant woman is unable to eat as she experiences general body weakness morning sick
+ness fevers severe headaches dizziness heart palpitations and sleeplessness Although
+these are normal they could pose serious health risks to the woman during this period
+of the pregnancy The women described psychological problems such as fears anxiety
+and stress that a woman could experience during early months of the pregnancy Two
+participants explained it this way
+Women
+When a woman is pregnant she does not feel well as she used to be the whole
+experience can make you feel sick and you know this feeling of sickness can last
+during the whole pregnancy period for many women the first three months can
+be hard on you you become anxious and afraid
+FGD participant
+In my case I always felt like I was going to fall down in my early months But
+this feeling happens to many pregnant women so its normal to feel that way
+because your body is adjusting it begins to go away after the third months for
+most pregnant women Interview participant
+Medical Conditions
+Both FGD and interview participants were of the view that complications could occur
+in pregnancy when a pregnant woman already has a pre existing disease They explained
+that pre existing diseases or infections such as malaria diabetes candidiasis odeepu
+or HIV can increase the vulnerability of a pregnant woman This is because it is not easy
+to carry a pregnancy when you are already sick or have a disease Interview participant
+Having a chronic condition
+like AIDS or sugar disease diabetes and becoming
+pregnant could be challenging as you don t sit at home You will need to go to the clinic
+for regular and proper care FGD participant These medical conditions could expose
+the woman to the risk of experiencing a difficult pregnancy labor and delivery and could
+affect the baby s health as well
+According to the participants in the FGDs other medical conditions indicating that the
+pregnant woman is at risk of complications are high blood pressure swelling in the hands
+and feet anemia and delay in the delivery of the afterbirth or the placenta Participants
+also mentioned bleeding during pregnancy and childbirth as a major health risk for the
+mother and the baby These views were also expressed by the women in the individual
+interviews as exemplified by a personal experience of an interview participant who said
+I don t have an easy pregnancy My second pregnancy was the worst of all I
+had swollen feet and hands and they nurses said my blood pressure was going
+up at some point and I thought those were not good signs for my pregnancy
+especially when they told me my pressure was going high and I had to come in
+for regular review Interview participant
+Lack of Physical Activity
+Another risk factor identified was being physically inactive during pregnancy Ac
+cording to some of the participants a pregnant woman who is physically inactive or does
+not exercise could likewise be at risk for a difficult and prolonged labor as explained in the
+following statement by an FGD participant
+You see there are pregnant women who don t do any work they don t walk
+they just sit at one place and they stop coming to the market But there are others
+who work with their pregnancy They go to the farm and do everything When
+you are not active the baby will not be active The baby cannot turn or move in
+the womb and you will have problem during delivery
+FGD participant
+Antenatal Care
+Most of the participants said women who do not seek medical care or attend ante
+natal clinics could be at risk of pregnancy complications During the FGDs participants
+recounted that a pregnant woman should seek regular health care to prevent potential
+complications that could affect the pregnancy and to ensure a successful birth A participant
+in the FGDs noted a situation where the mother failed to seek antenatal screening for
+early risk detection and treatment it leads to conditions such as fetal malpresentation or
+malposition a critical condition for prolonged labor FGD participant
+Women
+Similar views were also shared by participants in the interviews who identified
+prolonged labor as a risk a pregnant woman could be exposed to during childbirth if she
+fails to attend an antenatal clinic
+Lack of Social Support
+According to the participants pregnant women who do not have adequate spousal
+or family support could experience difficult pregnancy and childbirth because pregnancy
+could be stressful and emotionally demanding As a result if the pregnant woman is
+not adequately supported it could negatively affect her health and that of the unborn
+baby Two FGD participants explained the effect of a lack of social support on pregnancy
+outcomes in the quotation below
+I know a young woman that the man who made her pregnant refused to accept
+the pregnancy Her parents are not living here referring to her community and
+she does not have any other family member in Accra here The baby she delivered
+was very small You know she didn t have any support she was always by
+herself and only got a little help from neighbors and that affected the baby FGD
+participant
+Sometimes these young mothers work long hours The kayaye teen girls head
+porters who are pregnant they carry heavy loads in the market for people
+who come to shop or do groceries They don t have their families or anybody
+here to help them It is stressful to do this kind of job when you are pregnant
+FGD participants
+These findings were corroborated by the interview participants who reported a lack
+of social support for young migrant pregnant women in the study area as a major risk
+factor for negative pregnancy outcomes The following remark was made by a participant
+in support of this assertion when you go to the market right now you see them young
+female migrant porters carrying big bowls full of load for people with their pregnancy
+Some of them don t even know the fathers of their babies and their parents are not here to
+help them and this is not good for the pregnancy Interview participant
+Poverty and Poor Nutrition
+Poverty emerged as an important risk factor for pregnancy and childbirth compli
+cations Both FGDs and interview participants agreed that poverty could lead to poor
+nutrition among pregnant women leading to poor pregnancy outcomes because a preg
+nant woman should ensure she eats well on time and the right portions which is a major
+problem for some women According to the participants some pregnant women don t
+have the money to buy enough food and that could affect their health and the pregnancy
+as well A pregnant participant in one of the FGDs confirmed this and said the poor
+mothers who don t have families here their general health begins to become worse after
+delivery This is because when they go home there is nothing there to eat and their babies
+cannot grow because they don t feed them well since they themselves don t eat well FGD
+Participant According to some participants the young pregnant migrant mothers who
+lived in the study area relied on neighbors for meals when they became pregnant One
+FGD participant also put it this way
+if they don t get this assistance they don t eat Some pregnant mothers eat
+small portions of meal in the morning and they don t eat until evening because
+they don t have families here Accra and the men who made them pregnant
+didn t accept the pregnancy FGD participant
+These findings were supported by some of the interview participants who said that
+the young pregnant migrant mothers usually worked for long hours carrying heavy loads
+to make a living and to save towards delivery which exposes them to pregnancy related
+risks The quotation below highlights this issue
+Women
+Oh when you go there markets right now you will see them working in the
+market they carry loads in the market Some sell under the hot sun and this is
+not too good for the pregnancy but they need the money so they and their babies
+can have food to eat the weeks following delivery Interview participant
+Furthermore most of the participants thought that poverty made it difficult for preg
+nant mothers to attend antenatal clinics and delayed care during labor exposing the
+pregnant woman and the baby to life threatening complications
+Sleeping Posture and Hot Showers
+Both the FGDs and interview participants agreed that when a pregnant mother sleeps
+on her back it can affect the health of the mother and the unborn baby They explained that
+when a pregnant mother sleeps on her back it obstructs the flow of oxygen from the mother
+to the unborn baby and this could be fatal for the unborn baby as well as the mother
+This sleeping on your back during pregnancy is not good for your pregnancy
+when you are pregnant you don t sleep on your back You sleep by your side
+People pregnant women who sleep on their back can hurt their baby the baby
+cannot breath because air will not flow from you the mother to your baby so
+they tell us not to sleep on our back They are not good practice for the baby so
+you can kill your baby because the baby cannot get air from your when you sleep
+on your back
+FGD participants
+Some participants also reported that taking hot water showers and baths could nega
+tively affect the pregnancy Two participants explained
+they say bathing with hot water is not good warm water is okay hot
+water is not good for the baby too It can make the baby temperature go up
+Interview participant
+Bathing with hot water can make you the mother feel hot and you can pass
+heat on to the baby in your womb so you don t take hot showers when you are
+pregnant FGD participants
+Exposure to Certain Conditions
+One major perceived risk in pregnancy mentioned by the participants is the exposure
+of the unborn baby to conditions that can cause the child to acquire certain health defects
+such as cerebral palsy called asram in the local language This often happens if the
+pregnant woman does not take very good care of herself and her pregnancy For example
+if the pregnant woman does not dress well she could expose herself and her pregnancy
+unborn baby to individuals with such conditions This is based on the belief that cerebral
+palsy is transferrable spiritually from a person who has the condition to the mother and
+then to the baby to be born Asram is a spiritual disease that can be passed on through
+eye contact when a pregnant mother comes into contact with an individual who spreads the
+disease One interview participant elaborated on this perception in the following quotation
+For a disease like asram when you are pregnant you don t have to eat everywhere
+When some people see the pregnancy they can transfer the disease to the unborn baby
+You have to dress decently so that you don t expose yourself and your pregnancy
+Some people dress exposing their body when they are pregnant
+So when you
+dress like that and you come across someone with the disease that individual can
+transfer the disease to the baby Interview participant
+Some participants also reported that cerebral palsy can kill and that it can only be
+treated with traditional or herbal medicine For example during the FGDs one mother
+recounted her experience with asram it asram affected me and my baby and I was
+taken to a certain woman for herbal treatment for almost a year before my baby was
+FGD participant
+Women
+Spells and Curses
+Participants also narrated that a woman can be at risk of pregnancy complications
+and or even death if she is cursed during pregnancy According to most FGD participants
+when a pregnant woman is disrespectful or often picks quarrels with neighbors a curse
+could be cast on her and this may lead to stillbirth and death during childbirth This view
+was confirmed by a participant in th

@@ -1,0 +1,949 @@
+p v
+Wallston KA Wallston BS DeVellis R Development of the
+Multidimensional Health Locus of Control MHLC Scales Health Educ
+Monogr
+Rini C Dunkel Schetter C Wadhwa PD Sandman CA Psychological
+adaptation and birth outcomes the role of personal resources stress
+and sociocultural context in pregnancy Health Psychol
+Davies D Dodd J Qualitative research and the question of rigor
+Qual Health Res
+Heaman M Gupton A Gregory D Factors influencing pregnant women s
+perceptions of risk MCN Am J Matern Child Nurs
+Carolan M First time mothers over years Challenges for care Birth
+Issues
+Saxell L Nulliparous women s perception of the risk of pregnancy after
+age health Can Soc
+Sjoberg L Factors in risk perception Risk Ana
+Weinstein ND Unrealistic optimism about future events J Pers Soc Psychol
+Audrain J Schwartz MD Lerman C Hughes C Peshkin BN Biesecker B
+Psychological distress in women seeking genetic counseling for
+breast ovarian cancer risk the contributions of personality and appraisal
+Ann Behav Med
+Chipperfield JG Greenslade L Perceived control as a buffer in the use of
+health care services J Gerontol B Psychol Sci Soc Sci
+Blackmore ER Cote ArsenauIt D Tang W Glover V Evans J Golding J
+O Connor TG Previous prenatal loss as a predictor of perinatal
+depression and anxiety Br J Psychiatry
+Campbell SM Dunkel Schetter C Peplau LA Perceived control and
+adjustment to infertility among women undergoing in vitro fertilization
+Page of
+In Infertility Perspectives from Sfress and Coping Research New York Plenum
+Press
+Yuan W Steffensen FH Nielsen GL Moller M Olsen J Sorensen HT
+A population based cohort study of birth and neonatal outcome in
+older primipara Int J Gynecol Obstet
+Baillie C Smith J Hewison J Mason G Ultrasound screening for
+chromosomal abnormality Women s reactions to false positive results
+J Health Psychol
+Sun JC Hsia PH Sheu SJ Women of advanced maternal age undergoing
+amniocentesis a period of uncertainty J Clin Nurs
+Heron J OConnor TG Evans J Golding J Glover V The course of anxiety
+and depression through pregnancy and the postpartum in a community
+sample J Affect Disord
+Matthey S Detection and treatment of postnatal depression perinatal
+depression or anxiety Curr Opin Psychiatry
+Swalm D Brooks J Doherty D Nathan E Jacques A Using the Edinburgh
+postnatal depression scale to screen for perinatal anxiety Arch Womens
+Ment Health
+Furber CM Garrod D Maloney E Lovell K McGowan L A qualitative study
+of mild to moderate psychological distress during pregnancy Int J Nurs
+Stud
+Ohman SG Grunewald C Waldenstrom U Perception of risk in relation to
+ultrasound screening for Down s syndrome during pregnancy Midwifery
+Gerend MA Aiken CS West SG Erchull MJ Beyond medical risk
+investigating the psychological factors underlying women s perceptions
+of susceptibility to breast cancer heart disease and osteoporosis Heal
+Psychol
+Wanstein ND Unrealistic optimism about susceptibility to health
+problems conclusions from a community wide sample J Behav Med
+Weinstein ND Unrealistic optimism about susceptibility to health
+problems J Behav Med
+Patterson KA Experience of risk for pregnant black women J Perinatol
+Corbin JM Women s perceptions and management of a pregnancy
+complicated by chronic illness health Core for Women Int
+Gray BA Hospitalization history and differences in self rated pregnancy
+risk West J Nurs Res
+Heaman M Beaton J Gupton A Sloan J A comparison of childbirth
+expectations in high risk and low risk pregnant women Clin Nurs Res
+Walfisch A Sermer C Matok l Einarson A Koren G Perception of
+teratogenic risk and the rated likelihood of pregnancy termination
+association with maternal depression Can J Psychiatry
+Tversky A Kahneman D Judgment under Uncertainty Heuristics and
+Biases Saence
+Williamson J Weyman A Review of the public perception of risk and
+stakeholder engagement Buxton Health and Safety Laboratory
+doi
+Cite this article as Bayrampour et a Advanced maternal age and risk
+perception A qualitative study BMC Pregnancy and Childbirth
+Submit your next manuscript to BioMed Central
+and take full advantage of
+Convenient online submission
+Thorough peer review
+No space constraints or color figure charges
+Immediate publication on acceptance
+Inclusion in PubMed CAS Scopus and Google Scholar
+Research which is freely available for redistribution
+Submit your manuscript at
+www biomedcentral com submit
+BioMed Central
+Lee et al BMC Pregnancy and Childbirth
+https doi org
+RESEARCH ARTICLE
+BMC Pregnancy and Childbirth
+Open Access
+Pregnancy related risk perception in
+pregnant women midwives doctors a
+cross sectional survey
+Suzanne Leel Des Rebecca Webbi and Susan Ayers
+Abstract
+Check for
+updates
+Background Risk perception in relation to pregnancy and birth is a complex process influenced by multiple personal
+psychological and societal factors Traditionally the risk perception of healthcare professionals has been presented as
+more objective and authoritative than that of pregnant women Doctors have been presented as more concerned with
+biomedical risk than midwives Such dichotomies oversimplify and obscure the complexity of the process This study
+examines pregnancy related risk perception in women and healthcare professionals and what women and professionals
+believe about each other s risk perception
+Methods A cross sectional survey of set in UK maternity services Participants were doctors working in obstetrics N
+midwives N pregnant women N Participants were recruited in person from two hospitals Doctors
+were also recruited online Participants completed a questionnaire measuring the degree of perceived risk in
+various childbirth related scenarios and the extent to which they believed others agreed with them about the degree
+of risk generally involved in childbirth Main outcome measures were the degree of risk perceived to the mother in
+baby in pregnancy scenarios and beliefs about own perception of risk in comparison to their own group and other
+groups
+Results There were significant differences in total risk scores between pregnant women doctors and midwives in
+perception of risk to the mother in scenarios Doctors most frequently rated risks lowest Total scores for
+perceived risk to the baby were not significantly different There was substantial variation within each group There was
+more agreement on the ranking of scenarios according to risk Each group believed doctors perceived most
+risk whereas actually doctors most frequently rated risks lowest Each group incorrectly believed their peers
+rated risk similarly to themselves
+Conclusions Individuals cannot assume others share their perception of risk or that they make correct assessments
+regarding others risk perception Further research should consider what factors are taken into account when making
+risk assessments
+Background
+Risk perception in relation to pregnancy and birth is a
+complex process based on multiple factors It is in
+fluenced by factors pertaining to risk perception beyond
+the subject of childbirth and pregnancy specific factors
+Factors involved in general risk perception include the
+degree of perceived control involved in undertaking the
+risk activity the ways in which information about the
+Correspondence suzanne lee city ac uk
+School of Health Sciences City University ondon Northampton Square
+London ECIA UK
+Full list of author information is available at the end of the article
+risk is presented and the degree of trust placed in the
+source of the information Factors specific to preg
+nant women include the extent to which women view
+childbirth as benefitting from medical management and
+common concerns for the wellbeing of their babies
+The two main discourses within which childbirth can
+be understood also each have different approaches to
+risk The biomedical model regards birth as inherently
+risky whereas the social model regards pregnancy
+risk as a concept constructed from multiple cultural and
+personal factors Risk in the biomedical model is
+generally presented in terms of potential physiological
+BMC
+The Author s
+Open Access This article is distributed under the terms of the Creative Commons Attribution
+International License http creativecommons org licenses by which permits unrestricted use distribution and
+reproduction in any med um provided you give appropriate credit to the original author s and the source provide a link to
+the Creative Commons license and indicate if changes were made The Creative Commons Public Domain Dedication waiver
+http creativecommons org publicdomain zero l applies to the data made available in thIS article unless otherwise stated
+Lee et al BMC Pregnancy and Childbirth
+Page of
+outcomes whereas the social model recognises a more
+holistic definition encompassing potential threats to
+psychological and social wellbeing In line with these
+discourses views of maternity healthcare professionals
+have often been presented in a polarised fashion typically
+doctors are presented as supporting the medical model
+and midwives the social model Doctors educa
+tion has frequently focussed on birth as a biomechanical
+process whereas midwives may consider it in more holistic
+terms However presenting these approaches as
+entrenched opposites oversimplifies the issue Such
+dichotomous depictions overlook the fact all healthcare
+professionals are likely to be aiming to provide high qual
+ity healthcare and ensure positive outcomes and may
+well move along the spectrum between approaches
+Accounts of risk perception should also consider women s
+perspectives In contemporary Western culture women s
+understanding of birth has typically been portrayed as more
+subjective and less well informed than that of professionals
+However women s perception of risk often transcends
+the medical and social models as they act from unique and
+individual perspectives of their own circumstances The
+portrayal of lay persons perceptions of risk in relation to
+birth has also been simplified and polarised with profes
+sional perceptions of risk often characterised as objective
+and logical and lay assessments as more emotion based
+Again such dichotomous terms obscure and oversim
+plify the differences and similarities of risk perception
+between lay and professional groups Perception of risk by
+members of both groups will entail an assessment of numer
+ical odds but also be contingent on personal experience
+context and interactions with others
+However research examining lay and medical risk per
+ception does find differences A review of quantitative
+risk perception research found little correlation between
+perceptions held by healthcare professionals and of preg
+nant women with regard to pregnancy and childbirth
+Qualitative research has similarly shown differences
+in the way professionals and women define concepts of
+risk and safety However there is little research in
+this area and existing studies have used different criteria
+for assessing risk perception of professionals and women
+making them difficult to compare and reinforcing the idea
+the groups assess risk in different ways
+The aim of this study is therefore to examine
+pregnancy related risk perception in women and mater
+nity healthcare professionals in contemporary English
+society using a unified assessment tool to enable direct
+comparison and to examine what women and profes
+sionals believe about each other s risk perception This
+study will contribute to the understanding of risk per
+ception and inform professionals seeking to understand
+awareness of risk and improve communication with
+pregnant women
+Method
+Design
+We conducted a cross sectional study of risk perception
+in regard to pregnancy and childbirth by administering a
+questionnaire see Additional file to doctors midwives
+and pregnant women
+Participants
+A sample of pregnant women midwives and doctors was
+recruited from two NHS Trusts organisations providing
+state funded healthcare and utilised by the majority of the
+population in South East England Seventy eight pregnant
+women were approached and completed ques
+tionnaires Fifty nine midwives completed the question
+naire of those approached Initial uptake of the
+study was low among doctors n of those
+approached so recruitment was extended for this group
+The final sample for analyses was pregnant women
+midwives and doctors Doctors and midwives were
+comparable in terms of time since qualification doctors
+mean time years SD range to years
+midwives mean time years SD range month
+to years t p The midwives worked
+in obstetric units and community settings neither trust
+involved in the study has a midwifery led unit
+Inclusion criteria for healthcare professionals were a
+recognised medical or midwifery qualification and cur
+rently working as a doctor or midwife in a UK maternity
+service This allowed for participation by junior doctors
+not specialising in obstetrics but currently on an obstetric
+placement Pregnant women had to be between and
+weeks pregnant and aged or over to participate
+Recruitment occurred between June and April
+Participants were initially recruited through two
+NHS trusts in South East England However difficulties
+recruiting doctors to the study meant it was necessary to
+extend recruitment to include any doctor practising
+obstetrics in the UK These additional participants were
+recruited via social media and completed the study
+online
+Pregnant women were approached by a researcher
+while waiting for their mid pregnancy anomaly scan All
+women in the UK are offered this scan so this time was
+chosen to reach the maximum number of women They
+were given verbal and written information about the
+study and reassurance about confidentiality If they
+agreed to participate they completed the questionnaire
+straight away and returned it to the researcher Informa
+tion about the study was placed in the maternity depart
+ments for doctors and midwives along with copies of the
+questionnaire for them to complete at their convenience
+Researchers also visited the maternity units to provide
+further information and approach staff in person Con
+sent agreed as part of the ethics approval for the study
+Lee et al BMC Pregnancy and Childbirth
+was considered indicated by completion of the question
+naire All participants received information about the
+study explaining the procedure
+Measures
+The questionnaire consisted of two elements The first
+measured risk in relation to pregnancy and childbirth sce
+narios items and was adapted from the work of Gray
+a who used a similar scale to measure risk perception
+in relation to hospitalisation in pregnancy Each item in the
+first element briefly described a pregnancy or birth sce
+nario e g a woman who has a minor postpartum haemor
+rhage at home a woman giving birth in a birthpool in
+hospital Participants were asked to rate how much risk
+they perceived each scenario represented to the wellbeing
+of i the mother and ii the fetus baby Participants were
+provided with a definition of risk as a possible degree of
+threat to physical or psychological wellbeing This defin
+ition was intended to allow participants to formulate their
+own interpretations of scenarios as far as possible Three
+obstetricians three midwives and six pregnant women
+assisted in the development and piloting of the question
+naire to ensure user acceptability and face validity
+All participants received the same questionnaire but the
+version for pregnant women also included definitions of
+medical terms e g shoulder dystocia pre eclampsia etc
+taken from the NHS Choices or Royal College of Obstetri
+cians and Gynaecologists websites Participants indicated
+the degree of risk perceived using a visual analogue scale
+a mm line representing a continuum from minimal
+risk to extreme risk The distance from the beginning of
+the scale to participants marks was measured and the
+resulting millimetre measurement became the risk score
+for each question minimum score O maximum score
+Risks to mother and baby were scored separately
+providing total possible risk scores of for risk to
+mother and for risk to baby scenarios maximum
+score per scenario
+The second element looked at participants comparison
+of their own perceived risk with other groups items
+Participants were asked to compare the extent to which
+they believed others agreed with them about the degree of
+risk generally involved in pregnancy and birth A seven
+point Likert scale was used ranging from they think it
+is a lot less risky than I do to they think it is a lot
+more risky than I do A score of therefore indicated they
+believed the comparison group agreed with them about
+the degree of risk Participants first compared themselves
+with members of their own group other doctors mid
+wives or pregnant women and then with the remaining
+two groups
+The primary outcomes were degree of perceived risk
+and perception of own sense of risk in comparison to
+others in their own group and other groups
+Page of
+Sample size calculations based on the likelihood of
+detecting a medium effect size estimated a sample of
+doctors midwives and pregnant women was needed
+for the study to be adequately powered to find a difference
+in the primary outcomes power significance
+Doctors and midwives were also asked how long they
+had held their medical or midwifery qualification
+Analysis
+Analysis was conducted using SPSS version
+Kolmogorov Smirnov and Levene s tests were conducted
+to test for normal distribution and homogeneity of vari
+ance ANOVA was used to test for differences in total
+scores between groups The data were found to be skewed
+for scores on individual items so the non parametric
+Kruskal Wallis test was used to test for differences between
+the groups
+Results
+Doctors midwives and pregnant women s total mean
+scores of overall perceived risk to the mother and baby
+are shown in Table
+Overall mean risk scores were low to moderate for
+mother and baby ranging from from a
+possible score of Doctors reported the lowest
+mean scores There were significant differences between
+groups for risk to the mother but not for risk to the
+baby Post hoc tests revealed significant differences for
+perceived risk to the mother between doctors and mid
+wives mean difference SE p and
+doctors and pregnant women mean difference
+SE p but not between midwives and preg
+nant women mean difference SE p
+Across individual risk scenarios however there was little
+agreement between the groups on the perceived degree of
+risk see Additional file Regarding risk to the mother
+scenarios showed significant differences between
+the groups p and only showed no signifi
+cant differences in risk scores p There was
+also little agreement in scores on risk to the baby sce
+narios showed a significant difference between the
+groups p and scenarios showed no signifi
+cant differences p Of the scenarios which
+showed no difference in risk scores for risk to the mother
+of these also showed no difference for risk to the baby
+In scenarios where there was a difference between risk
+scores doctors consistently rated the risk lowest With
+regards to risks to the mother doctors rated the risks
+lowest for the majority of scenarios where there was a
+significant difference between groups times out of
+There was a similar picture with scores of risk to
+the baby where doctors rated the risks lowest for the
+majority of scenarios where there was a significant dif
+ference between groups times out of Pregnant
+Lee et al BMC Pregnancy and Childbirth
+Table Mean scores of overall perceived risk
+Perceived risk to the mother
+Perceived risk to baby
+Possible range
+Doctors Mean SD
+Midwives Mean SD
+Discussion
+Pregnant women Mean SD
+Page of
+p value
+women rated the most scenarios the highest mothers
+risk of babies risk of Midwives rated
+slightly fewer scenarios highest mothers risk of
+babies risk of Doctors ratings of risk were high
+est only once for mothers risk and once for babies risk
+However although there was variation between groups
+in the risk scores assigned to the mothers and babies in
+the scenarios there were similarities across the groups
+when the scenarios were ranked in order of degree of
+perceived risk The highest ranking scenarios are
+shown in Table for risk to mothers and Table for
+risk to babies Six scenarios were consistently rated high
+est for risk to the mother by participants in all three
+groups Four scenarios were consistently rated highest
+risk to the baby by participants in all three groups Thus
+while there was frequent disagreement about the degree
+of risk posed in each scenario there was more consensus
+about the scenarios that posed the greatest risk to
+mothers and babies
+Mean scores for participants estimations of how their
+peers and members of the other groups would rate risk in
+comparison to their own ratings are displayed in Table
+Each group believed their peers agreed with them about
+the degree of risk generally involved in pregnancy and
+childbirth Doctors believed midwives perceived birth as a
+little less risky than they did and pregnant women per
+ceived it as somewhat less risky Midwives believed doc
+tors perceived pregnancy and birth as somewhat more
+risky and pregnant women as a little less risky than they
+did Pregnant women believed doctors agreed with them
+about the degree of risk involved in pregnancy and birth
+Their mean score for comparison with midwives fell
+between midwives believing birth is a little less risky and
+agreeing with the degree of risk
+Table Highest ranking scenarios for risk to mother
+Scenario
+A pregnant woman with severe pre eclampsia not receiving any
+antenatal care
+A woman who has a major postpartum haemorrhage at home
+A woman bleeding heavily at weeks of pregnancy
+A pregnant woman experiencing domestic violence
+A woman who chooses to give birth at home alone
+A pregnant woman with mild pre eclampsia not receiving any
+antenatal care
+This study aimed to examine risk perception in relation
+to pregnancy and childbirth in pregnant women and ma
+ternity healthcare professionals in contemporary English
+society and to examine what pregnant women and pro
+fessionals believe about the risk perceptions of each
+other Results showed there were differences in risk per
+ception in relation to pregnancy and birth within and
+between pregnant women doctors and midwives When
+rating risk of different scenarios to mothers there were
+significant differences between pregnant women doctors
+and midwives for out of pregnancy related scenar
+iOS This was less marked when rating risks for babies
+where overall mean risk scores were not significantly dif
+ferent between groups but there were differences in the
+scores of out of scenarios While assessments of
+the degree of risk pertaining to scenarios differed there
+was more agreement on the ranking of scenarios accord
+ing to risk Interestingly when comparing their own rat
+ings of risk to others each group incorrectly believed
+their peers rated risk similarly to themselves These
+beliefs were not supported by the first part of the study
+The mean risk score for each group and in particular
+the doctors had large standard deviations indicating a
+wide range of scores within groups see Table Each
+group also believed doctors perceived most risk in preg
+nancy and birth However where there were significant
+differences in scores for individual scenarios where doc
+tors consistently rated the risks lower than women and
+midwives in The results of this study are consistent with
+previous research showing pregnant women think about
+risk differently to healthcare professionals It showed
+pregnant women had the highest risk perception scores
+Most pregnant women experience some fears regarding
+Ranking
+Doctors
+Midwives
+Pregnant women
+Lee et al BMC Pregnancy and Childbirth
+Table Highest ranking scenarios for risk to baby
+Scenario
+A pregnant woman with severe pre eclampsia not
+receiving any antenatal care
+A woman with a shoulder dystocia at home
+A woman who gives birth at weeks of pregnancy
+A woman bleeding heavily at weeks of pregnancy
+risk especially concerning the birth process and the
+wellbeing of their babies While this may appear
+concerning these fears are not necessarily perceived
+negatively by women however and though common are
+often not perceived as very intense or intrusive They
+may be viewed as an integral part of pregnancy which
+confers an element of protection by motivating women
+to speak out about their concerns Thus while
+women acknowledge pregnancy and birth may involve a
+degree of risk they also utilise psychological strategies to
+manage these concerns and may tolerate greater degrees
+of risk than professionals recommend or would be pre
+pared to tolerate for themselves if they believe doing so
+will result in a better outcome for themselves and their
+babies Within the professionals risk assess
+ments midwives also rated risks to mothers significantly
+higher than doctors While midwifery care is based on
+the assumption and promotion of normality in preg
+nancy much midwifery activity is focussed on concerns
+regarding the abnormal so creating a degree of tension
+and disjunction between rhetoric and practice
+This study found differences between the risk percep
+tion of pregnant women and healthcare professionals It
+was beyond the scope of the study to investigate potential
+reasons for these differences but they have traditionally
+been attributed to women s more subjective less
+knowledge based understanding of risk However
+such a distinction may be misplaced emotion imagination
+and intuition are components of all perceptions of risk
+and so are likely to influence women and professionals
+alike alongside an assessment of objective knowledge
+Healthcare professionals have been shown to consider
+Table Comparisons of risk perception
+Ranking
+Doctors
+Midwives
+Page of
+Pregnant women
+the degree of the patient s anxiety their own clinical ex
+perience particularly that based on borderline or espe
+cially interesting cases and negative outcomes and the
+opinions of trusted colleagues when making decisions re
+garding risk They actively interpret evidence
+based guidelines according to their own and the patient s
+individual circumstances rather than follow them abso
+lutely Rather than differentiating between lay subjective
+inferior and professional objective authoritative under
+standing of risk it may be more appropriate to acknow
+ledge both groups rely on different types of understanding
+systematic intuitive experiential and tacit when making
+judgements about risk Further research is needed to
+establish how maternity professionals combine subjective
+and objective elements of risk perception It may also be
+the case that doctors become habituated to situations in
+volving greater degrees of risk as they make up the majority
+of their practice and utilise their obstetric skills
+The midwives and doctors in this study demonstrated
+some differences in risk perception Perceived differences
+in approach to risk have been shown to be a factor which
+can lead to tension between maternity care professionals
+and feelings of lack of trust and support Such tension
+maybe interpreted as conflict by service users and cause
+them some anxiety The members of each group in
+this study believed their peers agreed with them about the
+degree of risk involved in pregnancy and childbirth
+although the results did not support this belief In all com
+munication individuals typically overestimate the extent
+to which others share their beliefs and interpretation of
+events This false consensus effect is particularly
+evident in situations deemed important in this instance
+Participants Doctors
+Midwives
+Pregnant
+women
+Compared self with
+Doctors
+Agree with me
+Somewhat more risky than I
+do
+Agree with me
+Midwives
+A little less risky than I do
+Agree with me
+A little less risky than I do agree with
+me
+Pregnant women
+Somewhat less risky than I
+do
+A little less risky than I do
+Agree with me
+Key Think pregnancy and birth are A lot less risky than I do Somewhat less risky than I do A little less risky than I do Agree with me about the
+degree of risk involved A little more risky than I do Somewhat more risky than I do A lot more risky than I do
+Lee et al BMC Pregnancy and Childbirth
+healthcare These factors can lead to misinterpreted com
+munication and conflict so maternity care profes
+sionals should be aware of their potential influence in
+communication with members of their own discipline as
+well as others and pregnant women
+This study demonstrates risk perception in relation to
+pregnancy and birth is a complex and individual process
+It challenges the stereotypical depictions of doctors and
+midwives in regard to their perception of risk This has
+implications for how professionals perceive their own and
+others roles and how they communicate with each other
+and with women in their care Traditional distinctions
+between the quality of professional and lay approaches to
+risk oversimplify the process and may devalue women s
+understanding of their circumstances and contribution to
+their car Recognising all parties have a common goal
+and speaking openly about factors influencing risk percep
+tion may enhance relationships with women and col
+leagues This in turn has been demonstrated to have
+a positive effect on outcomes for women and babies
+This is the first study to explore the risk perception of
+doctors midwives and pregnant women using a compar
+able measure It adds to the understanding of how the
+different groups assess risk their beliefs about the risk per
+ception of their peers and others and has implications
+regarding communication within and between groups It
+will contribute to the understanding of risk perception and
+the conceptualisation of risk It will increase knowledge of
+risk perception in different groups and their beliefs about
+each other and challenge unhelpful stereotypes It will
+inform professionals working in maternity care and seeking
+to understand awareness of risk and improve communica
+tion with pregnant women and provide information for
+women utilising maternity care
+Strengths of this study include using the same mea
+sures for each group to allow direct comparisons of risk
+perception across groups The study was developed with
+input from maternity service users obstetricians and
+midwives ensuring its credibility and acceptability The
+sampling strategy ensured the inclusion of pregnant
+women with different degrees and experiences of risk in
+their own pregnancies and healthcare professionals
+working in different areas of maternity care with varying
+lengths of time qualified to provide a range of potential
+perspectives on risk A limitation of the study was the dif
+ficulty recruiting doctors and need to include participants
+recruited online The final sample therefore included doc
+tors from other areas so the group was potentially more
+heterogeneous and self selected than were the groups of
+pregnant women and midwives The relatively small num
+bers of doctors and midwives who ultimately participated
+in the study mean further work is needed to establish how
+representative their perceptions of risk are and the extent
+to which the findings are generalisable Although efforts
+Page of
+were made to ensure face validity the questionnaire has
+not been formally validated so further work is needed to
+establish the extent to which it accurately represents per
+ception of risk and the extent to which these perceptions
+manifest in behaviour Finally between group differences
+were tested for all individual scenarios and multiple
+comparisons increase the probability that some of the
+significant findings occurred by chance It is therefore
+important to replicate and extend this research
+Conclusions
+Assessment of risk is a complex activity comprised of
+objective and subjective elements All individuals making
+an assessment of risk will rely on these elements to dif
+fering extents depending on the particular context Indi
+viduals cannot assume others share their perception of
+risk or that they make correct assessments regarding the
+risk perception of others
+Healthcare professionals should be aware of these con
+siderations when communicating with pregnant women
+and also with other professionals Communication with
+women should include sensitive and respectful exploration
+of their understanding and perception of risk and safety
+and acknowledgement of any anxieties When communi
+cating with members of their own discipline professionals
+should not make assumptions that colleagues will share
+their perceptions They should be mindful of the subject
+ivity of their own risk assessments and factors which may
+influence their perceptions rather than attempting to elim
+inate or deny the effects of some of these influences They
+should challenge their own and others stereotypical
+assumptions about the perception of risk in other disci
+plines and ensure interdisciplinary communication is
+based on professional respect and genuine understanding
+Further research is needed to consider what factors
+professionals and pregnant women take into account
+when making risk assessments in relation to pregnancy
+and birth and how they use these factors to formulate
+their assessments It should also examine which ele
+ments of pregnancy and birth are perceived as most
+risky what it is about them which causes concern and
+the extent to which evidence exists to support these
+perceptions Qualitative research should explore health
+care professionals and pregnant women s understanding
+and awareness of their perceptions of risk Research is
+needed to establish how perception of risk influences
+professionals communication with women the barriers
+to effective risk communication and how this communi
+cation can be improved Research into interprofessional
+working should explore how stereotypical expectations
+about the risk perception of other groups arise can
+be challenged and communication between disciplines
+improved
+Lee et al BMC Pregnancy and Childbirth
+Additional files
+Additional file Risk Questionnaire doctors version DOCX kb
+Additional file Differences between perceived risk ratings by pregnant
+women midwives and doctors for individual scenarios DOCX kb
+Acknowledgements
+We are very grateful to James Penny for his assistance with the study
+Authors contributions
+SL conceived and planned the study collected and analysed the data and
+wrote up the work DH assisted with planning the study and writing up RW
+collected data and assisted with data ana ysis and writing up SA supervised
+the project and assisted with planning the study data analysis and writing
+up All authors have read and approved the final manuscript
+Funding
+There was no funding for this study
+Availability of data and materials
+The datasets used and or ana ysed during the current study are available
+rom the corresponding author on reasonable request
+Ethics approval and consent to participate
+Ethics permission was obtained on lth April from the Nationa
+Health Service Research Ethics Committee North of Scotland committee
+Reference number NS This was the committee allocated centrally
+via the NHS ethics process NHS ethics committees work to standard
+guidelines and have jurisdiction across the United Kingdom Participants
+were aware their consent to participate n the study was considered
+ndicated by completion of the questionnaire This was agreed as part of
+the ethics approval
+Consent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing nterests
+Author details
+School of Health Sciences City University ondon Northampton Square
+ondon EC IA UK and Sussex Healthcare NHS Trust East Surrey
+Hospital Canada Avenue Redhill Surrey RHI UK
+Received January Accepted August
+Published online September
+References
+Horlick Jones T Informal logic of risk contingency and modes of practical
+reasoning J Risk Res
+White O McCorry NK Scott Heyes G Dempster M Manderson J Maternal
+appraisals of risk coping and prenatal attachment among women
+hospitalised with pregnancy complications J Reprod Infant Psychol
+Cook PA Bellis MA Knowing the risk relationships between risk behaviour
+and health knowledge Public Health
+Edwards A Elwyn G Mulley M Explaining risks turning numerical data into
+meaningful pictures BMJ Brit Med J
+Alaszewski A Horlick Jones T How can doctors communicate information
+about risk more effectively BMJ Brit Med J
+Chadwick R Foster D Negotiating risky bodies childbirth and constructions
+of risk Health Risk Soc
+Petersen JJ Paulitsch MA Guethlin C Genischen J Jahn A A survey
+on worries of pregnant women testing the German version of the
+Cambridge worry scale BMC Public Health https doi
+org lO
+Johanson R Newburn M Macfarlane A Has the medicalisation of childbirth
+gone too far BMJ Brit Med J
+II
+Page of
+Coxon K Sandall J Fulop N To what extent are women free to choose
+where to give birth How discourses of risk blame and responsibility
+influence birth place decisions Health Risk Soc
+Reime B Klein MC Kelly A Duxbury N Saxell L Liston R Prompers FJ Entjes
+RS Wong V Do maternity care provider groups have different attitudes
+towards birth BJOG Int J Obstet Gy
+Monari F Di Mario S Facchinetti F Basevi V Obstetricians and midwives
+attitudes toward caesarean section Birth
+Cherniak D Fisher J Explaining obstetric interventionism technical skills
+common conceptualisations or collective countertransference Women
+Stud Int Forum
+Cheyne H Dalgleish L Tucker J Kane F Shetty A McLeod S Niven C Risk
+assessment and decision making about in labour transfer from rural
+maternity care a social judgement and signal detection analysis BMC Med
+Inform Decis https doi org
+Austin K Constructions of risk and the maternal body implications for
+midwifery practice Midirs Midwifery Digest
+Downe S Fin ayson K Fleming A Creating a collaborative culture in
+maternity care J Midwifery Womens Health
+Lane K Midwifery a profession in transition Aust J Midwifery
+Browner C Press N The production of authoritative knowledge in American
+prenatal care Med Anthropol Q
+Walsh D Childbirth embodiment problematic aspects of current
+understandings Sociol Health Illn
+Lupton D Risk Abingdon Routledge
+Lee S Ayers S Holden D Risk perception of women during high risk
+pregnancy a systematic review Health Risk Soc
+Lee S Ayers S Holden D A metasynthesis of risk perception of women with
+high risk pregnancies Midwifery
+Gray BA Hospitalization history and differences in self rated pregnancy risk
+West J Nurs Res
+BM Corp IBM SPSS statistics for windows version Armonk IBM Corp
+Melender HL Experiences and fears associated with pregnancy and
+childbirth a study of pregnant women Birth
+Melender HL Lauri S Fears associated with pregnancy and childbirth
+experiences of women who have recently given birth Midwifery
+Lee S Ayers S Holden D Risk perception and choice of place of birth in
+women with high risk pregnancies a qualitative study Midwifery
+Turner CE Young JM Solomon MJ Ludlow J Benness C Phipps H Vaginal
+delivery compared with elective caesarean section the views of pregnant
+women and clinicians BJOG Int J Obstet Gy
+Scamell M The swan effect in midwifery talk and practice a tension between
+normality and the language of risk Sociol Health Illn
+Scamell M Alaszewski A Fateful moments and the categorisation of risk
+midwifery practice and the ever narrowing window of normality during
+childbirth Health Risk Soc
+Thirlaway Heggs DA Interpreting risk messages Women s responses to a
+health story Health Risk Soc
+Hendrickx L Vlek C Oppewal H Relative importance of scenario information
+and frequency information in the judgement of risk Acta Psychol Amst
+Wood F Prior L Gray J Translations of risk decision making in a cancer
+genetics service Health Risk Soc
+Healy S Humphreys E Kennedy C Midwives and obstetricians perceptions
+of risk and its impact on clinical practice and decision making in labour an
+integrative review Women Birth
+Renn O The contribution of different types of knowledge towards
+understanding sharing and communication risk concepts Catalan J Comm
+Cult Stud
+Healy S Humphreys E Kennedy C A qualitative exploration of how
+midwives and obstetricians perception of risk affects care practices for low
+risk women and normal birth Women Birth
+Howarth AM Swain NR Treharne GJ First time mothers perspectives
+on relationships with and between midwives and doctors insights from
+a qualitative study of giving birth in New Zealand Midwifery
+Nickerson R How we know and sometimes misjudge what others
+know imputing one s own knowledge to others Psychol Bull
+Lee et al BMC Pregnancy and Childbirth
+Pronin E How we see ourselves and how we see others Science
+Hall WA Tomkinson J Klein MC Canadian care providers and pregnant
+women s approaches to managing birth minimizing risk while maximizing
+integrity Qual Health Res
+Cannella D Auerbach A Lobel M Predicting birth outcomes together mother
+and health care provider know best J Psychosom Res
+Publisher s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations
+Page of
+Ready to submit your research Choose BMC and benefit from
+fast convenient online submission
+thorough peer review by experienced researchers in your field
+rapid publication on acceptance
+support for research data including large and complex data types
+gold Open Access which fosters wider collaboration and increased citations
+maximum visibility for your research over website views per year
+At BMC research is always in progress
+Learn more biomedcentral com submissions
+BMC
+Chapter
+Overdose Risks and Prevention
+Strategies for Pregnant Women in
+New York City
+Bethany Medley
+Introduction
+Like many countries around the world the United States is in the midst of an
+overdose crisis Since an estimated people in the United States have
+died of an overdose with the majority of those deaths involving opioids Center
+for Disease Control and Prevention While men account for a greater num
+ber of overdose fatalities the prevalence of overdose is increasing more rapidly
+among women of reproductive age Mazure Fiellin Additionally preg
+nant and parenting women are more susceptible to unique risk factors compared
+to their male counterparts such as limited access to reproductive healthcare
+stressful child welfare interventions and increased stigma within healthcare set
+tings Although harm reduction services including overdose prevention emphasise
+compassionate and evidence based approaches for mitigating drug related harm
+these services services are rarely designed with the various needs of pregnant
+and parenting women in mind Gender responsive harm reduction approaches
+must take into account factors within the nexus of relevant social systems i e
+the criminal justice system women s healthcare and the child welfare system
+Developing harm reduction and overdose prevention strategies for women of
+reproductive age who may experience pregnancy during their drug use trajectory
+is a critical area of need that require collaborative efforts with those with lived
+experience Using excerpts from interviews with three women who had experi
+enced pregnancy and drug use in New York City this chapter seeks to highlight
+The Impact of Global Drug Policy on Women Shifting the Needle
+Copyright by Bethany Medley
+These works are published under the Creative Commons Attribution CC BY licence
+Anyone may reproduce distribute translate and create derivative works of these works
+for both commercial and non commercial purposes subject to full attribution to the
+original publication and authors The full terms of this licence may be seen at
+http creativecommons org licences by legalcode
+doi
+Bethany Medley
+the importance of inclusive gender responsive overdose prevention and shared
+expertise from those with lived experience
+Women Who Use Drugs as Overdose Responders
+The widespread availability of naloxone the medication used to reverse an opioid
+overdose is essential in curbing the current opioid overdose crisis Naloxone is
+safe and has no potential for abuse so there is little to no risks in allowing non
+medical personnel to administer the medication Burris Norland Edlin
+Research shows that training and distribution of naloxone to individuals likely
+to witness an overdose can significantly reduce overdose mortality Siegler et al
+New York City has made laudable efforts to increase naloxone training
+and distribution to relevant community based organisations in order to make this
+available to those that need it the most people who use drugs One participant
+shared her expertise as an overdose responder
+I don t panic under pressure I m that person that remembers all
+the steps you know I can delegate you know You call You
+uh you know help me with um you know CPR if we have to
+do it because we had to at that point She wasn t breathing So
+compressions and breaths and all that It it s helpful when you
+have the ability to recruit people into your situation And as long
+as you re giving you know concise clear instructions people are
+okay You know what I mean If you re like freaking out then it
+can turn into a shit show pretty quickly
+In New York City dispensed naloxone rescue kits to community
+members via registered Opioid Overdose Prevention Programs New York City
+Department of Health and Mental Hygiene A significant number of nalox
+one rescue kits are dispensed to harm reduction settings Harm reduction settings
+are designed to provide low threshold overdose prevention education to people in
+the community actively using drugs Harm reduction programmes often operate
+in a peer based non judgmental environment Harm reduction programmes also
+known as syringe access programmes may also provide other drug user health
+resources such as sterile drug consumption equipment fentanyl testing strips con
+doms HIV and Hepatitis C testing or low threshold access to buprenorphine
+All of the women interviewed were connected to harm reduction services in some
+capacity as participants or employees
+At the time of this publication drug consumption spaces also known as super
+vised injection facilities were not allowed to operate legally in the United States As
+a result public bathrooms have often been used as convenient locations for people
+to inject drugs due to the privacy availability immediacy and resources i e water
+lighting and flat surfaces Thus it is common for people to use drugs in busi
+ness locations with private bathroom facilities Wolfson Stofko Bennett Elliott
+Curtis Recognising the overdose risk in many neighbourhoods with high
+rates of drug use within her community one participant took it upon herself to
+educate local business owners on overdose prevention with the use of naloxone
+Overdose Risks and Prevention Strategies for Pregnant Women
+I ve talked to like McDonald s employers employees and um it s
+important that they have it in case they stumble upon somebody in
+their public bathroom and that you know that s clearly because of
+the equipment on the floor or whatever suffering from an overdose
+Like dude administer You can t hurt them You re not gonna make
+a mistake Call administer and have somebody else help you
+The psychological effects of responding to an overdose for women who use drugs
+including the benefits and harms of such an experience are an under researched
+topic in overdose prevention literature Participants reported a a feeling of personal
+responsibility to respond to an overdose within their community Not only did their
+fostered connections at harm reduction programmes provide a supportive social
+environment and access to resources but their involvement also provided a benefit to
+share overdose prevention education among their peers and community Taking on
+the social role of responding to an overdose has shown to provide valuable empow
+ering skill sets that include increasing the sense of self confidence and self esteem
+Wagner et al At the same time certain negative psychological consequences
+should be considered when examining the impact of being an overdose responder
+among people who use drugs Research shows the risks of burnout and trauma
+among community based responders is rarely considered in current programmatic
+support Shearer Fleming Fowler Boyd Mcneil Reflecting on experiences
+as community based overdose responders participants shared their thoughts
+I don t want to lose a loved one I don t want to lose a best friend
+I don t want to lose anybody even if it is a perfect stranger to
+know that I could have done something and that I didn t
+I ve always been a part of the user community And I feel that they
+have user rights and that they should be supported in their use
+They should be supported in any changes they want to make They
+should be supported period They re human beings
+Barriers to Care for Pregnant Women Who Use Drugs
+My water broke on the bus
+I feel like I m pissing myself but I m
+not even peeing So I went to the doctor and they said You know
+that you re five months pregnant And I was like What I m five
+months pregnant
+Sometimes these things just happen because you have like lesser
+periods or no periods because of your usage Like it s hard to tell
+when you re fucking pregnant to begin with And morning sick
+ness and dope sickness resembles you know so you wind up being
+many months pregnant when you finally figure it out You know
+that s what happened to me every time
+As the testimonies above illustrate unexpected pregnancies are common among
+women who use opioids Heil et al Drug use especially consistent opioid use
+Bethany Medley
+may delay or stop menstrual cycles Additionally early pregnancy symptoms i e
+vomiting cramping and nausea may be difficult for women who are depend
+ent on opioids to differentiate from withdrawal symptoms Jones et al
+Furthermore stigmatisation practices towards people who use drugs are common
+in healthcare settings Corrigan Kuwabara O Shaughnessy Mendiola
+Galetto Fingerhood While research is limited on the impacts of stigma in
+healthcare settings among pregnant women who use drugs the participants inter
+viewed for this chapter emphasised their experiences of being stigmatised as a lead
+ing factor in preventing initial or continued engagement in care
+They actually treated me like crap when I told them what my
+problem was They didn t even want to help me they didn t want
+to hear me All they cared about was 

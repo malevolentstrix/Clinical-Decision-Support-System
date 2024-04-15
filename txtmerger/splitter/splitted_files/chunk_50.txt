@@ -1,0 +1,1043 @@
+lumns in Panel b is a child s height for age and weight for age z
+scores respectively The main explanatory variable is the predicted size of a household
+based on our estimates in Panel a We instrument household size using twin multiple
+births and restrict the sample to women who have never miscarried The sample is
+restricted to women married only once All specifications correspond to a linear two
+staged least squares estimation We have included mother s and child s characteristics
+household controls and finally state fixed effects Standard errors in parentheses are
+clustered at the cluster level
+and represent significance at and
+respectively
+twin multiple births as the IV for household size we estimate the effect
+of household size on HAZ and WAZ of children
+From columns and in Panel b we find that a unit increase
+in the predicted household size leads to a decrease in both HAZ and
+WAZ by SD and SD respectively In line with
+Mogstad
+In Panel b of
+Table
+since we use a generated regressor we have
+used bootstrapped standard errors to avoid the generated regressor problem
+M Mookerjee et al
+and Wiswall s findings that family size indeed affects child
+health our estimates in
+Table
+provide support to substantiate the
+quantity quality trade off and resource dilution hypothesis as a plau
+Sible mechanism driving our main results Thus we show that an
+exogenous increase in the number of children is detrimental to their
+nutritional status making the case for family planning stronger in af
+fecting children s health and providing support to the resource dilution
+hypothesis for the case of India
+Conclusion
+Child malnutrition is currently one of the most critical public health
+issues in India with an alarmingly high proportion of children wasted
+stunted and or underweight Media reports and researchers suggest
+that India is slipping into a vicious cycle of malnourishment Despite
+several efforts by the government under the umbrella of the National
+Food Security Act which aims to target and significantly reduce child
+malnutrition through Integrated Child Development Services ICDS
+and Mid Day Meal Scheme MDMS India continues to grapple with
+poor child health In light of this we assert that it is important to
+understand other causes and channels that affect child health In this
+paper we examine one such determinant of children s nutritional sta
+tus Specifically utilizing the latest round of the NFHS we study the
+causal effects of parents family planning practices that is their use
+of contraception on children s anthropometric measures of nutritional
+surveillance
+By exploring the exogenous variation in the district average expo
+sure of women to family planning messages through mass media we
+find a positive impact of a couple s choice to use contraception on
+children s nutritional statuses Having controlled for a comprehensive
+set of controls as well as state fixed effects we provide robust evidence
+that contraceptive use leads to a SD increase in a child s HAZ and
+a SD increase in her WAZ In order to provide more context to our
+results we compare and benchmark our estimates against other recent
+work examining various factors impacting child health indicators We
+find that our effects are in line with some of these findings For
+example
+shows that compulsory primary education
+of mothers in Turkey results in an increase of HAZ WAZ by
+SD respectively and
+Chen
+finds that having more than
+children in violation of Vietnam s two child policy reduces HAZ WAZ
+in year old children by SD respectively
+Further we document interesting heterogeneous effects in that we
+find larger effects on a female child s HAZ and WAZ for poor families
+and those residing in rural areas for both HAZ and WAZ Beyond this
+we also note some noteworthy effects of contraceptive use on the mea
+sures of children s stunting and underweight indicators Specifically
+the probability of being moderately or acutely stunted underweight
+reduces by pp pp as a result of the parent s reproductive
+practices Our results hold across individual child level data as well
+as for the analysis conducted at the household level The results are
+also robust to the inclusion of additional district level characteristics
+Moreover we document that a couple s reproductive practices have a
+causal effect on child nutrition using data from the previous survey
+For a given family size lengthening birth intervals may be another poten
+tial channel for positive effects on child health Exploring this channel further
+while there is evidence that a couple s use of contraception is positively related
+with length of preceding birth intervals we do not find any evidence of birth
+spacing affecting children s anthropometric measures As such we are inclined
+to rule out this channel as a potential mechanism in our case
+As robustness we also utilize the district average of women s exposure
+to family planning messages through mass media as an IV for household size
+given that contraception use limits household size is widely established in the
+literature and as such highly correlated with each other The negative effect of
+an increase in household size on a child s HAZ and WAZ score remains robust
+to this change in IV The results are provided in Appendix of the paper
+Economic Modelling
+wave of NFHS This result ought to be important for development
+practitioners and policymakers given that the use of contraceptives by
+the parents consistently appears vital in determining children s health
+outcomes
+We also examine a potential channel through which we could be
+capturing the effect of contraceptive use on a child s nutritional indica
+tors We provide evidence in support of the quantity quality trade off
+indicating that with family planning measures and consequently fewer
+children parents are more effectively able to invest resources towards
+existing children We note that a truly exogenous increase in household
+size does in fact lead to a decline in the nutritional indicators of
+children for our sample
+Nevertheless our findings must be read with a few caveats First
+while our paper finds robust evidence that contraception leads to a
+positive effect on child health our main variable of interest is an indi
+cator of whether the couple has ever used contraception Information
+on when the couple has used contraception or which pregnancy the
+use of contraceptives has tried to affect delay may have led to a richer
+analysis However it is impossible to identify this record from the
+NFHS data To address this to some extent we provide an aggregate
+household level analysis Second lengthening of birth intervals for a
+given family size could be another potential channel of our effects
+Longer birth intervals are known to improve child health outcomes
+as evidenced in the literature
+Molitoris Miller et al
+Conde Agudelo et al Yeakey et al We find evidence
+that contraception is highly correlated with a couple s choice of spacing
+births and as such attempt to explore this channel in the paper Using
+the information available in NFHS data we see a positive effect of using
+contraception on the length of preceding birth intervals but the effect
+of birth spacing on the anthropometric measures of child health is not
+statistically significant perhaps on account of noisy data for preceding
+and succeeding birth spacing As such we do not find enough evidence
+to establish this as a plausible channel Third given the structure of the
+NFHS data the respondent for the child level and individual questions
+is the mother woman of the household We believe that children s nu
+tritional status would also be impacted by their father s characteristics
+However only a smaller sample of men were interviewed for a short
+couple s survey in the data and including those variables results in the
+loss of a large amount of critical information at the woman and child
+level Hence in our analysis following the extant literature we utilize
+mother child and household characteristics although incorporating the
+father s characteristics would make the analysis more refined
+Considering that better nutritional outcomes for children eventually
+leads to better human capital accumulation improved productivity
+and reduced healthcare costs we underline the importance of family
+planning measures in tackling child ill health We assert that this has
+important implications from a policy viewpoint While better sanita
+tion food security and maternal healthcare have been examined as
+important determinants of child health in the literature our paper calls
+for greater focus on family planning measures specifically through
+the encouragement of contraceptive use for improved child nutritional
+status in a country riddled with both high populations as well as the
+triple burden of child malnutrition Our findings also indicate that if
+anything these family planning measures have greater positive effects
+on children from backward castes poorer households and those resid
+ing in rural areas Therefore it may be important to channel greater
+efforts towards these groups to reap sizeable benefits for children s
+health outcomes
+Declaration of competing interest
+The authors certify that they have no actual or potential conflict
+of interest including any financial personal or other relationships with
+other people or organizations that could inappropriately influence or
+be perceived to influence the subject matter and materials discussed in
+this manuscript
+M Mookerjee et al
+Data availability
+The data and codes can be accessed at https data mendeley com
+datasets
+NFHS India Reference data Mendeley Data
+Acknowledgments
+We are grateful to the Editor Sushanta K Mallick the Associate
+Editor and three anonymous reviewers for their valuable advice and
+helpful suggestions We also thank the participants and discussants of
+the XIV International Conference on Economics WERI Southern
+Methodist University PhD Alumni Conference The Society of
+Economics of Household European Society of Population Eco
+nomics and NYU Abu Dhabi Conference on Population Dynamics
+in India We are also thankful to Daniel Millimet Soham Sahoo
+Somdeep Chatterjee and Punarjit Roychowdhury for their guidance All
+remaining errors are solely ours
+Funding statement
+The authors certify that this research received no specific grant from
+any funding agency in the public commercial or not for profit sectors
+Appendix A Supplementary data
+Supplementary material related to this article can be found online
+https doi org j econmod
+at
+References
+Abiona O The impact of unanticipated economic shocks on the demand for
+contraceptives evidence from Uganda Health Econ
+Agha S Van Rossem R Impact of mass media campaigns on intentions to use
+the female condom in Tanzania Int Family Plan Perspect
+Alam S A C C Income shocks contraceptive use and timing of
+fertility J Dev Econ
+Ananat E O Hungerman D M The power of the pill for the next genera
+tion Oral contraception s effects on fertility abortion and maternal and child
+characteristics Rev Econ stat
+Barrera A The role of maternal schooling and its interaction with public health
+programs in child health production J Dev Econ
+Becker G S An economic analysis of fertility In Demographic and Economic
+Change in Developed Countries pp
+Becker G S Lewis H G On the interaction between the quantity and quality
+of children J Polit Econ
+Becker G S Tomes N Child endowments and the quantity
+children J Polit Econ
+Bhalotra S Clarke D Twin birth and maternal condition Rev
+Bhalotra S Clarke D The twin instrument Fertility and
+investment J Eur Econom Assoc
+and quality of
+Econ Stat
+human capital
+Black R E Allen L H Bhutta z A Caulfield L E de onis M Ezzati M Mathers C
+Rivera J Maternal and child undernutrition global and regional exposures
+and health consequences Lancet
+Blake J Family size and the quality of children Demography
+Booth A L Kee H J Birth order matters The effect of family size and birth
+order on educational attainment J Popul Econ
+Bose U Mallick S Tsoukas S Does easing access to foreign financing matter
+for firm performance J Corpor Finance
+Canning D Schultz T P The economic consequences of reproductive health
+and family planning Lancet
+Chandrasekhar S Aguayo V M Krishna V Nair R Household food inse
+curity and children s dietary diversity and nutrition in India Evidence from the
+comprehensive nutrition survey in Maharashtra Matern Child Nutr January
+Chatterjee P India s child malnutrition story worsens Lancet Child Adolesc
+Health
+Chen Q Population policy family size and child malnutrition in Vietnam
+Testing the trade off between child quantity and quality from a child nutrition
+perspective Econ Human Biol
+Economic Modelling
+Cleland J World population growth past present and future Environ Resour
+Econ
+Cleland J Conde Agudelo A Peterson H Ross J Tsui A Contraception
+and health Lancet
+Cleland J G Sathar Z A The effect of birth spacing on childhood mortality in
+Pakistan Popul stud
+Conde Agudelo A Rosas A Kafury Goeta A C Birth spacing and
+risk of adverse perinatal outcomes A meta analysis JAMA
+croft T N Marshall A M Allen C K Guide to DHS Statistics Technical report
+Dang H A H Rogers F H The decision to invest in child quality over quantity
+Household size and household investment in education in Vietnam World Bank
+Econ Rev
+De onis M M World Health Organization WHO Global Database on
+Child Growth and Malnutrition World Health Organization No WHO NUT
+Dehingia N Dixit A Atmavilas Y Chandurkar D Singh K Silverman J Raj A
+Unintended pregnancy and maternal health complications Cross sectional
+analysis of data from rural Uttar Pradesh India BMC Pregnancy Childbirth
+Department of Maternal Newborn Child and Adolescent Health Preventing Early
+Pregnancy and Poor Reproductive Outcomes among Adolescents in Developing
+Countries Technical report World Health Organization
+Dercon S A Height in mid childhood and psychosocial competencies
+in late childhood Evidence from four developing countries Econ Human Biol
+Desai S When are children from large families disadvantaged Evidence from
+cross national analyses Popul Stud
+Dills A K Grecu A M Effects of state contraceptive insurance mandates Econ
+Human Biol
+Doepke M Gary Becker on the Quantity and Quality of Children J Demogr
+Econ
+Fink G Sudfeld C R Danaei G Ezzati M Fawzi W W Scaling up access
+to family planning may improve linear growth and child development in low and
+middle income countries PLOS One
+Finlay J E The association of contraceptive use non use and failure with child
+health Int J Child Health Nutr
+Gahramanov E Hasanov R Tang X Parental involvement and Children s
+human capital A tax subsidy experiment Econ Model
+O Harris J E Effect of an abrupt change in sexual and reproductive
+health policy on teen birth rates in Ecuador Econ Hum Biol
+Gipson J D Koenig M A Hindin M J The effects of unintended pregnancy
+on infant child and parental health A review of the literature Stud Family Plan
+P M The role of maternal education in child health Evidence from a
+compulsory schooling law Econ Educ Rev
+P M The role of maternal education in child health Evidence from a
+compulsory schooling law Econ Educ Rev
+Gupta N Katende C Bessinger R Associations of mass media exposure with
+family planning attitudes and practices in Uganda Stud Family Plan
+Hahn Y Nuzhat K Yang H S The effect of female education on marital
+matches and child health in Bangladesh J Popul Econ
+Horton S Child nutrition and family size in the Philippines J Dev Econ
+Hossain B Maternal empowerment and child malnutrition in Bangladesh Appl
+Econ
+Hubacher D Trussell J A definition of modern contraceptive methods
+Contraception
+Ijarotimi O S Determinants of childhood malnutrition and consequences in
+developing countries Curr Nutr Rep
+Imai K S Annim S K Kulkarni V S Gaiha R Women s empowerment and
+prevalence of stunted and underweight children in rural India World Dev
+Jah F Connolly S Barker K Ryerson W Gender and reproductive outcomes
+the effects of a radio serial drama in Northern Nigeria Int J Popul Res
+Kearney M S Levine P B Subsidized contraception fertility and sexual
+behavior Rev Econ Statist
+Keats A Women s schooling fertility and child health outcomes Evidence from
+uganda s free primary education program J Dev Econ July
+Kelly A Lindo J M Packham A The power of the IUD Effects of expanding
+access to contraception through Title X clinics J Public Econ
+Knodel J Havanon N Sittitrai W Family size and the education of children
+in the context of rapid fertility decline Popul Develop Rev
+Kofinti R E Koomson I Paintsil J A Ameyaw E K Reducing children s
+malnutrition by increasing mothers health insurance coverage A focus on stunting
+and underweight across sub Saharan African countries Econ Model
+Kugler A D Kumar S Preference for boys family size and educational
+attainment in India Demography
+Le K Nguyen M Shedding light on maternal education and child health in
+developing countries World Dev
+M Mookerjee et al
+Lee J Sibling size and investment in children s education An Asian instrument
+J Popul Econ
+Li H Zhang J Zhu Y The quantity quality trade off of children in a
+developing country Identification using Chinese twins Demography
+Luca D L Stevens J Rotz D Goesling B Lutz R Evaluating teen options
+for preventing pregnancy Impacts and mechanisms J Health Econ
+Martins v J Toledo T M Grillo L P Franco M d C P Martins P A
+Clemente A P G Santos C D Vieira M d F A Sawaya A L Long lasting
+effects of undernutrition Int J Environ Res Public Health
+Masuda K Yamauchi C How does female education reduce adolescent
+pregnancy and improve child health Evidence from uganda s universal primary
+education for fully treated cohorts J Develop Stud
+Milkie M A Nomaguchi K M Denny K E Does the amount of time mothers
+spend with children or adolescents matter J Marriage Family
+Miller R Karra M Birth Spacing and Child Health Trajectories Popul Develop
+Rev
+Miller J E Trussell J Pebley A R Vaughan B Birth spacing and child
+mortality in Bangladesh and the Philippines Demography
+Mogstad M Wiswall M Testing the quantity quality model of fertility
+Estimation using unrestricted family size models Quant Econ
+Molitoris J The effect of birth spacing on child mortality in Sweden
+Popul Develop Rev
+National Research Council Contraception and Reproduction Health Conse
+quences for Women and Children in the Developing World The National Academies
+Press
+Olenick I Women s exposure to mass media is linked to attitudes toward
+contraception in Pakistan India and Bangladesh Int Family Plan Perspect
+Oster E Unobservable selection and coefficient stability Theory and evidence
+J Bus Econom Statist
+Rau T Sarzosa M S The children of the missed pill J Health Econ
+Roodman D Fitting fully observed recursive mixed process models with cmp
+Stata J
+Rosenzweig M R Zhang J Do population control policies induce more human
+capital investment Twins birth weight and China s one child policy Rev
+Econom stud
+Rutstein S O Effects of preceding birth intervals on neonatal infant and under
+five years mortality and nutritional status in developing countries Evidence from
+the demographic and health surveys Int J Gynecol Obstetrics
+Economic Modelling
+Shekhar M Heaver R Lee Y Repositioning Nutrition As Central To Devel
+opment A Strategy for Large Scale Action World Bank Publications URL
+https
+openknowledge worldbank org handle
+Silles M A The implications of family size and birth order for test scores and
+behavioral development Econ Educ Rev
+Singh A Childhood malnutrition in India In Perspective of Recent Advances
+in Acute Diarrhea
+Singh A Chalasani S Koenig M A Mahapatra B The consequences of
+unintended births for maternal and child health in India Popul Stud
+Smith L C Haddad L Explaining Child Malnutrition in Developing Countries
+A cross country analysis In International Food Policy and Research Institute
+Technical Report FCND Discussion Paper No
+Smith L c Ramakrishnan U Ndiaye A Haddad L Martorell R The
+importance of women s status for child nutrition in developing countries Research
+Report of the International Food Policy Research Institute
+Swaminathan H Sharma A Shah N G Does the relationship between income
+and child health differ across income groups Evidence from India Econ Model
+Thomas D Strauss J Henriques M H Child survival height for age and
+household characteristics in Brazil J Dev Econ
+Thomas D Strauss J Henriques M H How does mother s education affect
+child height J Hum Resour
+Trussell J Pebley A R The potential impact of changes in fertility on infant
+child and maternal mortality Stud Family Plan
+WHO WHO Child Growth Standards Training Course on Child Growth
+Assessment Technical report World Health Organization
+World Food Programme Report The Cost of Hunger in Ethiopia Implications for
+the Growth and Transformation of Ethiopia Technical Report
+World Health Organization Fact sheets Malnutrition Technical Report June
+Yeakey M P Muntifering C J Ramachandran D v Myint Y M Creanga A A
+Tsui A O How contraceptive use affects birth intervals Results of a
+literature review Stud Family Plan
+Zhang J The evolution of China s one child policy and its effects on family
+outcomes J Econ Perspect
+Zhu X Whalley J Zhao X Intergenerational transfer human capital and
+long term growth in China under the one child policy Econ Model
+Trends in
+Endocrinology Metabolism
+Science Society
+Wildfires and COVID
+syndemic impact on
+maternal and child health
+Amita Bansal O
+Nicolas Cherbuin O
+Liana Leach O
+Rebecca A Simmons O
+Christopher J Nolan O
+and
+The prevailing COVID pandemic
+and climate change mediated
+wildfires can combine to impact
+maternal child health yet this con
+nection remains understudied To
+shape policies and design inter
+ventions to mitigate the combined
+effects of future global catastro
+phes it is vital to holistically evalu
+ate the impact of syndemics on
+maternal child health
+Back to back crises threaten fetal
+health
+The unfolding of the ongoing coronavirus
+disease COVID pandemic has
+been accompanied by devastating wild
+fires in certain regions of the world thus
+producing a syndemic see
+Glossary
+for which the impact remains elusive
+Notably eastern Australia bushfires
+followed by COVID and western
+USA COVID followed by wildfires
+are two such regions where the back
+to back crises left little time in between
+for the affected communities health
+care public health and social services
+to recover This is particularly concerning
+when we consider the compounding
+effects of wildfires and COVID on
+health as demonstrated by a study of US
+adults reporting an increase in
+COVID deaths for each vg in
+crease in air levels Although the
+combination of two adverse developmental
+exposures or second hits has been widely
+investigated previously e g combination
+of poor diet and physical inactivity how
+the effects of natural disasters and global
+health crises combine to impact maternal
+child health remains unclear
+Pregnancy is a critical window in human
+development as the fetus is particularly
+vulnerable to external exposures result
+ing in lifelong adverse consequences for
+the offspring s health In this context
+wildfires extreme heat and smoke expo
+sure have been identified as an environ
+mental exposure that is associated with
+detrimental pregnancy and child health
+outcomes Prenatal exposure to wildfires
+has been linked to abnormal birth weight
+and heightened rates of prematurity
+gestational diabetes and hypertensive
+disorders of pregnancy Similarly the
+COVID pandemic has been shown
+to increase maternal mortality ruptured
+ectopic pregnancies stillbirth and ma
+ternal depression Furthermore we
+increasingly recognize that COVID is
+disproportionately impacting women
+and babies worldwide not only due to
+infections with severe acute respiratory
+syndrome coronavirus SARS CoV
+but also from disruptions to maternal
+and child health services It may
+therefore be expected that women who
+were pregnant during wildfires and gave
+birth during the pandemic would experi
+ence more adverse pregnancy out
+comes with detrimental consequences
+on their own long term health and that
+of their offspring Given the prevailing
+COVID pandemic and our changing
+climate amplifying the frequency and
+severity of wildfires there is an urgent
+need for research that recognizes the
+complexity of these synergistic crises
+considers their temporal occurrence
+and the type of combined effects
+they may have additive subtractive
+Box l
+multiplicative mediatory see
+and investigates their consequences for
+maternal child health
+CelPress
+Glossary
+Dyadic coping the way couples cope wth stress
+together by engagng in supportive or jont
+d scussions to plan and deal with stressors
+fine particulate matter in size
+Syndemic two or more concurrent or sequential
+epidemics or clustered disease states with biological
+and social interaction which increase susceptibility to
+harm or worsen health outcomes of people within
+impac ed communities
+Potential mechanisms underlying
+synergism in effects of wildfires
+and COVID on maternal and
+child metabolic health
+In this section we elaborate on the knowl
+edge gaps on mechanisms by which wild
+fires and the COVID pandemic may
+have synergistic detrimental effects on
+maternal child metabolic health We pro
+pose that the synergism is a consequence
+of overlapping and interconnected mech
+anisms mediated by indirect effects on life
+style individual and family psychological
+stress and social cohesion that are com
+mon to the two crises Figure These in
+direct effects then amplify the overall
+response by compounding the previously
+reported direct toxic effects of wildfire
+smoke extreme heat and maternal
+SARS CoV infection on the pregnant
+mother
+including immune system
+changes oxidative stress and abnormal
+placental morphology and function
+The placenta may have an important role
+in protecting the fetus in such circum
+stances which may explain the low rates
+of vertical SARS CoV transmission
+However its capacity to protect may be
+reduced with cumulative insults as is
+more likely in syndemics
+Wildfires and COVID are known to in
+fluence lifestyle diet physical activity
+sleeping patterns behavior substance
+abuse and mood all of which have
+consequences for health and metabolism
+during pregnancy Changes in lifestyle
+could be driven by extrinsic factors such
+Trends in Endocrinology Metabolism December Vol No
+CelPress
+Box Timing is key
+The temporal order of crises and triggered mechanisms is critical
+Trends in Endocrinology Metabolism
+In syndemic research it is essential to consider he order in which crises A B and resulting mechanisms
+occurred as crisis A could exacerbate or reduce he impact of crisis B on maternal child health outcomes
+For example natural disas ers increase psychological distress which could dampen maternal
+immune response during COVID ernatively COVID increased communi y solidarity and
+resilience which could facilitate community engagement and decrease individual distress during a
+wildfire evacuation
+During pregnancy and development the concept of critical window is well es ablished When a particular
+disaster crisis perturbs these cri cal windows it determines the impact of that event on maternal and child
+health For example crisis occurrence in pregnancy could affect fetal organ development while postnatally
+it could affec breastfeed ng
+Hence the temporal order should be given pivotal consideration to appropriately assess the
+consequences of syndemcs on maternal child health
+as restriction to indoors to avoid wildfire
+smoke or to adhere to COVID lock
+downs leading to loss of capacity to exer
+cise and or reduced access to healthy
+food Intrinsic factors such as crises
+induced stress may reduce one s capacity
+to cope and promote unhealthy behaviors
+such as substance abuse e g smoking
+alcohol illicit drugs use and or misuse of
+prescribed medicines
+Wildfire COVID
+Loss of life livelihood and social cohesion
+Disruption Of healthcare childcare services
+Moreover natural disasters and pan
+demics significantly impact mental health
+through similar mechanisms including
+fear induced by an existential threat to
+self or loved ones and anxiety stress or
+depression caused by separation from
+family and friends loss of societal routines
+and cohesion loss of property and liveli
+hood and increased domestic violence
+In the case of COVID reduced access
+Long term offspring
+metabolic health
+Perturbed partner mental
+health support and
+dyadic coping
+Behaviour
+substance
+abuse
+Stress
+Lifestyle
+diet
+physical
+activity
+pattern
+TNFa
+Pregnancy
+Partner
+HPA axis
+Maternal
+fetal
+circulation
+mmune
+balance
+IL IL
+L g IL
+Epigenetics
+Trends in Endocrinology
+Figure Interconnected mechanisms underlying wildfire and COVID syndemics Wildfires and
+COVID trigger loss of social cohesion life and livelihood and disrupt health care and childcare services
+leading to psychological stress during pregnancy at the individual maternal level or med ated through altered
+partner level support Maternal psychological stress modifies maternal behavior substance abuse smoking
+alcohol and illicit drugs use and misuse of prescribed medicnes and lifestyle factors diet physical ac ivity
+sleeping pattern and perturbs the maternal fetal hypothalamic pitui ary adrenal HPA axis placental
+perfusion immune balance and epigenetic programming with potential long term consequences for offspring
+metabolic health Abbreviations COVID coronavirus disease IFN interferon IL interleukin Th T
+helper cells TNF tumor necrosis factor
+Trends in Endocrinology Metabolism December Vol No
+to health care and childcare services and
+restrictions in the number of family and
+friends allowed to support mothers during
+childbirth and postpartum critical times for
+maternal child bonding are commonly re
+ported further exacerbating stress during
+pregnancy
+Furthermore we know that outside a crisis
+context partners play a crucial role in
+supporting mothers throughout preg
+nancy and parenting and independently
+separate from mothers influence their
+children s growth and development ln
+deed during interviews and open ended
+survey questions of the Mother and Child
+study women reported that their
+partners were an indispensable source of
+support Despite this recognized partners
+contribution there is a paucity of research
+on the role of partners mental health and
+mother and partner dyadic coping in
+family well being and parenting function
+ing following syndemics Most research
+considers only one family member or
+parent primarily mothers failing to investi
+gate how the psychological health of both
+parents in two partner families interact
+During crises partner s support social
+emotional and practical is expected to
+be pivotal in mitigating the onset of poor
+maternal psychological well being
+Maternal psychological well being plays
+a crucial role in maintaining a healthy
+intrauterine milieu and protecting the
+offspring from metabolic diseases later in
+life In addition to stress modifying mater
+nal behavior substance abuse and life
+style diet physical activity and sleeping
+pattern four key biological mechanisms
+implemented at the gene or protein level
+underlying abnormal offspring metabolic
+health due to maternal psychological
+stress are perturbed i maternal and
+fetal
+hypothalamic pituitary adrenal
+HPA axis mediated by maternal to
+fetal transport of stress hormones via the
+placenta ii maternal fetal placental
+malperfusion fetal deprivation of oxygen
+Trends in Endocrinology Metabolism
+and nutrient supply iii programming of
+immunity shift in the T helper T h cell
+anti inflammatory and Thl proinflamma
+tory balance and iv epigenetic program
+ming imprinting defects altered DNA
+histone methylation acetylation lm
+portantly mother child can be genetically
+predisposed to environmental perturba
+tions e g angiotensin converting enzyme
+increases COVID infection
+risk G protein coupled receptor GPRA in
+creases asthma risk during wildfires which
+catalyzes the development of chronic dis
+ease in some exposed individuals These
+effects are likely to be further compounded
+by typical pregnancy stressors and exacer
+bate maternal psychological vulnerability
+with potentially detrimental metabolic con
+sequences for both the mother and the
+child as evident in other natural disasters
+such as floods and ice storms How
+ever the synergistic impact of wildfires
+and COVID on the offspring s metabolic
+health related to maternal psychological
+stress its time course and ensuing dyadic
+effects on mother and child are yet to be
+determined
+Need for a multidisciplinary
+approach to close gaps in evidence
+As the SARS CoV pandemic progresses
+and wildfires increase in frequency it is vital
+to investigate the complex and intercon
+nected mechanisms at play that adversely
+impact on the metabolic health of mother
+and child during syndemics Mechanisms
+that are common to both types of expo
+sures and or have synergistic harmful ef
+fects on maternal child metabolic health
+are essential to determine e g HPA axis
+placental malperfusion immune program
+ming epigenetics genetics as focusing
+interventions on these mechanisms with
+evidence based approaches are most
+likely to be effective at mitigating risks Un
+derstanding the direct biological effects
+e g oxidative stress of wildfire smoke ex
+cessive heat and COVID infection on
+health is clearly important However the in
+direct effects of syndemics on maternal
+child health through perturbing lifestyle
+diet physical activity sleeping patterns
+behavior substance abuse mental health
+social cohesion and the contribution of
+partners family dynamics are equally critical
+in driving metabolic disease pathogenesis
+and therefore need to be comprehensively
+investigated using a multidisciplinary re
+search approach
+Concluding remarks
+A healthy start to life from the prenatal to the
+neonatal period is critical for achieving opti
+mal long term metabolic health for mothers
+and babies To provide every child with a
+healthy start to life it is essential that our
+research response and recovery efforts
+during times of crises are directed toward
+supporting women children and young
+families Recent World Health Organization
+WHO United Nations International Chil
+dren s Emergency Fund UNICEF Lancet
+Commission and WHO reports
+highlight that to prevent current and future
+generations from the devastating conse
+quences of climate change and the ongoing
+COVID pandemic we must prioritize and
+invest in the health of our children This will
+profoundly benefit health and economies
+globally and must be placed at the center
+of our Sustainable Development Goals
+Recent global environmental crises and the
+pandemic are an impetus to assess the syn
+ergistic impact of these environmental and
+health crises on the growth develop
+ment and long term metabolic health of
+our youngest generation To learn les
+sons from the current crises and be
+better prepared for future ones it is es
+sential to establish multidisciplinary col
+laborative studies aimed at collecting
+and analyzing detailed quantitative
+and qualitative information on how
+pregnant women and young families
+are affected at an individual and popula
+tion level by wildfires and COVID
+concurrently Importantly a greater
+focus is needed on how reduced social
+connectivity and disrupted family dynam
+ics access to health care services and
+CelPress
+health promoting behaviors have impacted
+the psychological well being of pregnant
+women with long lasting metabolic health
+consequences for mothers and children
+Author contributions
+A B drafted the manuscript box and figure and
+edited subsequent versions N C L L R A S and
+C J N contributed to revisions All authors approved
+the final version
+Declaration of interests
+The authors declare no compe ng interests
+School of Medicine and Psychology College of Health and
+Medicine Australian National University Canberra ACT
+Australia
+Curtin School of Medical Research Co lege of Health and
+Medicine Australian National University Canberra ACT
+Australia
+Center for Epidemiology and Population Health
+Australian National University Acton ACT Australia
+for Research on Reproduction and Women s Health
+University of Pennsylvania Philadelphia PA USA
+of Excellence in Environmental Toxicology University of
+Pennsylvania Philadelphia PA USA
+of Neonatology Department of Pediatrics The
+Children s Hospital of Philadelphia Philadelphia PA
+USA
+Endocrinology and Diabetes The Canberra Hospital Canberra
+Health Services ACT Australia
+Bhttps researchers anu edu au researchers bansal a
+Correspondence
+amita bansal anu edu au A Bansal
+Twitter
+httpsWdoi org j tem
+Elsevier Ltd All rights reserved
+References
+Horton R Offline COVID is not a pandemic
+Lancet
+Zhou X et al Excess of COVID cases and deaths
+due to fine particulate matter exposure during the
+wildfires in the United States Sci Adv
+Evans J etal Birth outcomes health and health
+care needs of childbearing women following wildfire
+disasters an integrative state of the science review
+Environ Health Perspect
+Chmielewska B et al Effects of the COVID
+pandemic on maternal and perinatal outcomes a
+systematic review and meta analysis Lancet Glob
+Golden T N and Simmons R A Maternal and
+neonatal response to COVID Am J Physiol
+Endocrinol Metab
+Roseboom T J et al Unheard unseen and
+unprotected DOHaD council s call for action to protect
+the younger generation from the long term effects of
+COVID u Dev orig Health Dis
+Basilio E et al Wildfire smoke exposure during
+pregnancy a review of potential mechanisms of placental
+toxicity impact on obstetric outcomes and strategies
+to reduce exposure Int J Environ Res Public Health
+Trends in Endocrinology Metabolism December Vol No
+CelPress
+Kirova K and Snell T Women s experiences of
+positive postnatal partner support J Reprod Infant
+Psychol
+Vehmeijer F O L et al Maternal psychological dis
+tress during pregnancy and childhood health outcomes a
+narrative review J Dev Orig Health Dis
+Lafortune S etal Effect of natural disaster related prau
+tal maternal stress on child development and health a meta
+anatytic revie v Int J Envion Res PL b ic Haatth
+Trends in Endocrinology Metabolism
+Bansal A et al Heatwaves and wildfires suffocate
+our healthy start to life time to assess impact and take
+action Gqncet Planet Health
+Clark H et al A future for the world s children
+A WHO UNICEF Lancet Commission Lancet
+World Health Organization Regional Office for
+Europe Mitigating the Impacts of COVID on Maternal
+and Child Health Services World Hea th Organization
+Published online February https apps who int
+iris handle
+Olson D M et al Recent Canadian efforts to
+develop population level pregnancy intervention studies
+to mitigate effects of natural disasters and other tragedies
+J Dev orig Health Dis
+Davis D et al Opportunities for primary health care
+a qualitative study of perinatal health and wellbeing during
+bushfire crises Fam Pract
+Trends in Endocrinology Metabolism December Vol No
+Bayrampour et al BMC Pregnancy and Childbirth
+http www biomedcentral com
+RESEARCH ARTICLE
+BMC
+Pregnancy Childbirth
+Open Access
+Advanced maternal age and risk perception A
+qualitative study
+Hamideh Bayrampour Maureen Heaman Karen A Duncan and Suzanne Tough
+Abstract
+Background Advanced maternal age AMA is associated with several adverse pregnancy outcomes hence these
+pregnancies are considered to be high risk A review of the empirical literature suggests that it is not clear how
+women of AMA evaluate their pregnancy risk This study aimed to address this gap by exploring the risk perception
+of pregnant women of AMA
+Methods A qualitative descriptive study was undertaken to obtain a rich and detailed source of explanatory data
+regarding perceived pregnancy risk of women of AMA The sample was recruited from a variety of settings in
+Winnipeg Canada In depth interviews were conducted with nulliparous women aged years or older in their
+third trimester and with singleton pregnancies Interviews were recorded and transcribed verbatim and content
+analysis was used to identify themes and categories
+Results Four main themes emerged definition of pregnancy risk factors influencing risk perception risk alleviation
+strategies and risk communication with health professionals
+Conclusions Several factors may influence women s perception of pregnancy risk including medical risk
+psychological elements characteristics of the risk stage of pregnancy and health care provider s opinion
+Understanding these influential factors may help health professionals who care for pregnant women of AMA to
+gain insight into their perspectives on pregnancy risk and improve the effectiveness of risk communication
+strategies with this group
+Keywords Advanced maternal age Risk perception Qualitative study
+Background
+In the past three decades an increasing proportion of
+women have delayed childbearing for educational social
+and economic reasons Pregnancy at advanced ma
+ternal age AMA defined as age years or older is
+associated with several adverse pregnancy outcomes in
+cluding preterm birth low birth weight still birth
+chromosomal defects labor complications and cesarean
+section therefore it is considered to be a high
+risk pregnancy However little is known about how
+women of AMA perceive their pregnancy risk Under
+standing perception of pregnancy risk is important be
+cause it can affect women s health care use motivations
+Correspondence Hamideh Bayrampour aIbertaheaIthservices ca
+Department of Pediatrics Faculty of Medicine University of Ca gary Alberta
+Centre for Child Fami y Commun tY Research Child Development Centre
+c Shaganappi Trail NW Ca gary AB T Canada
+Full list of author information is available at the end of the article
+to seek care pregnancy and labor decisions adherence
+to medical recommendations and health behavior
+Risk perception is also incorporated as a key con
+cept in constructing several theories of health behavior
+such as the Health Belief Model Protection Motiv
+ation Theory and Prospect Theory
+The concept of risk at AMA may be composed of two
+components the physiological challenges because of an
+aging reproductive system and the social discourse of
+risk and timing of childbearing Most previous work
+on risk perception at AMA has focused on increased
+risk of genetic abnormalities and the general concept of
+pregnancy risk perception has received less consider
+ation Current knowledge of risk perception at AMA is
+based on a few studies that most of them primarily fo
+cused on pregnancy experiences in which risk percep
+tion was discussed as part of the pregnancy and birth
+experience For instance Windridge and Berryman
+Bayrampour et al licensee BioMed Central Ltd This is an Open Access article distributed under the terms of the
+BioMed Central
+Creative Commons Attribution License http creativecommons org Iicenses by which permits unrestricted use
+distribution and reproduction in any medium provided the original work is properly cited
+Bayrampour et al BMC Pregnancy and Childbirth
+http www biomedcentral com
+in a study of British women s experiences of
+giving birth at AMA explored risk perception and
+reported that women of AMA may perceive a higher risk
+for their babies during labor because of their older age
+Another notable study on this topic is an Austra
+lian qualitative study of prim gravid women of AMA
+that was initially conducted to understand the experi
+ences of women of AMA Later in Carolan
+and Nelson conducted a secondary analysis of the quali
+tative data and identified four themes central to percep
+tion of pregnancy risk including realizing I was at risk
+hoping for reassurance dealing with uncertainty and
+getting through it negotiating risk p They
+reported high levels of concern and anxiety among parti
+cipants in spite of these women having healthy pregnan
+cies and concluded that the notion of risk may have
+negative impacts on these women A qualitative study by
+Saxell primarily focused on studying the under
+standings and beliefs about the risks associated with the
+pregnancies of ten women of AMA Saxell reported that
+these women found being labeled as high risk very chal
+lenging hence several participants rejected this labeling
+as part of their coping mechanism This study had a
+number of limitations such as retrospective data collec
+tion months after delivery and its unique population
+participants who chose midwifery care which should
+be considered in the interpretation of the results
+The focus of previous studies has been on describing
+the impact of being labeled as high risk on pregnant
+women rather than exploring and elaborating on the
+process of risk appraisal by these women Understanding
+women s perception of pregnancy risk is essential in devel
+oping more effective risk communication approaches
+Considering the lack of literature in this area and limita
+tions associated with previous studies we conducted a
+mixed methods research study to further existing know
+ledge on risk perception and its contributing factors
+Mixed methods research is research in which the inves
+tigator collects and analyzes data integrates the findings
+and draws inferences using both qualitative and quantita
+tive approaches or methods in a single study or a pro
+gram of inquiry p Mixed methods research gives
+the researcher an ability to use both numbers and words
+and combine inductive and deductive thinking to address
+the research problem Our study was composed of
+both qualitative and quantitative components and using
+a mixed methods approach we compared or integrated
+the factors contributing to perception of pregnancy risk
+determined by multiple regression analyses with the
+women s perspectives obtained from qualitative inter
+views to enhance current knowledge on this topic The
+sample for the mixed methods study consisted of
+participants women aged years and
+women aged years or older In the quantitative
+Page of
+component we compared perception of pregnancy risk
+in nulliparous women aged years or older n
+with that of nulliparous women aged years
+n In the quantitative component we also
+developed a conceptual framework to explore factors
+contributing to risk perception among nulliparous
+women N The study reported here is the
+qualitative component of this mixed methods study The
+objectives of this qualitative study were to explore how
+nulliparous women of AMA evaluate and define their
+pregnancy risk and to arrive at a detailed understanding
+of their risk perception The following research questions
+were explored How do nulliparous women of AMA
+define pregnancy risk Why do women of AMA feel
+that their pregnancy is or is not at risk Which factors
+influence perception of pregnancy risk What impact
+if any did being labeled high risk have on these women s
+lives and behaviors What are the experiences of
+women of AMA with risk communication from health
+care providers during pregnancy How do women feel
+their perceptions of risk differ from those of their health
+care providers if at all
+Methods
+A qualitative descriptive study was undertaken to obtain
+a rich and detailed source of explanatory data regarding
+risk perception from women of AMA As described by
+Sandelowski a qualitative descriptive study pro
+vides a comprehensive summary of an event in the
+everyday terms of those events p The qualita
+tive descriptive method is a distinctive and valuable
+technique and offers a direct description of phenomena
+which is still interpretive As Sandelowski
+stated this kind of research can address both descriptive
+and interpretive validity to account for participants
+observations and their understandings of these events
+Participants were chosen purposefully from among the
+participants in the quantitative component of the mixed
+methods study Criteria for participation in the larger
+mixed methods study were women with a singleton
+pregnancy ability to speak read and write English and
+gestational age of weeks or greater Any known se
+vere psychological disorder was an exclusion criterion
+Data were collected over months from December
+to January from selected physicians offices
+and outpatient prenatal care clinics at two tertiary hospi
+tals in Winnipeg Manitoba
+In purposeful sampling participants are intentionally
+selected according to the needs of the study The
+researcher asked selected women aged years or older
+who had participated in the quantitative component of
+the study if they were willing to participate in the quali
+tative component Participants were selected to ensure
+diversity in demographic and obstetric characteristics
+Bayrampour et al BMC Pregnancy and Childbirth
+http www biomedcentral com
+most notably gestational age and pregnancy complica
+tions In addition participants were recruited to reflect a
+range of scores using the Perception of Pregnancy Risk
+Questionnaire used in the quantitative component
+to ensure inclusion of participants with different levels
+of perception of pregnancy risk
+Potential participants were provided with a written
+and verbal explanation of the study Each participant
+signed a consent form A mutually convenient time and
+place were arranged to conduct the interviews In depth
+semi structured face to face interviews using an inter
+view guide were conducted by the researcher from Janu
+ary to January The interview guide was
+developed by the investigators and key areas explored
+included decision making about timing of childbearing
+women s understandings about pregnancy after age
+perceived pregnancy risk and its impact on woman s
+feelings and thoughts partner s perspectives about preg
+nancy and women s experiences with the health care
+system All interviews were audio recorded and tran
+scribed verbatim In qualitative inquiry sample size re
+lies on the concept of saturation which is the point at
+which no new information or themes are observed in
+the data Saturation was reached after interviewing
+participants
+Data analysis was carried out concurrently with data
+collection Transcripts were analyzed using a content
+analysis technique Content analysis is a systematic
+and replicable method used for condensing many words
+of text into fewer content categories based on explicit
+rules of coding As mentioned earlier this study was
+part of a mixed methods research study in which several
+instruments were administered to women participating
+in the quantitative component In this report select

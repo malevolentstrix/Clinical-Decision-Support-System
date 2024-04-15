@@ -1,0 +1,1079 @@
+ any point during the pandemic and in the
+month before survey completion Issues assessed included fewer adult
+females seeking care clinic closed for in person appointments LARC
+placement services limited LARC removal services limited decreases in
+contraceptive supplies technical challenges with telehealth confiden
+tiality concerns with telehealth billing challenges with telehealth and
+patient discomfort with telehealth The survey also collected informa
+tion on provider and clinical practice characteristics
+Statistical analysis
+Of physicians who completed the survey we excluded
+whose practice did not provide family planning services to female pa
+tients of reproductive age just before the pandemic resulting in an an
+alytic sample of physicians
+We described physician and clinical practice characteristics of re
+spondents We also described practice level family planning related
+clinical services provided and strategies used just before and at any
+point during the COVID pandemic and practice level service provi
+Sion issues experienced because of the COVID pandemic at any point
+during the pandemic and in the month before survey completion We
+used the McNemar s test of dependent proportions Fagerland et al
+to compare estimates by time period i e just before and at any
+point during the COVID pandemic for clinical services provided and
+strategies used and at any point during the COVID pandemic and in
+the month before survey completion for service provision issues expe
+rienced We considered findings with a p value as statistically
+significant Additionally among physicians who reported their practice
+provided the clinical service or used the strategy just before the
+pandemic we examined the proportion who reported their practice
+discontinued the service or strategy during the pandemic i e did not
+provide at any point during the pandemic Similarly among physicians
+who reported their practice did not provide the clinical service or did not
+use the strategy just before the pandemic we examined the proportion
+L B Zapata et al
+who reported their practice initiated the service or strategy during the
+pandemic Outcomes are presented overall and by physician type to
+inform clinic based improvements
+Analyses of DocStyIes survey data do not require Centers for Disease
+Control and Prevention Institutional Review Board evaluation since the
+data licensed from Porter Novelli do not include personal identifiers the
+activity is considered non human subjects research We analyzed the
+data using SAS software version
+Results
+Most respondents were primary care physicians were family
+practitioners and were internists while were obstetrician
+gynecologists and were pediatricians
+Most had prac
+Table
+ticed medicine for years were aged years
+were male and self identified as non Hispanic White
+Respondents represented all U S regions Most worked in a suburban
+area and primarily in a group outpatient practice
+Family planning patient volume just before the COVID pandemic i
+e average number of female patients of reproductive age who received
+family planning services per week was low patients for most
+respondents while reported moderate patients
+and reported high patients volume
+Changes in clinical services provided and strategies used
+The proportion of physicians whose practices provided LARC ser
+vices significantly decreased when comparing the period just before the
+pandemic with any point during the pandemic LARC placement
+Preventive Medicine
+Table
+Changes in clinical services provided and strategies used Fall DocStyIes N
+Clinical services and strategies
+LARC placement
+LARC removal
+Telehealth for contraception initiation
+Telehealth for contraception continuation
+Accepted self report of blood pressure during
+telehealth visits for contraception
+Renewed contraception prescriptions
+without requiring an office visit
+Allowed curbside pickup or mail delivery of
+contraception
+Supported self administration of
+subcutaneous injectable contraception
+Counseled on extending use of LARC beyond
+their FDA approved duration
+Provided or prescribed emergency
+contraceptive pills in advance
+Provided or prescribed a year s worth of oral
+contraceptives
+Sent patient reminders about DMPA
+injections or LARC removal or
+replacement
+Just before
+the COVID
+pandemic
+At any point
+during
+the COVID
+pandemic
+vs LARC removal vs Table
+Table
+Respondent characteristics Fall DocStyles N a
+Characteristics
+Physician characteristics
+Specialty
+Number of years practicing medicine
+Age years
+Male gender
+Race ethnicity
+Clinical practice characteristics
+Census region
+Urbanicity of primary work setting
+Primary work setting
+Family planning patient volume
+Family practitioner
+Internist
+Pediatrician
+Obstetrician gynecologist
+years
+years
+years
+years
+White non Hispanic
+Black non Hispanic
+Asian non Hispanic
+Hispanic
+Other
+Northeast
+Midwest
+South
+West
+Urban
+Suburban
+Rural
+Individual outpatient practice
+Group outpatient practice
+Inpatient practice
+Low
+Moderate
+High
+Significant
+a U S physicians providing family planning services to at least one female
+patient of reproductive age per week just before the COVID pandemic began
+b
+Average number of female patients of reproductive age who received family
+planning services per week just before the COVID pandemic
+Note Boldface indicates statistical significance p of McNemar s test
+comparing the proportion providing the clinical service or using the strategy just
+before the COVID pandemic with the proportion providing the clinical ser
+vice or using the strategy at any point during the COVID pandemic
+DMPA depot medroxyprogesterone acetate FDA Food and Drug Administra
+tion LARC long acting reversible contraception which includes intrauterine
+devices and implants
+a U S physicians providing family planning services to at least one female
+patient of reproductive age per week just before the COVID pandemic began
+b
+Among those who provided telehealth for contraception initiation or
+continuation n for just before the COVID pandemic n for at any
+point during the COVID pandemic n for just before the COVID
+pandemic or at any point during the COVID pandemic when comparing
+proportions by time period
+increases in the proportion of physicians reporting the following
+practice level services or strategies were observed when comparing the
+period just before the pandemic with any point during the pandemic
+telehealth for contraception initiation vs telehealth for
+contraception continuation vs accepted self report of
+blood pressure during telehealth visits for contraception among those
+who provided telehealth for contraception initiation or continuation
+vs renewed contraception prescriptions without
+requiring an office visit vs and allowed curbside pickup
+or mail delivery of contraception vs Significant changes
+were not observed for the following strategies supported self
+administration of subcutaneous injectable contraception vs
+counseled on extending use of LARC beyond their FDA
+approved duration vs provided or prescribed ECPs in
+advance vs provided or prescribed a year s worth of oral
+contraceptives vs and sent patient reminders about
+DMPA injections or LARC removal or replacement vs
+Whereas decreases in LARC placement and increases in renewed
+contraception prescriptions without requiring an office visit were
+observed overall no changes in these practices were observed for pe
+diatricians comparing the period just before the pandemic with any
+point during the pandemic data not shown vs for LARC
+placement vs for renewed contraception prescriptions
+without requiring an office visit Also although not significant overall
+L B Zapata et al
+more pediatricians provided or prescribed ECPs in advance of need at
+any point during the pandemic compared with the period just
+before the pandemic
+Clinical services and strategies discontinued
+Among physicians whose practices provided the following services
+or strategies just before the pandemic reported their practice
+discontinued these during the pandemic LARC placement
+LARC removal accepted self report of blood pressure during
+telehealth visits for contraception among those who provided tele
+health for contraception initiation or continuation both just before and
+at any point during the pandemic renewed contraception
+prescription without requiring an office visit allowed curbside
+pickup or mail delivery of contraception supported self
+administration of subcutaneous injectable contraception
+counseled on extending use of LARC beyond their FDA approved dura
+tion provided or prescribed ECPs in advance and sent
+patient reminders about DMPA injections or LARC removal or replace
+ment Table
+Discontinuation of LARC placement and LARC removal services
+significantly differed by physician type data not shown being highest
+among pediatricians and respectively and lowest among
+obstetrician gynecologists and respectively Discontinu
+ation of providing or prescribing ECPs in advance of need also differed
+by physician type data not shown being highest among primary care
+physicians and lowest among pediatricians
+Clinical services and strategies initiated
+Among physicians whose practices did not provide or use the
+following services or strategies just before the pandemic reported
+their practice initiated these during the pandemic telehealth for
+contraception initiation telehealth for contraception continu
+ation accepted self report of blood pressure during telehealth
+visits for contraception among those who provided telehealth for
+contraception initiation or continuation both just before and at any
+point during the pandemic renewed contraception pre
+scriptions without requiring an office visit and allowed curb
+side pickup or mail delivery of contraception
+Table
+Initiation of telehealth for contraception differed by physician type
+data not shown initiating telehealth for contraception initiation and
+continuation was highest among obstetrician gynecologists and
+respectively and lowest among primary care physicians
+and respectively Initiating providing or prescribing a year s
+worth of oral contraceptives also varied by physician type data not
+shown whereas only of pediatricians initiated this practice it was
+initiated by of primary care physicians and of obstetrician
+gynecologists
+Service provision issues experienced
+Substantial proportions of physicians reported experiencing specific
+practice level service provision issues during the pandemic but signif
+icantly fewer reported these issues in the month before survey comple
+tion fewer adult females seeking care vs clinic closed
+for in person appointments vs and among physicians
+whose practices provided these services before the pandemic limited
+LARC placement services vs and limited LARC removal
+services pandemic vs Table Similarly physicians
+reported experiencing practice level challenges with telehealth services
+during the pandemic but significantly fewer reported these challenges
+in the month before survey completion technical challenges vs
+confidentiality concerns vs billing challenges
+vs and patient discomfort vs Despite
+reductions in practice level issues experienced when comparing at any
+Preventive Medicine
+Table
+Clinical services and strategies discontinued and initiated during the COVID
+pandemic Fall DocStyIes N
+Clinical services and
+strategies
+LARC placement
+LARC removal
+Telehealth for
+contraception
+initiation
+Telehealth for
+contraception
+continuation
+Accepted self report
+of blood pressure
+during telehealth
+visits for
+contraception
+Renewed
+contraception
+prescriptions
+without requiring
+an office visit
+Allowed curbside
+pickup or mail
+delivery of
+contraception
+Supported self
+administration of
+subcutaneous
+injectable
+contraception
+Counseled on
+extending use of
+LARC beyond
+their FDA
+approved
+duration
+Provided or
+prescribed
+emergency
+contraceptive pills
+in advance
+Provided or
+prescribed a
+year s worth of
+oral
+contraceptives
+Sent patient
+reminders about
+DMPA injections
+or LARC removal
+or replacement
+Provided
+just before
+the
+COVID
+pandemic
+a
+Discontinued
+during
+the COVID
+pandemic
+Not
+provided
+just before
+the
+COVID
+pandemic
+Initiated
+during
+the COVID
+pandemic
+Note Clinical services and strategies were either provided or not provided just
+before the COVID pandemic i e data in the provided just before the COVID
+pandemic column are mutually exclusive from the data in the not provided
+just before the COVID pandemic
+DMPA depot medroxyprogesterone acetate FDA Food and Drug Administra
+tion LARC long acting reversible contraception which includes intrauterine
+devices and implants
+a U S physicians providing family planning services to at least one female
+patient of reproductive age per week just before the COVID pandemic began
+b
+Physicians who reported their practice did not provide the service did not
+use the strategy at any point during the pandemic among those who reported it
+was provided used just before the pandemic
+c Physicians who reported their practice provided the service used the strat
+egy at any point during the pandemic among those who reported it was not
+L B Zapata et al
+provided used just before the pandemic
+Among those who provided telehealth for contraception initiation or
+continuation just before the COVID pandemic and at any point during the
+COVID pandemic
+Table
+Service provision issues experienced because of the COVID pandemic Fall
+Docstyles N a
+Service provision issues
+Fewer adult females
+seeking care
+Clinic closed for in
+person appointments
+LARC placement
+services limitedC
+LARC removal services
+limited
+Decreases in
+contraceptive
+supplies
+Technical challenges
+with telehealth
+Confidentiality
+concerns with
+telehealth
+Billing challenges with
+telehealth
+Patient discomfort with
+telehealth
+Experienced at any point
+during the COVID
+pandemic
+Experienced in the month
+before survey
+completion
+n
+Note Boldface indicates statistical significance p of McNemar s test
+comparing the proportion experiencing the issue at any point during the COVID
+pandemic and in the month before survey completion
+LARC long acting reversible contraception which includes intrauterine devices
+and implants
+a U S physicians providing family planning services to at least one female
+patient of reproductive age per week just before the COVID pandemic began
+b
+Survey was fielded September
+Among those who provided LARC placement services before the pandemic
+n
+Among those who provided LARC removal services before the pandemic n
+point during the pandemic with in the month before survey completion
+of physicians still reported the following practice level issues in
+the month before survey completion fewer adult females seeking care
+technical challenges with telehealth billing chal
+lenges with telehealth and patient discomfort with telehealth
+Although significantly fewer physicians overall reported confiden
+tiality concerns with telehealth in the month before survey completion
+versus at any point during the pandemic no differences between time
+points were found for pediatricians reported confidentiality
+concerns with telehealth at any point during the pandemic and
+reported this issue in the month before survey completion data not
+shown
+Discussion
+We found many changes in family planning clinical services when
+comparing service delivery before and during the pandemic and some
+Preventive Medicine
+differences by physician type We observed slight decreases in the pro
+portion of physicians overall whose practices provided LARC services
+reflecting physicians whose practices offered LARC services before but
+discontinued these services during the pandemic Approximately one in
+five physicians surveyed whose practices provided other key routine
+contraception practices just before the pandemic reported practice
+level discontinuation of these practices during the pandemic e g
+providing or prescribing ECPs in advance and sending patient reminders
+about DMPA injections or LARC removal or replacement We observed
+increases in the proportion of physicians whose practices used service
+delivery approaches that improve access and reduce the need for in
+person visits i e telehealth for contraception accepted self report of
+blood pressure during telehealth visits for contraception renewed
+contraception prescriptions without requiring an office visit and curb
+side pickup or mail delivery of contraception reflecting physicians
+whose practices did not offer these services before but initiated these
+services during the pandemic The physicians surveyed also experienced
+practice level service provision issues during the pandemic e g fewer
+adult females seeking care clinic closed for in person appointments
+While a smaller proportion of physicians reported these issues in the
+month before survey completion compared with at any point during the
+pandemic about one third still reported fewer adult females seeking
+care
+We observed low availability of LARC services both before and
+during the pandemic A core component of quality family planning
+services is patient access to a broad range of contraceptive methods
+including LARC Gavin et al As part of providing patient
+centered care and supporting individual reproductive autonomy ac
+cess to in person visits for LARC placement and removal services is
+needed if LARC services are desired by patients Access to LARC
+methods which are highly effective Trussell et al and have few
+medical contraindications for use Curtis et al
+might be
+particularly important during the pandemic given possible changes in
+attitudes toward contraception One study found that one in four women
+overall and one in two women with concerns about reduced access to
+contraception reported thinking more about getting a LARC method
+because of the pandemic Lindberg et al
+Only one in three physicians surveyed reported their practices pro
+vided or prescribed ECPs in advance both before and during the
+pandemic despite evidence based guidance supporting advance pro
+vision of ECPs so they can be taken as soon as possible after unprotected
+sexual intercourse Curtis et al This finding may be because
+levonorgestrel ECPs are available over the counter in the United States
+and physicians may not perceive that they have an important role
+ensuring patient access to emergency contraception However despite
+over the counter access barriers to ECPs remain including stocking
+issues and confusion about access requirements
+Upadhya
+Emergency contraception is an important backup contraceptive option
+and might have increased salience during the COVID pandemic
+because of potential pandemic related contraception access barriers
+A promising finding from our analysis is use of telehealth for
+contraception care in line with recommendations to offer telehealth
+services during the pandemic Centers for Disease Control and Preven
+Our analysis found that more than half of physicians
+tion CDC
+surveyed reported providing telehealth for both contraception initiation
+and continuation at some point during the pandemic reflecting signif
+icant increases compared with just before the pandemic These findings
+are similar to prior surveys of family planning providers that found
+increased provision of telehealth services for contraception during the
+COVID pandemic Stifani et al Weigel et al
+Never
+theless recent medical claims data have shown that while telehealth
+services have grown rapidly during the pandemic these services were
+not sufficient to offset drops in in person visits Cox and Amin
+Moreover providers have reported challenges with telehealth including
+technical difficulties inability to conduct physical exams and diagnostic
+testing and lack of guidance on telehealth best practices Stifani et al
+L B Zapata et al
+Weigel et al
+In our survey although physicians reported
+fewer practice level telehealth issues in the month before survey
+completion compared with at any point during the pandemic suggesting
+gained experience implementing telehealth over time nearly one in
+three continued to report technical challenges with telehealth and
+approximately one in five continued to report confidentiality concerns
+billing challenges and patient discomfort with telehealth Confidenti
+ality concerns with telehealth remained a particular issue for pediatri
+cians Resources are available to support family planning service
+delivery through telehealth including information on providing person
+centered care workflow best practices billing and online pharmacies
+Converge Partners in Action Provision of Person Centered Reproduc
+tive Health Care via Telemedicine University of California San
+Francisco UCSF school of Medicine
+Few physicians surveyed reported their practices initiated or
+implemented several suggested practices to help family planning pro
+viders meet patient needs during the COVID pandemic Reproductive
+Health National Training Center RHNTC
+i e supporting self
+administration of subcutaneous injectable contraception counseling
+on extending use of LARC beyond their FDA approved duration and
+sending patient reminders about DMPA injection or LARC removal or
+replacement Self administration of subcutaneous injectable contra
+ception is safe feasible and improves method continuation rates
+Katz
+et al Kennedy et al Lerma and Goldthwaite
+it also
+reduces the need for in person visits Additionally evidence suggests
+that the risk of pregnancy while using a LARC method for years
+longer than prescribed is low
+Ali et al McNicholas et al
+Thaxton and Lavelanet Ti et al For patients who desire
+continued LARC use consideration of extending use beyond FDA
+approved duration may provide ongoing pregnancy protection for pa
+tients having difficulty accessing LARC services Reproductive Health
+National Training Center RHNTC
+Last proactively reviewing
+patient charts and sending patient reminders prompts patients to
+schedule an appointment before a lapse in contraception protection
+Low use of these strategies highlights opportunities for service delivery
+improvement to increase contraception access Provider training may be
+needed to increase provider awareness of and confidence implementing
+certain strategies
+Limitations
+Our findings are subject to several limitations Respondents were
+sampled from a volunteer panel of medical professionals and sampling
+was not random or population based As such findings are not gener
+alizable to the U S population of primary care physicians pediatricians
+and obstetrician gynecologists and statistical inferences should be
+interpreted with caution No information was collected about non
+respondents so we are unable to determine how respondents and non
+respondents differed with respect to family planning service provision
+Data are based on physician self report of practice level experiences and
+some responses may be inaccurate due to recall social desirability or
+other types of reporting error We assessed clinical practices used at any
+point during the COVID pandemic rather than routine provision or
+provision at different time points during the pandemic e g early versus
+later months as such findings may overestimate initiation and un
+derestimate discontinuation of practices during the pandemic Also
+related to discontinuation of practices we do not know if discontinua
+tion occurred because of the physician regardless of patient demand or
+because of a lack of patients seeking services Assessment of service
+provision issues experienced was related to providing family planning or
+STI services so we do not know with certainty that issues reported were
+specific to family planning service delivery We focused on contracep
+tion services in this analysis but acknowledge that family planning
+services include a wider range of services such as pregnancy testing and
+counseling basic infertility services and STI screening and treatment
+Gavin et al Last we only assessed experiences of physicians
+Preventive Medicine
+who reported providing family planning services to female patients of
+reproductive age and recognize that physicians may also provide these
+services to individuals not identifying as female
+Conclusions
+Discontinuation of key family planning services during the COVID
+pandemic may limit contraception access which may impede
+reproductive autonomy and contribute to unintended pregnancies
+Implementing healthcare service delivery strategies that reduce the
+need for in person visits e g telehealth for contraception initiation and
+continuation curbside pickup or mail delivery of contraception
+providing or prescribing ECPs in advance providing or prescribing a
+year s worth of contraception may decrease disruptions in care Re
+sources exist for public health and clinical efforts to ensure contracep
+tion access during the pandemic
+Disclaimer
+The findings and conclusions in this report are those of the authors
+and do not necessarily represent the official position of the U S Centers
+for Disease Control and Prevention
+Disclosure of which tasks each author completed
+Dr Zapata conceptualized the analyses developed survey items
+conducted analyses drafted the initial manuscript and reviewed and
+revised the manuscript Drs Curtis and Whiteman conceptualized the
+analyses developed survey items interpreted data and reviewed and
+revised the manuscript Dr Steiner developed survey items conducted
+analyses interpreted data and reviewed and revised the manuscript
+Drs Reeves Nguyen and Miele reviewed and revised survey items
+interpreted data and reviewed and revised the manuscript All authors
+approved the final manuscript as submitted and agree to be accountable
+for all aspects of the work
+Financial disclosure
+No financial disclosures were reported by the authors of this paper
+Declaration of Competing Interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper
+Acknowledgments
+We would like to acknowledge Dr Amy M Fasula for her assistance
+conceptualizing the data collection effort including development and
+review of survey items
+References
+Ali M Bahamondes L Bent Landoulsi S Extended effectiveness of the
+etonogestrel releasing contraceptive implant and the gg levonorgestrel releasing
+intrauterine system for years beyond U S Food and Drug Administration product
+labeling Glob Health sci Pract
+Centers for Disease Control and Prevention CDC Healthcare Facilities Managing
+Operations During the COVID Pandemic cited December Available
+from https www cdc gov coronavirus ncov hcp guidance hcf html
+Converge Partners in Action Provision of Person Centered Reproductive Health Care via
+Telemedicine cited December Available from https convergems
+org wp content PCRH and pdf
+Cox C Amin K How have health spending and utilization changed during the
+coronavirus pandemic Kaiser Family Foundation and the Peterson Center on
+Healthcare
+L B Zapata et al
+Curtis K M Tepper N K Jatiaoui T c Berry Bibee E Horton L G Zapata L B
+et al U S medical eligibility criteria for contraceptive use MMWR
+Recomm Rep
+Curtis K M Jatiaoui T c Tepper N K Zapata L B Horton L G Jamieson D J
+et al U S selected practice recommendations for contraceptive use
+MMWR Recomm Rep
+Czeisler M Marynak K Clarke K E N salah Z Shakya Thierry J M et al
+Delay or avoidance of medical care because of COVID related concerns United
+States June MMWR Morb Mortal Wkly Rep
+Demeke H B Pao L z Clark H Romero L Neri A Shah R et al Telehealth
+practice among health centers during the COVID pandemic United States July
+MMWR Morb Mortal Wkly Rep
+Fagerland M W Lydersen S Laake P Recommended tests and confidence
+intervals for paired binomial proportions Stat Med
+Finer L B Zolna M R Declines in unintended pregnancy in the United States
+N Engl J Med
+Gavin L Moskosky S Carter M Curtis K Glass E Godfrey E et al
+Providing quality family planning services Recommendations of CDC and the U S
+Office of Population Affairs MMWR Recomm Rep pp Rr
+Gipson J D Koenig M A Hindin M J The effects of unintended pregnancy on
+infant child and parental health a review of the literature Stud Fam Plan
+Holt K Reed R Crear Perry J Scott C Wulf S Dehiendorf C April Beyond
+same day long acting reversible contraceptive access a person centered framework
+for advancing high quality equitable contraceptive care Am J Obstet Gynecol
+Supplement
+Katz M Newmark R L Aronstam A O Grady N Strome S Rafie S et al An
+implementation project to expand access to self administered depot
+medroxyprogesterone acetate DMPA Contraception
+Kennedy c E Yeh P T Gaffield M L Brady M Narasimhan M Self
+administration of injectable contraception a systematic review and meta analysis
+BMJ Glob Health
+Koonin L M Hoots B Tsang C A Leroy Z Farris K Jolly T et al Trends in
+the use of telehealth during the emergence of the COVID pandemic United
+States January march MMWR Morb Mortal Wkly Rep
+Lerma K Goldthwaite L M Injectable contraception emerging evidence on
+subcutaneous self administration Curr Opin Obstet Gynecol
+Lindberg L D VandeVusse A Mueller J Kistein M Early impacts of the
+COVID pandemic Findings from the Guttmacher survey of reproductive
+health experiences Guttmacher Institute New York NY
+Preventive Medicine
+McNicholas C Swor E Wan L Peipert J F Prolonged use of the etonogestrel
+implant and levonorgestrel intrauterine device years beyond Food and Drug
+Administration approved duration Am J Obstet Gynecol
+Mehrotra A Chernew M Linetsky D Hatch H Cutler D Schneider E c The
+Impact of the COVID Pandemic on Outpatient Visits Changing Patterns of Care in
+the Newest COVID Hot spots The Commonwealth Fund August
+Potter J E Stevenson A J Coleman Minahan K Hopkins K White K Baum S E
+et al Challenging unintended pregnancy as an indicator of reproductive
+autonomy Contraception
+Qiu X Zhang S sun X Li H Wang D Unintended pregnancy and
+postpartum depression a meta analysis of cohort and case control studies
+J Psychosom Res
+Reproductive Health National Training Center RHNTC What Family Planning
+Providers can Do to Meet Client Needs During COVID cited
+Available from https www fpntc org resources what family planning providers
+can do meet client needs during covid eNews
+March
+Stifani B M Avila K Levi E E Telemedicine for contraceptive counseling an
+exploratory survey of US family planning providers following rapid adoption of
+services during the COVID pandemic Contraception
+Thaxton L Lavelanet A Systematic review of efficacy with extending
+contraceptive implant duration Int J Gynaecol Obstet
+Ti A J Roe A H Whitehouse K c Smith R A Gaffield M E Curtis K M
+Effectiveness and safety of extending intrauterine device duration a systematic
+review Am J Obstet Gynecol
+Trussell J Aiken A R A Micks E Guthrie K A Efficacy safety and personal
+considerations In Hatcher R A Nelson A L Trussell J Cwiak C Cason P
+Policar M S et al Eds Contraceptive Technology ed Ayer Company
+Publishers Inc New York NY
+University of California San Francisco UCSF School of Medicine Beyond the Pill
+Bixby Center for Global Reproductive Health Contraception During COVID Best
+Practices and Resources cited Available from https beyo
+Upadhya K K Emergency contraception Pediatrics
+Weigel G Frederiksen B Ranji U Salganicoff A How OBGYNs Adapted
+Provision of Sexual and Reproductive Health Care during the COVID Pandemicn
+Kaiser Family Foundatio Kaiser Family Foundatio
+Zambrano L D Ellington S strid P Galang R R Oduyebo T Tong v T et al
+Update characteristics of symptomatic women of reproductive age with
+laboratory confirmed SARS CoV infection by pregnancy status United States
+January october MMWR Morb Mortal Wkly Rep
+ELSEVIER
+International Journal of Medical Informatics
+Contents lists available at ScienceDirect
+International Journal of Medical Informatics
+journal homepage
+www ijmijournal com
+informatics
+CrossMark
+A clinical decision support system for prediction of pregnancy
+outcome in pregnant women with systemic lupus erythematosus
+b
+Khadijeh Paydara Sharareh R Niakan Kalhoria Mahmoud Akbarian
+Abbas Sheikhtaheri
+a Department of Health Information Management School of Allied Medical Sciences Tehran University of Medical Sciences Tehran Islamic Republic of Iran
+b Rheumatology Research Center Tehran University of Medical Sciences Tehran Islamic Republic of Iran
+c Department of Health Information Management School of Health Management and Information Sciences Iran University of Medical Sciences Tehran
+Islamic Republic of Iran
+ARTICLE INFO
+Article history
+Received May
+Received in revised form October
+Accepted October
+Kewords
+Artificial neural network
+Clinical decision support system
+Pregnancy outcomes
+Pregnancy complications
+Premature birth
+Stillbirth
+Systemic lupus erythematosus
+Introduction
+ABSTRACT
+Objective Pregnancy among systemic lupus erythematosus SLE affected women is highly associated
+with poor obstetric outcomes Predicting the risk of foetal outcome is essential for maximizing the success
+of pregnancy This study aimed to develop a clinical decision support system CDSS to predict pregnancy
+outcomes among SLE affected pregnant women
+Methods We performed a retrospective analysis of pregnant women with SLE who were followed
+at Shariati Hospital pregnancies and a specialized clinic pregnancies from to We
+selected significant features p O IO using a binary logistic regression model performed in IBM SPSS
+version Afterward we trained several artificial neural networks multi layer perceptron MLP and
+radial basis function RBFI to predict the pregnancy outcome In order to evaluate and select the most
+effective network we used the confusion matrix and the receiver operating characteristic ROC curve
+We finally developed a CDSS based on the most accurate network MATLAB software was applied
+to design the neural networks and develop the CDSS
+Results Initially potential variables were analysed by the binary logistic regression and effective
+features were selected as the inputs of neural networks P value The accuracy sensitivity
+and specificity of the test data for the MLP network were achieved These measures for
+the RBF network were and respectively Having applied a fold cross validation
+method the accuracy for the networks showed accuracy for RBF and accuracy for MLP
+Therefore the MLP network was selected as the most accurate network for prediction of pregnancy
+outcome
+Conclusion The developed CDSS based on the MLP network can help physicians to predict pregnancy
+outcomes in women with SLE
+Systemic lupus erythematosus SLE is a chronic autoimmune
+disease with a worldwide distribution SLE as an inflammatory
+multi system disease with unknown aetiology has different clini
+Corresponding author at Department of Health Information Management
+School of Health Management and Information Sciences Iran University of Medical
+Sciences Yasmi St Valiasr Ave Tehran Islamic Republic of Iran
+E mail addresses kh paydar alumnus ac ir K Paydar
+sh rniakank sina tums ac ir S R Niakan Kalhori makbarian tums ac ir
+M Akbarian sheikhtaheri a iums ac ir abbas taheri gmail com
+A Sheikhtaheri
+http dx doi org l O j ijmedinf
+Elsevier Ireland Ltd All rights reserved
+Elsevier Ireland Ltd All rights reserved
+cal manifestations and symptoms laboratory signs and prognosis
+According to studies the prevalence of SLE varies
+in patients
+worldwide A meta analysis of studies carried out in North
+America and Europe indicated that the prevalence of SLE is per
+In Iran SLE is relatively common with a prevalence of
+per The overall prevalence of SLE in women is much
+more than in men and is mostly common in the reproductive age
+Pregnancy in SLE affected women is a major challenge Young
+women with SLE who want to become pregnant encounter a num
+ber of risks to their and their unborn baby s health
+Pregnancies
+in SLE affected women may lead to foetal loss in the form of a
+spontaneous abortion before weeks of gestation or intrauter
+ine foetal death still birth after weeks of gestation Foetal
+K Paydar et al International Journal of Medical Informatics
+loss has decreased significantly from in the to in
+the early in SLE affected women
+Although in recent
+years foetal survival has increased due to better understanding
+of the causes of abortion in SLE patients and better therapeutic
+approaches
+foetal loss continues to be higher among SLE
+affected women than the normal population Overall about
+of pregnancies in SLE affected women end up in foetal loss
+A study conducted in shows a pregnancy loss rate of
+in organ threatening SLE affected women compared with healthy
+women where the pregnancy loss rate is Generally the
+incidence of spontaneous abortion is approximately among
+SLE affected women while it is in the normal population
+Special gynaecological and rheumatological care is necessary to
+increase the chance of pregnancy success Regarding the impor
+tance of pregnancy outcomes pregnancy in SLE patients should
+be planned in advance and the patients should be monitored
+before and during the pregnancy However decision making
+and prediction of pregnancy outcomes in SLE patients is a complex
+task for physicians A variety of factors with different degrees of
+effectiveness may affect the outcome of pregnancy in SLE affected
+women In addition non linear relationships between these fac
+tors and the outcome of pregnancy may result in more complexities
+Clinical decision support systems CDSS are considered to be
+useful tools for solving sophisticated problems A CDSS is designed
+to help healthcare providers make timely decisions about their
+patients These systems can be developed based on the experts
+knowledge historical data analysis or clinical evidence
+In this regard a variety of algorithms such as neural networks
+fuzzy logic regression Bayesian networks or a combination of
+these algorithms have been successfully applied in different fields
+of clinical practices
+Prediction of pregnancy outcomes for SLE patients can notice
+ably contribute towards providing effective health consulting
+and therapeutic services as well as prevent undesirable out
+comes and physical and psychological complications resulting
+from an abortion
+Considering the importance of influ
+ential factors on the outcome of pregnancy risk factors many
+studies have been conducted worldwide to identify these fac
+tors For example factors such as high blood pressure lupus
+nephritis thrombosis anti phospholipid antibodies flare up of
+lupus during six months before pregnancy anti cardiolipin anti
+bodies lupus anti coagulant anaemia leucopoenia age at time
+of conception history of abortion the number of children and
+many other factors have been introduced in previous studies
+The numerous risk factors and the com
+plexity of relationships among these risk factors necessitate the
+development of a CDSS Application of CDSS in maternal care in
+developing countries has been previously reported
+how
+ever to the best of our knowledge no CDSS has been developed
+to support physicians in predicting the outcome of pregnancy in
+SLE affected women Therefore in this study we developed and
+evaluated a CDSS based on an artificial neural network ANN appli
+cation
+Material and methods
+Data source and data collection
+In order to identify the potential variables we first conducted
+a literature review and an interview with a rheumatologist We
+used this search strategy to find related literature systemic lupus
+erythematosus OR SLE AND predictor OR risk factor AND preg
+nancy outcome OR foetal loss in PubMed Scopus and Google
+Scholar We selected related articles published in English from
+In addition we considered local evidence and rheumatol
+ogist consultations We identified potential variables in this
+regard however five of these variables anti Ro ss A and anti
+La ss B antibodies anti glycoprotein I antibody anti
+serum albumin level and antihypertensive use were mostly not
+recorded in the patients records Therefore we collected data for
+the other variables The needed data was retrospectively col
+lected from the medical records of SLE affected pregnant women
+who had visited a specialized hospital Shariati Hospital and a spe
+cialized clinic in Tehran Iran from to We also used the
+database of these cases in the Rheumatology Research Center to
+collect some required data elements that were not available in the
+medical records A trained researcher the first author extracted
+the data from the medical records and the database
+Out of registered pregnancies the medical records of only
+of these pregnancies were available and eligible for analysis
+from the hospital and from the specialized clinic The final
+dataset included the possible influential factors and pregnancy
+outcomes of the cases
+Pre processing and feature selection
+The outcome of pregnancy had four categories first trimester
+spontaneous abortion second trimester spontaneous abortion
+and preterm and term live birth We re classified these categories
+into two classes spontaneous abortion and live birth
+There was data missing for some variables One of the
+approaches for resolving such a problem is using the mean or
+mode of the variable for all samples belonging to the same class
+This approach has been applied in previous studies
+There
+fore we also replaced missing values by the mean of each class for
+numeric values and the mode of each class for non numeric values
+Multiplicity ofthe variables features may result in overtraining
+a model Therefore one of the most commonly used pre processing
+techniques is dimension reduction or feature selection In this
+regard irrelevant weakly relevant or less important features are
+removed
+Feature selection may improve the accuracy of the
+resulting model Researchers have applied a variety of techniques
+for this purpose
+For this end we used the binary logistic
+regression method through IBM SPSS software version Sixteen
+important features P value O IO were finally selected as inputs
+to train the neural networks
+Designing neural networks
+We selected ANNs as our training algorithms because these net
+works have been successfully applied to develop a CDSS for many
+situations in healthcare
+and ANNs usually perform better than
+statistical methods
+We used the selected features from the previous step as the
+inputs of the ANN Inputs were normalized before being entered in
+networks by using the min max method We developed two differ
+ent models of ANN including a feedforward multilayer perceptron
+MLP network with a scaled conjugate gradient trainscg back
+propagation learning algorithm and a radial basis function RBF
+network with a Levenberg Marquardt trainlm back propagation
+learning algorithm using MATLAB software The learning
+algorithm for MLP and RBF neural networks can be mentioned using
+the generalized delta rule and gradient descent because they have
+nonlinear activation functions Using a back propagation algorithm
+in the procedure of learning requires the change in weight made by
+the gradient descent rule
+During the procedure of learning
+in neural networks an epoch is accomplished when all the training
+examples are presented to the network and are processed using the
+learning algorithm only once
+K Paydar et al International Journal of Medical Informatics
+Table
+Factors identified for predicting pregnancy outcomes in SLE affected women
+Variables References
+Age at pregnancy
+Number of children
+Proteinuria before pregnancy
+Proteinuria during pregnancy
+Flare up of lupus
+Elevated blood pressure before pregnancy
+Elevated blood pressure during pregnancy
+before pregnancy
+during pregnancy
+before pregnancy
+during in the first trimester of pregnancy
+APS syndrome
+Anti cardiolipin antibody IgG in the first trimester of pregnancy
+Anti cardiolipin antibody IgM in the first trimester of pregnancy
+Lupus anticoagulant
+History of abortion
+Diabetes mellitus
+Platelets before pregnancy
+Platelets during pregnancy
+Pulmonary problems
+Cardiac problems
+Neuropathic problems
+Venereal Disease Research Laboratory VDRL
+Rheumatoid factor RF
+CRP before pregnancy
+CRP during in the first trimester of pregnancy
+ASP before pregnancy I
+AST in the first trimester of pregnancy
+ALTb before pregnancy
+ALT in the first trimester of pregnancy
+Alkaline phosphate
+Antinuclear Antibody ANA
+Anti ds DNA in the first trimester of pregnancy
+Haematuria in the first trimester of pregnancy
+Anaemia and leucopoenia before pregnancy
+Pulmonary embolism
+Thrombophlebitis
+Arterial thrombosis
+Lupus nephritis before pregnancy
+Hydroxychloroquine before pregnancy
+Hydroxychloroquine in the first trimester of pregnancy
+Cyclophosphamides
+AZA Azathioprine before or during pregnancy
+ASA aspirin during pregnancy
+Corticosteroids during pregnancy
+Anti Ro ss A antibodyc
+Anti La ss B antibody
+c
+Anti glycoprotein I antibodies anti C
+Serum albumin level
+Antihypertensive use
+c
+Outcome of pregnancy
+a Aspartate Aminotransferase
+b Alanine Aminotransferase
+Definition
+Patient age at time of conception
+The number of children of each patient with SLE
+Rate of h protein in the urine before pregnancy
+Rate of h protein in the urine in the first trimester of pregnancy
+Flare up of lupus during six months before pregnancy
+Blood pressure greater than or equal to mmhg before pregnancy or in the first
+trimester
+is a component of the complement system The complement system is a set of
+types of proteins in serum and the cells and a component of the immune system
+Reduction of complement represents activity of SLE
+These two variables
+indicate the rate of before and during in the first trimester of pregnancy
+The complement system is a set of types of protein in serum and the cells and a
+component of the innate innate and acquired adaptive immune system
+Reduction of complements represents this disease activity
+The anti phospholipid antibody syndrome APS is persistent presence of an
+anti phospholipid antibody in patients that have recurrent thrombosis or pregnancy
+losses
+Production of anti cardiolipin antibodies and lupus anticoagulant
+positivity are seen in patients with APS
+Antibodies that act against IgG Secretion of this antibody is associated with APS
+syndrome
+Antibodies that act against IgM Secretion of this antibody is associated with APS
+syndrome
+An antibody that acts by interfering with the binding of phospholipid to form
+prothrombin activator in lupus patients
+Previous history of abortion
+Diabetes in the first trimester of pregnancy
+Number of blood platelets before pregnancy
+Number of blood platelets in the first trimester of pregnancy
+It includes pleuritis lupus pneumonitis and infectious pneumonia
+It includes pericarditis myocarditis and valvular lesion
+It includes convulsions psychosis peripheral neuropathy and central involvement
+VDRL is a screening test for syphilis
+RF is an auto antibody that acts directly against antigens
+C reactive protein CRP is secreted in response to tissue damage and inflammation
+It is a measuring test for the destruction of liver cells
+It is a measuring test for the destruction of liver cells
+Alkaline phosphate ALP is a hepatic enzyme Increase of ALP could be mainly due to
+liver disease
+Auto antibodies that are active against the cell nucleus
+Antibodies that act against the DNA in body cells
+Rate of red blood cells in the urine during the first trimester of pregnancy
+Includes haemolytic anaemia and leucopoenia WBC
+Previous history of pulmonary embolism
+History of thrombophlebitis
+History of arterial thrombosis
+It includes grades based on the classification of American College of
+Rheumatology ACR
+Hydroxychloroquine is an anti malarial agent widely used in the treatment of
+rheumatoid arthritis It is also an immunomodulator
+It is a cytotoxic drug that can be prescribed to SLE patients at the time of vital system
+problems
+Taking azathioprine before or in the first trimester of pregnancy
+Taking aspirin in the first trimester of pregnancy
+It includes prednisolone in the first trimester of pregnancy
+Auto antibody directed against Ro SSA auto antigen in SLE patients
+Auto antibody directed against La SSB auto antigen in SLE patients
+Anti glycoprotein I antibodies anti are a component of aPL
+anti phospholipid antibody This antibody with lupus anticoagulant LAC and
+anti cardiolipin aCL antibodies are not directed against phospholipids but target
+intravascular cationic proteins either alone or in complexes with anionic
+phospholipids
+Albumin is a protein made by the liver Serum albumin level is measured by the test
+of the amount of this protein in the clear liquid portion of the blood
+Antihypertensive drugs are mainly taken to prevent and treat severe hypertension
+Spontaneous abortion spontaneous termination of pregnancy before the
+week of pregnancy
+Live birth term and pre term live birth
+P value
+c We could not access to data about these five variables and we had to remove them from our analysis
+Machine learning algorithms have different parameters that
+need to be set researchers usually set different parameters and
+develop and compare several models in different attempts to reach
+the best solution based on their dataset
+We considered
+one hidden layer and determined the number of neurons in the hid
+den layer incrementally This approach has been applied in previous
+Table
+K Paydar et al International Journal of Medical Informatics
+Distribution of qualitative features in SLE affected women for predicting pregnancy outcomes
+Variables
+Flare up of lupus
+Anaemia and leucopoenia before pregnancy
+Anti phospholipid antibody syndrome APS
+Anti cardiolipin antibodies IgG
+in the first trimester of pregnancy
+Anti ds DNA in the first trimester of
+pregnancy
+C reactive protein CRP before pregnancy
+AZA Azathioprine before or in the first
+trimester of pregnancy
+ASA Aspirin in the first trimester of
+pregnancy
+Table
+Values
+Yes
+No
+Positive
+Negative
+Positive
+Negative
+Positive
+Negative
+Positive
+Negative
+Positive
+Negative
+Use
+Non use
+Use
+Non use
+Spontaneous abortion N X
+Distribution of quantitative features in SLE affected women for predicting pregnancy outcome
+Variables
+Platelets before pregnancy
+Platelets during pregnancy
+Haematuria during pregnancy
+Proteinuria before pregnancy
+Proteinuria during pregnancy
+Complement before pregnancy
+Complement during pregnancy
+Hydroxychloroquine before pregnancy
+mg
+Values
+o
+Spontaneous
+abortion
+mean SD
+Table
+Live birth N X
+Live birth
+mean SD
+Missing data X
+Missing
+data X
+studies Therefore in this work several MLP and RBF n

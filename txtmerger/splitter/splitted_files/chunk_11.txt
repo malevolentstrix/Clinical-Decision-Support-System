@@ -1,0 +1,1076 @@
+ experiences of childcare precarity are
+more strongly associated with long term maternal health out
+comes than shorter experiences
+Methods
+Study Design
+This was a secondary analysis of data from the Future of
+Families and Child Wellbeing FFCWB study an ongoing na
+tional birth cohort study from large U S cities
+Reichman et al Leveraging a longitudinal cohort dataset
+as has been done with similar research questions Anyigbo
+Jimenez Sosnowski Dauner Wilmot Schultz
+we account for temporal ordering by measuring childcare pre
+carity at a developmentally appropriate earlier time point before
+subsequent maternal health outcomes of interest Specifically to
+test the hypothesis of whether childcare precarity experiences
+when children were age have associations with maternal
+health outcomes when children are age a lag of approximately
+years we estimated regression models with conservative
+robust standard errors In these models we adjusted for relevant
+covariates selected using a comprehensive directed acyclic graph
+informed by important baseline covariates related to the FFCWB
+sampling design as well as a careful review of childcare studies
+Gordon Kaestner Korenman Johnson Padilla
+Pilarz Hill Reichman et al
+Participants
+The FFCWB study oversampled nonmarital births a
+population at increased risk to be at a lower socioeconomic
+status and with decreased access to social support Liang Berger
+Brand Solomon Fears The original cohort study
+included children largely from socioeconomically disad
+vantaged groups Study staff interviewed parents shortly after
+giving birth baseline then re interviewed parents when chil
+dren were and years old Our secondary analysis included
+self identified mothers who were primary caregivers for the
+focal child with complete longitudinal data for our variables
+n
+Figure and we confirmed that baseline charac
+teristics of our sample were similar to the full FFCWB sample
+Reichman et al The Institutional Review Board at NYU
+Grossman School of Medicine deemed this study exempt from
+human subjects review because it was an analysis of publicly
+available deidentified data
+Measures
+Childcare Precarity Measures When the Child Was Age
+To conceptualize our main predictor we first referenced prior
+work examining childcare instability which describes child
+health outcomes associated with unstable fluctuating or mul
+tiple childcare arrangements Our interest was in capturing the
+adjoining but distinct maternal experience of childcare pre
+carity or feelings of uncertainty lack of predictability and
+insecurity a concept informed by an interdisciplinary review of
+literature describing similar experiences of job and economic
+precarity
+Luhr et al North Parolin Lee We
+used three assessments of childcare precarity with increasing
+severity measured when children were at age These questions
+were only asked of parents of children in regular childcare
+defined in the FFCWB study as being cared for by someone other
+than a mother or father on a regular basis for or more hours a
+week
+Insecure childcare This question captures childcare that fell
+through leaving the participant to scramble for backup childcare
+arrangements The survey asked Approximately how many
+times in the past month did you have to make special arrange
+ments because your usual childcare arrangement fell through
+Participants who reported this experience at least once were
+coded as having insecure childcare The FFCWB did not collect
+information on the circumstances for which childcare fell
+through such as a parent s subjective decision to keep a child
+home owing to
+unreliability
+Insecure childcare
+whether insecure
+mild illness versus a childcare provider s
+with missed work This question captures
+childcare was severe enough to result in a
+ARTICLE IN PRESS
+C Duh Leong et al Women s Health Issues xxx xx
+Full FFCWB Birth Cohort
+Age Sample
+n
+Eligible Age Sample
+n
+Age Analysis Sample
+n
+With Age Outcomes
+n
+Overall Sample
+n
+Missing baseline
+Missing age variables
+Not in age wave
+Mother not primary
+caregiver at age
+Incomplete childcare or
+employment
+information
+Missing age
+outcomes
+Mother not primary
+caregiver at age
+Figure Study flow chart
+participant missing a day of work or training The survey asked
+How many times in the past month did you miss work or school
+because your childcare arrangement fell through Participants
+who reported this experience at least once were coded as having
+insecure childcare with missed work
+Inadequate childcare This question captures the highest level of
+childcare severity assessing whether or not childcare precarity
+resulted in interruption or suspension of the participant s pro
+fessional trajectory The survey asked participants whether since
+their child was age Have you had to quit a job school or
+training activity because you had problems arranging childcare
+or keeping a childcare arrangement Participants who respon
+ded yes were coded as having had inadequate childcare
+Access to Emergency Childcare Support When the Child Was
+Years Old
+To assess emergency childcare support we used a question
+that captures access to emergency childcare support from
+informal sources If you needed help during the next year could
+you count on someone to help you with emergency child care
+If the participant replied yes they were coded as having emer
+gency childcare support This question asked of all participants
+regardless of whether the child was in childcare is part of a
+larger question set in the FFCWB measuring perceived social
+support e g someone to count on for a loan which has
+been consistently associated with positive health outcomes
+Dauner et al Delaney
+Reliable childcare is most relevant for parents who are
+working or in school but emergency childcare support has been
+shown to be a key component of a parental safety net Harknett
+Knab Harknett Hartnett Thus when examining
+associations with maternal health outcomes when children were
+age we assessed emergency childcare support in all families as
+well as in a subset of participants who ever worked when their
+children were ages or Given that access to emergency
+childcare support could mitigate childcare precarity we also
+explored whether emergency childcare support had a buffering
+interaction with childcare precarity i e whether it reduced the
+magnitude of association between childcare precarity and
+maternal health
+Maternal Health Measures When the Child Was Age
+Poor Fair Overall Maternal Health
+This measure captures self reported health which studies
+have established to be a valid health status indicator for adult
+population health monitoring to reflect physical health health
+care use and mortality McGee et al Miilunpalo et al
+The survey asked In general how is your health Par
+ticipants could respond excellent very good good fair
+or poor Per prior work McGee et al Miilunpalo et al
+we dichotomized overall health at the cutpoint of poor
+fair versus all others and ran sensitivity analyses using a cutpoint
+of excellent versus all others This same measure was also
+assessed in participants when children were age which we
+used as a covariate in certain models
+Maternal Depression
+Maternal depression was derived from the Composite Inter
+national Diagnostic Interview a comprehensive fully structured
+interview assessing International Classification of Diseases
+edition and Diagnostic and Statistical Manual of Mental Disorders
+IVth edition mental health criteria administered by trained in
+terviewers Kessler et al The FFCWB uses the short form
+which includes Composite International Diagnostic Interview
+questions about the prior months Examples of symptoms
+surveyed include losing interest weight changes trouble
+sleeping or concentrating feeling worthless and thinking about
+death The FFCWB user guide Fragile families and child wellbeing
+study n d recommends two scoring methods based on symp
+tom duration For our main analyses we used the liberal
+scoring which is more sensitive for depression score
+positive for depression with this scoring and we conducted
+sensitivity analyses using conservative scoring which is more
+specific score positive for depression with this scoring
+Fragile families and child wellbeing study n d
+Maternal
+depression was also assessed when children were age and we
+used the short form scoring as a covariate in certain models
+Maternal Parenting Stress
+This measure captures stress triggered by child rearing tasks
+FFCWB used questions derived from the Panel Study of Income
+Dynamics and the Job Opportunities and Basic Skills Training
+Program Survey McGonagle et al Participants responded
+on a point Likert scale e g not at all true completely true
+to statements such as Being a parent is harder than I thought it
+would be or I feel trapped by my responsibilities as a parent In
+line with prior work we reverse coded the items and summed
+the items so that higher scores represented higher levels of
+agreement with parenting stress statements Cooper et al
+We ran sensitivity analyses using the alter
+Lin Wiley
+nate parenting stress scoring method which averages the scores
+from each statement Fragile families and child wellbeing study
+n d In certain models we additionally adjusted for parenting
+ARTICLE IN PRESS
+C Duh Leong et al Women s Health Issues xxx xx
+stress when children were age which was assessed with the
+same measure but not collected for two of the FFCWB cities at
+that time point
+Covariates
+We tested all factors for multicollinearity by assessing vari
+ance inflation factors before inclusion in our model Maternal
+baseline characteristics measured at birth included maternal
+age years race and ethnicity non Hispanic white non
+Hispanic Black Hispanic other education level less than high
+school high school graduate some college college graduate
+family structure married cohabiting parents in a relationship
+but not cohabiting no relationship and income as a percentage
+of the federal poverty level
+or higher Child baseline characteristics included
+assigned sex at birth first born and multiple birth status
+Covariates at other timepoints included whether participants
+ever worked or were in school when their children were age or
+before age yes no Prior work has also shown that the use of
+childcare centers over individual caregivers led to work absences
+owing to child illnesses so we adjusted for childcare center use
+as well the number of childcare arrangements concurrently used
+when their children were at age to proxy for childcare insta
+bility
+Gordon et al
+As per prior relevant research we controlled for child
+temperament at age using the mean of the Emotionality Ac
+tivity and Sociability Temperament Survey
+Pilarz Hill
+with higher scores indicating negative emotionality and shyness
+This covariate helped to account for child level time invariant
+differences that may contribute to both childcare precarity ex
+periences and maternal health
+Finally as has been done in prior work Hedges et al
+we ran an additional model that adjusted for the corresponding
+maternal health outcome measure when their children were age
+before age childcare exposures to account for time invariant
+maternal health characteristics at baseline in an effort to isolate
+our estimates to what occurred when their children were be
+tween ages and only
+Statistical Analysis
+We used Stata SE version Stata Corp College Station TX
+to conduct all analyses To preserve sample size we did not use
+FFCWB weights so that we could include all families with com
+plete longitudinal data
+We first summarized child maternal and childcare charac
+teristics Using unadjusted or independent sample t tests as
+appropriate we tested for statistically significant differences
+between the sample in and not in regular childcare For our
+primary study question we used logistic and linear regressions
+as appropriate to estimate adjusted regression models of asso
+ciations between childcare precarity when children were age
+and maternal health outcomes when children were age Model
+controlled for maternal child and childcare characteristics
+Model added the corresponding maternal health outcome
+measure when children were age before age childcare ex
+posures We used robust standard errors to account conserva
+tively for potential bias in estimates We presented estimates as
+odds ratios ORS or unstandardized linear regression co
+efficients Bs with confidence intervals CIS
+To characterize persistent childcare precarity or support across
+child ages and we categorized the variables as never no at
+both ages and the reference group age only yes at age no
+at age age only no at age yes at age and both time points
+yes at both ages and and estimated adjusted logistic and
+linear regression models to examine associations between
+persistent early childcare precarity or emergency childcare sup
+port and maternal health outcomes when children were age We
+ran these analyses using covariates from model to maximizes
+cases given that the corresponding parenting stress variable was
+not measured in all cities when children were age and we ran
+sensitivity analyses using covariates from model
+To assess cross sectional relationships when children were
+age we conducted supplemental analyses examining associa
+tions between childcare measures and maternal health out
+comes both measured when children were age We also
+examined associations between childcare measures when chil
+dren were age and maternal health outcomes when children
+were age Supplemental analyses used model covariates
+Results
+The overall sample included participants of those
+participants had children in regular childcare
+Table The majority of the sample had a minoritized back
+ground almost one half self identified as Black almost
+one quarter as Hispanic and less than one quarter
+as white There were subgroup differences across socio
+demographics between those whose children were in and not in
+regular childcare Participants with children in regular childcare
+were more likely to be Black vs less likely to be
+Hispanic vs and more likely to have higher levels of
+education and income This group was also more likely to not live
+with a partner i e less likely to be married vs less
+likely to be cohabiting vs
+In the subsample of those with children in childcare more
+than one quarter had insecure childcare had
+insecure childcare with missed work and had inadequate
+childcare Those with children in regular childcare were more
+likely to report access to emergency childcare support than those
+whose children were not in regular childcare vs
+Early Childcare Precarity and Subsequent Maternal Health
+Participants with early inadequate childcare when their
+children were age the highest level of childcare precarity had
+increased odds of poor fair overall health when children were
+age compared with participants without early inadequate
+childcare even when adjusting for poor fair overall health when
+children were age model aOR CI The
+other two less severe childcare precarity measures were not
+significantly associated with increased odds of poor fair overall
+health
+Table
+All early childcare precarity measures were associated with
+increased odds of maternal depression model insecure
+childcare aOR CI insecure childcare with
+missed work aOR CI and inadequate
+childcare Cl
+Early insecure childcare was associated with greater
+parenting stress scores later on when controlling for maternal
+and child characteristics model B score CI
+but not when controlling for prior levels of parenting
+stress when children were age model B score CI
+to Early inadequate childcare the highest level of
+childcare precarity was again associated with greater parenting
+ARTICLE IN PRESS
+C Duh Leong et al Women s Health Issues xxx xx
+Table
+Sample Characteristics
+n X or m SD
+Maternal characteristics at baseline wave
+Age in years
+Race and ethnicity
+White non Hispanic
+Black non Hispanic
+Hispanic
+Other
+Education level
+Less than high school
+High school equivalent
+Some college
+College or more
+Family structure
+Married
+Cohabiting
+Parents together not cohabiting
+Parents not together
+U S born
+Income federal poverty level
+or higher
+Employment training status when child was age wave
+Working for pay
+Actively seeking work
+In school or training
+None of the above
+Child characteristics at baseline wave
+Female
+First born
+Multiple birth
+Temperament
+Childcare characteristics when child was age wave
+Childcare center
+No of current arrangements
+Insecure childcare
+Insecure childcare with missed work
+Inadequate childcare
+Emergency childcare support
+Maternal health outcomes when child was age wave
+Poor fair health
+Depression
+Parenting stress score
+Overall Sample
+n
+In Regular Childcare
+Yes n
+No n
+Note Unadjusted or independent sample t test as appropriate to compare differences between sample in and not in regular childcare
+p
+p
+Full sample includes mother child dyads in ages and waves with complete data
+Sample in childcare includes children regularly cared for by someone other than mother or father on a regular basis for more than hours a week at age
+Emotionality Activity and Sociability Temperament Survey for Children higher scores indicate more negative emotionality and shyness temperaments
+Childcare measures only assessed in the subgroup of children in childcare
+The higher the score the higher level of parenting stress m SD
+stress scores later on when controlling for maternal and child
+characteristics model B score CI but
+not when controlling for prior levels of parenting stress when
+children were age model B score CI to
+We did not detect associations between early insecure
+childcare with missed work and later parenting stress scores
+Access to Emergency Childcare Support and Subsequent Maternal
+Health
+In the full sample emergency childcare support had protec
+tive associations with all subsequent maternal health outcomes
+model poor fair overall health aOR CI to
+depression aOR Cl to and parenting
+stress score Cl to In the sample of
+participants with children in regular childcare the correspond
+ing associations were of a smaller magnitude but no longer
+significant
+When estimated in a sample of participants
+Table
+who ever worked when their children were aged or
+n
+of the full sample emergency childcare
+support had protective associations with all subsequent
+maternal health outcomes model poor fair overall health
+Cl to depression Cl
+to and parenting stress score CI
+to Analyses exploring whether there was a buffering
+interaction between emergency childcare support and childcare
+Table
+Childcare Precarity at Child Age and Maternal Health at Child Age
+Parenting Stress Score Regression Coefficient
+Childcare Measure
+Insecure childcare
+Insecure childcare with
+missed work
+Inadequate childcare
+Emergency childcare support
+full sample
+Emergency childcare support
+in childcare only
+Emergency childcare support
+ever worked at child ages and
+Sample N Poor Fair Overall Health Odds Ratio
+aOR Cl
+Model
+to
+to
+to
+to
+to
+to
+Model
+to
+to
+to
+to
+to
+to
+Depression Odds Ratio
+Model
+to
+to
+to
+to
+to
+to
+aOR Cl
+Model
+to
+to
+to
+to
+to
+to
+B Cl
+Model
+to
+to
+to
+to
+to
+to
+Model
+to
+to
+to
+to
+to
+to
+Abbreviations aOR adjusted odds ratio CI confidence interval
+Note Models examine associations between childcare precarity risk when the child was age and maternal health when the child was age Poor fair overall health and depression estimates are odds ratios with
+confidence intervals aOR CI Parenting stress results are unstandardized coefficients of change in parenting stress scores with confidence intervals B Cll Model controls for child sex firstborn status
+temperament maternal age race ethnicity education level work school status marital status income multiple birth childcare center use number of concurrent childcare arrangements model controls for all variables
+in model plus the corresponding maternal health variable when the child was
+p
+Parenting stress not assessed in cities at age n for full sample and n for sample in childcare n for sample ever worked when child aged or
+Having to make special arrangements at least once over the past month because the child s usual childcare arrangement fell through
+Having to miss work or school at least once over the past month because the child s usual childcare arrangement fell through
+Having to quit a job school or training activity owing to problems arranging childcare or keeping a childcare arrangement
+Having someone to count on to help with emergency childcare over the next year
+ARTICLE IN PRESS
+C Duh Leong et al Women s Health Issues xxx xx
+Table
+Additive Effects of Childcare Experiences Across Child Ages and on Maternal Health Outcomes at Child Age
+Age
+Age
+Insecure Childcare n
+No
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+Insecure Childcare with Missed Work n
+No
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+Inadequate Childcare n
+No
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+Emergency Childcare Support n
+No
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+Poor Fair Overall Health
+n
+Odds Ratio aOR Cl
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Depression Odds Ratio
+aOR Cl
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Parenting Stress Score Regression
+Coefficient B Cl
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Reference
+to
+to
+to
+Abbreviations aOR adjusted odds ratio CI confidence interval
+Note Maternal health outcomes measured at child age Poor fair overall health and depression estimates are odds ratios with confidence intervals aOR Cll
+Parenting stress results are unstandardized coefficients of change in parenting stress scores with confidence intervals B Cll Model controls for child sex
+firstborn status temperament maternal age race ethnicity education level work school status marital status income multiple birth childcare center use and number
+of concurrent childcare arrangements
+p
+p
+p
+precarity did not yield meaningfully significant findings data
+not shown
+Additive Experiences When Children Were Ages and and
+Subsequent Maternal Health
+Across our three childcare precarity variables persistent
+exposure when children were both ages and approximately
+tripled the odds of depression compared with no childcare pre
+carity at either time point model insecure childcare laOR
+Cl insecure childcare with missed work
+aOR CI and inadequate childcare laOR
+CI We found no additive associations be
+tween childcare precarity and poor fair overall health or
+parenting stress Table
+Persistent access to emergency childcare support when chil
+dren were both ages and halved the odds of having poor fair
+overall health model aOR CI to and
+decreased parenting stress model B
+score Cl
+to compared with not having emergency childcare
+support at either time point We found no additive protective
+associations between emergency childcare support and maternal
+depression
+Supplemental and Sensitivity Analyses
+Supplemental Table
+displays concurrent associations be
+tween experiences of childcare precarity and maternal health
+outcomes when children were age In comparison with our
+main findings in
+where we did not detect strong asso
+Table
+ciations with parenting stress some childcare precarity mea
+sures were associated with increased parenting stress scores
+concurrently even when adjusting for parenting stress scores
+when children were age Supplemental Table displays similar
+or diminished relationships between childcare measures when
+children were age and maternal health outcomes when chil
+dren were age The only statistically significant association was
+between inadequate childcare when children were age and
+maternal depression when children were age
+Sensitivity analyses using alternate cutoffs for maternal
+overall health excellent vs all others depression using the
+conservative cutoff parenting stress alternate scoring method
+and additive effects using model covariates with decreased
+power all yielded findings that supported the interpretations of
+our main results data not shown
+Discussion
+In a national U S birth cohort from large cities we found
+significant and robust associations between early childcare pre
+carity and maternal health outcomes approximately years later
+which have not been described before These findings suggest
+that policies to increase access to reliable secure childcare and
+emergency childcare supports could improve the health of
+mothers of young children We categorized levels of childcare
+precarity i e insecure insecure with missed work inadequate
+as often is done for food insecurity e g food insecure food
+insecure with hunger Blumberg et al This categoriza
+tion which acknowledges that families experience varying levels
+of hardship also demonstrates that increased severity may be
+associated with poorer health outcomes and indicates that
+childcare precarity is a social determinant of women s health
+Our finding that early inadequate childcare was associated
+with increased odds of poor fair maternal health later on extends
+literature showing associations between other experiences of
+social determinants of health and poorer overall health e g food
+insecurity
+Hager et al Stuff et al and housing
+disrepair Adamkiewicz et al Furthermore prolonged
+ARTICLE IN PRESS
+C Duh Leong et al Women s Health Issues xxx xx
+access to emergency childcare support had protective and ad
+ditive effects on overall health later on participants with
+emergency childcare support when children were both ages
+and had one half the odds of poor fair health compared with
+participants who had no emergency childcare support when
+children were either age To our knowledge this is one of the first
+studies to find associations between childcare experiences with
+long term overall maternal health and it suggests future studies
+should elucidate potential pathways from experiencing childcare
+precarity to potentially curtailing work or training reducing in
+come increasing stress and compromising overall women s
+health Chatterji Markowitz Brooks Gunn
+All childcare precarity measures we considered were associ
+ated with subsequent maternal depression Maternal depression
+is a common chronic source of disability that is also likely a
+vehicle for the intergenerational transmission of poverty related
+toxic stress Letourneau et al Schor Wachs Black
+A prior study found associations between percep
+Engle
+tions of stable childcare access and decreased odds of maternal
+depression when children were preschool aged but not between
+an increased number of childcare arrangements and concurrent
+maternal depression
+Johnson Padilla Our findings
+reinforce that it is the participant s experiences of childcare
+precarity rather than the actual arrangement which may reflect
+maternal cultural and personal preferences that likely
+contribute to maternal depression Our findings also suggest that
+the most notable associations with childcare precarity may be
+long term in the setting of persistent experiences of managing
+conflicts between work and family Supplemental analyses
+showed that experiences of inadequate childcare starting when
+children were age were associated with maternal depression
+when children were age showing potentially enduring effects
+of childcare precarity on maternal mental health Future studies
+should elucidate vulnerable stages of parenthood when systemic
+efforts to deliver childcare support may optimize long term
+maternal mental health
+Although depression captures overall feelings of dysphoria or
+anhedonia parenting stress stems specifically from parenting
+e g l feel trapped by my responsibilities as a parent Although
+we found strong associations between early childcare precarity
+and later maternal depression associations with parenting stress
+were less consistent Early insecure and inadequate childcare but
+not insecure childcare with missed work had associations with
+parenting stress scores none of these estimates were significant
+after adjusting for parenting stress at year Our measure of
+parenting stress was not available for two of the FFCWB cities
+when children were age which potentially limited our ability to
+detect associations in those models However this finding is
+consistent with prior research showing that associations be
+tween childcare precarity and parenting stress do not hold up
+when adjusting for prior stress perhaps because participants
+experiencing stress to begin with are also more likely to expe
+rience childcare precarity
+In supplemental
+Pilarz Hill
+analyses we found that all experiences of childcare precarity
+were associated with parenting stress concurrently when chil
+dren were age which may indicate that parenting stress may
+dissipate over time as concentrated childcare needs decrease
+The ability to follow families more intensely and reevaluate
+childcare supports at various stages may yield valuable infor
+mation on the extent of childcare supports needed across
+childhood informing interventions to optimize family health
+We found that emergency childcare support had favorable
+associations with all subsequent maternal health outcomes in
+the full sample These findings reinforce an accumulating body of
+evidence showing that access to social support is a matter of
+public health
+Participants parenting on their
+Balaji et al
+own who made up the majority of our sample may also
+particularly benefit from robust social support networks How
+ever as reflected in the regular childcare sample where associ
+ations were similar in direction and magnitude but no longer
+significant access to emergency childcare may be helpful as a
+short term solution but not an adequate substitute for ongoing
+reliable childcare essential for a parent to successfully engage in
+employment or training The sample who ever worked when
+children were ages and the vast majority did show
+benefits from emergency childcare support suggesting that the
+presence of this informal safety net does likely benefit most
+participants who are attempting to work or go to school We did
+not detect statistical interaction when exploring whether
+emergency childcare support buffered the effects of childcare
+precarity However future studies should consider intentionally
+powering their samples to examine additional subgroup ana
+lyses by income race or types of social support specifically as a
+strength based approach
+Limitations include study design sampling unmeasured
+variable bias and loss to follow up The FFCWB is a prospective
+observational study and causality cannot be established The
+FFCWB also oversampled nonmarital births with the intention of
+generating data on an understudied socioeconomically disad
+vantaged population Yet childcare precarity likely has health
+impacts across socioeconomic strata as highlighted in parenting
+studies during the COVID pandemic Petts et al In
+analyses examining childcare experiences across timepoints
+when children were ages and a few of the subgroups were
+below participants and estimates were less precise with large
+CIS These analyses were likely underpowered to detect associ
+ations for mothers experiencing precarity consistently when
+their children were ages and In light of limited U S data
+available to study long term outcomes of childcare precarity
+new prospective studies involving larger and more diverse co
+horts are needed FFCWB also only asks about childcare precarity
+for children regularly cared for by someone else at the time of the
+survey omitting participants who may have used regular care in
+early childhood but not at the time of the survey Although we
+were able to examine the effects of emergency childcare support
+on all participants experiences of childcare precarity were only
+assessed in participants who had children in regular childcare at
+the time The FFCWB also did not include information on why
+childcare fell through which may depend on subjective parental
+judgment e g mild illnesses rather than provider reliability
+However our decision to control for childcare type or child
+temperament may have tempered this potential bias Finally loss
+to follow up is also a limitation although our overall sample
+characteristics are similar to the FFCWB baseline suggesting
+minimal bias owing to attrition
+Implications for Policy and or Practice
+Overall our study findings leverage a life course framework to
+suggest that experiences of early childcare precarity may be
+followed by persistent or even mounting adverse maternal
+health associations over time Findings from this study support
+primary care efforts to screen for childcare precarity Chung
+et al Sokol et al as well as integration of
+maternal child health care system linkages to harmonize access
+to child and maternal community and health resources
+Ronis
+ARTICLE IN PRESS
+C Duh Leong et al Women s Health Issues xxx xx
+McGee D L Liao Y cao G Cooper R S Self reported health status
+and mortality in a multiethnic US cohort American Journal of Epidemiology
+https Idoi org oxfordjournals aje
+McGonagie K A Schoeni R F Sastry N Freedman V A The Panel
+Study of Income Dynamics Overview recent innovations and potential for
+life course research Longitudinal and Life Course Studies
+Miilunpalo S vuori L oja P Pasanen M Urponen H Self rated
+health status as a health measure The predictive value of self reported
+health status on the use of physician services and on mortality in the
+working age population Journal of Clinical Epidemiology
+https doi org O
+K U Wrohlich K Does subsidized care for toddlers increase
+maternal labor supply Evidence from a large scale expansion of early
+childcare Labour Economics Article
+https doi org
+j labeco
+A Tambs K Mathiesen K S Dalgard O S Samuelsen S O
+Symptoms of anxiety and depression among mothers of pre school children
+Effect of chronic strain related to children and child care taking Journal of
+Affective Disorders https doi org
+North A The precarious state of American child care Vox https www
+vox com child care covid daycare american rescue
+plan
+Parolin Z Lee E K Economic precarity among single parents in the
+United States during the COVID pandemic Annals of the American Acad
+emy of Political and Social Science https doi org
+Petts R J Carlson D L Pepin J R A gendered pandemic Childcare
+homeschooling and parents employment during COVID Gender Work
+Organization suppl
+Pilarz A R Hill H D Unstable and multiple child care arrangements
+and young children s behavior Early Childhood Research Quarterly
+https doi org j ecresq
+Pilarz A R Hill H D Child care instability and behavior problems
+Does parenting stress mediate the relationship Journal of Marriage and the
+Family
+Points D Toward a Working Future Childcare Innovation Lab Women
+NYC New York City Economic Development Corporation https ledc nyc
+sites default files Childcare Toolkit pdf
+Reichman N E Teitler J O Garfinkel L McLanahan S S Fragile
+families Sample and design Children and Youth Services Review
+https doi org
+Reid J L Melvin S A Kagan S L Brooks Gunn J Building a
+unified system for universal Pre K The case of New York City Children and
+Youth Services Review
+https doi org j childyouth
+Reid L The consequences of food insecurity for child well being An
+analysis of children s school achievement psychological well being and health
+Northwestern University University of Chicago Joint Center for Poverty
+Research JCPR Working Papers
+Ronis S D Masotya M Birkby G M Stange K C Screening families
+in primary care for social and economic needs Patients urgency and
+activation for social care navigation American Journal of Preventive Medicine
+suppl https doi org j amepre
+Schor E L Maternal depression screening as an opening to address social
+determinants of children s health JAMA Pediatrics https
+doi org jamapediatrics
+Sokol R Austin A Chandler C Byrum E Bousquette J Lancaster C Doss G
+Dotson A Urbaeva V Singichetti B Brevard K Wright S T Lanier P
+Shanahan M Screening children for social determinants of health A
+systematic review Pediatrics Article
+https doi org
+peds
+Solomon Fears C Nonmarital births An overview Congressional Research
+Service
+stuff J E Casey P H Szeto K L Gossett J M Robbins J M Simpson P M
+Connell C Bogle M L Household food insecurity is associated
+with adult health status Journal of Nutrition
+https
+doi org jn
+Wachs T D Black M M Engle P L Maternal depression A global
+threat to children s health development and behavior and to human rights
+Child Development Perspectives
+x
+Author Descriptions
+Carol Duh Leong MD MPP is an Assistant Professor of Pediatrics at NYU Grossman
+School of Medicine Her research interests include applying a life course framework
+towards understanding the social context of early maternal child health and its
+long term contribution to health and well being
+Caitlin F Canfield PhD is an Assistant Professor of Pediatrics at NYU Grossman
+School of Medicine Her research interests include individual differences in chil
+dren s development including the influences of social policy community assets
+family strengths and internal characteristics like temperament
+Anne E Fuller MD MS is an Assistant Professor of Pediatrics at McMaster Uni
+versity Her research interests include income related inequities in family health
+and building knowledge to support clinical and policy level interventions to reduce
+inequities
+Rachel S Gross MD MS is an Assistant Professor of Pediatrics at NYU Grossman
+School of Medicine Her research interests include examining how poverty related
+risks like material hardships and high psychosocial stressors influence disparities in
+obesity and children s health
+Nancy E Reichman PhD is a Professor of Pediatrics at Robert Wood Johnson
+Medical School Her research interests include understanding linkages between
+socioeconomic status and health as well as effects of public policies on child and
+family well being
+ELSEVIER
+PEC Innovation
+Contents lists available at ScienceDirect
+PEC Innovation
+journal homepage www elsevier com locate pecinn
+PEC
+innovation
+Check for
+u dates
+Where do I go Who do I go to BRCA Previvors genetic counselors
+and family planning
+Mariah L Wellman a Avery E Holton Kimberly A Kaphingst c
+a Deparfrnent of Communication University of Illinois Chicago W Harrison St Chicago IL United States of America
+b Departrnent of Communication University of Utah United States of America
+c Department of Cornrnunication Huntsman Cancer Institute University of Uta Lb United States of America
+ARTICLE
+Keywords
+BRCA
+genetics
+INFO
+genetic counseling
+patient centered care
+previvors
+Introduction
+ABSTRACT
+Objective We sought to understand BRCA previvors perceptions of communication with genetic counselors and other
+healthcare providers
+Methods We conducted qualitative interviews and utilized thematic analysis to develop patterns present in the nar
+ratives of previvors
+Results Interviews with previvors suggest genetic counselors and other providers often make assumptions about
+previvors family planning and treatrnent needs based on perceived gender age and sexual orientation
+Conclusioru BRCA patients require individualized attention when planning for their future and making healthcare de
+cisions and we argue that implementing patient centered care practices into the communication process can provide a
+higher quality of care
+Innovatioru This study offers an innovative lens through which scholars and healthcare providers may examine the ex
+periences of BRCA previvors as they seek adequate care Asking previvors to explain their perceptions of conversations
+with genetic counselors and healthcare providers offers insight into the communicative process of seeking care rather
+than the health outcomes of the care itself Our findings suggest biases among providers related to gender age and
+sexual orientation are concerning elements of family planning communication that potentially interrupt previvors
+abilities to express their care needs in a safe environment We argue for an increased awareness of and advocacy
+for more inclusive conversations regarding treatrnent and family planning decisions
+Individuals found to carry a pathogenic variant in the genes BRCAI
+sometimes referred to as previvors often meet with numerous healthcare
+providers including genetic counselors gynecologists and oncologists
+throughout their journey They rely on these and other sources to learn
+more about their genetic mutation family planning and fertility options
+and treatment possibilities which largely include surveillance and surgery
+Research on communication between genetic counselors and BRCA previvors
+is growing yet still provides opportunities for exploration A much larger
+body of research has explored the communication between genetic coun
+selors and individuals who have received a cancer diagnosis or are receiving
+treatments including a scoping review published in highlighting
+the need to study the communication process in genetic counseling more
+deeply Prior literature suggests genetic counseling tends to focus on biomed
+ical information rather than psychological support of patients In addition
+patients needs for personalized information regarding their diagnosis family
+dynamics and treatment options may not always be met by genetic
+Corresponding author
+counselors In a study of breast and ovarian cancer patients Jacobs and
+colleagues argued that research is needed to better understand communi
+cation by oncology professionals including genetic counselors
+We begin to answer this call and extend agency to previvors with an
+exploratory study investigating BRCA previvors and their experiences
+with genetic counselors and other members of their healthcare team
+BRCA previvors along with most precision medicine patients have specific
+needs when meeting with genetic counselors and other providers Sharing
+previvors experiences with healthcare providers like genetic counselors
+gynecologists and oncologists through qualitative interviews such as
+those used in this study can help educate scholars healthcare providers
+genetic counselors and professionals and policymakers on how to improve
+engagement with this growing population
+Genetic counseling and patient centered care
+Genomic communication scholarship has called for innovative lenses
+through which to understand precision medicine decisions made by
+E mail addresses mwellman uic edu M L Wellman Avery holton utah edu A E Holton Kim kaphingst hci utah edu K A Kaphingst
+http dx doi org j
+Received October Received in revised form March Accepted April
+The Authors Published by Elsevier B V This is an open access article under the CC BY NC ND license http creativecommons org licenses by nc nd
+M L Wellman et al
+BRCA previvors including an increased focus on patient centered care and
+communication Patient centered care is designed to manage the con
+cerns many scholars have noted are central to the previvor experience like
+uncertainty information exchange emotional well being and self
+management In a recent article on enhancing patient centered
+care within precision oncology Chou and her colleagues note commu
+nication is critical for those being genetically tested for hereditary breast
+and ovarian cancer Such patients are often struggling with feelings of un
+certainty in understanding their diagnosis and in making decisions
+based on their results Genetic counselors and other providers can help pa
+tients manage their uncertainty by addressing their specific care prefer
+ences as well as concerns like financial insecurity misinformation and
+the possibility of changing treatment modalities when necessary
+There are documented psychological impacts of genetic testing for BRCA
+patients and patient centered care and communication is critical
+to ensure previvors needs are met
+In a qualitative study of BRCA previvors experiences with genetic test
+ing and treatment planning Hesse Biber found previvors did not make
+decisions specifically based on statistical data provided by their genetic
+counselor Instead they filtered those data through a broader lens of per
+sonal experiences and preferences Genetic counselors must understand
+those personal preferences to offer the highest quality of care for previvors
+Patient centered care within precision medicine and genetic testing as de
+scribed by Arora and colleagues needs to take a whole person approach
+rather than focusing on the patient s genes alone
+While important most prior scholarship has analyzed quantitative com
+munication outcomes such as patients uncertainty anxiety and stress after
+communicating with counselors rather than the communication process it
+self Qualitative studies are needed to analyze perceptions of the process
+of communication in visits between BRCA previvors genetic counselors
+and other providers on their healthcare teams to ensure the highest quality
+care throughout the previvor journey that is meeting the needs of previvors
+Family planning for BRCA previvors
+Precision medicine and genetic testing for BRCA previvors has many
+benefits but requires strong communication between patients and providers
+particularly around patients personal and family planning needs Fam
+ily planning is the act of deciding how many children to have and how to
+space out pregnancy keeping in mind fertility issues contraception prena
+tal testing and other health concerns Family planning is a central topic
+within genetic counseling sessions for BRCA patients as decisions about
+managing cancer risk i e prophylactic oophorectomy might also impact
+reproductive decisions However family planning communication
+scholarship is still quite limited with regards to navigating the individual
+preferences of patients Most literature notes the importance of family plan
+ning as well as the struggle many go through in the process of making deci
+sions regarding their reproductive health but research detailing
+the process of how patients and genetic counselors communicate about
+family planning is scarce
+There is often an assumption that BRCA previvors want to get married
+have kids and plan for a family once diagnosed However a recent study of
+single unmarried Korean BRCA mutation carriers found that of
+those surveyed no longer wanted to get married and who previously
+wanted to bear children no longer want them Family planning schol
+arship is often presented through a normative cisgender and heterosexual
+lens leaving out others experiencing previvorship Additionally there is
+minimal research on how the age of BRCA previvors impacts their family
+planning and treatment choices These previvors may not interact
+with genetic counselors in the same way as others and research is needed
+to detail the experiences of those patients so counselors and other
+healthcare providers understand the specific needs of all patients
+Therefore this study asks
+RQI What were previvors perceptions of communication with genetic
+counselors and other healthcare providers about their diagnosis and
+treatment plan
+PEC Innovation
+What were previvors perceptions of communication with providers
+and experiences within the healthcare system related to family planning
+Method
+Study design
+To examine BRCA previvors experiences with genetic counselors and
+other healthcare professionals throughout their process of diagnosis sur
+gery and recovery we used an exploratory qualitative interview approach
+The data were collected as part of a larger study that examined reasons for
+social media content creation by previvors although these data were not
+previously analyzed The Institutional Review Board approved the study
+protocol
+Recruitment and eligibility
+This study recruited individuals living in the United States who have
+been found to carry a BRCAI or mutation and identify as woman
+with the pronouns she her or a non binary person with the pronouns
+they them Of the total participants n were women and one
+was non binary However the non binary individual noted that they are
+often perceived as female and have woman listed as their gender on
+their medical paperwork for insurance purposes All participants were
+white presenting but two identified as Hispanic and two identified as Ash
+kenazi Jewish noting the importance of their ethnicity as related to their
+BRCA status as one in Ashkenazi Jewish women have a BRCA mutation
+All individuals had to be over the age of and could participate re
+gardless of where they were in their BRCA journey Additionally all partic
+ipants must have been active on at least one personal social media account
+where they shared about their experiences publicly
+Individuals were recruited through both Instagram and TikTok The
+principal investigator searched popular hashtags related to BRCA includ
+ing brca brcal previvor brcagene and breastcancerprevivor
+Once accounts populated the researcher reached out to previvors who
+listed their email addresses publicly on their social media accounts
+explaining the project and requesting they respond if interested Once indi
+viduals responded they were scheduled for interviews and provided with
+the consent form
+Procedure
+Eligible participants were scheduled for a virtual interview over Zoom
+Verbal consent was requested again at the start of each interview before re
+cording was initiated All interview audio was recorded for accuracy and
+transparency for the duration of the interview The interviews were based
+on a semi structured interview format and topics included the previvor s ex
+perience with BRCA up until the day of the interview their experience
+working with genetic counselors and healthcare providers through their
+journey their activity on social media and how they feel about the online
+communities surrounding BRCA Each of the interviews lasted between
+and min and sessions were transcribed verbatim by a professional tran
+scription company Participants received compensation in the form of a
+gift card
+Analysis
+Thematic analysis was implemented by the principal investiga
+tor and supported by a graduate assistant GA This method was recently
+applied to the study of BRCA previvorship as a label of identity and
+to explore how previvors share about their experiences on Instagram
+The transcripts were manually coded by the principal investigator and the
+GA for patterns related to previvor s experiences with healthcare profes
+sionals including genetic counselors We elected to follow the two stage re
+view process recommended to maintain the rigor of the method including
+an initial round of open coding followed by a d

@@ -1,0 +1,1061 @@
+s have explored how clinician beliefs
+can limit patients ability to make fully voluntary choices
+Biggs et al Brandi Woodhams White Mehta
+Gomez Wapman Senderowicz Strasser
+Borkowski Couillard Allina Wood Vaaler et al
+For example clinicians may withhold information
+about options available and or pressure patients to make
+certain decisions either implicitly or explicitly Previous
+research has also found that physician specialty age and
+gender as well as county characteristics were associated with
+contraceptive service provision to Medicaid beneficiaries
+Bodas et al This research on clinician influence in
+provision of family planning services aligns with other
+research highlighting physician driven effects in health care
+such as physician driven rates of cesarean sections Burns
+Geller Wholey and medical device use Bergman
+Grennan Swanson
+Previous research has also examined how facility charac
+teristics impact family planning service provision For
+example studies have found that the types of services pro
+vided differ based on clinic ownership and geography
+Bornstein Carter Zapata Gavin Moskosky Frost
+Lindberg Frost Sten Dailard Vaaler et al
+Previous research has found that almost all federally
+qualified health centers FQHCs offer some type of family
+planning services but there is wide variation in the type s of
+services offered Wood et al Wood et al orga
+nization and delivery of care Goldberg et al
+and
+availability of care to underserved and adolescent populations
+Goldberg et al Mead et al However no studies
+to our knowledge have simultaneously analyzed the associa
+tion between facility and clinician characteristics and family
+planning service provision while also stratifying by service
+type
+The objective of this study was two fold First we provided
+descriptive statistics regarding the provision of family planning
+services in outpatient care settings such as CHCs and private
+physician practices excluding Planned Parenthood and Title X
+clinics We aimed to better understand family planning services
+that occur outside of family planning specialty settings because
+primary care practices often face multiple challenges meeting
+patients family planning needs amidst their many other con
+cerns Biggs Kaller Harper Freedman Mays Second we
+analyzed whether family planning service provision differed
+based on facility and clinician characteristics using multilevel
+modeling techniques to estimate the variation between indi
+vidual clinicians In doing so we hope to provide valuable con
+tributions to the literature on where and by whom family
+planning services are provided in outpatient care settings This
+knowledge will inform the larger discussion on the most effec
+tive and equitable strategies to improve access to family plan
+ning services In addition better understanding the role of
+clinicians in family planning service provision can help to better
+target resources and training so that patient needs and prefer
+ences are met
+Methods
+Data
+We analyzed data from the National Ambulatory Medical Care
+Survey NAMCS an annual national probability sample survey of
+clinicians who are involved directly in office based ambulatory
+i e outpatient care Observations were at the visit level and
+sampled visits include those with physicians PAs nurse practi
+tioners and nurse midwives Visits at Planned Parenthood Title
+X clinics and hospital outpatient departments were not included
+in the dataset NAMCS uses a standard clinician interview form
+and automated tool to extract data from the patient record
+which helps to minimize survey recall bias and missing infor
+mation The annual survey is conducted by the National Center
+for Health Statistics of the CDC Methods used in the design
+conduct and analysis of these surveys are fully described on the
+NAMCS website where the data are also available National
+Center for Health Statistics
+We limited our sample to reproductive age years
+individuals office visits between January and December
+excluding because data were not collected and
+made available that year Because of the COVID pandemic
+is the most recent year where data were publicly available
+NAMCS survey methodology includes a binary sex indicator all
+visits in our sample were with patients who identified as female
+at the time of data collection Our study sample ranges from
+approximately to patient visits per year depending
+on the year Given the deidentified nature of this public use
+dataset analyses using NAMCS data are exempt from institu
+tional review board approval
+A Schulte M A Biggs Women s Health Issues
+Analysis Variables
+Our dependent variable was whether family planning ser
+vices were provided at the visit We initially estimated models
+based on whether any type of family planning service was pro
+vided and then estimated models based on the specific type of
+service provided For the purposes of our study we dis
+aggregated family planning services into six categories contra
+ceptive counseling contraceptive pill or shot IUD hormonal
+implant sterilization and abortion These categories were
+informed by NAMCS survey methodology and previous literature
+Bello et al National Center for Health Statistics
+Sarayani et al We used International Classification of
+Diseases edition diagnosis and procedure codes medica
+tions and reason for visit documented in the patient s record to
+indicate if and what type of family planning service was pro
+vided during the visit More than one type of family planning
+service was provided in approximately of our sampled visits
+e g contraceptive counseling and pill provided at the same
+visit
+Independent variables were facility location facility type
+ownership type s of clinicians seen during the visit physi
+cian specialty and whether the patient saw their primary care
+provider PCP during the visit Facility location is urban if in a
+Metropolitan Statistical Area and rural otherwise Types of
+outpatient facilities in the sample include those owned by
+private physician practices CHCs medical academic health
+centers and insurance companies health plans or health
+maintenance organizations NAMCS categorizes the following
+types of facilities as CHCs FQHCs defined through the
+Public Health Service Act that receive Section funding
+FQHC look alikes or community based health care providers
+that meet the requirements of the HRSA Health Center Pro
+gram but do not receive Health Center Program funding and
+urban Indian Health Service outpatient clinics We included
+a categorical measure of team based care specifically types of
+clinicians seen during the visit only a physician only a
+PA or nurse physician and PA physician and nurse
+physician and other clinician type nurse and other clinician
+type and only other clinician type Nurses include nurse
+practitioners registered nurses and licensed practical nurses
+Other clinician types include mental health providers phar
+macists and other allied health professionals If a physician
+was seen during the visit categories of physician specialties
+include general family practice obstetrics and gynecology
+internal medicine pediatrics psychiatry and other specialty
+e g cardiovascular health neurology Last we included a
+binary variable indicating whether the patient saw their PCP
+at the visit
+The analyses control for patient characteristics associated
+with use of family planning services including patient age in
+surance type private Medicaid Medicare self pay no charge
+charity care and other payment race ethnicity non Hispanic
+White non Hispanic Black Hispanic and non Hispanic other
+multiracial chronic disease substance use disorder and body
+mass index Patient age was defined as a categorial variable to
+to to or to years old We controlled for
+chronic diseases that previous research has found could influ
+ence use of family planning services specifically asthma chronic
+heart failure hypertension diabetes obesity and depression
+Chor Rankin Harwood Handler Phillips Bell
+Sappenfield Robbins Hernandez We also include
+state and year fixed effects
+Statistical Analyses
+For basic characterization of both outcome and predictor
+variables we conducted descriptive statistical analyses for our
+total sample of visits and visits where family planning services
+were provided stratifying by specific type of service provided
+Next we used multilevel random intercept logistic regression to
+estimate the adjusted odds ratios for the relationship between
+facility and clinician characteristics and provision of family
+planning services Our models included clinician level random
+intercepts e g clustered by specific clinician identifier and
+therefore allow for nonindependence of the outcomes for
+different patients treated by the same clinician given the cova
+riates In addition random intercept models allowed us to
+differentiate the residual variation in the outcome explained by
+clinician level factors Specifically the random intercept residual
+variance allowed us to quantify the impact of clinician level
+factors not measured by covariates on family planning service
+provision Maximum likelihood estimation with adaptive quad
+rature was used to estimate the model parameters We also used
+robust standard errors clustered at the clinician level using a
+Huber White sandwich estimator
+Across our models we reported measures of clinician level
+heterogeneity controlling for covariates namely the residual
+standard deviation intraclass correlation ICC and median odds
+ratio MOR Residual standard deviation is a measure of the
+variability at the clinician level Rabe Hesketh Skrondal
+The ICC measures between clinician heterogeneity or within
+clinician homogeneity and is interpreted in terms of the latent
+response for logistic regression models Hedeker
+Previ
+ous studies have also used ICC as an indicator of reliability with a
+higher ICC indicating higher reliability of estimates Rodriguez
+et al
+The MOR is a measure of heterogeneity between
+clinicians after controlling for other covariates It is the median
+value of the odds ratios when comparing the odds of family
+planning service provision for a patient from one randomly
+selected clinician cluster with another patient that has identical
+covariates but is randomly selected from a different clinician
+cluster The MOR can be conceptualized as the increased likeli
+hood of family planning provision in median from seeing a
+different randomly selected clinician who was otherwise iden
+tical in terms of observed covariates Merlo et al
+All hypothesis tests reported are based on two sided p values
+We considered p values of less than to be statistically sig
+nificant Data management and analysis were conducted using
+Stata StataCorp College Station TX
+Results
+Descriptive Statistics
+The sample consisted of visits with individuals of
+reproductive age years in outpatient care settings be
+tween and There were unique clinicians in our
+sample A full description of sampled visits is presented in
+Table As shown in
+any type of family planning service
+Table
+was provided at visits of the total sample The most
+common service provided was contraceptive counseling at
+visits followed by contraceptive pill shot visits
+IUDs visits hormonal implants visits
+abortions visits and sterilization visits
+Table
+A Schulte MA Biggs Women s Health Issues
+Characteristics of Total Sampled Visits With Reproductive Age Individuals
+n
+Characteristic
+Facility location
+Rural
+Urban
+Facility ownership
+Physician practice
+CHC
+Medical academic health center
+Insurance company health plan or health maintenance
+organization
+Other
+Not reported
+Clinicians seen during visit
+Only physician
+Only PA or nurse
+Physician and PA
+Physician and nurse
+Physician and other clinician type
+Nurse and other clinician type
+Other clinician type
+Not reported
+Physician specialty
+General family practice
+Obstetrics and gynecology
+Internal medicine
+Pediatrics
+Psychiatry
+Other physician specialty e g cardiovascular health
+neurology
+No specialty indicated physician not seen
+Visit with PCP
+No
+Yes
+Patient insurance type
+Private insurance
+Medicare
+Medicaid
+Self pay
+No charge charity care
+Other
+Not reported
+Patient racelethnicity
+Non Hispanic White
+Non Hispanic Black
+Hispanic
+Non Hispanic other multiracial
+Patient has chronic disease
+No
+Yes
+Patient age years
+n
+Abbreviations CHC community health center PA physician assistant PCP pri
+mary care provider
+Notes Nurses include nurse practitioners registered nurses and licensed prac
+tical nurses Other clinician types include mental health providers pharmacists
+and other allied health professionals e g physical therapists
+For visits where any type of family planning service was
+provided leftmost column in
+Table the majority of visits
+occurred in urban areas and at CHCs Twenty six
+percent of visits where any type of family planning service was
+provided occurred with only a physician closely followed by
+of visits with only a PA or nurse The proportion of visits with
+only a physician is lower for contraceptive counseling and pill
+shot and respectively and higher for IUDS implants
+sterilization and abortion and respectively
+Not surprisingly if a patient saw a specialized physician and
+family planning care was provided the physician s specialty was
+obstetrics and gynecology at almost one third of the visits Pa
+tients saw their PCP at of the visits where family planning
+services were provided Among these visits n if the
+PCP was a physician with a specialty the specialization was most
+commonly general family practice then internal medicine ob
+stetrics and gynecology and pediatrics and
+respectively
+Random Intercept Logistic Regression Any Type of Family
+Planning Service Provided
+Table
+presents the results of adjusted random intercept
+logistic regression estimating the odds ratios ORS for the as
+sociation between facility and clinician characteristics and any
+type of family planning service provided at the visit Regarding
+facility characteristics we found the estimated odds of any type
+of family planning service being provided were higher at
+urban compared with rural facilities adjusted OR aOR
+confidence interval Cl p and higher at
+CHCs compared with physician practices aOR Cl
+Regarding clinician characteristics our results
+P
+indicate the estimated odds of family planning services being
+provided were higher if a patient received team based care
+specifically seeing a physician and PA aOR CI
+p or only a PA or nurse Cl
+p compared with only seeing a physician at the visit If a
+patient saw a specialized physician the estimated odds of family
+planning service provision were much higher if the physician s
+specialty was obstetrics and gynecology aOR CI
+p compared with general family practice Results for
+seeing their PCP during the visit were not significant
+Our measures of between clinician heterogeneity indicate a
+high amount of variation in which clinicians provided family
+planning services The ICC was meaning that of the
+variation in our outcome family planning service provision for
+the latent response was due to clinician level factors not
+captured by the observed covariates in our model For compar
+ison a systematic review analyzing between clinician variation
+for different health care outcomes estimated an ICC of to
+for clinician activity use i e ordering prescriptions laboratory
+tests to for diabetes care and outcomes and up to
+for patient satisfaction with PCPs Fung et al Researchers
+have also theorized that a high ICC meaning high variability
+between individual clinicians indicates high potential for qual
+ity improvement at the clinician level Berwick The esti
+mated MOR was meaning if two clinicians in our dataset
+identical in terms of observed covariates were randomly
+selected one would have a times higher median odds of
+providing family planning services compared with the other
+Overall these measures of between clinician heterogeneity
+indicate that specific clinicians were much more likely to provide
+family planning care compared with others after controlling for
+observed covariates
+Random Intercept Logistic Regression Stratified by Type of
+Service Provided
+In our next set of models we performed separate regressions
+for specific types of family planning services focusing on con
+traceptive care counseling pill shot IUD and hormonal
+implant given the small sample sizes for sterilization and
+Table
+Characteristics of Visits Where Family Planning Services Were Provided
+Characteristics
+No of visits
+Percent of Total Sample n
+Facility location
+Rural
+Urban
+Facility ownership
+Physician practice
+CHC
+Medical academic health center
+Insurance company health plan or health
+maintenance organization
+Other
+Not reported
+Clinicians seen during visit
+Only physician
+Only PA or nurse
+Physician and PA
+Physician and nurse
+Physician and other clinician type
+Nurse and other clinician type
+Other clinician type
+Not reported
+Physician specialty
+General family practice
+Obstetrics and gynecology
+Internal medicine
+Pediatrics
+Psychiatry
+Other physician specialty e g cardiovascular
+health neurology
+No specialty indicated physician not seen
+Visit with PCP
+No
+Yes
+Patient insurance type
+Private insurance
+Medicare
+Medicaid
+Self pay
+No charge charity care
+Other
+Not reported
+Patient race ethnicity
+Non Hispanic White
+Non Hispanic Black
+Hispanic
+Non Hispanic other multiracial
+Patient has chronic disease
+No
+Yes
+Any Type of Family
+Planning Service
+Contraceptive
+Counseling
+Contraceptive Pill
+or Shot
+IUD
+Hormonal Implant
+Sterilization
+Abortion
+Column
+Column
+Column
+Column
+Column
+Column
+Column
+continued on next page
+u
+u
+u
+u
+u
+u
+u
+u
+u
+co
+co
+A Schulte MA Biggs Women s Health Issues
+abortion Contraceptive counseling was more likely to be
+provided in urban compared with rural areas aOR CI
+p and more likely to be provided at CHCs
+compared with physician practices aOR CI
+p Contraceptive counseling was also more likely to be
+provided with team based care specifically when the patient
+saw a physician and PA aOR CI p or
+physician and other type of clinician aOR CI
+p compared with only a physician The contraceptive pill
+shot was significantly more likely to be provided when the pa
+tient saw only a PA or nurse compared with only a physician
+aOR CI p likely owing to the na
+ture of this service For IUDs and implants presented categories
+for team based care were not significant indicating that these
+services were more likely to be provided when only a physician
+was seen the reference category Across all types family plan
+ning services were more likely to be provided if the physician s
+specialty was obstetrics and gynecology compared with general
+family practice The magnitude is highest for IUDs aOR
+CI p and lowest for the pill shot aOR
+CI p Results for PCP seen during the
+visit were not significant
+Sensitivity Analyses
+In our first sensitivity analysis we estimated the measures of
+between clinician heterogeneity for specific types of family
+planning services see bottom of Table The ICC ranges from
+for IUD visits to for counseling visits and the MOR
+follows a similar pattern We also estimated the ICC for common
+facility ownership types and found the ICC was for private
+physician practices and for CHCs Overall measures of be
+tween clinician heterogeneity were relatively consistent even
+when stratifying by type of family planning service and facility
+type This further supports the hypothesis that certain clinicians
+were much more likely to provide family planning services
+compared with others
+In our second sensitivity analysis we estimated random
+intercept regression models during specific years Although the
+survey is designed to be nationally representative every year the
+NAMCS has used slightly different survey and sampling designs
+over to so we wanted to ensure the robustness of our
+regression results across years In Appendix Table A l we present
+adjusted odds ratios for any type of family planning service being
+provided These estimates indicate that our results are qualita
+tively similar over the study period Owing to changes in sam
+pling design and weighting schema we are not able to estimate
+how the overall prevalence of family planning service provision
+has changed in our sample between the years and
+National Center for Health Statistics
+Discussion
+This study analyzed the association between facility and
+clinician characteristics and family planning services provided
+during outpatient care visits in the United States We aimed to
+better understand family planning services that occur in primary
+care outpatient settings such as CHCs and private physician
+practices rather than family planning specialty settings e g
+Planned Parenthood and Title X clinics By clustering our results
+at the clinician level we were able to quantify the variation be
+tween specific clinicians in the odds of family planning service
+provision To our knowledge this study is the first to empirically
+investigate the role of facility and clinician characteristics on the
+likelihood of family planning service provision using a large
+nationally representative dataset and multilevel modeling
+techniques The use of a large national dataset makes our find
+ings broadly generalizable to the outpatient care setting
+We find that any type of family planning service was provided
+at of the total sampled visits Contraceptive counseling was
+provided most commonly other family planning services were
+not provided very often We also find that family planning ser
+vices were more likely to be provided in urban areas at CHCs
+and when patients received team based care Our results indi
+cate that some clinicians were much more likely than others to
+provide family planning services after controlling for observed
+covariates which is consistent with other literature highlighting
+clinician influence on health care use Flynn Smith Davis
+Fred Fung et al This finding suggests that
+diverse clinician beliefs and practices may influence what and if
+family planning services are provided to patients
+Table
+Association Between Facility and Clinician Characteristics and Any Type of
+A Schulte M A Biggs Women s Health Issues
+Family Planning Service Provided at Visit
+Characteristic
+Facility location
+Rural
+Urban
+Facility ownership
+Physician practice
+CHC
+Medical academic health center
+Insurance company health plan
+or health maintenance organization
+Clinicians seen during visit
+Only physician
+Only PA or nurse
+Physician and PA
+Physician and nurse
+Physician and other clinician type
+Nurse and other clinician type
+Other clinician type
+Physician specialty
+General family practice
+Obstetrics and gynecology
+Internal medicine
+Pediatrics
+Psychiatry
+Other physician specialty
+e g cardiovascular health
+neurology
+Visit with PCP
+No
+Yes
+Measures of clinician heterogeneity
+Residual standard deviation
+Intraclass correlation
+Median odds ratio
+aOR
+ref
+ref
+ref
+ref
+ref
+p Value
+Abbreviations CHC community health center PA physician assistant PCP pri
+mary care provider
+Notes Nurses include nurse practitioners registered nurses and licensed prac
+tical nurses Other clinician types include mental health providers pharmacists
+and other allied health professionals e g physical therapists Types of family
+planning services included in our outcome variable were contraceptive coun
+seling contraceptive pill shot intrauterine device hormonal implant steriliza
+tion or abortion Model controls for patient characteristics insurance type age
+race ethnicity chronic disease substance use disorder and body mass index
+We include a clinician level random intercept fixed effects for state and year
+and robust standard errors clustered at the clinician level Results with a p value
+of less than are indicated in bold
+See text for explanation of these measures
+This study has several limitations Our data source NAMCS
+does not include several variables such as patient sexual ac
+tivity sexual orientation pregnancy desires or physician age
+gender and race ethnicity that may influence our observed
+outcomes Another limitation is that we were unable to ascertain
+patient preferences or disentangle selection effects regarding
+family planning service provision We would expect some vari
+ation between clinicians owing to factors such as patient selec
+tion and clinician experience and training However the
+measures of between clinician heterogeneity in our study are
+high relative to measures of between clinician heterogeneity for
+other health care processes and outcomes in the literature Fung
+et al
+Future research should further explore these se
+lection effects to better understand the causal impact of facility
+and clinician characteristics on family planning service
+provision
+Implications for Policy and or Practice
+Ensuring access to comprehensive patient centered family
+planning services is a key strategy in advancing reproductive
+autonomy Our results suggest that more work may be needed to
+ensure clinicians are willing and able to provide family planning
+care as recommended by the CDC and several professional
+medical societies Studies have found that training and support
+for patient centered counseling may be an effective approach to
+increase access to comprehensive family planning services and
+support reproductive agency Dehlendorf Grumbach
+Schmittdiel Steinauer Harper et al Stulberg
+Broader facility level system changes may also be
+et al
+needed to address barriers so that PCPs are able to incorporate
+family planning services when appropriate and desired by pa
+tients These changes may include expanded referral networks
+modifications in team based care processes such as nonphysi
+cian clinicians providing family planning services in some cases
+billing and payment incentives and or patient engagement and
+education tools In addition policy changes related to over the
+counter contraception telehealth regulation and scope of prac
+tice laws may decrease barriers to access
+Conclusions
+Our findings inform the broader discussion on the most
+effective and equitable strategies to improve access to family
+planning services Understanding the role of facility and clinician
+characteristics in service provision can help to better target re
+sources and training so that patient needs and desires are met
+Given that primary care is the principal source of health care for
+many pregnancy capable people increasing the proportion of
+clinicians who offer patient centered contraceptive counseling
+in primary care settings is key to improving access and outcomes
+On June the Supreme Court issued its decision in Dobbs
+v Jackson Women s Health Organization no longer acknowledging
+the constitutional right to an abortion
+National Constitution
+Abortion access has been further restricted in
+Center
+the wake of this ruling highlighting a need to integrate family
+planning services in particular contraceptive counseling to
+ensure patient reproductive needs and desires are met Future
+work should focus on understanding barriers and developing
+interventions to incorporate recommended family planning
+services into primary care and other appropriate outpatient
+settings
+Table
+Association Between Facility and Clinician Characteristics and Specific Type of Family Planning Service Provided
+A Schulte MA Biggs Women s Health Issues
+Characteristic
+Facility location
+Rural
+Urban
+Facility ownership
+Physician practice
+CHC
+Medical academic health center
+Insurance company health plan or
+health maintenance organization
+Clinicians seen during visit
+Only physician
+Only PA or nurse
+Physician and PA
+Physician and nurse
+Physician and other clinician type
+Nurse and other clinician type
+Other clinician type
+Physician specialty
+General family practice
+Obstetrics and gynecology
+Internal medicine
+Pediatrics
+Psychiatry
+Other physician specialty
+Visit with PCP
+No
+Yes
+Measures of clinician heterogeneity
+Residual standard deviation
+Intraclass correlation
+Median odds ratio
+Contraceptive Counseling
+Contraceptive Pill Shot
+Intrauterine Device
+Hormonal Implant
+aOR
+ref
+ref
+ref
+ref
+ref
+p Value aOR
+p Value aOR
+ref
+ref
+ref
+ref
+ref
+ref
+ref
+ref
+ref
+ref
+p Value
+aOR
+ref
+ref
+ref
+ref
+ref
+p Value
+Abbreviations aOR adjusted odd ratio CHC community health center CI confidence interval PA physician assistant PCP primary care provider
+Notes Nurses include nurse practitioners registered nurses and licensed practical nurses Other clinician types include mental health providers pharmacists and other
+allied health professionals e g physical therapists Model controls for patient characteristics insurance type age race ethnicity chronic disease substance use
+disorder and body mass index We include a clinician level random intercept fixed effects for state and year and robust standard errors clustered at the clinician level
+Results with a p value of less than are indicated in bold Blank values indicate omitted estimates due to small sample size
+See text for explanation of these measures
+Acknowledgments
+We thank the following individuals for their valuable feed
+back and support Dr Cassondra Marshall Dr Daniel Grossman
+Dr Sophia Rabe Hesketh Dr Hector Rodriguez Dr Ambar La
+Forgia Dr Lindsay Parham and Dr Amanda Brewster The
+principal author had full access to all the data in the study and
+takes responsibility for the integrity of the data and the accuracy
+of the data analysis
+Supplementary Data
+Supplementary data related to this article can be found at
+https doi org j whi
+References
+Adler A Biggs M A Kaller S Schroeder R Ralph L Changes in the
+frequency and type of barriers to reproductive health care between and
+JAMA Network open Article
+Bello J K Rao G Stulberg D B Trends in contraceptive and pre
+conception care in United States ambulatory practices Family Medicine
+Bergman A Grennan M Swanson A Lobbying physicians Payments
+from industry and hospital procurement of medical devices Cambridge MA
+National Bureau of Economic Research Available
+https www nber org
+papers Accessed June
+Berwick D M Controlling variation in health care A consultation from
+Walter Shewhart Medical care
+Biggs M A Harper C C Malvin J Brindis C D Factors influencing
+the provision of long acting reversible contraception in California Obstetrics
+and Gynecology
+Biggs M A Kaller S Harper C C Freedman L Mays A R Birth
+control can easily take a back seat Challenges providing IUDs in commu
+nity health care settings Journal of Health Care for the Poor and Underserved
+Biggs M A Tome L Mays A Kaller S Harper C C Freedman L The
+fine line between informing and coercing Community health center clini
+cians approaches to counseling young people about IUDs Perspectives on
+Sexual Reproductive Health
+Bodas M Strasser J Luo Q Schenk E Chen C Association of pri
+mary care physicians individual and community level characteristics with
+contraceptive service provision to Medicaid beneficiaries JAMA Health
+Forum Article
+Bornstein M Carter M Zapata L Gavin L Moskosky S Access to
+long acting reversible contraception among US publicly funded health
+centers Contraception
+Brandi K Woodhams E White K O Mehta P K An exploration of
+perceived contraceptive coercion at the time of abortion Contraception
+Burns L R Ceiler S E Wholey D R The effect of physician factors on
+the cesarean section decision Medical Care
+Chor J Rankin K Harwood B Handler A Unintended pregnancy and
+postpartum contraceptive use in women with and without chronic medical
+disease who experienced a live birth Contraception
+Dehlendorf C Grumbach K Schmittdiel J A Steinauer J Shared
+decision making in contraceptive counseling Contraception
+Dehlendorf C Ruskin R Grumbach K Vittinghoff E Bibbins Domingo K
+Schillinger D Steinauer J Recommendations for intrauterine
+contraception A randomized trial of the effects of patients racelethnicity
+www nature com scientificreports
+scientific reports
+OPEN
+A Check for updates
+Maternal outcomes and risk
+factors for COVID severity
+among pregnant women
+Manon Guillaume Oscar Martinez Perez
+Leo Pomari
+Laura Forcen Alejandra Abascal Maria Rosa Vila
+Najeh Lamberts Gabriel Joanna Laurent
+Julien Yves Martinez de Anna
+Ameth Hawkins Karen Eduard Gratacos Lucas
+Brian Clearyll Michael Helena Feras Fergal
+Mary Niamh Susan Christophe
+Carolina Carvalho Ribeiro do Valley Fernanda Amanda Dantas
+Carolina Adriana Gomes Javiera Jorge
+Manuel Guerra Olivia Olga Albert l
+Uma Rita Marina Pedro Viana Carmen De
+Marco De Diogo Ayres de Charles
+Damien Betania Maria Lucia Da Rocha
+Maria Celeste Osorio Lavinia Schuler Maria Teresa Vieira
+Camila Luciana Mariana Horn Nicolas
+Guillaume Helene Chloe
+Thibaud Patrick Eric Giannonil Cristina
+Doris Irene Dirk Sandra
+Nicole Ochsenbein Loic Melissa Jan Jute
+Lennart Van Eggel Gaetan Mohamed
+Albaro Nieto Maria Camila Lopez Juan Manuel Burgos
+Maria Fernanda Escobar Kurt Ann Christin Eran
+Karina Krajden Uri Gustavo Ron
+Leonhard Arnaud Marie Claude
+Renato AugUStO Moreira De Claudia Karoline Aebi
+Anda Petronela Luigi Daniel Paul
+Brigitte Martin Andrea Michel Silke Johanna
+Sandra Andrea Monya Todesco Gaston Anis
+Anne Claude Muller Marylene Lucie Andrea
+Romina Capoccia Brigitte Tina Christian
+Karin Nielsen Mary Panagiotis Xiang
+Annina Sandrine Ackermannl David Baud
+Alice
+Pregnant women may be at higher risk of severe complications associated with the severe acute
+respiratory syndrome coronavirus SARS CoV which may lead to obstetrical complications
+We performed a case control study comparing pregnant women with severe coronavirus disease
+cases to pregnant women with a milder form controls enrolled in the COVI Preg international
+registry cohort between March and July Risk factors for severity obstetrical and
+IMaterno fetal and Obstetrics Research Unit Department Femme Enfant University Hospital Lausanne
+Switzerland y Ginecologia Puerta de Hierro University Hospital Madrid Spain and
+Gynaecology Department de Octubre University Hospital Madrid Spain Paz Universitary Hospital
+Madrid Spain Hospital Santa Caterina Gerona Spain of Obstetrics and Gynaecology CHOG
+Scientific Reports I
+I https doi org y
+nature portfolio
+www nature com scientificreports
+Saint Laurent du Maroni France et de fcetale Hopital Necker Enfants Malades Paris
+France Division Department of Pediatrics Gynecology and Obstetrics University Hospitals of Geneva
+Geneva Switzerland Maternal Fetal Medicine Service Hospital Clinic University of Barcelona
+Barcelona Spain IOFetal Medicine Research Center Hospital Clinic and Hospital Sant Joan de Barcelona
+Spain IIService of Pharmacy The Rotunda Hospital Dublin Ireland fetal Medicine The Rotunda
+Hospital Dublin Ireland Perinatal Research Centre National Maternity Hospital Dublin Ireland
+Medicine National Maternity Hospital Dublin Ireland National Maternity Hospital Dublin
+Ireland and Gynecology Unit Centre Hospitalier Dubos Cergy Pontoise France
+of Obstetrics Gynecology University of Campinas Campinas Brazil Fetal Medicine Department of
+Obstetrics Escuela de Medicina Pontificia Universidad de Chile Santiago Chile Materno
+Fetal Hospital San Santiago Chile Felix Bulnes Cerda Santiago Chile of
+Obstetrics Gynecology and Reproductive Sciences Yale School of Medicine New Haven CT USA
+of Epidemiology of Microbial Diseases Yale of School of Public Health New Haven CT USA ginecologia
+e obstetricia Centro Hospitalar e Porto Portugal Teratology Information Service
+Fondazione Policlinico Universitario Agostino Gemelli IRCCS Rome Italy School Santa Maria University
+Hospital Lisbon Portugal of Obstetrics Jeanne de Flandre University Hospital Lille
+France e Neonatologista Hospital de Clinicas de Porto Alegre Universidade Federal do Rio Grande do
+Sul Porto Alegre Brazil Ward Hospital de Clinicas de Porto Alegre Universidade Federal do Rio
+Grande do Sol Porto Alegre Brazil de Hospital de Clinicas de Porto Alegre
+Universidade Federal do Rio Grande do Sul Porto Alegre Brazil de Clinicas de Porto Alegre
+Universidade Federal do Rio Grande do Sul Porto Alegre Brazil of Obstetrics and Gynecology
+de Franche Besanqon France of Obstetrics and Gynecology Centre Hospitalier
+Departemental de La Roche sur Yon France Research Department Centre Hospitalier
+de La Roche sur Yon France of Obstetrics and Gynecology Annecy
+Genevois Hospital Annecy France of Gynecology and Obstetrics Intercommunal Hospital Centre
+of Poissy Saint Germain en Laye Poissy France of Obstetrics and Antenatal Care University
+Hospital Basel Basel Switzerland of Neonatology Zurich
+Switzerland of Anthropology University of Zurich Zurich Switzerland of Obstetrics
+Zurich Switzerland of Obstetrics and Gynecology Bordeaux University
+Hospital Bordeaux France of Obstetrics and Gynecology University Hospitals Leuven Leuven
+Belgium of Regeneration and Development Katholieke Universiteit Leuven Leuven
+Belgium and Gynecology Unit Sion Hospital Sion Switzerland Service de polyvalente
+et USC Victor Dupouy Hospital Argenteuil France Unit Victor Dupouy Hospital Argenteuil
+France and Gynecology Department Fundacion Clinica Valle de Lili Universitary Hospital Cali
+Colombia of Obstetrics and Fetal Medicine University Medical Center Hamburg Eppendorf
+Hamburg Germany Fetal Medicine Unit Rabin Medical Center Tel Aviv University Tel Aviv
+Israel of Ultrasound in Obstetrics and Gynecology Lis Maternity Hospital Tel Aviv Israel of
+Society of Obstetrics and
+Ultrasound in ObGy Tel Aviv Sourasky Medical Center Tel Aviv Israel
+Gynecology Hasaf Harofe Medical Center Tel Aviv University Tel Aviv Israel Cantonal Hospital of
+Baden Affiliated Hospital of the University of Zurich Baden Switzerland of Gynecology and
+Obstetrics Intercantonal Hospital of Broye Payerne Switzerland and Gynecology Hospital Riviera
+Chablais Rennaz Switzerland Fetal Unit Federal Fluminense University Rio de Janeiro
+Brazil of Obstetrics Gynecology Stadtspital Triemli Zurich Switzerland of
+Infectious Diseases University Hospital Bern Bern Switzerland of Obstetrics and Gynecology
+Inselspital Bern Switzerland of Obstetrics and Prenatal Medicine University Hospital Bonn Bonn
+Germany and Gynecology Unit Spital Switzerland and Gynecology Unit
+Hopital du Jura Switzerland Department of Gynecology and Obstetrics GHOL de Nyon
+Nyon Switzerland of Obstetrics and Gynecology Spitalzentrum OBerwallis Standort Visp Visp
+Switzerland Kantonsspital Aarau Aarau Switzerland of Obstetrics and Gynecology
+HFR Fribourg Hospital Fribourg Switzerland Medical Practice Fribourg Switzerland of
+Obstetrics and Gynecology La Rochelle Hospital La Rochelle France of Obstetrics and Gynecology
+Ente Ospedaliero Cantonale of Lugano Lugano Switzerland of Obstetrics and Gynecology
+Hospitalier Switzerland of Obstetrics and Gynecology Kantonsspital
+Kantonsspital Saint Gall Saint Gall
+Obwalden KSOW Sarnen
+Switzerland
+Switzerland Diseases and Hospital Epidemiology Kantonsspital Saint Gall Saint Gall
+Switzerland of Infectious Diseases Department of Pediatrics David Geffen UCLA School of Medicine
+Los Angeles CA USA Cardiac Surgery Department David Geffen UCLA School of Medicine Los Angeles CA
+USA of Obstetrics and Gynecology Kantonsspital Uri Altdorf Switzerland Unit
+Xiangya Hospital Changsha China Engineering Research Center of Gynecology and Obstetrics Disease
+Xiangya Hospital Changsha China of Obstetrics and Gynecology Zuger Kantonsspital Zug
+Switzerland of Primary Health Care BIHAM University of Bern Bern Switzerland of
+Pharmacy Lausanne University Hospital and University of Lausanne Lausanne Switzerland Fetal
+Obstetrics Research Unit Department of Obstetrics and Gynecology Centre Hospitalier Universitaire Vaudois
+CHUV Lausanne Switzerland authors contributed equally Manon Vouga Guillaume Favre Oscar
+Martinez Perez Leo Pomar David Baud and Alice Panchaud email david baud chuv ch
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+immediate neonatal outcomes were assessed A total of pregnant women with a positive test
+for SARS CoV were included among which presented with severe COVID disease
+Risk factors for severe maternal outcomes were pulmonary comorbidities aOR Cl
+hypertensive disorders aOR Cl and diabetes Cl Pregnant
+women with severe maternal outcomes were at higher risk of caesarean section n
+preterm delivery n and newborns requiring admission to the neonatal intensive
+care unit n In this study several risk factors for developing severe complications of
+SARS CoV infection among pregnant women were identified including pulmonary comorbidities
+hypertensive disorders and diabetes Obstetrical and neonatal outcomes appear to be influenced by
+the severity of maternal disease
+Altered immunity reduced respiratory capacity vascular and hemodynamic changes put pregnant women at
+higher risk of complications while specific harm to the exposed fetus newborn may be observed Although
+early reports from the SARS CoV epidemicl suggested that the clinical course for infected pregnant women
+was similar to the general population more recent data suggest a higher risk of severe outcomes in pregnant
+women compared to the general population at an equivalent age with severe outcomes observed in to
+In the general population preexisting health conditions namely pulmonary pathologies hypertension and
+diabetes have been associated with severe Information on the impact of these determinants on the
+maternal disease evolution and other risk factors specific to pregnancy is still fragmented although evidence
+suggest that they might contribute to the severity of the Furthermore fetal newborn risks still need
+to be better assessed as vertical transmission of the virus and placental infection appears to be possible with
+newborns potentially demonstrating related symptoms
+while a significantly higher rate of preterm deliveries
+among women with Coronavirus disease COVID has been
+Information on specific risks among pregnant women are urgently needed to provide evidence based guide
+lines for the management of this vulnerable population To accomplish this we developed an international web
+in March to promote a structured collection of data regarding pregnant women and their fetuses
+exposed to SARS CoV Using this dataset we performed a case control study to assess the risk of severe mater
+nal outcomes and associated risk factors as well as a description of pregnancy neonatal outcomes stratified for
+the severity of the disease among pregnant women with a confirmed SARS CoV infection
+Materials and methods
+Study setting and population The patients enrolled in this study are part of the COVI Preg international
+registry investigating the consequences of SARS Cov infection during All pregnant women tested
+for SARS CoV infection at any stage of gestation were eligible for inclusion in this multicenter study except
+those years of age as well as individuals declining to consent or not able to consent for themselves Informed
+oral or written consent was obtained for all participants Deidentified data were prospectively recorded by each
+center Table Sl using the REDCap Research Electronic Data Capture electronic data capture uality
+checks were performed as described in the Supplementary Materials Using this dataset we performed a case
+control study among pregnant women with a confirmed SARS CoV infection
+The study was approved by both the Swiss Ethical Board CER VD and the local ethics boards
+at each participating center The study was conducted from March to July All methods were
+carried out in accordance with relevant guidelines and regulations in the manuscript
+Inclusion criteria and SARS CoV status Pregnant women were tested for SARS CoV either
+because of a suspected infection due to ongoing symptoms compatible with COVID or an history of potential
+exposure or through routine systematic screening instituted during the pandemic in some hospitals depending
+on local capacities and guidelines Maternal testing was performed using a nasopharyngeal RT PCR for SARS
+COV swab test Pregnant women with a positive RT PCR test result at any stage during pregnancy irrespective
+of clinical signs and symptoms were considered as having a confirmed infection and included in the present
+study Pregnant women with a SARS CoV negative test and no other positive test result during the entire
+follow up period were excluded
+Case and control definition Pregnant women with severe adverse outcomes defined as any of the follow
+ing the need for advanced oxygen support i e high flow cannula non invasive ventilation through CPAP
+or mechanical ventilation admission to the intensive care unit ICU and maternal death were classified
+as cases The control group included pregnant women with either mild adverse outcomes defined as maternal
+hospitalization requiring oxygen supplementation or no adverse outcomes defined as outpatient management
+or hospitalization not requiring oxygen supplementation
+Identification of risk factors for severe adverse maternal outcome Pregnant women with severe
+adverse outcomes cases were compared to pregnant women with mild or no adverse outcomes controls
+The effect of maternal characteristics known to be risk for SARS CoV severe adverse outcomes in
+the general population were tested i e maternal age years old obesity defined as a BMI hypertensive
+disorders pre and gestational diabetes preexisting pulmonary cardiovascular renal or oncologic disease and
+immunosuppression as well as pregnancy related risk factors such as nulliparity dichotomized as yes no eth
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+pregnant women enrolled
+with unreported SARS CoV result
+with unreported maternal outcomes
+pregnant women enrolled with available SARS CoV test result and
+maternal outcomes
+with a negative SARS COV test
+with a positive SARS CoV RT PCR test and maternal outcomes
+with severe maternal outcomes
+patients with ongoing pregnancy WG
+patients with ongoing pregnancy WG
+patients with completed pregnancy
+WG and unreported outcomes
+pregnant women with
+obstetrical outcomes
+without severe maternal
+outcomes
+spontaneous abortions WG
+or legal voluntary termination of pregnancy
+patients with ongoing pregnancy
+WG
+patients with ongoing pregnancy
+WG
+patients with completed pregnancy
+WG and unreported outcomes
+pregnant women with
+obstetrical outcomes
+Figure l Flow chart Ihe COVI Preg international registry was launched in March To date
+centers from countries have contributed patients supplementary Table All pregnant women tested for
+SARS CoV infection at any stage of gestation were eligible for inclusion in this multicenter study except
+those years of age as well as individuals declining to consent or not able to consent for themselves
+Deidentified data were prospectively recorded by each center using the REDCap Research Electronic Data
+Capture electronic data capture At inclusion i e at the time of SARS CoV screening the following
+data were recorded socio demographic characteristics obstetrical history and information on SARS CoV
+exposure Pregnancies were monitored as clinically indicated according to local protocols After inclusion the
+following data were collected results of maternal testing SARS CoV and or other infectious pathogens
+COVID history maternal pregnancy and neonatal outcomes Data were analyzed using Stata StataCorp
+Stata Statistical Software Release College Station TX StataCorp LP SARS CoV severe acute
+respiratory syndrome coronavirus weeks gestation
+nicity defined as Caucasian yes no multiple pregnancy gestational age at infection dichotomized as or
+WG
+Secondary outcomes absolute risk of obstetrical outcomes and neonatal outcomes For
+completed pregnancies i e pregnancy ending in either fetal loss WG or livebirth obstetrical outcomes
+pregnancy outcome GA at delivery mode of delivery and neonatal outcomes neonatal death neonatal admis
+Sion to the ICU NICU birthweight and rates of suspected perinatal SARS CoV were assessed For multi
+ple gestations n the analysis considered the whole pregnancy Fetal loss was defined as a spontaneous
+antepartum fetal death WG i e late miscarriage WG and stillbirth fetal demise WG Sus
+pected perinatal SARS CoV transmission was defined as a positive RT PCR result performed at birth
+Statistical analysis We performed a multivariate analysis to estimate odds ratios OR with CIS
+adjusting for risk factors of COVID severity i e maternal age BMI pre and gestational hypertensive disor
+ders including pre eclampsia pre and gestational diabetes pre existent pulmonary comorbidities other pre
+gestational comorbidities cardiovascular renal oncological diseases and immunosuppression and gestational
+risk factors of severe maternal outcomes ethnicity parity pregnancy conditions threatened preterm labor pla
+centa previa placental malfunction and PPROM and exposure after and accounting for missing values
+as described in the supplementary material
+Statistical analyses were performed using Stata StataCorp Stata Statistical Software Release
+College Station TX StataCorp LP A P value less than was considered as statistically significant
+Results
+Between March and July pregnant women tested for SARS CoV were enrolled in the reg
+istry among which had a confirmed SARS CoV infection Fig Socio demographic characteristics
+are presented in Table A third of the women were asymptomatic n while cough
+n fever n and anosmia ageusia n were the most reported
+Scientific Reports I
+https doi org y
+nature portfolio
+www nature com scientificreports
+ocio demographic factors
+Maternal age
+Median y o IQR
+Age Y O no
+Unknown
+Ethnicity no
+Caucasian
+Hispanic or Latin American
+Afro American
+Asian or Pacific Islands
+Other
+Unknown
+Region of residence no
+North America
+South and Central America
+Europe
+Middle East
+Central Asia
+South East Asia
+Africa
+Unknown
+Previous pregnancies no
+Nulliparous
+Multiparous
+Multiparous
+Previous cesarean sections I
+Unknown
+Previous adverse pregnancy outcomes no
+Stillbirths
+Unknown
+Maternal comorbidities
+Any maternal comorbidities no
+Pulmonary comorbidities
+Cardiac comorbidities
+Hypertension
+Pregestational diabetes
+Immunosuppression
+Thyroid dysfunction
+Oncologic comorbidities
+Hematologic comorbidities
+Auto immune diseases
+Other neurological urological digestive orthopedic
+Unknown
+Maternal BMI
+Median IQR
+no
+no
+Unknown no
+Any drugs
+Cigarettes
+Alcohol
+Unknown
+Current pregnancy no
+Multiple pregnancy
+Ongoing pregnancy conditions
+regnant women with a confirmed
+n
+o
+Scientific Reports I
+Any
+Pre eclampsi

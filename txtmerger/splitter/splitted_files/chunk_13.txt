@@ -1,0 +1,1124 @@
+ion of in utero arsenic exposure and birth outcomes by DNAm of
+As arsenic DNAm DNA methylation
+subsequent fetal exposure
+Concha et al Hall et al Ar
+senic is an established human toxicant and group carcinogen
+World
+Health Organization and maternal As exposure during fetal
+development has been linked to increased risk of adverse health out
+comes later in life including cancers of the lung bladder liver and
+larynx cardiovascular disease and reduced lung function Farzan et al
+Vahter
+In utero and early life exposure has been asso
+ciated with increased childhood morbidity
+Farzan et al
+Rahman et al
+The teratogenic effects of As have been well established in rodent
+models Ferm and Hanlon Hill et al Hood Hood
+and Bishop Kozul Horvath et al Moore et al
+Morrissey and Mottet et al Findings from
+epidemiological studies of the association between in utero As exposure
+and birth outcomes in humans have been inconsistent which is mostly
+likely due to differences in study design exposure assessment sample
+size population studied and levels of exposure Considering the cu
+mulative evidence a recent review by Milton et al found an insufficient
+number of studies addressing neonatal death and preterm birth but
+consistent and convincing evidence of the association between high
+As exposure and increased risk of spontaneous abortion stillbirth and
+low birth weight
+Milton et al
+Additionally a meta analysis
+conducted by Zhong et al found a negative association between in utero
+As exposure and birth weight
+Zhong et al
+However little is
+known regarding potential mechanisms by which arsenic would affect
+these birth outcomes
+Numerous epidemiological studies have examined the association
+between in utero As exposure and birth weight shortened gestation
+and or intrauterine grown restriction These birth outcomes have been
+shown to have varying effects on disease risk later in life Wardlaw
+et al
+Shortened gestation is associated with increased risk of
+infant mortality morbidity and disability whereas restricted in
+trauterine growth is associated with decreased growth in childhood and
+increased morbidity in later in life Several studies have evaluated birth
+weight and gestational age as independent outcomes associated with in
+utero As exposure finding no significant association with either out
+come particularly at low levels of exposure Bloom et al Freire
+et al
+or a significant negative association with both outcomes
+Xu et al
+Mediation analyses including birth weight and ge
+stational age may help to understand the health effects of in utero As
+exposure For example in this cohort our group found that the in utero
+As exposure was related to gestational age and maternal weight gain
+during pregnancy and these factors mediated the effect between As and
+birth weight
+Kile et al
+Subsequently there was no direct effect
+of As on birth weight in this cohort
+Changes in the epigenome including DNA methylation DNAm
+may be one mechanism underlying the associations between As ex
+posure and multiple health outcomes Bailey et al
+et al As explained by the developmental origins of health and
+disease hypothesis environmental exposures during embryogenesis a
+time of cellular differentiation and epigenetic reprogramming may
+result in epigenetic dysregulation and increased disease risk
+Heindel
+and Vandenberg The DNA methyltransferases alpha
+and beta are responsible for de novo DNAm in
+embryonic cells Okano et al
+and have
+differential spatial and temporal expression during early embryogenesis
+may have a more significant role in
+Uysal et al
+maintaining global DNAm particularly at distal promotors and non
+and in imprinting Kaneda et al
+CpG sites
+Gu et al
+is also involved in RNA polymerase binding and transcription
+genetic imprinting mitotic cell cycle protein binding aging and reg
+ulation of cell death Although the role of in birth outcomes
+has not fully been established DNAm within the gene body of
+has previously been associated with reduced gestational age in a Nor
+wegian birth cohort PFDR
+Bohlin et al
+Due to the critical role of in establishing de novo DNAm
+we hypothesized that DNAm of this gene could mediate the association
+between As exposure occurring in the critical prenatal development
+phase and adverse birth outcomes specifically birth weight and ge
+stational age We also hypothesized that gestational age would act as a
+mediator between in utero As exposure epigenetic changes and birth
+weight We explored this hypothesis using structural equation models
+SEMs with our a priori hypothesis depicted in
+Fig
+Methods
+Study population
+Participants were from a prospective birth cohort of women exposed
+to As through drinking water in Bangladesh in the Sirajdikhan and
+Pabna Sadar upazilas This cohort has been described in detail pre
+viously Kile et al Briefly women were recruited at s weeks
+gestations age by Dhaka Community Hospital DCH Trust N
+Eligibility criteria were having a single pregnancy using a tube well as
+the main source of drinking water and planning to remain in the cur
+rent residence for the duration of the pregnancy Women received free
+prenatal care provided by DCH as well as prenatal vitamins which
+were given to participants during monthly home visits Women gave
+birth with DCH trained medical personnel at a local clinic or at their
+home who collected all birth outcome data and cord blood was col
+lected at birth This analysis utilized a sub sample of newborns
+from the cohort that were selected for measurement of DNAm in whole
+cord blood using pyrosequencing This sub sample was randomly se
+lected across a range of arsenic exposure that was measured in the
+household s drinking water We also restricted analyses to only vaginal
+births to minimize the possibility of confounding which limited the
+final sample size to newborns
+A K Bozack et aL
+Ethics
+The study protocol was approved by the Human Research
+Committees at the Harvard School of Public Health Oregon State
+University and DCH Trust Prior to enrollment in the study informed
+consent was obtained from all participants
+Laboratory measures
+Maternal toenail As Arsenic concentrations in maternal toenail
+samples were measured as a biomarker of exposure during pregnancy
+Arsenic has an affinity for sulfhydryl groups and accumulates in scler
+oproteins and therefore toenail As concentrations at the distal tip re
+presents a time integrated measure of ingested As during the previous
+months of nail growth and has been shown in previous research to
+be highly correlated with water arsenic concentrations Karagas et al
+Rodrigues et al
+Toenail clippings were collected from
+mothers at the time of enrollment e g maternal toenails at enrollment
+and within one month of delivery e g postpartum maternal toenails
+The methods used to measure arsenic exposure have been previously
+published Rodrigues et al Briefly samples were sonicated in
+Triton X IOO solution Sigma Aldrich Inc St Louis MO and
+rinsed in Milli Q water Millipore Corporation Billerica MA to remove
+external contamination Then nails were digested in Trace Select Ultra
+Pure nitric acid Sigma Aldrich Inc and diluted with Milli Q
+water Inductively coupled plasma mass spectrometry was used to
+measure total arsenic concentrations PerkinElmer Model DRC II
+Norwalk CT Arsenic concentrations of human hair references were
+used to correct for method error using black correction and normal
+ization CRM Hair Shanghai Institute of Nuclear Research Academia
+Sinica China human hair was selected as the reference due to lack of
+available toenail references Eighteen postpartum toenail samples were
+missing Samples were dropped from analyses if they had a mass
+mg N or relative standard deviation N One
+sample below the batch limit of detection ranging gg As g
+was also excluded
+Maternal drinking water As At the time of enrollment participants
+were asked to identify their main source of drinking water Kile et al
+Water samples were collected preserved with ultrapure nitric
+acid to a pH and stored at room temperature Arsenic con
+centrations in water samples were measured using inductively coupled
+mass spectrometry ICP MS with the US EPA method Environ
+mental Laboratory Services North Syracuse NY Creed et al
+Samples had an average percent recovery from plasmaCal multi ele
+ment QC standard solution SCP Science of Thirty
+samples below the LOD of gg L were replaced with LOD
+Bisulfite pyrosequencing DNAm was quantified for
+located on the north shore of a CpG
+island within the gene body of
+These CpG sites were selected as the target site for bisulfite pyr
+osequencing because they were included on the Illumina Infinium
+BeadChip Our rationale for this choice was to
+help make the pyrosequencing data in this study relevant to other
+methylation array data Coverage also included two downstream CpG
+sites and Bisulfite pyrosequencing
+was performed at EpigenDx Hopkinton MA using ng ul whole
+cord blood DNA Bisulfite conversion was used to convert unmethylated
+cytosines to uracil Following PCR amplification and direct pyr
+osequencing the average percent DNAm was calculated Control sam
+ples with low methylation medium methylation and high methylation
+were included on each plate
+Covariates Sociodemographic data were collected by trained inter
+viewers during clinical visits Infant birth weight was measured by
+trained study staff using a pediatric scale calibrated before each use
+Gestational age in weeks was determined by ultrasound measurements
+taken at enrollment by a licensed general practitioner using either
+Environmental Research
+gestational sac mean diameter if the pregnancy was between and
+weeks or crown rump length if the pregnancy was between and
+weeks
+Statistical analysis
+Descriptive statistics were calculated for all variables Maternal
+toenail As concentrations were right skewed and therefore trans
+formed We assessed relationships between loci with quantified DNAm
+and using Spearman
+correlations Statistical mediation was evaluated using SEMs that in
+cluded DNAm of all measured loci SEMs are a multivariate statistical
+technique that allow for confirmatory analysis of a given hypothesis
+Gunzler et al By simultaneously estimating multiple and re
+lated regression like models SEMs allow for a given variable to act as
+both an independent and dependent variable the term exogenous is
+used to refer to variables that act only as independent variables and the
+term endogenous is used to refer to variables that act as dependent
+variables in at least one modeled regressions SEMs use underlying
+latent or unmeasured variables defined by observed variables re
+presenting same construct therefore addressing some forms of multi
+collinearity DNAm of
+and
+was used as indicator variables to construct a latent
+variable representing DNAm of Confirmatory factor analysis
+was performed to test how well DNAm of the three CpG sites represent
+DNAm of region
+To understand the associations between As concentrations DNAm
+of and birth weight independent of gestational age we first
+built an SEM including logytransformed maternal toenail As con
+centrations as independent variable birth weight as the dependent
+variable and the latent variable representing DNAm of as a
+mediator We similarly assessed associations between As concentra
+tions DNAm of and gestational age independent of birth
+weight A single SEM including both outcomes of interest birthweight
+and gestational age was then used to assess mediation adjusting for
+the potential confounders of infant sex and maternal education
+primary vs primary education and the potential mediator of
+maternal weight gain between enrollment and delivery Covariates
+were selected based on a review of previous literature and observed
+univariate associations between As exposure and birth outcomes in the
+current study Birth weight was modeled in kg to ensure variances were
+similarly scaled The full information maximum likelihood approach
+FIML was used to estimate model parameters and robust estimates of
+model fit were used due to skewness in DNAm variables Brosseau Liard
+et al Brosseau Liard and Savalei For models including
+categorical covariates i e infant sex and maternal education stan
+dard errors were calculated from bootstrap samples In each
+SEM model indices were examined to determine if including residual
+correlations would improve model fit
+Our primary measure of exposure was postpartum maternal toenail
+As concentrations Toenail As concentrations provide a time integrated
+biomarker of internal dose that reflects arsenic exposure from all routes
+of exposure that occurred several months to a year prior to their col
+lection
+Kile et al
+Therefore postpartum maternal toenail As
+concentrations were selected to reflect the internal As dose that oc
+curred during pregnancy We conducted sensitivity analyses using two
+other arsenic exposure metrics maternal toenail As concentra
+tions at enrollment and maternal water As concentrations In
+addition we used linear models to test the associations between DNAm
+of the target CpG site logytransformed postpartum
+maternal toenail As concentrations birth weight and gestational age
+Specifically we evaluated associations between the exposure maternal
+toenail As concentration and outcome gestational age and birth
+weight the mediator DNAm and the exposure maternal toenail As
+concentrations and the mediator DNAm and the outcome gesta
+tional age and birthweight
+A K Bozack et aL
+Table
+Participant characteristics N
+Drinking water As at recruitment gg L
+Maternal toenail As at enrollment ng gg
+Postpartum maternal toenail As ng gg a
+Gestational age at delivery weeks b
+Preterm birth weeks gestation N
+Birth weight g c
+Low birth weight g N
+Infant sex
+Male N
+Female N
+Percent DNAm
+c
+As arsenic IQR
+Median
+IQR
+Range
+interquartile range DNAm
+N b N c
+DNA methylation a
+All statistical analyses were performed using the R statistical
+package version R Core Team SEMs were conducted
+using the R lavaan package
+Oberski
+Results
+Participant characteristics
+Measures of DNAm was available for infants born by vaginal
+births Maternal and infant characteristics are summarized in
+Table
+Approximately half of the infants were male The median
+IQR maternal drinking water As concentrations at recruitment was
+gg L range gg L and the mean maternal
+toenail As concentrations at delivery was ng gg range
+The median gestational age was weeks range
+weeks and the median birth weight was g range
+g Consistent with other birth cohort studies in Bangladesh
+there was a high rate of preterm birth weeks gestation
+Shah et al
+and low birth weight g
+Monawar
+Hosain et al
+Relatively levels of DNAm at each of the CPG sites were low The
+median IQR percent methylation for the CPG sites were
+for
+and respectively DNAm of was
+significantly and positively correlated between all CPG sites measured
+There was a trend toward in
+rspeannan
+p Fig
+creasing DNAm with greater As exposure at each CPG site
+shows
+Fig
+the median and IQR of DNAm by quartiles of postpartum maternal
+toenail As concentrations
+Mediation analysis
+A latent variable representing methylation was con
+structed using percent methylation of
+and Confirmatory factor analysis indicated that
+DNAm measured at and
+represented DNAm of well X P value Root mean
+square error of approximation RMSEA Standardized root
+mean squared residual Comparative fit index CFI
+Tucker Lewis non normed fit index
+We first assessed mediation of the associations between logytrans
+formed postpartum maternal toenail As concentrations and birth out
+comes by DNAm of in separate SEMs for birth weight and
+gestational age We observed a significant positive association between
+maternal As levels and DNAm B Cl
+in an SEM for the mediated effect of logytransformed postpartum
+Environmental Research
+maternal toenail As concentrations on birth weight We also observed a
+significant negative association between DNAm and birth
+weight B
+Supplemental Table Sl and
+g Cl
+Supplemental Fig Sl The direct effect of maternal As levels on birth
+weight was not significant B g CI however
+the indirect effect of maternal As levels on birth weight through
+DNAm was statistically significant B
+g Cl
+Similarly in an SEM for the mediated effect of logy
+transformed postpartum maternal toenail As concentrations on gesta
+tional age through methylation there was a significant posi
+tive association between maternal As levels and DNAm
+B CI and a significant negative association
+between DNAm and gestational age B
+weeks
+Supplemental Table
+and
+Cl
+Supplemental Fig
+Both the direct and indirect effects of maternal As levels on gestational
+age were statistically significant direct effect B
+weeks
+indirect effect B
+weeks Cl
+Cl
+Subsequently we constructed a single SEM to test for the indirect
+effects of logytransformed postpartum maternal toenail As concentra
+tions on birth weight and gestational age through DNAm This
+model accounted for an indirect effect of maternal As exposure on birth
+weight though gestational age but we did not include the direct effect
+of As exposure on birth weight because of the prior results of our in
+dividual models Tables and
+and Fig
+There was a significant
+positive association between logytransformed postpartum maternal
+toenail As concentrations and methylation B CI
+and negative associations between maternal toenail As le
+vels and gestational age B
+weeks Cl and
+between DNAm and gestational age B
+weeks
+There were also significant indirect effects of ma
+Cl
+ternal toenail As levels on gestational age through methyla
+weeks Cl The direct effect of
+tion B
+DNAm on birth weight and the indirect effect of maternal
+toenail As levels on birth weight through DNAm did not
+achieve significance B
+g
+Cl and B
+g Cl respectively
+However we observed a significant association between gestational age
+and birth weight B g CI and significant in
+direct effects of maternal toenail As levels on birth weight through
+gestational age B
+and through
+g Cl
+DNAm and gestational age B
+g Cl
+Similar results were observed in an SEM including infant sex ma
+ternal weight gain and maternal education
+and
+Table
+Fig
+Fit
+indices for this final model indicated good model fit Table Maternal
+toenail As levels were significantly associated with DNAm
+B Cl and gestational age B
+weeks
+Cl and DNAm was significantly associated
+with gestational age B
+weeks Cl and
+birth weight B
+There was a sig
+g Cl
+nificant indirect effect of maternal toenail As levels on gestational age
+through methylation B
+weeks Cl
+and significant indirect effects of maternal toenail As levels on
+birth weight through gestational age B
+g Cl
+through DNAm and gestational age B
+g
+CI and through maternal weight gain and gestational age
+Calculated from the adjusted SEM
+B g Cl
+the total effect of a doubling in maternal toenail As concentration is a
+decrease in gestational age of days CI and a decrease
+in birth weight of g CI
+Sensitivity analyses
+Sensitivity analyses that were performed using two other exposure
+metrics e g logytransformed maternal toenail As concentrations at
+enrollment and logytransformed maternal drinking water arsenic
+A K Bozack et aL
+Environmental Research
+o
+z
+o
+Corr
+o
+Corr
+DNA methylation
+Fig Correlation matrix of DNAm of CPGs measured in Spearman correlations are presented in the top right cells scatter plots of DNAm are presented
+in the bottom left cells and density plots of DNAm are presented in the diagonal cells DNAm DNA methylation
+concentrations yielded similar results Postpartum maternal toenail As
+concentrations were significantly correlated with maternal toenail As
+concentrations at enrollment rspearman
+p and ma
+ternal drinking water As concentrations rspearman
+p
+Results from adjusted SEMs using maternal toenail As levels collected
+postpartum and at enrollment were consistent maternal toenail As le
+vels at enrollment were associated with DNAm B
+Cl and gestational age B weeks Cl
+DNAm was associated with gestational age
+o
+z
+weeks Cl
+and birth weight
+B
+B g CI and there were significant indirect
+effects of maternal toenail As levels on birth weight through gestational
+g Cl and through DNAm
+age B
+and gestational age B
+Supplemental
+g Cl
+and
+However in an adjusted SEM using maternal
+Table
+Fig
+drinking water As levels we observed a smaller effect size of the as
+sociation between As exposure and DNAm B CI
+The association between maternal drinking water As levels
+Chromosome coordinate
+Maternal toenail As concentration
+QI
+Fig Median and IQR of DNAm by quartiles of postpartum maternal toenail As concentration QI s ng gg ng gg and s ng gg
+ng gg and OO ng gg ng gg As arsenic DNAm DNA methylation
+A K Bozack et aL
+Table
+Environmental Research
+Unadjusted structural equation model for the mediated effect of postpartum maternal toenail As levels on gestational through DNAm and the mediated
+effect of postpartum maternal toenail As levels on birth weight through gestational age and DNAm
+Pathway
+Maternal toenail As DNAm
+Gestational age
+Maternal toenail As Gestational age
+DNAm Gestational age
+Maternal toenail As DNAm Gestational age
+Birth weight
+DNAm Birth weight
+Gestational age Birth weight
+Maternal toenail As DNAm Birth weight
+Maternal toenail As Gestational age Birth weight
+Maternal toenail As DNAm Gestational age Birth weight
+As arsenic DNAm DNA methylation
+Table
+Median and IQR of DNAm by quartiles of postpartum maternal toenail As
+concentration QI s ng gg ng ug and s ng gg
+ng gg and OO ng gg ng ug As arsenic
+Effect
+Direct
+Direct
+Direct
+Indirect
+Direct
+Direct
+Indirect
+Indirect
+Indirect
+CD
+DNAm DNA methylation
+Index
+P value
+Root mean square error of approximation
+RMSEA
+Comparative fit index CFI
+Tucker Lewis non normed fit index
+Standardized root mean squared residual
+Criterion for good
+fit
+Model fitl
+Fit indices calculated from robust estimators
+and gestational age and the indirect effect of maternal drinking water
+As levels on birth weight through gestational age were not significant
+although the effect estimates were negative B
+weeks
+Cl and B
+g Cl respectively
+Supplemental Table and Fig
+We also assessed the associations between in utero As exposure
+birth outcomes and DNAm using linear models to confirm
+results obtained through SEMs Specifically we evaluated associations
+between the exposure postpartum maternal toenail As levels and
+outcomes birth weight and gestational age the mediator represented
+by the target CpG site and the exposure post
+partum maternal toenail As levels and the mediator DNAm
+and the outcomes birthweight and gestational age Results from un
+adjusted models and models adjusted for infant sex maternal weight
+gain and maternal education are shown in
+Supplemental Table
+Results from crude and adjusted linear models were consistent with
+SEMs In adjusted models logytransformed postpartum maternal toe
+nail As concentrations were associated with decreased gestational age
+B weeks CI and increased methylation of
+B Cl DNAm of was
+associated with decreased gestational age B
+weeks Cl
+and birth weight B
+g Cl and
+gestational age was associated with birth weight B g CI
+Maternal As levels were not significantly associated with
+birth weight B g Cl
+Discussion
+We observed that DNAm of mediated the association be
+tween in utero As exposure and birth outcomes We found that increased
+logytransformed postpartum maternal toenail As concentrations were
+associated with increased methylation and decreased gesta
+tional age and there was a negative indirect effect of As on gestational
+age through methylation In addition we observed negative
+indirect effects of maternal toenail As levels on birth weight through
+Gestational age
+Maternal toenail As
+Birth weight
+Fig Unadjusted structural equation model for the mediated effect of postpartum maternal toenail As levels on gestational through DNAm and the
+mediated effect of postpartum maternal toenail As levels on birth weight through gestational age and DNAm As arsenic DNAm DNA methylation
+A K Bozack et aL
+Environmental Research
+Table
+Adjusted structural equation model for the mediated effect of postpartum maternal toenail As levels on gestational through DNAm and the mediated effect
+of postpartum maternal toenail As levels on birth weight through gestational age and DNAm adjusted for infant sex maternal weight gain and maternal
+education
+Pathway
+Maternal toenail As DNAm
+Infant sex DNAm
+Maternal weight gain
+Maternal toenail As Maternal weight gain
+Gestational age
+Maternal toenail As Gestational age
+DNAm Gestational age
+Maternal weight gain Gestational age
+Maternal education primary vs primary Gestational age
+Maternal toenail As DNAm Gestational age
+Maternal toenail As Maternal weight gain Gestational age
+Birth weight
+DNAm Birth weight
+Gestational age Birth weight
+Infant sex Birth weight
+Maternal weight gain Birth weight
+Maternal education Birth weight
+Maternal toenail As DNAm Birth weight
+Maternal toenail As Gestational age Birth weight
+Iou Maternal toenail As DNAm Gestational age Birth weight
+Maternal toenail As Maternal weight gain Birth weight
+Maternal toenail As Maternal weight gain Gestational age Birth weight
+As arsenic DNAm DNA methylation
+gestational age and though methylation and gestational age
+The indirect effect of maternal As levels on birth weight through
+methylation alone did not achieve statistical significance
+Overall a doubling in maternal toenail As concentration was associated
+with a decrease in gestational age of days and a decrease in birth
+weight of g We used an SEM approach that is advantageous for
+testing mediators that are located on a causal pathway i e variables
+that act as a dependent variable in one model and as an independent
+variable in another model Gunzler et al Furthermore SEMs
+incorporate unmeasured latent variables representing multiple related
+indicator variables i e measured variables This helps to address
+Maternal weight gain
+NS
+Effect
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Indirect
+Indirect
+Direct
+Direct
+Direct
+Direct
+Direct
+Indirect
+Indirect
+Indirect
+Indirect
+Indirect
+Cl
+Maternal toenail As
+limitations posed by multicollinearity in traditional biostatistical ap
+proaches
+Geoffrey Maruyama Although commonly used in
+other fields of research SEMs can be a valuable tool in environmental
+epidemiology for understanding complex relationships Buncher et al
+In this study SEMs allowed us to create a latent variable re
+presenting DNAm of three correlated CpG sites located in the gene body
+of and simultaneously evaluate the direct and indirect effects
+of in utero As exposure on birth outcomes
+Our results are consistent with other studies finding a negative as
+sociation between in utero As exposure and gestational age et al
+Xu et al although some studies have reported a
+Infant sex
+Gestational age
+Maternal education
+NS
+Birth weight
+Fig Adjusted structural equation model for the mediated effect of postpartum maternal toenail As levels on gestational through DNAm and the
+mediated effect of postpartum maternal toenail As levels on birth weight through gestational age and DNAm adjusted for infant sex maternal weight gain
+and maternal education As arsenic DNAm DNA methylation
+A K Bozack et aL
+Table
+Fit indices for the adjusted structural equation model for the mediated effect of
+postpartum maternal toenail As levels on gestational through DNAm
+and the mediated effect of postpartum maternal toenail As levels on birth
+weight through gestational age and DNAm adjusted for infant sex
+maternal weight gain and maternal education As arsenic DNAm DNA
+methylation
+Index
+P value
+Root mean square error of approximation
+RMSEA
+Comparative fit index CFI
+Tucker Lewis non normed fit index
+Standardized root mean squared residual
+Criterion for good
+fit
+Model fitl
+borderline significant negative association
+Laine et al
+or a null
+association Bloom et al Freire et al Sun et al
+Characteristics of study populations overall including level of ex
+posure As methylation capacity and maternal diet may contribute
+these differences It should also be noted that epidemiological studies
+have generally analyzed associations with preterm birth weeks
+gestation rather than gestational age Bloom et al However
+health effects later in life may be associated with early term in addition
+to preterm birth
+Furthermore this clinical cate
+Boyle et al
+gorization may not be sufficient to detect variation in gestational age
+and may be not be appropriate for populations with high rates of pre
+term birth such as Bangladesh Shah et al In fact of births
+in our study population were preterm
+Table
+While we did not ob
+serve a direct effect of in utero As exposure on birth weight we did find
+a significant total effect of As exposure on birth weight fully mediated
+through pathways including gestational age Although mediation
+through DNAm of alone did not achieve statistical sig
+nificance Multiple epidemiological studies have investigated the effects
+of in utero As exposure on birth weight as reviewed by Bloom et al
+Milton et al and Zhong et al Our results however indicate
+the importance of including gestational age as a birth outcome of in
+terest and addressing the inter relationship between these birth out
+comes Furthermore decreased birth weight may be due to shortened
+gestational period and or intrauterine grown restriction Wardlaw
+Investigating the etiology of observed reductions in birth
+et al
+weight is important to understanding the health effects of in utero As
+exposure
+Consistent with our findings DNAm of the target CpG site
+has previously been negatively associated with gesta
+tional age in a Norwegian birth cohort PFDR
+Bohlin et al
+This study also found differential methylation throughout the
+epigenome probes at for ultrasound estimated
+gestational age and probes for last menstrual period estimate
+gestational age at PFDR However additional CpG sites
+annotated to were identified as differentially methylated and
+a gene ontology GO analysis identified several pathways that included
+the gene In addition in birth cohort in Tennessee one CpG
+annotated to was identified as associated with gestational age
+Parets et al
+Methylation at additional CpG sites
+PFDR
+located in have been associated with the in utero environment
+Specifically increased methylation in cord blood of cgl lo
+cated within base pairs of the transcription start site has been
+associated with lower maternal pre pregnancy BMI underweight
+kg vs normal kg PFDR
+Sharp et al
+Increased methylation in cord blood of located in
+the gene body was associated with antidepressant use during preg
+nancy p x Non et al
+The role of in de novo DNAm is well established Okano
+et al
+and is expressed during embryogenesis
+Environmental Research
+Watanabe et al However how may affect birth
+outcomes is not well understood is involved in multiple di
+verse biological pathways GO terms annotated to include
+roles in DNAm RNA polymerase binding and transcription genetic
+imprinting mitotic cell cycle protein binding aging and regulation of
+cell death Further research is needed to understand the biological
+pathways involved in the observed association between me
+thylation and birth outcomes
+Our study strengths included that gestational age was determined
+by ultrasound at the time of enrollment which provides a more accu
+rate estimation than reported last menstrual period In addition our
+study is strengthened by the prospective birth cohort design with
+multiple measures of As exposure during pregnancy Toenail As con
+centrations reflect exposure during the prior several months to a year
+Kile et al
+Maternal toenail samples were collected within one
+moth of delivery to provide an estimate of internal dose during preg
+nancy and establish temporality Drinking water samples and maternal
+toenail samples were also collected at the time of enrollment early in
+pregnancy Overall results from sensitivity analyses using maternal
+drinking water As levels and maternal toenail As concentration at en
+rollment as the measures of exposure were consistent The slight dif
+ferences in results could be a function of exposure misclassification
+from using drinking water arsenic concentrations instead of biomarkers
+of internal dose e g toenails or differences in As metabolism and
+excretion between individuals Marchiset Ferlay et al
+There is
+evidence that the As metabolism may be associated with birth outcomes
+Gelmann et al and may also influence DNAm Sex has also been
+shown to influence arsenic metabolism Subsequently future studies
+could examine As metabolism modifies DNAm of and birth
+outcomes
+Several limitations of our study should be noted We had missing
+data on maternal toenail As concentrations N for maternal toe
+nail concentrations at enrollment N for postpartum maternal
+toenail concentrations Gestational age and birth weight were lower
+among mother infant pairs with missing maternal toenail As con
+centrations at enrollment mean gestational age with missing
+data weeks without missing data weeks Kruskal Wallis
+p mean birth weight with missing data g without
+missing data
+g Kruskal Wallis p and postpartum
+mean gestational age with missing data
+weeks without
+missing data
+weeks Kruskal Wallis p
+mean birth
+weight with missing data g without missing data g
+Kruskal Wallis p However we had full data on maternal
+water As concentrations and maternal drinking water concentrations
+were significantly correlated and toenail As concentrations at enroll
+p and postpartum rspeannan
+r Spearman
+p Although in sensitivity analyses using maternal water As
+levels we observed reduced significance of the indirect effect of in utero
+As on birth weight through methylation and gestational age
+the confidence intervals were wide and tended toward a negative as
+sociation logytransformed maternal water As DNAm
+birth weight B CI
+p logy
+transformed maternal water As gestational age birth weight B
+p Furthermore SEMs
+CD
+allow for the inclusion of cases with missing data on some exogenous
+variables and therefore participants with missing data on maternal
+toenail As concentration could be still be used to estimate parameters
+for other pathways in the model
+We did not have data on DNAm at additional CpG sites
+and did not measure gene expression Therefore we cannot determine
+if changes in DNAm at the interrogated CPGs of lead to
+changes in gene expression or chromatin conformation Nor can we
+infer that methylation at these CpG sites represent methylation across
+the entire gene The three CPGs measured in the current study are lo
+cated with the gene body and DNAm within gene bodies has previously
+been associated with gene expression
+Lou et al
+with possibly a
+A K Bozack et aL
+https doi org MOP
+Hill D S Wlodarczyk B J Finnell R H Reproductive consequences of oral ar
+senate exposure during pregnancy in a mouse model Birth Defects Res Part B
+https doi org bdrb
+Hood R D Effects of sodium arsenite on fetal development Bull Environ Contam
+Toxicol https doi org
+Hood R D Bishop S L Teratogenic effects of sodium arsenate in mice Arch
+Environ Health https doi org
+Kaneda M Okano M Hata K sado T Tsujimoto N Li E Sasaki H Essential
+role for de novo DNA methyltransferase in paternal and maternal imprinting
+Nature https doi org
+Karagas M R Steven Morris J Weiss J E spate V Baskett C Robert Greenberg E
+K IMR Toenail samples as an indicator of drinking water arsenic Biomarkers
+Prev
+Kile M L Houseman E A Rodrigues E Smith T J Quamruzzaman Q Rahman M
+Mahiuddin G su L Christiani D c Toenail arsenic concentrations GSTTI
+gene polymorphisms and arsenic exposure from drinking water Cancer Epidemiol
+Biomark Prev https doi org
+Kile M L Houseman E A Baccarelli A A Quamruzzaman Q Rahman M Mostofa
+G Cardenas A Wright R O Christiani D C Effect of prenatal arsenic ex
+posure on DNA methylation and leukocyte subpopulations in cord blood Epigenetics
+https doi org epi
+Kile M L Cardenas A Rodrigues E Mazumdar M Dobson C Golam M
+Quamruzzaman Q Rahman M Christiani D C Estimating effects of arsenic
+exposure during pregnancy on perinatal outcomes in a Bangladeshi cohort
+Epidemiology https doi org EDE
+Komi Horvath C D Zandbergen F Jackson B P Enelow R I Hamilton J w
+Effects of low dose drinking water arsenic on mouse fetal and postnatal growth and
+development PLOS one https doi org pone
+Laine J E Bailey K A Rubio Andrade M Olshan A F Smeester L Z
+Herring A H St blo M Garcia Vargas G G Fry R c Maternal arsenic
+exposure arsenic methylation efficiency and birth outcomes in the Biomarkers of
+Exposure to ARsenic BEAR Pregnancy cohort in Mexico Environ Health Perspect
+https doi org ehp
+Lou S Lee H M Qin H Li J w Gao Z Lili X Chan L L KL Lam V so VV Y
+Wang Y Lok S Wang J Nia R c Tsui S K W Chan J c Chan T F Yip K Y
+Whole genome bisulfite sequencing of multiple individuals reveals com
+plementary roles of promoter and gene body methylation in transcriptional regula
+tion Genome Biol https doi org o
+Marchiset Ferlay N Savanovitch C Sauvant Rochat M P What is the best
+biomarker to assess arsenic exposure via drinking water Environ Int
+https doi org j envint
+Marttila S Kananen L S J Nevalainen T Hervonen A
+M Nykter M Hurme M Ageing associated changes in the human DNA
+methylome genomic locations and effects on gene expression BMC Genomics
+https doi org z
+Geoffrey Maruyama Basics of Structural Equation Modeling SAGE Publications
+Thousand Oaks CA
+Milton A H Hussain S Akter S Rahman M Mouly T A Mitchell K A review
+of the effects of chronic arsenic exposure on adverse pregnancy outcomes Int J
+Environ Res Public Health
+https doi org
+Monawar Hosain G M Chatterjee N Begum A Saha S C Factors associated
+with low birthweight in rural Bangladesh J Trop Pediatr
+https doi
+org tropej
+Moore C L Flanigan T J Law C D L Woodling K A da Costa G G
+Fitzpatrick S C Ferguson S A Developmental neurotoxicity of inorganic
+arsenic exposure in Sprague Dawley rats Neurotoxicol Teratol
+https
+doi org j ntt
+Morrissey R E Mottet N K Arsenic induced exencephaly in the mouse and as
+sociated lesions occurring during neurulation Teratology https doi
+org tera
+L Selypes A Berencsi G Chromosomal aberrations and fetotoxic
+effects of atmospheric arsenic exposure in mice J Appl Toxicol
+Environmental Research
+Non A L Binder A M Kubzansky L D Michels K B Genome wide DNA me
+thylation in neonates exposed to maternal depression anxiety or SSRI medication
+during pregnancy Epigenetics
+https doi org epi
+Oberski D lavaan survey an R package for complex survey analysis of structural
+equation models J Stat Softw
+https doi org jss
+Okano M Bell D w Haber D A Li E DNA methyltransferases and
+are essential for de novo methylation and mammalian development Cell
+Parets S E Conneely K N Kilaru V Fortunato S J Syed T A Saade G Smith A K
+Menon R Fetal DNA methylation associates with early spontaneous preterm
+birth and gestational age PLOS One https doi org journal
+pone
+R Core Team R A Language and Environment for Statistical Computing Vienna
+Austria
+Rahman A Granberg C Persson L Early life arsenic exposure infant and
+child growth and morbidity a systematic review Arch Toxicol
+https doi org
+Rauch T A wu X Zhong X Riggs A D Pfeifer G P A human B cell methy
+lome at base pair resolution Proc Natl Acad sci U S A
+https
+doi org pnas
+Rodrigues E G Kile M Dobson C Amarasiriwardena C Quamruzzaman Q
+Rahman M Golam M Christiani D C Maternal infant biomarkers of pre
+natal exposure to arsenic and manganese J Expo Sci Environ Epidemiol
+https doi org jes
+H B Channa K Olutola B G Odland J Evaluation of in utero ex
+posure to arsenic in South Africa Sci Total Environ https doi org
+j scitotenv
+Shah R Mullany L c Darmstadt G L Mannan L Rahman S M Talukder R R
+Applegate J A Begum N Mitra D Arifeen S El Baqui A H ProjAHNMo study
+Group in Bangladesh Incidence and risk factors of preterm birth in a rural
+Bangladeshi cohort BMC Pediatr
+https doi org
+Sharp G C Lawlor D A Richmond R C Fraser A Simpkin A Suderman M Shihab
+H A Lyttleton McArdle W Ring S M Gaunt T R Davey Smith G Reiton
+C L Maternal pre pregnancy BMI and gestational weight gain offspring DNA
+methylation and later offspring adiposity findings from the Avon Longitudinal Study
+of Parents and Children Int J Epidemiol https doi org
+ije
+sun X Liu W Zhang B Shen X Hu C Chen X Jin S Jiang Y Liu H cao Z
+Xia W Xu S Li Y Maternal heavy metal exposure thyroid hormones and
+birth outcomes a prospective cohort study J Clin Endocrinol Metab
+https doi org jc
+Uysal F Ozturk S Akkoyunlu G DNMTI and proteins are
+differently expressed in mouse oocytes and early embryos J Mol Histol
+https doi org y
+Vahter M Effects of arsenic on maternal and fetal health Annu Rev Nutr
+https doi org annurev nutr
+Wardlaw T Blanc A Zupan J Ahman E Ahman E Low Birthweight
+Country Regional and Global Estimates UNICEF New York NY
+Watanabe D Suetake I Tada T Tajima S Stage and cell specific expression of
+and during embryogenesis Mech Dev https doi
+World Health Organization Arsenic in Drinking Water Background Document for
+the Development of WHO Guidelines for Drinking Water Quality IARC Monographs
+on the Evaluation of Carcinogenic Risks to Humans https doi org j kjms
+Geneva Switzerland
+Xu L Yokoyama K Tian Y Piao F Y Kitamura F Kida H Wang P
+Decrease in birth weight and gestational age by arsenic among the newborn in
+Shanghai China Nihon Koshu Eisei Zasshi
+Zhong Q cui Y wu H Niu Q Lu X Wang L Huang F Association of
+maternal arsenic exposure with birth size a systematic review and meta analysis
+Environ Toxicol Pharmacol https doi org j etap
+Management of the Health Care System in the
+Conditions of Population Aging Information
+Analytical and Methodical Dimension
+Dmytro Shushpanov
+Department of Ecology and Health
+Care
+West Ukrainian National University
+Ternopil Ukraine
+gmail com
+Lina Diakovich
+Management Public and Personal
+Administration Department
+West Ukrainian National University
+Ternopil Ukraine
+gmail com
+Tetiana Zheliuk
+Management Public and Personal
+Administration Department
+West Ukrainian National University
+Ternopil Ukraine
+tan profesor gmail com
+Volodymyr Matsyk
+Management Public and Personal
+Administration Department
+West Ukrainian National University
+Ternopil Ukraine
+ukr net
+Alina Zhukovska
+Management Public and Personal
+Administration Department
+West Ukrainian National University
+Ternopil Ukraine
+zhuk gmail com
+Andrij Kotsur
+Management Public and Personal
+Administration Department
+West Ukrainian National University
+Ternopil Ukraine
+as kotsur gmail com
+Abstract The scientific article evaluates the current areas
+of health care management in the context of population aging
+The peculiarities of population aging in some countries and
+regions according to the level of economic development have
+been clarified including among women and men The main
+structural reasons that determine the rate of population aging
+are identified demographic social economic environmental
+The consequences of population aging for Ukrainian society
+first of all its impact on the health care system have been
+identified The state of health of elderly people in Ukraine is
+analyzed and the priority directions of its preservation are
+substantiated The methodological principles of calculating the
+health index and determining the characteristics of population
+inequality in terms of health from the standpoint of population
+aging separately for men and women are summarized The
+main goals of health care development in the context of aging
+and the COVID pandemic have been identified
+Keywords health care system management population
+aging population health health index demographic processes
+I INTRODUCTION
+Population aging is a global phenomenon that has attracted
+the attention of scientists and practitioners for many decades
+In there were million people aged and over in
+the world Most of them are women as they usually live
+longer than men Over the next three decades the number of
+older people worldwide is projected to increase to more than
+double reaching over billion by The proportion of
+the population aged and over is expected to increase from
+in to approximately in
+The aging process now covers almost all countries in the
+world except which are defined by the UN as countries
+with demographic differences In some countries this
+process began in the middle of the last century in another in
+the last decades Therefore the rate of population aging varies
+from country to country Typically in countries where the
+aging process has begun earlier the rate of aging is currently
+low e g Sweden Fig l while in developing countries it is
+higher and very high is expected e g Mexico or China Fig
+Factors that determine the rate of population aging
+include deformation of the sex and age structure of the
+IEEE
+population the level of economic development and welfare of
+citizens the dynamics of the health care and social security
+system the state of the environment etc
+India
+Mexico
+Republic of Korea
+South Africa
+Fig l Proportion of population age
+Of course population aging is directly related to changes
+in births and marriages cohabitation and divorce general
+trends in education among the population especially young
+people and migration processes including from rural to urban
+areas and international migration The main causes of
+population aging are still declining birth rates and prolonging
+life expectancy
+II LITERATURE REVIEW
+Many works of domestic and foreign scientists and
+practitioners are devoted to the study of the problems of
+population aging and its consequences In the context of the
+purpose and objectives of this article several areas of research
+can be identified the concept of demographic transition
+general changes in age structure socio economic aspects of
+this process the health of an aging population and challenges
+to the health system
+Authorized licensed use limited to Amrita School Of Engineering Kollam Down oaded on January at UTC from IEEE Xplore Restrictions apply
+First of all it should be noted that the problem of
+population aging has been the focus of international regional
+and national institutions for many decades In particular the
+UN whose experts publish annual reports Aging of the
+world the World Health Organization conducts research
+that highlights the results on the health and well being of
+adults their relationship to the aging process in different
+countries now and in the future in the reports Decade of
+Healthy Aging Plan of Action World report on aging and
+health Researchers of the US National Institute on Aging
+and the US National Institutes of Health are conducting joint
+research including Why Population Aging Matters
+Due to the fact that population aging is one of the
+manifestations of age structure transformation in the process
+of demographic transition a special place in assessing the
+peculiarities of the aging process belongs to the concept of
+demographic transition
+changing types of population
+reproduction which is covered in a number of scientific
+papers It is also worth noting that the assessment of the
+age structure of the population and its future changes allows a
+deeper understanding of the peculiarities of reproduction in
+general and aging processes in particular
+Scientists actively discuss the socio economic aspects of
+population aging The research takes place in two
+directions the impact of socio economic development on the
+level of population aging and its socio economic
+consequences
+This topic is reflected in the works of Ukrainian scientists
+The most fundamental work which highlights the latest
+features of the aging population and its prospects the specifics
+of lifestyle and socio economic status of the elderly the
+challenges to social and economic development caused by
+demographic aging is a collective monograph of scientists
+from the Institute of Demography and Social Research named
+after MV Ptukha of the National Academy of Sciences of
+Ukraine
+III CURRENT TRENDS OF AGING
+Despite the general tendency of population aging in the
+world the similarity of causes and effects there are some
+differences between regions and countries More in depth
+research shows that there is no hard standard for identifying
+the causes of aging There are differences between countries
+in the mode of reproduction in particular in the birth rate
+gender and age structures which were formed in different
+historical conditions were under the influence of various
+factors wars epidemics pandemics economic crises
+migration regimes predominance of emigration or
+immigration etc The imposition of these and other
+circumstances causes fluctuations in the rate of population
+aging between countries and regions
+Undoubtedly one of the main reasons that determine the
+peculiarities of population aging are socio economic In fig
+the dynamics of growth of the share of people aged
+and older among the total population by countries with
+different socio economic development Ukraine and some
+European countries Sweden and Poland by sex is shown
+The difference in population aging is quite significant
+between countries with a high level of economic development
+and countries with medium and low levels of development
+And here the question is not only about the difference in
+economic opportunities and what is connected with it the
+level of medical and social services the state of health literacy
+the quality of living and nutrition etc ie those determinants
+that allow you to live longer Factors of such differentiation
+are also indicators of a mode of reproduction In economically
+developed countries birth rates and other marriage regimes
+are significantly lower This may in some way explain the fact
+that Ukraine which is not one of the countries with a high
+level of economic development has a high rate of population
+aging especially among women
+o
+High income
+Poland
+Low income
+Fig Population ages and above female
+o
+High income
+Middle income
+Fig Population ages and above male
+Middle income
+Ukraine
+of female population
+Low income
+Poland
+Ukraine
+of male population
+Other features of aging which are shown in Fig First
+of all they concern the difference in mortality rates between
+men and women between different countries and regions It is
+obvious that aging is greater among women than among men
+However there are countries where this difference is quite
+significant Thus in Ukraine the share of people years and
+older among women exceeds the same figure for men by
+times while

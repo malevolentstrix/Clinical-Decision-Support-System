@@ -1,0 +1,1008 @@
+ same conditions
+decreased This change could be attributed to the
+improved assessment at the time of admission
+Moreover we have observed the same trend in iden
+tification and referral of postpartum hemorrhage that
+could be explained by increased administration of
+oxytocin within min of delivery
+Strengths and limitations
+The results of our study contributes to the dearth of lit
+erature on the role of CDSS in maternity care From the
+onset of the program our team trained and worked
+closely with the focal point in each facility to ensure
+quality of data and timely reporting Furthermore as a
+part of program implementation all providers were
+trained in distinguishing and reporting fresh still births
+Additionally data reported from facilities were regularly
+validated by our team The availability of data before
+and during the program implementation allowed us to
+estimate the role of CDSS in improving quality of intra
+partum care and delivery outcomes Our study has few
+limitations Firstly it is possible that providers carried
+out the patient management according to the standards
+but didn t record it in application Secondly our assess
+ment involved direct observation of provider practices
+as a result potential Hawthorne effect would have hap
+pened To minimize Hawthorne effect we trained our
+project officers using standard observation checklist and
+standard operating procedures Lastly due to utilization
+of program data in our analysis establishing causal claim
+is limited
+Usmanova et al BMC Pregnancy and Childbirth
+Conclusion
+To our knowledge this is the first study that provides
+and evidence on the role of technology to improve the
+quality of intrapartum care and delivery outcomes in
+India However the results of this study could be gener
+alized to another country with similar settings Our
+study indicates CDSS has a potential to improve quality
+of intrapartum care and delivery outcome Future studies
+with rigorous study design are required to understand
+the impact of technology in improving quality of mater
+nity care These studies could provide evidence on redu
+cing the burden of maternal and neonatal death
+attributable to inadequate quality of care in India and
+globally
+Abbreviations
+ANM Auxiliary Nursing Midwife ASMAN The Alliance for Saving Mothers
+and Newborns CDSS Computerized clinical decision support
+GOI Government of India MO Medical Officer MSD MSD for Mothers
+OT Operation theatre PNC Postnatal Care SNCU Sick Newborn Care Unit
+SCC Safe Childbirth Checklist SPSS Statistical Package for the Social
+Sciences USAID United States Agency for International Development
+Supplementary Information
+The online version contains supplementary material available at https doi
+Additional file Interrupted time series analysis on fresh still birth rates
+and incidence of neonatal asphyxia at intervention facilities
+Acknowledgments
+ASMAN program is designed executed and funded by development
+partners Bill and Melinda Gates Foundation MSD for Mothers Reliance
+Foundation Tata Trusts and USAID We sincerely thank the Project
+Management Unit involved in driving the program interventions and both
+state governments for their continuous support and suggestions We wou d
+also like to acknowledge the support provided by the mplementing
+partners Avalon Sambodhi and Bodhi without whom this project and the
+study would not have been possible We would like to acknowledge Young
+Mi Kim and Rachel Haws for reviewing the manuscript and providing
+valuable suggestions We also thank the reviewers of this manuscript who
+helped to mprove it with their comments and suggestions
+Authors contributions
+RW PS NB PG BS KL GIJ TC AM BS conceptualization of project GIJ KL
+BS leading manuscript drafting GIJ AS DB AB CSJ RD drafting study
+protocol development of tools manuscript drafting Y J MA JB RD
+overseeing project implementation development of tools drafting
+manuscript AS DB CSJ AB data compilation cleaning analysis GIJ KL BS
+RW PS NB PG AS TC AM BS conceptualization reviewing and guiding
+analysis and manuscript All authors read and approved the final version of
+the manuscript
+Funding
+The program was designed supported and funded by the Alliance for
+Saving Mothers and Newborns ASMAN with support from the Reliance
+Foundation Tata Trusts MSD for Mothers The Bill Melinda Gates
+Foundation and the United States Agency for International Development
+USAID
+This program was funded by developed with and is being implemented
+n collaboration with MSD for Mothers MSD s million initiative to help
+create a world where no woman has to die while giving life MSD for
+Mothers is an initiative of Merck Co Inc Kenilworth NJ U S A
+Page of
+Availability of data and materials
+Qualified researchers may request data access by emailing the
+corresponding author In such an event the researchers will consult with the
+Government of Rajasthan and Madhya Pradesh state health departments
+before providing data access to the concerned parties
+Declarations
+Ethics approval and consent to participate
+This study was reviewed and approved by the Government of Rajasthan and
+the Government of Madhya Pradesh which own the data and provided the
+datasets The Johns Hopkins School of Public Health Institutional Review
+Board IRB reviewed the activities and determined them to be not human
+subjects research and thus not requiring IRB oversight IRB No The
+Johns Hopkins School of Public Health IRB is one of Jhpiego s designated
+RBS of record as documented with the U S government s office of human
+subject s protection All data used in this study were collected as a part of
+routine monitoring of government programs and the datasets provided by
+the Governments of Rajasthan and Madhya Pradesh did not contain any
+patient or provider identifiers hence informed consent was not required
+Consent for publication
+Not appl cable
+Competing interests
+The authors declare that they have no competing nterests
+Author details
+Jhpiego An Affiliate of Johns Hopkins University New Delhi India
+of Health and Family Welfare NHM Jaipur Rajasthan
+ndia Maternal Health NHM Bhopal Madhya Pradesh India
+Management Unit ASMAN Alliance for Saving Mothers and Newborns
+Mumbai India for Mothers Mumbai India Reliance
+Foundation Mumbai India Tata Trusts Mumbai India
+Received November Accepted March
+Published online April
+References
+Bhutta ZA Das JK Bahl R Lawn JE Salam RA Paul VK Sankar MJ
+Blencowe H Rizvi A Chou Vd Walker N Lancet Newborn Interventions
+Review Group ancet Every Newborn Study Group Can available
+interventions end preventable deaths in mothers newborn babies and
+stillbirths and at what cost Lancet https doi
+Tunqalp Were WM Mac ennan C Oladapo OT AM Bahl R
+Daelmans B Mathai M Say Kristensen F Temmerman M Bustreo F
+Quality of care for pregnant women and newborns the WHO vision BJOG
+https doi org lO
+Joe W Perkins JM Kumar S Rajpal S Subramanian SV Institutional delivery
+in India unravelling the equity enhancing contributions of the
+public sector Health Policy Plan https doi org lO
+heapol
+Lim SS Dandona L Hoisington JA James SC Hogan MC Gakidou E India s
+Janani Suraksha Yojana a conditional cash transfer programme to increase
+births in health facilities an mpact evaluation Lancet
+https doi org
+Chaturvedi S De Costa A Raven J Does the Janani Suraksha Yojana cash
+transfer programme to promote facility births in India ensure skilled birth
+attendance A qualitative study of intrapartum care in Madhya Pradesh
+Global Health Act https doi org gha
+Sharma J Leslie HH Regan M Nambiar D Kruk ME Can India s primary care
+facilities deliver A cross sectional assessment of the Indian public health
+system s capacity for basic delivery and newborn services BMJ Open
+https doi org bmjopen
+Maternal Health Division Ministry of Health and Family Welfare Government
+of India DAKSHA TA Empowering Providers for Improved MNH Care during
+Institutional Deliveries April A strategic initiative to strengthen quality
+of intra and immediate postpartum care Retrieved from URL https nhm
+gov inA VriteReadData pdf Accessed Sept
+Usmanova et al BMC Pregnancy and Childbirth
+Kumar S Yadav V Balasubramaniam S Jain Y Joshi CS Saran K Sood B
+Effectiveness of the WHO SCC on mproving adherence to essential
+practices during childbirth in resource constrained settings BMC Pregnancy
+Childbirth https doi org x
+Semrau K Hirschhorn LR Delaney MM Singh VP Saurastri R Sharma N
+Tuller DE Firestone R Lipsitz S Dhingra Kumar N Kodkany BS Kumar V
+Gawande AA Better Birth Trial Group Outcomes of a Coaching Based WHO
+Safe Childbirth Checklist Program in India New Engl J Med
+O NEJMoal
+Spector JM Agrawal P Kodkany B Lipsitz S Lashoher A Dziekan G Bahl R
+Merialdi M Mathai M Lemer C Gawande AA Improving quality of care for
+maternal and newborn health prospective pilot study o the who safe
+childbirth checklist program PLOS One https doi org l
+O journal pone
+Varghese B Copas A Kumari S Bandyopadhyay S Sharma J Somen S
+Yadav V Kumar S Does the safe childbirth checklist SCQ program save
+newborn lives Evidence from a realistic quasi experimental study
+Rajasthan India Matern Health Neonatol Perinatol https doi
+org lO
+Garg AX Adhikari NK McDonald H Rosas AreIIano MP Devereaux PJ
+Beyene J Sam J Haynes RB Effects of computerized clinical decision
+support systems on practitioner performance and patient outcomes a
+systematic review JAMA https doi org l O ja
+ma
+Kawamoto K Houlihan CA Balas EA Lobach DF mproving clinical practice
+using cl nical decision support systems a systematic review of trials to
+identify features critical to success BMJ https doi
+org bmj
+Jaspers MW Smeulers M Vermeulen H Peute LW Effects o clinical
+decision support systems on practitioner performance and patient
+outcomes a synthesis of high quality systematic review findings J
+Am Med Inform Assoc https doi org lO amia
+jnl
+Bright T J Wong A Dhurjati R Bristow E Bastian Coeytaux RR Samsa G
+Hasselblad V Williams JW Musty MD Wing Kendrick AS Sanders GD
+Lobach D Effect of clinical decision support systems a systematic review
+Ann Intern Med https doi org
+Roshanov PS Fernandes N Wi czynski JM Hemens BJ You JJ Handler SM
+Nieuwlaat R Souza NM Beyene J Van Spall HGC Garg AX Haynes RB
+Features of effective computerised clinical decision support systems meta
+regression of randomised trials BMJ https doi
+org bmj
+Souza NM Sebaldt RJ Mackay JA Prorok JC Weise Kelly L Navarro T
+Wilczynski NL Haynes RB Computerized clinical decision support systems
+for primary preventive care a decision maker researcher partnership
+systematic review of effects on process of care and patient outcomes
+Implement Sci https doi org
+Sutton RT Pincock D Baumgart DC Sadoski DC Fedorak RN Kroeker KI An
+overview of clinical decision support systems benefits risks and strategies
+for success NPJ Digit Med https doi org
+y
+Duysburgh E Temmerman M Ye M Williams A Massawe S Williams J
+Mpembeni R oukanova S Haefeli WE Blank A Quality of antenatal and
+childbirth care in rural health facilities in Burkina Faso Ghana and Tanzania
+an intervention study Trop Med Int Health https doi
+org II l tmi
+Horner V Rautenbach P Mbananga N Mashamba T Kwinda H An e health
+decision support system for improving compliance of health workers to the
+maternity care protocols in South Africa AppI Clin Inform
+https doi org lO ACl lO
+McNabb M Chukwu E Ojo O Shekhar N Gill CJ Salami H Jega F
+Assessment of the quality of antenatal care services provided by health
+workers using a mobile phone decision support application in northern
+Nigeria a pre post intervention study PLOS One
+https doi org journal pone
+World Medical Association Declaration of Helsinki
+WHO Safe Childbirth Checklist Implementation Guide mproving the quality
+of facilty based delivery for mothers and newborns Retrieved from
+URL https apps who int iris bitstream handle
+Accessed Aug
+Page of
+Government of India Ministry of Health and Family Welfare National Health
+Mission Dakshata Implementation package Retrieved from URL https J
+nhm gov in index I php lang I level subIinkid Iid Accessed
+Aug
+Weiskopf NG Weng C Methods and dimensions of electronic health
+record data quality assessment enabling reuse for clinical research J Am
+Med Inform Assoc https doi org amiajnI
+Hulton LA Matthews Z Stones RW A framework for the evaluation
+of qualty of care in maternity services Southampton University
+of Southampton Retrieved from URL https assets publishing service
+gov uk media HOppsMonographEva IMa
+ternityServices pdf Accessed Aug
+Mathioudakis A Rousalova I Gagnat AA Saad N Hardavella G How to keep
+good clinical records Breathe https J doi org lO
+Chaturvedi S Randive B Raven J Diwan V De Costa A Assessment of
+the quality of clinical documentation in India s JSY cash transfer program
+for facility births in Madhya Pradesh Int J Gynecol Obstet
+https doi org j ijgo
+Landry E Pett C Fiorentino R Ruminjo J Mattison C Assessing the quality
+of record keeping for cesarean deliveries results from a multicenter
+retrospective record review in five low income countries BMC Pregnancy
+Childbirth https doi org
+Usmanova G Gresh A Cohen MA Kim Y M Srivastava A Joshi CS Bhatt
+DC Haws R Wadhwa R Sridhar P Bahl N Gaikwad P Anderson J
+Acceptability and barriers to use of the ASMAN provider facing electronic
+platform for Peripartum Care in Public Facilities in Madhya Pradesh and
+Rajasthan India a qualitative study using the technology acceptance
+Model Int J Environ Res Public Health https doi org l
+ijerphl
+Hawley G Jackson C Hepworth J Wilkinson SA Sharing of clinical data in a
+maternity setting how do paper hand held records and electronic health
+records compare for completeness BMC Health Serv Res
+https doi org x
+Kassebaum NJ Bertozzi VilIa A Coggeshall MS Shackelford KA Steiner
+C Heuton KR Gonzalez Medina D Barber R Huynh C Dicker D Templin
+T Wolock TM Ozgoren AA Abd Allah F Abera SF Abubakar l Achoki
+T Adelekan A Ademi Z Adou AK Adsuar JC Agardh EE Akena D Alasfoor
+D Alemu ZA Alfonso Cristancho R Alhabib S Ali R al Kahbouri MJ Alla
+F Allen PJ AIMazroa MA Alsharif U Alvarez E Alvis N Amankwaa
+AA Amare AT Amini H Ammar W Antonio CAT Anwari P J
+Arsenijevic VSA Artaman A Asad MM Asghar RJ Assadi R Atkins S Badawi
+A Balakrishnan K Basu A Basu S Beardsley J Bedi N Bekele T Bell
+ML Bernabe E Beyene TJ Bhutta Z Bin Abdulhak A Blore JD Basara
+Bose D Breitborde N R Castaheda Orjuela CA Castro RE Catali
+F Cavlin A Chang JC Che X Christophi CA Chugh SS Cirillo M
+Colquhoun SM Cooper L T Cooper C da Costa Leite l Dandona L Dandona
+R Davis A Dayama A Degenhardt L de Leo D del Pozo Cruz B Deribe K
+Dessalegn M deVeber GA Dharmaratne SD Di men U Ding EL Dorrington
+RE Driscoll TR Ermakov SP Esteghamati A Faraon EJA Farzadfar F Felicio
+MM Fereshtehnejad SM de Lima GMF Forouzanfar MH Franqa EB Gaffikin
+L Gambashidze K FG Garcia AC Geleijnse JM Gibney KB Giroud
+M Glaser EL Goginashvili K Gona P CasteIl D Goto A Gouda
+HN Gugnani HC Gupta R Gupta R Hafezi Nejad N Hamadeh RR Hammami
+M Hankey GJ Harb HL Havmoeller R Hay Sl Pi IBH Hoek HW Hosgood
+HD Hoy DG Husseini A Idrisov BT Innos K Inoue M Jacobsen KH Jahangir
+E Jee SH Jensen PN Jha V Jiang G Jonas JB Juel K Kabagambe EK Kan
+H Karam NE Karch A Karema C Kaul A Kawakami N Kazanjan K Kazi
+DS Kemp AH Kengne AP Kereselidze M Khader YS Khalifa SEAH Khan
+EA Khang YH Knibbs L Kokubo Y Kosen S Defo Kulkarni C Kulkarni
+VS Kumar GA Kumar K Kumar Rd Kwan G ai T Calloo R Lam H Lansingh
+VC Larsson A Lee JT Leigh J Leinsalu M eung R Li X Li Y Li Y Liang J
+Liang X Lim SS Lin HH Lipshultz SE Liu S LiuY oyd BK London SJ
+Lotufo PA Ma J Ma S Machado VMP Mainoo NK Majdan M Mapoma CC
+Marcenes W Marzan MB Mason Jones AJ Mehndiratta MM Mejia
+Rodriguez F Memish ZA Mendoza W Miller TR Mills EJ Mokdad AH Mola
+GL Monasta L de Ia Cruz Monis J Hernandez JCM Moore AR Moradi Lakeh
+M Mori R Mueller UO Mukaigawara M Naheed A Naidoo KS Nand D
+Nangia V Nash D Nejjari C Nelson RG Neupane SP Newton CR Ng M
+Nieuwenhuijsen MJ Nisar MI Nolte S Norheim OF Nyakarahuka L Oh H
+Usmanova et al BMC Pregnancy and Childbirth
+Ohkubo T Olusanya BO Omer SB Opio JN Orisakwe OE Pandian JD
+Papachristou C Park JH Caicedo AJP Patten SB Paul VK Pavlin Pearce N
+Pereira DM Pesudovs K Petzold M Poenaru D Polanczyk GV Polinder S
+Pope D Pourmalek F Qato D Quistberg DA Rafay A Rahimi K Rahim
+Movaghar V ur Rahman S Raju M Rana SM Refaat A Ronfani L Roy N
+Pimienta TGS Sahraian MA Salomon JA Sampson U Santos IS Sawhney M
+Sayinzoga F Schneider IJC Schumacher A Schwebel DC Seedat S Sepanlou
+SG Servan Mori EE Shakh Nazarova M Sheikhbahaei S Shibuya K Shin HH
+Shiue I Sigfusdottir ID Silberberg DH Silva AP Singh JA Skirbekk V Sliwa K
+Soshnikov SS Sposato LA Sreeramareddy CT Stroumpoulis K Sturua L
+Sykes BL Tabb KM Talongwa RT Tan F Teixeira CM Tenkorang EY Terkawi
+AS Thorne yman AL Tirschwell DL Towbin JA Tran BX Tsilimbaris M
+Uchendu US Ukwaja KN Undurraga EA Uzun SB Vallely AJ van Gool CH
+Vasankari T J Vavilala MS Venketasubramanian N Villalpando S Volante FS
+Vlassov W Vos T WaIIer S Wang H Wang L Wang XR Wang Y Weichenthal
+S Weiderpass E Weintraub RG Westerman R Wilkinson JD Woldeyohannes
+SM Wong JQ Wordofa MA Xu G Yang YC Yano Y Yentur GK Yip P
+Yonemoto N Yoon SJ Younis MZ Yu C Jin KY eI Sayed Zaki M Zhao Y
+Zheng Y Zhou M Zhu J Zou XN Lopez AD Naghavi M Murray CJL Lozano
+R Global regional and national levels and causes of maternal mortality
+during a systematic analysis for the g obal burden of disease
+study https doi org
+Say Chou D Gemmill A Tunqalp Moller AB Daniels J AM
+Temmerman M Alkema L Global causes of maternal death a WHO
+systematic analysis Lancet Global Health https doi
+org lO lOl
+Lawn JE Blencowe H Waiswa P Amouzou A Mathers C Hogan D
+Flenady V JF Qureshi ZIJ Calderwood C Shiekh S Jassir FB You D
+McClure EM Mathai M Cousens S Flenady V JF Kinney MV de
+Bernis L Lawn JE Blencowe H Heazell A Leisher SH Azad K Rahman A eI
+Arifeen S Day T Shah SL Alam S Wangdi S llboudo TF Zhu J Liang J Mu
+Y Li X Zhong N Kyprianou T Allvee K Gssler M Zeitlin J Bah A Jawara L
+Waiswa P ack N de Maria Herandez F Shah More N Nair N Tripathy P
+Kumar R Newtonraj A Kaur M Gupta M Varghese B Isakova J Phiri T Hall
+JA Curteanu A Manandhar D Hukkelhoven C Dijs EIsinga J K
+Poppe O Barros H Correia S Tsiklauri S Cap J Podmanicka Z Szamotulska
+K Pattison R Hassan AA Musafi A Kujala S Bergstrom A Langhoff Roos J
+Lundqvist E Kadobera D Costello A Colbourn T Fottrell E Prost A Osrin D
+King C Neuman M Hirst J Rubayet S Smith L Manktelow BN Draper ES
+Stillbirths rates risk factors and acceleration towards ancet
+https doi org l O
+Praveen D Patel A Raghu A Clifford GD Maulik PK Mohammad Abdul A
+Mogulluru K Tarassenko L MacMahon S Peiris D SMARTHealth India
+Development and field evaluation of a mobile clinical decision support
+system for cardiovascular diseases in rural India JMIR Mhealth Uhealth
+https doi org mhealth
+Anchala R Kaptoge S Pant H Di Angelantonio E Franco OH Prabhakaran
+D Evaluation of effectiveness and cost effectiveness of a clinical decision
+support system in managing hypertension in resource constrained primary
+health care settings results from a cluster randomized trial J Am Heart
+Assoc https doi org JAHA
+Msemo G Massawe A Mmbando D Rusibamayila N Manji K Kidanto HL
+Mwizamuholya D Ringia P Ersdal HL Perlman J Newborn mortality and
+fresh stillbirth rates in Tanzania after helping babies breathe training
+Pediatrics https doi org l O peds
+Moja L Kwag KH ytras T Bertizzolo L Brandt L Pecoraro V Rigon G Vaona
+A Ruggiero F Mangia M Iorio A Kunnamo I Bonovas S Effectivenessof
+computerized decision support systems linked to electronic health records
+a systematic review and meta analysis Am J Public Health
+el https doi org AJPH
+Publisher s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations
+Page of
+Ready to submit your research Choose BMC and benefit from
+fast convenient online submission
+thorough peer review by experienced researchers in your field
+rapid publication on acceptance
+support for research data including large and complex data types
+gold Open Access which fosters wider collaboration and increased citations
+maximum visibility for your research over website views per year
+At BMC research is always in progress
+Learn more biomedcentral com submissions
+BMC
+The Open Nursing Journal
+A Review of Pregnancy in Women Over Years of Age
+Reeta Lampinen Katri Julkunen and Kankkunen
+University of Kuopio Department of Nursing Science P O Box Kuopio Finland
+Open Access
+Abstract The objective of the present paper is to review how pregnant women over years have been described in
+previous research and to review the risks associated with pregnancy in those of advanced maternal age Computerized
+searches of the Cinahl PubMed Medic and Cochrane Library databases were undertaken Research articles in scientific
+journals relevant to the objective and published in English between and were included Data were extracted
+based on the aims sample authors year and results
+Results Advanced maternal age is associated with certain pregnancy related risks Being at risk causes anxiety and
+concern which older pregnant women try to ease by being as well informed as possible This may be overwhelming to
+some women due to the large amount of information available
+Conclusions It is important for healthcare providers to be aware of the different feelings and experiences of older
+pregnant women in order to meet their individual needs within the maternity services
+Keywords Maternal age risk advanced maternal age
+INTRODUCTION
+In developed countries such as Finland and Sweden
+childbearing later in life is a phenomenon which has become
+increasingly evident in the last three decades For
+example in Finland in of primigravida women
+were over years old By this had increased to
+The situation is closely comparable with Sweden where
+in of primigravidas were years of age or older
+In of all women giving birth in Finland
+were over years old whereas the figure in was
+The risks related to pregnancy in those over years old
+especially primiparity can be understood from two
+perspectives first the actual medical risks and second the
+acceptability of the risks as defined through social discourse
+among different groups within society Medical risks are
+related to an ageing reproductive system and an ageing body
+whereas social discourse prescribes the way in which older
+pregnant women are regarded as mothers and when it is
+considered that women should have children It has
+been said that pregnant women and healthcare providers
+understand the risks differently pregnant women evaluate
+the risks subjectively through their own experiences
+whereas healthcare providers assess the risks in an
+apparently more objective way
+Advanced maternal age AMA is seen by patients and
+healthcare professionals to be correlated with poorer
+outcomes to pregnancies This is largely because of the
+higher incidence of chronic medical conditions among older
+women Women of AMA are often treated as if they are in
+need of the level of care necessary for any high risk
+Address correspondence to this author at the University of Kuopio
+Department of Nursing Science P O Box FIN Kuopio
+Finland E mail rlampine hytti uku fi
+pregnancy and they are treated differently even if there is no
+scientific basis for different treatment and there are no
+medical problems evident However pre existing and
+pregnancy related morbidity combined with high maternal
+expectations does put these women in greater need of
+intervention during pregnancy and birth Despite the
+perceptions of increased risks related to AMA it has been
+suggested that the risks are manageable and positive
+outcomes can be expected
+In recent years several reviews concerning pregnant
+women aged years or older have been conducted which
+have focused on the risks associated with AMA the
+relationship between AMA and pregnancy outcomes
+the evidence of risks faced by women of AMA and the
+association between maternal age and still birth Fewer
+studies have focused on women s own experiences of later
+childbearing and age related pregnancy risks The purpose of
+the present review article is to provide an overview of how
+previous research has described pregnant women aged over
+and what the pregnancy risks related to AMA are
+DATA AND METHODS
+Research articles for this review were retrieved from
+searches of the Cinahl PubMed Medic and Cochrane
+Library databases Keywords used in the search were
+Maternal age and over and advanced maternal age
+The assistance of an information specialist librarian was used
+to confirm the adequacy of keywords used in the search
+terms The search was limited to the period between
+and in order to focus on the most recent information
+available We searched for original research articles
+reporting studies conducted using qualitative or quantitative
+methods and which had been published in English Other
+review articles were omitted from the present review
+Studies focusing on both primi and multiparous women
+were included
+Bentham Open
+The Open Nursing Journal Volume
+Searching Cinahl with the keywords maternal age
+and over returned references searching PubMed with
+maternal age over returned and with advanced
+maternal age references Searching the Medic and
+Cochrane Library databases provided no relevant references
+Following retrieval the first phase of the review process
+involved reading through the titles of all references in
+order to delete references from the selection based on the
+exclusion criteria listed below In the second phase abstracts
+of all the remaining non excluded references were read
+through
+The exclusion criteria were the topic was irrelevant to
+the objective of this study there was no abstract available
+the study was focused on only a particular medical
+problem related to pregnancy in older women for example
+genetic
+screening amniocentesis trisomies
+foetal
+abnormalities
+different medical
+conditions
+or
+developmental disorder with the foetus the study referred
+to postpartum and maternity issues and the full research
+article was unobtainable with reasonable effort
+In the third phase when the final selection of articles had
+been made all available full text versions of the selected
+articles were read through A further manual search of cited
+references in the selected research articles was also made
+using the same exclusion criteria mentioned above This
+provided two more articles for inclusion in the present
+review PubMed produced five and Cinahl eight relevant
+research articles so that finally a further articles were
+included in the analysis Table
+Qualitative studies were examined using content analysis
+This inductive analysis revealed certain themes and subjects
+within the selected articles which addressed the research
+questions and which could finally be grouped together
+thematically Quantitative studies which were mainly
+focused on the medical risks associated with AMA and
+which had been analysed statistically were analysed in the
+present review by collating common subject areas and
+grouping them together thematically with the articles from
+the papers describing qualitative studies
+RESULTS
+Women s Knowledge of Pregnancy related Risks and
+their Decisions concerning the Timing of Childbearing
+The knowledgability of older pregnant women
+concerning pregnancy related issues has not been the focus
+of many studies we found only three research articles that
+described women s knowledge of pregnancy risks related to
+delayed childbearing and their knowledge base for making
+decisions about the timing of motherhood These
+studies revealed that women were well aware of the age
+related decline in fertility but they relied on the
+expectation of the assistance of reproductive technology
+being available if needed Some researchers found
+that women recognized there to be a higher likelihood of an
+older mother giving birth to a baby with Down s syndrome
+and of there being a greater risk of miscarriage and
+having high blood pressure However the probabilities
+of needing to deliver by Caesarean section having a
+premature or low birth weight baby stillbirth or of
+Lampinen et al
+multiple births were not as well identified It has
+been suggested that neither women nor men fully recognize
+the link between increased maternal age and the
+developmental and health related risks of low birth weight or
+pre term infants Moreover both men and women lack
+knowledge concerning conception pregnancy complications
+and infant outcomes as related to delayed childbearing
+In general both men and women should be much better
+informed about the complications and declining fertility
+associated with a first pregnancy at an AMA
+Few studies discussed the timing of childbearing
+Maheswhari et al found that sub fertile women
+thought and years more acceptable as an age at which
+to become a first time mother than pregnant women did
+Another study revealed that while most women were
+satisfied with their decisions of postponing childbearing
+women of years of age and older would in retrospect
+have started having children earlier in life A stable
+relationship education and developing a career before
+having a family influenced women s decisions concerning
+the timing of childbearing Financial security and their
+partner s suitability to be a parent were also important
+factors In addition women described having a
+feeling of a biological clock ticking away which affected
+their decisions concerning the timing of motherhood
+Information Gathering and Women s Preparation for
+Pregnancy
+Issues related to a woman s preparation for pregnancy
+were described in five studies These
+indicated that being well prepared for pregnancy seemed to
+be a characteristic more typical of older pregnant women
+Being considered at risk causes women anxiety which
+they try to ease by preparing themselves for pregnancy and
+seeking information Carolan showed that women
+aged over years approached pregnancy as a project which
+should be preceded by a stage of careful planning These
+women described their main health concerns as the
+likelihood of foetal genetic problems or maternal
+complications during pregnancy e g gestational diabetes
+postpartum depression multiple births or miscarriage
+Prior to conception older women also prepared
+themselves for pregnancy both mentally and physically
+Such preparation often meant losing weight going on diets
+and taking exercise Some women visited specialist
+doctors to discuss existing health issues such as blood
+pressure Choosing hospitals and birth care options was
+another way in which women prepared for pregnancy and
+being aware of the increased risks associated with their age
+they especially valued the availability of emergency services
+at hospitals Having become pregnant women adopted a
+different range of health promoting activities in response to
+their concerns and needs in relation to their pregnancy
+These activities included following a healthy lifestyle and
+taking special care of their nutritional status
+Women also approached pregnancy by searching for
+information from multiple sources which they sometimes
+found offered contradictory advice Women
+searched for information from the internet journal articles
+childbirth educators and hospital telephone information
+A Review of Pregnancy in Women Over Years of Age
+The Open Nursing Journal Volume
+Table Studies of Older Pregnant Women and Risks Related to Advanced Maternal Age
+Authors Year
+Purpose
+Loca tion
+Bell et al To determine whether the higher levels of obstetric
+intervention and maternity service use among older
+women can be explained by obstetric complications
+Benzies et al
+Canada
+Carolan
+Nelson
+Australia
+To examine the factors that influence women s
+decisions about timing of motherhood from a life
+span perspective
+To question the association of maternal age and
+pregnancy risk
+Carolan To evaluate the experiences ofa group of first time
+mothers aged over years
+Australia
+Design Sample
+A retrospective analysis
+N deliveries
+Qualitative design N
+women aged years
+Longitudinal qualitative study
+N women over years
+In depth interviews N
+women
+Carolan To highlight the information based dilemmas of first In depth interviews N first
+Australia
+Cleary
+Goldman et al
+USA
+Jacobsson et
+al
+Sweden
+Jolly et al
+Joseph et al
+Canada
+time mothers over years
+To estimate the effect of maternal age on obstetric
+outcomes
+To investigate the influence of maternal age on
+perinatal and obstetric outcome in women aged
+years and those years or older and to estimate
+whether adverse outcome was related to intercurrent
+illness and pregnancy complications
+To find out if older maternal age is associated with
+increased risk of adverse outcomes for mother and
+baby
+To determine if the rates of pregnancy complications
+preterm birth small for gestational age perinatal
+mortality and serious neonatal morbidity are higher
+among mothers aged years or years or
+older compared with mothers years
+To explore women s awareness of issues associated
+Maheshwari et
+al
+Ozalp et al
+Turkey
+Robb et al
+with delayed childbearing including its social and
+medical implications and the limitations of available
+treatment
+To describe health risks for early or under and
+late or over childbearing
+To describe if older primigravidas differ from
+younger primigravidas in their emotional experience
+of pregnancy
+time mothers over years
+Analysis of data N
+A population based cohort
+study
+N deliveries
+Analysis of data N
+singleton pregnancies
+A population based study
+N singleton
+pregnancies
+Questionnaire N women
+subfertility clinic and
+pregnant women
+Birth records and patients files
+N
+Case control study
+Questionnaires
+N women case groups
+aged or older and control
+aged
+Qualitative data obtained from
+an open ended question
+Results
+Levels of amniocentesis ceasarean section assisted
+delivery induction and augmentation were all higher
+among older women Maternity service use also
+increases significantly with age
+Independence a stable relationship and declining
+fertility influenced women s decisions about timing of
+motherhood
+Four risk related themes realizing the status at risk
+hoping for reassurance dealing with uncertainty and
+getting through it negotiating risk
+Percentage of mothers approached childbearing as a
+major project in their lives Project progressed through
+clearly defined stages of information gathering
+planning and preparing and finishing up tasks prior to
+the birth
+Mothers were found to have access to large volumes of
+health information Midwives and maternal and child
+health nurses revealed a tendency to provide older first
+time mothers with considerable health information of a
+medical orientation understanding that this is what the
+women required
+Increasing age was significantly associated with
+miscarriage chromosomal abnormalities congenital
+anomalies gestational diabetes placenta previa and c
+section
+Perinatal death intrauterine fetal death and neonatal
+death increased with age Also intercurrent illnesses
+and pregnancy complications increase with increasing
+age
+Pregnant women aged or older are at increased risk
+of complications in pregnancy compared with younger
+women
+Older women were more likely to have hypertension
+diabetes mellitus placental abruption or placenta
+revia but they were less likely to be nulliparous and to
+smoke Also preterm birth and small for gestational age
+rates were higher
+Despite awareness of the impact
+of age on fertility of the subfertile group expected
+IVF to overcome the effects of age compared with
+of the pregnant population Knowledge about age
+related obstetric risks such as trisomy was similar
+in both groups vs Almost all participants
+believed that women should be informed about
+the implications of delaying childbearing at an early
+age
+This study emphasises the increased maternal and fetal
+risks for pregnancies at these extreme age groups in a
+retrospective way
+Older primigravidas took more time in antenatal
+consultations No significant difference was found
+between the groups of women although a small
+number in both groups were very anxious
+The Open Nursing Journal Volume
+Table contd
+Authors Year
+Design Sample
+Lampinen et al
+Results
+Factors that influenced timing of childbearing for men and
+Loca tion
+Tough et al
+Canada
+Viau et al
+USA
+Zasloff et al
+Sweden
+Purpose
+To determine the factors influencing the timing of
+women included financial security and partner suitability to
+Computer assisted
+childbearing for non parenting men and women to
+parent Over of men and women recognized the direct
+determine knowledge among non parenting men and telephone interviews
+relationship between older maternal age and conception
+women about maternal age related risks and to N women and
+difficulties Less than half knew advanced maternal age
+determine characteristics associated with limited
+men aged years
+increased the risk of stillbirth ceasarean delivery multiple
+knowledge of these risks
+To explore the spesific health concerns and health
+promotion behaviours of childbearing women
+birth and preterm delivery
+Semistuctured
+Study participants reported concerns reflecting both fetal well
+interviews
+being and maternal health related issues The majority of
+N women aged or childbearing women reported engaging in multiple health
+years or older
+To provide a comprehensive picture of the young to
+the old first time mother as she presents to the
+clinician in terms of background expectations
+experiences and outcome of labour
+older
+A longitudinal cohort
+study questionnaires
+N
+promotion behaviors
+Expectations and experiences vary by maternal age The
+youngest women had the most negative expectations of the
+upcoming birth but their experience of childbirth did not differ
+from the reference group In contrast the oldest women did
+not have negative feelings about the upcoming birth but
+experienced childbirth overall as more difficult
+networks Carolan b found that career
+oriented educated women preferred information written for
+a medical and midwifery audience rather than popular
+reading material such as magazine articles Carolan
+also found that pregnant women over years old
+sometimes felt they had too much information concerning
+age related pregnancy risk and foetal disorders which made
+them anxious and made it difficult for them to focus on
+positive outcomes However these women still wanted to be
+as fully informed as possible
+In one study Carolan found that healthcare
+providers gave a lot of medically oriented information to
+pregnant women aged over presuming that this was what
+these older educated women needed and wanted However the
+recipients found such information to be more overwhelming
+than empowering and midwives and maternal and child health
+nurses found it quite challenging to provide the right level and
+type of advice to these women However although these
+women felt themselves to be over informed which increased
+their concerns they still thought that information about the
+risks and benefits of delayed childbearing should be provided
+and that the ideal time would have been at an age when they
+were in their early
+Manifestation of Risks and Women s Experiences of
+Risks Pregnancy and Care
+It has been shown that AMA increases pregnancy related
+risks and the probability of obstetric complications Six
+studies described the risks complications and obstetric
+outcomes related to pregnancy in women aged over years
+Compared to younger women the types of complications
+that women over years are at increased risk of during
+pregnancy include gestational diabetes placenta praevia
+pre eclampsia miscarriage and pregnancy
+induced hypertension as well as Caesarean sections
+Induction of labour augmentation with
+primiparae and assisted deliveries are also associated with
+women of AMA Perinatal mortality perinatal and
+neonatal death and intra uterine foetal death also increase
+with increasing age Older women are also more likely
+to have been diagnosed with conditions such as hypertensive
+disorders diabetes mellitus and other chronic diseases for
+which they are already taking medication These
+chronic medical conditions may further complicate their
+pregnancies
+However some risks should be interpreted with caution
+Bell et al found that age related increased
+intervention rates were
+independent of maternal
+complications during pregnancy complications during
+labour a history of infertility and other confounding factors
+Age alone was not responsible for gestational hypertensive
+disorders although chronic hypertension was found to be
+more common among women of advanced maternal age
+Adverse outcome rates were in fact higher among older
+women even when there were no complications in their
+pregnancies Interestingly the increased occurrence of
+pre existing diagnoses or complications among older women
+was not related to the increased risk of an adverse perinatal
+outcome Despite the fact that increased risk with
+increasing age has been clearly demonstrated studies
+suggest that overall pregnancy outcomes are favourable
+because perinatal death is such a rare event even with AMA
+mothers
+Being at risk is not always obvious to pregnant AMA
+women Carolan and Nelson showed that AMA
+women who were in good health during pregnancy were
+surprised to learn that they were in fact classified in a high
+risk category due to their age As already stated knowing
+themselves to be in a high risk group can have a negative
+impact on older pregnant women causing them additional
+concern and leading them to seek higher levels of health
+monitoring during pregnancy Zasloff et al found
+that women over years were more worried about the baby
+compared with younger women However knowing
+themselves to be at risk does not necessarily prevent the
+natural positive feelings of pregnancy from being
+experienced although older women do seem to need to be
+reassured more often that everything is well Pregnant
+women years of age or older often wanted additional
+ultrasonic scans and genetic testing to be assured that
+nothing was wrong Robb et al found no
+A Review of Pregnancy in Women Over Years of Age
+correlation between maternal age and emotional distress in
+primigravidas when comparing pregnant women aged and
+over to those aged years Feelings during pregnancy
+were mainly positive or anxious described using phrases
+such as being delighted overjoyed and extremely lucky
+or worried about the baby AMA women also
+appreciated the support received from healthcare providers
+during the genetic testing process
+Carolan and Nelson found that although AMA
+women were generally pleased with the care received they
+considered healthcare providers attitudes towards their
+concerns to be somewhat insensitive and dismissive Older
+pregnant women also expressed a need for more time for
+discussion during maternity care visits Robb et al
+again highlighted the importance of healthcare providers being
+aware how the concept of risk is assimilated by AMA mothers
+since the apparent over concern of health care professionals
+towards maternal and foetal well being can increase the stress
+levels of pregnant women Older pregnant women also benefit
+from being given some favourable or positive information
+related to delayed childbearing and motherhood as the
+reassurance derived from this decreases stress Women over
+years did not generally have negative feelings about the
+forthcoming birth of their children but they did find childbirth a
+more difficult experience compared with younger women
+DISCUSSION
+In the Western world the average age at which first time
+mothers give birth is continually rising Complications and
+risks associated with pregnancy among women of AMA have
+been addressed in numerous studies from different viewpoints
+mostly focusing on the medical risks associated with higher
+maternal age The purpose of this review was to profile how
+women over years and the associated pregnancy related risks
+have been described in previous research
+Studies examined in this review have shown an increased
+likelihood of certain medical complications among women
+of AMA However when exploring the risks associated with
+AMA it is important to consider the influence of
+confounding variables such as marital status economic
+status smoking parity BMI pre existing diagnoses history
+of using medications before conception and previous
+adverse prenatal outcome
+While the experiences and knowledge of the older
+pregnant woman are described in the present review the role
+of a father and family is not covered Although it was not in
+the search terms for this review it appears to be a subject
+area that has not been well addressed in the literature thus
+how fathers experience later childbearing is not well known
+Most studies reviewed here focused on the association
+between AMA and its related risks while only a few focused
+on the experiences of pregnancy in general
+In summary during pregnancy women over years
+prepare for pregnancy gather information receive
+information from healthcare providers and worry about their
+pregnancy and their status of being at risk Nevertheless
+these women also experience positive feelings One of the
+major difficulties to address is that while these women want
+to be as well informed and prepared as possible the
+information they receive can cause more anxiety rather than
+alleviate their concerns There are therefore
+The Open Nursing Journal Volume
+challenges for maternity care workers to understand the
+importance of a holistic approach which takes into
+consideration the individual physical emotional and social
+needs of older childbearing women
+Included in the present review are studies that were
+conducted using both qualitative and quantitative methods The
+original data varied from responses to small qualitative
+interviews to large data sets obtained from birth certificates or
+other archived records The majority of the studies reviewed
+here were carried out in the USA Canada UK and Australia
+but interestingly among these the number conducted in nursing
+science was relatively small Although the phenomenon of later
+childbearing is common in developed countries an analysis of
+the experiences of pregnant women in Europe is still needed in
+order to determine the most suitable ways in which maternity
+care should be structured to meet the individual needs of AMA
+women
+This review is limited to the small number of relevant
+studies that the literature search which focused on advanced
+maternal age was able to retrieve Although AMA is
+associated with increased pregnancy related risks and other
+complications by excluding these and other specific search
+terms the search results may have been constrained
+However the principal aim was to gather information
+specifically on older pregnant women for which purpose the
+terms used in the search were relevant and verified by a
+specialist librarian The search terms used should have
+returned literature that encompassed the specific risk issues
+related to AMA but they may not necessarily have done so
+As already stated the number of studies included in this
+review was quite small This was partly due to the fact that
+all studies relating to either postnatal issues or to specific
+medical problems associated with pregnancy in older
+women were excluded Any literature not published in
+English would also have been excluded from the search It
+may be fair to criticise the exclusion criteria used for the
+present review however the studies that were finally
+included formed quite a diverse selection and the overall
+breadth of issues covered in them means that the conclusions
+that can be drawn from the present review are valuable
+relevant and usable
+It is important to remember that most women of AMA
+give birth at term without experiencing adverse maternal or
+prenatal outcomes Furthermore the fact that absolute
+rates of prenatal mortality morbidity are low suggests that
+the majority of older women do have a desirable outcome to
+their pregnancy The level of information provided to an
+AMA woman concerning the risks that similar women
+might experience during pregnancy and the manner in which
+such information is given during maternity care should
+depend on her health status her existing knowledge and her
+need for information This requires careful judgement by a
+sensitive communicative healthcare professional who is
+able to develop a good patient provider interaction and who
+can allow and make available sufficient time for discussion
+Older pregnant women must be made aware of the risks
+related to later childbearing in order that they might be able
+to make informed decisions about whether or not to become
+pregnant but they should also be made aware of the
+probability of successfully reach full term and of having a
+completely problem free pregnancy and birth
+The Open Nursing Journal Volume
+CONCLUSION
+Pregnant women over years old have issues and
+concerns to which healthcare providers must pay attention
+when in professional contact with these women In order to
+meet the needs of older pregnant women healthcare
+providers themselves need more information concerning the
+experiences of older women during pregnancy in order to
+increase their understanding and knowledge of age related
+pregnancy risks Healthcare providers should remember that
+pregnancy can evoke a broad range of feelings in women of
+advanced maternal age which can vary from happiness to
+anxiety
+This review illustrates the importance of the nature of
+available information and how it is given to older pregnant
+women Older pregnant women have a desire for knowledge
+and they are active information seekers Information given
+by healthcare providers is therefore important for older
+pregnant women during their process of becoming mothers
+It is especially important that each woman of AMA should
+be treated as an individual and not simply as a member of a
+certain group Being aware of the diverse experiences of
+older pregnant women can help healthcare providers to
+understand better the needs of these women Such awareness
+can also help health care providers to realize that it is
+important to offer AMA women not only risk oriented
+information but favourable information concerning later
+childbearing as well In order to be a successful healthcare
+provider they should consider their own persona

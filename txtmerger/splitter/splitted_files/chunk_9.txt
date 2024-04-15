@@ -1,0 +1,1063 @@
+different
+pharmacokinetic properties utilizing one medium for measuring metal
+mixtures may not represent exposure for each metal or accurately reflect
+overall human exposure Moreover for different metals each medium
+may also represent a different window of exposure that provides
+important information in relation to the health outcome of interest
+A set of biomarkers reflecting integrated metal mixture information
+from multiple media not only reduces the error in the exposure esti
+mation but also captures different exposure sources and pathways
+Thus it may be appropriate to combine exposure from different media to
+assess human exposure to both single metal and metal mixtures Previ
+ous studies have proposed different techniques to integrate biomarkers
+of exposure to single chemicals including confirmatory factor analysis
+Budtz et al Grandjean and Budtz
+structural equation models Grandjean and Budtz Kim
+et al Heilmann et al and the derivation of multi media
+biomarkers MMBs through mixture methods non negative matrix
+factorization NMF independent component analysis ICA and
+weighted quantile sum WQS regression Levin Schwartz et al
+A few studies have modeled metal mixtures measured in multiple
+matrices simultaneously and demonstrated that a combination of
+different metal biomarker factors may improve the prediction of health
+outcomes Rechtman et al Bauer et al Those studies have
+validated techniques to select the most important biomarker for each
+exposure individually which has provided useful information for rec
+ommending a more suitable biomarker for a single metal To our
+knowledge very few epidemiological studies have evaluated the overall
+performance of simple metal mixtures up to metals measured in
+different media in association with health outcomes Levin Schwartz
+et al Sanders et al
+Therefore our goals were to assess
+whether data on a wide panel of metal mixture exposures measured
+using different media can be integrated and compare the performance of
+different matrices when assessing the relationship between metal mix
+tures and birth outcomes
+To achieve this goal we conducted the following study First we
+proposed ways to integrate multi media exposure information from
+biomarkers measured in different media Second we assessed the per
+formance of metal mixtures measured in different media and the com
+bined multi media exposure as related to health outcomes We chose
+adverse birth outcomes as our outcome of interest because exposure to
+metals impacts various biological pathways that contribute to adverse
+birth outcomes including preterm delivery and low birthweight Kim
+et al Singh et al Diamanti Kandarakis et al De
+Coster and van Larebeke Mendiola et al la Bloom et al
+Chen et al Zota et al Ashley Martin et al
+Environmental Research
+Mikelson et al Eum et al Thomas et al Anderson
+et al wu et al Silver et al
+Limited mixture studies
+on this topic have mostly focused on metals measured in either urine or
+blood
+Kim et al Signes Pastor et al Govarts et al
+Luo et al Lee et al In the Puerto Rico PROTECT study we
+measured a wide range of metals in paired urine and blood samples
+which enabled us to compare the associations between adverse birth
+outcomes and urinary or blood metal mixtures as well as integrated
+metal mixtures utilizing both matrices We hypothesized that the use of
+urine blood and the integrated metal mixtures would demonstrate
+differing performance when modeling adverse birth outcomes inform
+ing more efficient study designs for exposure assessment
+Methods
+Study population
+This study used data collected from pregnant women partici
+pating in the PROTECT study an ongoing prospective birth cohort
+Cantonwine et al Meeker et al Watkins et al
+Ashrap et al
+The PROTECT study was launched in with
+funding from the National Institute of Environmental Health Sciences
+NIEHS Superfund Research Program to investigate Puerto Rico s high
+preterm birth rate and the extent of hazardous waste contamination on
+the island PROTECT aims to explore environmental exposures and other
+factors contributing to preterm birth risk and other adverse birth out
+comes in Puerto Rico
+Study participants were recruited at approximately weeks of
+gestation at seven prenatal clinics and hospitals throughout Northern
+Puerto Rico and followed until delivery Cantonwine et al
+Pregnant women included in the study were aged
+Meeker et al
+between and years resided inside of the Northern Karst aquifer
+region and were planning to deliver in the participating hospitals
+Exclusion of participants included the use of oral contraceptives within
+the three months prior to pregnancy use of in vitro fertilization to
+become pregnant or any major medical or obstetrical complications
+including pre existing diabetes Ashrap et al Each woman
+participated in a total of up to three study visits during weeks
+weeks and weeks of gestation At the initial visit detailed
+information on medical and pregnancy history was collected
+Nurse administered questionnaires were used to gather information on
+housing characteristics employment status and family situation at an
+in home visit weeks Spot urine samples were collected from
+women at up to three visits and blood samples were collected during the
+first and third visits A total of women who delivered a live singleton
+birth had available data on paired urine and blood metal biomarkers
+collected at the same time point as well as information on covariates
+Fig
+The research protocol was approved by the Ethics and Research
+Committees of the University of Puerto Rico and participating clinics
+the University of Michigan Northeastern University and the University
+of Georgia The study was described in detail to all participants and
+informed consent was obtained prior to study enrollment
+Measurement of metals
+Spot urine was collected in sterile polypropylene cups and aliquoted
+within h after collection while blood samples were collected in metal
+free whole blood tubes All samples were frozen and stored at oc
+and shipped on dry ice Analysis was performed at NSF International
+Ann Arbor MI USA where concentrations of metals and metalloids
+were measured in both urine and blood arsenic As barium Ba
+beryllium Be cadmium Cd cobalt Co chromium Cr cesium cs
+copper Cu mercury Hg manganese Mn nickel Ni lead Pb ti
+tanium Ti uranium U vanadium V and zinc Zn an additional
+metals and metalloids were measured in urine only molybdenum Mo
+P Ashrap et al
+platinum Pt antimony Sb tin Sn and tungsten W Metal loid
+concentrations were measured using inductively coupled plasma mass
+spectrometry ICPMS as described previously
+Kim et al The
+laboratory selected the appropriate isotopes for the requested elements
+to best avoid interferences from high levels of carbon and chloride in the
+biological sample matrix The ICPMS was calibrated with a blank and a
+minimum of standards for each element of interest An value of
+was the minimum criterion for an acceptable calibration curve
+The calibration curves were verified by initial checks at three calibration
+points within the curve Continuing calibration checks and blanks after
+every samples were also utilized throughout the analytical run to
+ensure the ICPMS system was maintaining acceptable performance
+Urinary specific gravity SG was measured at the University of Puerto
+Rico Medical Sciences Campus using a hand held digital refractometer
+Atago Co Ltd Tokyo Japan as an indicator of urine dilution
+Preterm birth and auxiliary birth outcomes
+All birth outcome data were extracted from medical records We used
+the American Congress of Gynecologists ACOG recommendations to
+calculate gestational age at birth Committee on Obstetric Practice
+as previously described in detail Aker et al Ferguson
+et al
+In this study preterm birth was defined as delivery
+Environmental Research
+completed weeks of gestation as per common practice Preterm birth
+can be classed into two groups based on the clinical presentation of
+preterm delivery medically indicated preterm birth preterm births
+with preeclampsia or with both artificial membrane rupture and
+induced labor and spontaneous preterm birth presentation of prema
+ture rupture of the membranes spontaneous preterm labor or both In
+our analysis the outcome of interest was overall and spontaneous pre
+term birth
+Other birth outcomes including gestational age and fetal growth
+outcomes birthweight z score small for gestational age SGA and
+large for gestational age LGA were also included in our analysis as
+auxiliary outcomes INTERGROWTH standard gestational age and
+sex specific birthweight z scores were constructed and used in the
+analysis Villar et al SGA and LGA births were defined as below
+the percentile and above the percentile of birthweight
+z scores respectively
+Statistical methods
+To account for urinary dilution metal concentrations in urine were
+corrected for SG using the equation Pc P SGp SGi where
+Pc is the SG corrected biomarker concentration ng mL P is the
+measured biomarker concentration SGp is the median urinary specific
+PROTECT
+Visit I
+weeks
+Visit
+weeks
+Visit
+Delivery
+weeks
+Socio demographics covariates maternal age maternal education pre pregnancy BMI
+exposure to second hand smoking
+Urinary metals
+Blood metals
+Urinary metals
+Urinary metals
+Gestational age
+n
+birthweight
+measurement
+Blood metals
+N
+N women with complete exposure outcome and covariates variables
+I unsupervised ICC
+Biomarker Integration
+supervised WQS
+Urinary Blood and Multimedia biomarkers MMB cc and MMB
+Mixture Approach
+Estimate weights coefficients from RIDGE for ERS
+ERS
+urine
+blood
+ERS
+ERS
+Continuous ERS
+Association between continuous ERS
+urine
+ERS
+ERS
+ERS
+MMB WQS and
+blood
+MMB ICC
+Categorized ERS
+Association between tertiles of ERS
+unne
+ERS
+ERS
+ERS
+MMB WQS and
+blood
+MMB ICC
+preterm birth
+preterm birth
+AUC
+ERS Performance Evaluation
+OR
+Fig Schematic plot of study design sample size and statistical methods for constructing and evaluating multi media biomarker MMB and Environmental Risk
+Score ERS
+P Ashrap et al
+Environmental Research
+gravity in this population and SGi is the individual s urinary
+specific gravity Metal concentrations below the limit of detection LOD
+were replaced by LOD V The geometric averages of participant con
+centrations across the visits were calculated for each SG corrected uri
+visit visit and blood visit
+nary visit
+visit metal In the case of a missing value at one of the
+study visits the average for urine biomarkers was taken of the two
+remaining concentrations and the average for blood biomarker was
+equal to the single available concentration In the case of two missing
+urine measurement the average metal concentration was equal to the
+single available concentration After these steps of preprocessing metals
+that were measured in paired media have both urinary and blood
+geometric average measurements and had at least of samples with
+concentrations above the LOD in both matrices were included in sta
+tistical analysis
+Descriptive statistics were calculated for all exposures and outcome
+variables We applied natural logarithmic transformation to all urinary
+and blood metals because the distributions were right skewed prior to
+transformation Spearman s rank correlations rs were used for the
+analysis of the relationships between paired urinary and blood metal
+average concentrations Data were analyzed using R version A
+schematic representation of the data accumulation and analytic pro
+cedure is also presented in
+Fig
+MMB composition
+In this analysis we proposed two approaches to integrate exposure
+information from urinary and blood metal measurements into a multi
+media biomarker MMB In the first approach inspired by the
+concept of cue combination in quantitative cognitive neurosciences the
+minimum variance unbiased estimator for multiple sources of informa
+tion we used an internal reliability indicator of the biomarkers to
+integrate MMB unsupervised method In the second approach which is
+a supervised method weighted quantile sum WQS models were used
+because the relative contribution of the individual biomarkers to the
+overall exposure and health outcome association is easier to interpret
+than many other mixtures methods The details of the approaches are
+described below
+Integrating multi media biomarker MMB using intraclass corre
+lation coefficient ICC Characterizing the within and between
+individual variation of measurements with parameters such as intra
+class correlation coefficient ICC gives information on the reliability of
+the different media biomarkers ICC is defined as the proportion of the
+Wi l
+total variance that is attributed to between individual variability
+MMB
+W blood C blood
+ICC W u urine
+where w is the weight of a medium Wurinegcq VVblood l expresses
+whether a certain medium urine or blood as a biomarker for a
+particular metal is a relatively reliable biomarker and C is the geometric
+average of metal concentration
+Integrating multi media biomarker MMB using weighted quantile
+sum regression WQS In addition to the unsupervised learning method
+the amount of exposure information each biomarker carries can be
+quantified simultaneously based on the relationship of the exposure
+measured in a certain medium and health effect a supervised approach
+Therefore the second approach for integrating urinary and blood bio
+markers was weighted quantile sum regression WQS which models
+the body burden of quantiles of exposure WQS estimates a set of
+weights such that the linear combinations of the weights quantile
+biomarkers have the highest association with the outcome Carrico
+et al
+equation Details of the WQS equation and annotations
+are previously described Yorita Christensen et al In our anal
+ysis Wi is the unknown weight for the ith medium urine blood
+c z represents a vector of adjusted covariates and P is a vector of
+regression coefficients for those covariates By placing the constraints of
+the weight WD estimates to be non negative and sum to the
+comparative values of urine and blood metals to multi media bio
+markers and the joint effect can be determined The weights can then be
+used to quantify the contribution of each medium to the multi media
+biomarker In this supervised learning approach we used WQS
+bootstraps to determine the association between each birth outcome
+and urinary and blood biomarkers of each metal separately A pre
+liminary analysis was conducted before the construction of WQS models
+As WQS assumes linearity in an effort to detect potential non linear
+relationships between individual metals and birth outcomes we used
+generalized additive models GAM to graphically depict the metal and
+birth outcome relationship Results from GAM including metal concen
+trations as splines and the GAM output graphics showed that when the
+smoothing estimator is significant the observed associations are linear
+estimated degree of freedom Therefore we proceeded with WQS
+All outcomes were regressed on the geometric averages of SG corrected
+urinary and blood concentrations across all the available visits Then we
+combined the weights to generate multi media biomarkers using equa
+Uon
+ICC
+MMB
+WQS Wurine WQS curtne Wblood WQS blood
+Single pollutant analysis
+In epidemiological studies with repeated measurements the ICC
+metric ranging from O to indicates reliability among multiple mea
+surements of a quantity when close to O ICC reflects large variations
+between repeated measures a k a poor ability to distinguish between
+individuals with high and low exposure levels when close to the
+repeated measures are close to each other which reflects a good ability to
+discriminate between individuals with high and low exposure levels In
+this unsupervised machine learning approach we utilized the ICCs
+calculated from repeated measurements of SG corrected urinary up to
+three visits and blood metals up to two visits Ashrap et al as
+weighting parameters to construct an integrated MMB separately for
+each metal using equations
+W urine ICC
+Generalized linear models GLM were used to examine the associ
+ations between four types of metal biomarkers measured and composed
+urinary blood and MMBwQs and birth outcomes Separate
+models were used for each metal biomarker and outcome e g Mn
+and gestational age As both MMBs described above are
+composed using the geometric mean of SG corrected urinary and blood
+metal concentrations geometric average concentrations across all the
+available visits were also used for individual urinary and blood models
+in this single pollutant analysis Geometric mean of urinary blood and
+MMB biomarker concentrations were split in to tertiles risk stratifica
+tion purposes The full models included the tertiles of metal biomarker
+concentrations and a final set of covariates that were selected based on a
+priori knowledge and whether their inclusion appreciably changed the
+effect estimates of metal exposure Ashrap et al These cova
+riates were maternal age maternal education level pre pregnancy BMI
+and exposure to second hand smoking Effect estimates and con
+fidence intervals were calculated for the highest versus the lowest
+P Ashrap et al
+tertiles of exposure to measure the risk stratification properties of in
+dividual metals and compare them to the collective effects of metal
+mixtures as described below
+Mixture analysis
+Construction of environmental risk scores ERSs using ridge
+regression Environmental Risk Score ERS was proposed as a potential
+summary measure for the effects of mixtures in epidemiologic research
+Park et al
+The concept of ERS is to build a predictive risk model
+as a weighted sum of the exposure levels from simultaneous assessment
+of the all the pollutants in the mixture Weights are determined by the
+magnitudes standardized regression coefficients of the association
+between each exposure and the outcome of interest
+Park et al
+We constructed Environmental Risk Scores ERSs as weighted summary
+measures of the effects of metals where the weights were regression
+coefficients derived from models of the association between metal
+mixtures and the outcome of interest We utilized Ridge regression to
+guide the weight of each metal in relation to preterm birth Ridge
+regression is a regularized regression technique and it is one of the
+commonly used supervised machine learning solutions
+Hoerl and
+Ridge is used to constrain the size of the estimated
+Kennard
+coefficients and the objective function for a continuous outcome can be
+Environmental Research
+package in R Robin et al For binary outcome models with ERS
+tertiles we also computed the odds ratio OR for the highest tertile
+versus the lowest tertile to measure the risk stratification properties of
+ERS
+Results
+Descriptive analysis
+Demographic characteristics of the women in this analysis are
+summarized in
+and were described previously Ashrap et al
+Table
+Aker et al
+Mothers included in our analysis had similar
+demographic characteristics to the overall PROTECT population Fer
+guson et al Briefly the cohort included women in their late
+median years and half of them had a BMI less than kg prior
+to pregnancy The majority of women had private medical
+Table
+Demographic characteristics of study participants from the Puerto Rico
+Testsite for Exploring Contamination Threats PROTECT cohort n
+expressed as
+arg min y xTi
+Ridge
+n indexes the subjects xl e RP is the vector of p cova
+where i
+riates for the ith subject and Yi is the continuous health outcome for the
+ith subject Ridge regression utilizes the regularization penalty param
+eter A e O to solve the multicollinearity problem and control the
+shrinkage of the penalty Ridge regression decreases the complexity
+of the models and enforces the coefficients to be lower without forcing
+them to be zero Hoerl and Kennard Tibshirani
+The in
+dividual associations are not constrained to be in the same direction in
+Ridge regression Therefore Ridge regression was ideal in this setting as
+our analytic purpose was to evaluate the same full set of metals as
+mixtures across different media and integrated biomarkers that have
+different directions of individual metal birth outcome associations
+Using Ridge regression with an underlying model including biomarkers
+of metals and covariates we performed fold cross validation and
+selected the value that minimized the cross validated sum of squared
+residuals
+Park et al
+Four separate ERSs for metals in
+urine blood and MMBwQs were computed as a weighted sum
+of the metal concentrations C
+ERS
+ERS models and evaluations In order to assess risk stratification
+power of the different ERSs we further categorized ERS by its tertiles
+We then refit the regression models with both continuous and categor
+ical ERSs to examine its associations with preterm birth as well as the
+auxiliary birth outcomes We conceptualized the ERSs as a weighted sum
+of metal exposure measured in urine blood and multi media bio
+markers composed by WQS and ICC methods namely ERSurine ERS
+blood and ROC Receiver Operating
+Characteristics curves were used to evaluate the preterm spontaneous
+preterm birth SGA and LGA classification model performances of four
+ERSs Specifically the area under curve AUC of ROC were computed
+for quantifying and visualizing the biomarkers classification accuracy
+for the above mentioned binary outcomes We used a bootstrap resam
+pling iterations to compute confidence intervals of AUCs for
+different models Carpenter and Bithell and to test the difference
+between AUCs the ci auc and roc test functions in the PROC
+Variable
+Maternal age at enrollment years
+gravidity pregnancies
+Insurance type
+Private
+Public Mi Salud
+Missing
+Maternal education years
+High school GED
+Some College or technical school
+College degree
+Masters degree or higher
+Missing
+Income status US
+OOO to
+to
+Missing
+Marital status
+Single
+Married or living together
+Missing
+Gravidity pregnancies
+Missing
+Pre pregnancy BMI kg
+to go
+Missing
+Smoking Status
+Never
+Ever
+Current
+Missing
+Exposure to second hand smoking
+None
+Up to h day
+More than h day
+Missing
+Alcohol consumption
+None
+Before pregnancy
+Within the last few months
+Missing
+Infant Sex
+Female
+Male
+Missing
+Mean SD
+P Ashrap et al
+insurance were non smokers and very few reported alcohol
+consumption within the last few months More than half reported an
+annual household income of less than while had reported
+graduating from college or higher Mean gestational age was
+standard deviation weeks for singleton births included in this
+analysis among which were preterm and were spon
+displays descriptive statistics
+taneous preterm Supplementary Table
+including geometric mean geometric standard deviation and selected
+percentiles of metal concentrations measured in the paired urine and
+blood samples as well as Spearman correlation coefficients between the
+two media for each metal Most of the paired metal concentrations in the
+two matrices had a low but significant correlation with Spearman
+correlation coefficient ranging from to while Mn Ni and Zn
+concentrations measured in urine and blood were not correlated All the
+following results on urinary metals are presented for SG corrected
+concentrations unless described otherwise
+MMB composition
+The weights of urinary and blood metals in the composition of MMBs
+from ICC and WQS approaches are depicted in
+Fig As the ICC
+approach is based on an unsupervised learning method the metal
+biomarker weights are the same across the birth outcomes In contrast
+the WQS approach is a supervised learning method therefore the
+weights constructed for each of the metal biomarkers were different for
+the respective birth outcomes The corresponding urinary and blood
+weights WQS for each birth outcome are presented in Supplementary
+while
+focuses on weights constructed from WQS models
+Table
+Fig
+regressing preterm birth For the majority of metals blood was the main
+Metal
+co
+cu
+cs
+Mn
+Zn
+Hg
+Cd
+Blood
+Urine
+A proach
+ICC
+ICC
+WQS
+ICC
+WQS
+ICC
+WQS
+ICC
+WQS
+ICC
+ICC
+WQS
+ICC
+ICC
+WQS
+ICC
+WQS
+Environmental Research
+contributor to the MMBs from both ICC and WQS approaches The blood
+weights for those metals were higher from the WQS approach than the
+ICC approach except for Mn and Pb where the blood weights were
+higher from the ICC approach and than the WQS approach
+and In contrast MMB for As was mostly attributed to urine
+from the WQS approach
+ERSs
+ERS weights derived from Ridge models regressing preterm and
+spontaneous preterm birth on metal mixtures are shown in
+Fig The
+values of the weights for all the outcomes are provided in Supplemen
+tary Table The largest contributors to preterm birth ERS from urine
+mixture were Cd Ni and As For preterm
+birth ERSs constructed from the blood and MMBvvQs mixtures
+Pb and Mn were the largest positive weight contributors for all three A
+similar weight distribution was observed for spontaneous preterm birth
+The preterm birth ERSs from each biomarker mixture were normally
+distributed and ranged from to for urine to for
+blood to for MMBIcc and to for MMBwQs For
+preterm birth ERSs pairwise correlations among urine ERS and other
+ERSs were weak r whereas blood ERS had relatively higher
+correlations with the ERSs for r and MMBwQs r
+The weight distribution for spontaneous preterm birth ERSs were
+similar to overall preterm birth ERS weights
+Continuous ERSs and birth outcomes
+The result from our primary analyses of continuous ERSs and pre
+term birth are presented in
+All the ERSs were significantly
+Fig
+Weight
+Fig Bar graph of estimated urinary and blood biomarker weights for the MMBs using ICC approach and the WQS models of overall preterm birth Larger weights
+indicate greater contributions of the original biomarkers to the MMBs
+P Ashrap et al
+co
+cs
+cu
+Mn
+Zn
+Cd
+Hg
+Preterm Birth
+N
+Spontaneous
+Preterm Birth
+N
+o
+Column
+Z score
+Environmental Research
+ERS
+ERS blood
+ERS
+ERS
+Fig Heat map of weights for each individual metal biomarker extracted by
+the Ridge regression models regressing birth outcomes on urinary blood and
+two integrated multi media biomarkers MMB
+g
+Urine
+SG corrected
+Blood
+MMB
+ICC
+MMB
+WQS
+Fig Odds ratio OR of preterm birth associated with Environmental Risk
+Scores ERSs constructed for urine SG corrected blood and two integrated
+multi media biomarkers MMB Effect estimates presented as OR for IQR in
+crease in average exposure biomarker concentration Models were adjusted for
+maternal age maternal education pre pregnancy BMI and exposure to
+secondhand smoking
+associated with increased odds of preterm birth with odds ratios
+ranging from Cl to to Cl to
+Changes in auxiliary birth outcomes associated with ERSs are shown in
+Supplementary Table When spontaneous preterm birth is regressed on
+the four ERSs odds ratios were generally higher compared to the overall
+preterm birth models ranging from CI to
+CI For fetal growth outcomes all ERSs were signifi
+cantly associated with lower birthweight z scores the associations be
+tween ERSs and SGA were stronger OR to than the
+associations between ERSs and LGA OR to Supplementary
+Table
+visualizes the AUC plots depicting the performance of different
+Fig
+ERSs and preterm birth models and shows that there are no obvious
+differences in the AUC between urine blood and two MMB ERSs Area
+under the curves for the four ERSs also did not differ statistically
+Specificity
+Fig Area under the curves for preterm birth according to environmental risk
+score ERS constructed for urinary SG corrected blood and two integrated
+multi media biomarkers MMB
+indicating that urine blood and two MMB ERSs had comparable pre
+dictive performance in these models Predictive performances of ERS on
+other binary outcomes followed similar patterns performances of urine
+blood and MMB biomarkers were comparable with AUC ranging from
+to for spontaneous preterm birth from to for SGA
+and from to for LGA
+In an additional analysis to illustrate the difference in the urine
+biomarker performance between disregarding versus accounting for
+urine dilution we reported the odds ratio associated with both uncor
+rected and SG corrected urine ERSs Therefore the performance was
+compared between metal mixtures measured in uncorrected urine SG
+corrected urine blood and MMBwQs The results are pre
+sented in Supplementary Table
+and
+There
+Supplementary Figure
+was no significant association between uncorrected urine ERS and pre
+term birth and the odds ratios for other ERS associations were greater
+than the odds ratio for the uncorrected urine metal ERS The p values in
+Supplementary Figure represent the significance of the test results for
+comparing the predictive performances preterm birth of different ERSs
+using AUC The uncorrected urine ERS showed lower prediction per
+formance than SG corrected urine p blood ERS p
+MMBIcc ERS p and MMBwQs ERS p This indicates
+that the area under the uncorrected urine ERS curve AUC
+CI is significantly smaller than the other AUCs shown in
+Fig SG corrected urine ERS AUC the
+blood ERS AUC MMBIcc ERS AUC
+and MMBwQs AUC
+Because Pb was the most important contributor of preterm birth
+blood ERS as well as the two MMB ERSs we conducted another addi
+tional analysis excluding Pb from Ridge models while constructing and
+evaluating the performance of the ERSs The effect estimates from this
+analysis for all four urine blood MMBwQs ERS were atten
+uated compared to the primary analyses Supplementary Table
+Continuous blood ERS was no longer significantly associated with pre
+term birth OR IQR Cl to p The effect
+estimates for urine ERS was Cl to p
+MMBIcc was Cl to p and was
+P Ashrap et al
+Environmental Research
+for blood Cl to for MMBIcc and Cl
+Cl to p
+to for MMBwQs after controlling for the same set of cova
+Tertile metals ERSs and birth outcomes
+riates These ORS from the mixture analysis were considerably stronger
+ORS of preterm birth comparing the highest versus the lowest tertiles
+than those for individual metals Both individual and mixture analysis
+of individual metal biomarkers and ERSs are shown in
+After
+results for spontaneous preterm birth and auxiliary outcomes can be
+Fig
+adjusting for covariates individual associations for Mn MMBs Ni
+found in Supplementary Tables and
+urine Zn blood MMBs Cd urine Pb blood MMBs and odds of
+preterm were significant Ni and Cd biomarkers were associated with
+Discussions
+lower odds of preterm birth while Mn Zn and Pb were associated with
+higher odds of preterm birth For example a subject in Ni tertile had
+Epidemiologic studies aiming to determine the effects of environ
+times lower odds of preterm birth CI to compared
+mental chemical mixtures on human health are growing rapidly Due to
+with a subject in Ni tertile In contrast a subject in Pb tertile had
+limiting factors such as the financial cost and methodologic challenges
+times higher odds of preterm birth CI to compared with
+mixture studies based on biomarkers typically use a unified human
+a subject in Pb tertile As for ERS models ORS of preterm birth ranged
+specimen such as blood or urine to determine exposure to various
+from Cl to for urine Cl to
+chemicals Singh et al Martin and Griswold Borowska and
+oo
+I
+Metals ERSs
+co
+urine
+blood
+MMB ICC
+MMB WQS
+cs
+urine
+blood
+MMB ICC
+MMB WQS
+cu
+urine
+blood
+MMB ICC
+MMB WQS
+Mn
+urine
+blood
+MMB ICC
+MMB WQS
+urine
+blood
+MMB ICC
+MMB WQS
+Zn
+urine
+blood
+MMB ICC
+MMB WQS
+urine
+blood
+MMB ICC
+MMB WQS
+Cd
+urine
+blood
+MMB ICC
+MMB WQS
+Hg
+urine
+blood
+MMB ICC
+MMB WQS
+urine
+blood
+MMB ICC
+MMB WQS
+ERS
+urine
+blood
+MMB ICC
+MMB WQS
+Odds Ratio Cl
+Odds Ratio Cl
+Fig Odds ratio OR of preterm birth comparing the highest versus the lowest tertiles of individual metals and environmental risk scores ERSs constructed for
+urine blood and two integrated multi media biomarkers MMB mixtures Models were adjusted for maternal age maternal education pre pregnancy BMI and
+exposure to secondhand smoking
+P Ashrap et al
+metal exposure From a risk stratification perspective integration of
+urine and blood biomarkers that were derived from both ICC and WQS
+approaches improved the model performance in the mixture models
+compared to the sole urine or blood biomarker models Although the
+confidence intervals for these odds ratio estimates were wider the MMB
+integration especially using the WQS approach resulted in substantially
+higher effect estimate This finding supports that while multiple mea
+surements of the exposure mixture may measure metal body burden
+differentially there may still be room for improvement for exposure
+measurement error structure and effect estimate when incorporating
+urinary and blood biomarker information
+Strengths and limitations
+Specific strengths of our study include its longitudinal design in
+which repeated urinary and blood biomarkers provided more accurate
+exposure information during pregnancy This allowed us to quantify the
+temporal reliability of the two media measurements ICCs which were
+further used as weights to integrate the multi media measure of expo
+sure Secondly this study utilized data driven machine learning ap
+proaches to inform the composition of multi media metal biomarkers
+measured in different media and guide the construction of environ
+mental risk scores for each medium reflecting the overall exposure to the
+metal mixture Finally this study evaluated the health effects of multiple
+metals simultaneously and compared the performance of different
+media biomarkers and integrated biomarkers in relation to adverse birth
+outcomes in the context of a mixture The results lay the groundwork for
+future epidemiological studies on biomarker selection when examining
+the mixture effects of metals
+However our study has several limitations The relatively small
+sample size did not allow cross validation within this population on ERS
+which may have caused overfitting of ERS Future studies with a larger
+sample size should implement training and test datasets to cross validate
+ERSs Studies with larger sample sizes are also needed to address po
+tential improvement of models by including non linear terms and in
+teractions between metals and covariates that were not accounted for in
+the current analysis Depending on the pharmacokinetics of each
+chemical within a family mixture studies in general are challenged by
+the complications of combining chemical biomarkers where each may
+be representing a unique window of exposure While our ERS estimates
+also suffered from this limitation by combining multi media exposure
+using both urine and blood biomarkers we were able to reduce the
+measurement error in the mixture analysis to an extent Because the
+average concentrations of metal biomarkers across three visits were used
+in this analysis windows of vulnerability during pregnancy were not
+evaluated Given that associations between metal mixtures and birth
+outcomes may depend on developmental time windows it is important
+for future longitudinal studies to evaluate the temporality of the asso
+ciations In addition while we evaluated a mixture of essential and
+non essential metals it is possible that other metals that were not
+assessed in our study affect the performance of urine or blood bio
+markers Future work is needed to expand the mixture evaluation to
+include more metals and other biospecimens including hair and saliva
+as well as other adverse health outcomes because our results may not be
+generalizable to other outcomes of interest Finally while the mixture of
+metals in this study is representative of exposures experienced by Puerto
+Rican populations it may not accurately reflect exposure profiles for
+other populations
+Conclusions
+Our study used innovative methodology to provide new detailed
+insights into the individual and integrated associations of urinary and
+blood mixture biomarkers of metal exposure with birth outcomes Our
+investigation demonstrates within practical metal analytical panels
+that measuring metals in either urine or blood may be an equally good
+Environmental Research
+approach to evaluate the metals as a mixture The results of our study
+elucidate the importance of considering the overall mixture perfor
+mance of a certain medium Future studies are needed to expand to
+evaluate the performance with different metal panels media health
+outcomes of interest and methods to integrate exposure information to
+further address how to most effectively study the health impacts of
+exposure to mixtures
+Funding
+This study was supported by the Superfund Research Program of the
+National Institute of Environmental Health Sciences National Institutes
+of Health grants and
+Additional support was provided from NIEHS grant number
+and the Environmental influences on Child Health Out
+comes ECHO program grant number ECHO is a
+nationwide research program supported by the NIH Office of the Di
+rector to enhance child health This study was also partly supported by
+Award Number from the National Institute on Minority
+Health and Health Disparities
+Declaration of competing interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper
+Acknowledgements
+We would like to extend our gratitude to all PROTECT study par
+ticipants and their families The authors also thank the nurses and
+research staff who participated in cohort recruitment and follow up as
+well as the Federally Qualified Health Centers FQHC in Puerto Rico
+that facilitated participant recruitment including Morovis Community
+Health Center Prymed in Ciales Camuy Health Services Inc and the
+Delta OBGyn Group in Manati as well as the Manati Medical Center and
+the Metro Pavia Hospital in Arecibo
+Appendix A Supplementary data
+Supplementary data to this article can be found online at https doi
+org j envres
+References
+Aker A M et al The associations between prenatal exposure to triclocarban
+phenols and parabens with gestational age and birth weight in northern Puerto Rico
+Environ Res
+Aker A M et al The associations between prenatal exposure to triclocarban
+phenols and parabens with gestational age and birth weight in northern Puerto Rico
+Environ Res
+Anderson D W Mettil W Schneider J S Effects of low level lead exposure on
+associative learning and memory in the rat influences of sex and developmental
+timing of exposure Toxicol Lett
+Ashley Martin J et al Maternal and cord blood manganese Mn levels and birth
+weight the MIREC birth cohort study Int J Hyg Environ Health
+Ashrap P et al Elevated concentrations of urinary triclocarban phenol and
+paraben among pregnant women in Northern Puerto Rico predictors and trends
+Environ Int Pt
+Ashrap P et al Predictors of urinary and blood Metal loid concentrations
+among pregnant women in Northern Puerto Rico Environ Res
+Ashrap P et al Maternal blood metal and metalloid concentrations in
+association with birth outcomes in Northern Puerto Rico Environ Int
+Ashrap P et al Maternal urinary metal and metalloid concentrations in
+association with oxidative stress biomarkers Antioxidants
+Ashrap P et al Psychosocial status modifies the effect of maternal blood metal
+and metalloid concentrations on birth outcomes Environ Int
+Bakouei S et al High intake of manganese during second trimester increases the
+risk of preterm delivery a large scale cohort study Global J Health Sci
+P Ashrap et al
+Menke A et al The association of urinary cadmium with sex steroid hormone
+concentrations in a general population sample of US adult men BMC Publ Health
+Mikelson C K et al Placental concentrations of essential toxic and
+understudied metals and relationships with birth outcomes in Chattanooga TN
+Environ Res
+Miller R C et al Comparison of specific gravity and creatinine for normalizing
+urinary reproductive hormone concentrations Clin Chem
+Nagata C et al Urinary cadmium and serum levels of estrogens and androgens in
+postmenopausal Japanese women Cancer Epidemiol Biomark Prev
+Osendarp S J et al The need for maternal zinc supplementation in developing
+countries an unresolved issue J Nutr
+Park S K et al Environmental risk score as a new tool to examine multi
+pollutants in epidemiologic research an example from the NHANES study using
+serum lipid levels Plos One
+Park S K Zhao Z Mukherjee B Construction of environmental risk score
+beyond standard linear models using machine learning methods application to
+metal mixtures oxidative stress and cardiovascular disease in NHANES Environ
+Health
+Pearson M A et al Evaluation of physiological measures for correcting variation
+in urinary output implications for assessing environmental chemical exposure in
+children J Expo sci Environ Epidemiol
+Rechtman E et al Sex specific associations between co exposure to multiple
+metals and visuospatial learning in early adolescence Transl Psychiatry
+Rehman K et al Prevalence of exposure of heavy metals and their impact on
+health consequences J Cell Biochem
+Robin X et al pROC an open source package for R and S to analyze and
+compare ROC curves BMC Bioinf
+Sanders A P et al Combined exposure to lead cadmium mercury and arsenic
+and kidney health in adolescents age in NHANES Environ Int
+Sarkar S et al Manganese exposure induces neuroinflammation by impairing
+mitochondrial dynamics in astrocytes Neurotoxicology
+Signes Pastor A J et al Prenatal exposure to metal mixture and sex specific birth
+outcomes in the New Hampshire Birth Cohort Study Environ Epidemiol
+Silver M K et al Low level prenatal lead exposure and infant sensory function
+Environ Health
+Singh R et al Heavy metals and living systems an overview Indian J
+Pharmacol
+Song L et al Exposure to arsenic during pregnancy and newborn mitochondrial
+DNA copy number a birth cohort study in Wuhan China Chemosphere
+Environmental Research
+Srivastava S Dubey R Manganese excess induces oxidative stress lowers the
+pool of antioxidants and elevates activities of key antioxidative enzymes in rice
+seedlings Plant Growth Regul
+Steinmaus C et al Intraindividual variability in arsenic methylation in a U S
+population Cancer Epidemiol Biomark Prev
+Strimbu K Tavel J A What are biomarkers Curr opin HIV AIDS
+Suwazono Y et al Creatinine versus specific gravity adjusted urinary cadmium
+concentrations Biomarkers
+Taylor K W et al Statistical approaches for assessing health effects of
+environmental chemical mixtures in epidemiology lessons from an innovative
+workshop Environ Health Perspect
+Telisman S et al Reproductive toxicity of low level lead exposure in men
+Environ Res
+Thomas S et al Metals exposure and risk of small for gestational age birth in a
+Canadian birth cohort the MIREC study Environ Res
+Thounaojam T C et al Excess copper induced oxidative stress and response of
+antioxidants in rice Plant Physiol Biochem
+Tibshirani R Regression shrinkage and selection via the lasso J Roy Stat Soc B
+Vigeh M et al Blood manganese concentrations and intrauterine growth
+restriction Reprod Toxicol
+Villar J et al International standards for newborn weight length and head
+circumference by gestational age and sex the Newborn Cross Sectional Study of the
+INTERGROWTH Project Lancet
+Watkins D J et al Associations between urinary phenol and paraben
+concentrations and markers of oxidative stress and inflammation among pregnant
+women in Puerto Rico Int J Hyg Environ Health
+Weaver V M et al Impact of urine concentration adjustment method on
+associations between urine metals and estimated glomerular filtration rates eGFR
+in adolescents Environ Res
+Wu S et al Exposure to low levels of lead in utero and umbilical cord blood DNA
+methylation in project viva an epigenome wide association study Environ Health
+Perspect
+Yorita Christensen K L et al Multiple classes of environmental chemicals are
+associated with liver disease nhanes Int J Hyg Environ Health
+Zeng X et al Alterations of serum hormone levels in male workers
+occupationally exposed to cadmium J Toxicol Environ Health
+Zeng X et al Impact of cadmium exposure on male sex hormones a population
+based study in China Environ Res
+Zota A R et al Maternal blood manganese levels and infant birth weight
+Epidemiology
+ELSEVIER
+Environmental Research
+Contents lists available at ScienceDirect
+Environmental Research
+journal homepage www elsevier com locate envres
+environmental
+research
+Check for
+Performance of urine blood and integrated metal biomarkers in relation to
+birth outcomes in a mixture setting
+Pahriya Ashrapa Deborah J Watkins a Bhramar Mukherjee Zaira Rosario
+c
+Carmen M Vega c Akram Alshawabkeh F Cordero e John D Meeker
+a University of Michigan School of Public Health Departn tent of Environmental Health Sciences Ann Arbor MI United States
+b University of Michigan School of Public Health Departrnent of Biostatistics Ann Arbor MI United States
+c University of Puerto Rico Graduate School of Public Health UPR Medical Sciences Campus San Juan PR USA
+d College of Engineering Northeastern University Boston MA United States
+e Departrnent of Epidemiology and Biostatistics University of Georgia Athens Georgia United States
+ARTICLE
+Keywords
+Metals
+Prenatal stress
+Social support
+Manganese
+Puerto Rico
+INFO
+ABSTRACT
+Background Studies on the health effects of metal mixtures typically utilize biomarkers measured in a single
+biological medium such as blood or urine However the ability to evaluate mixture effects are limited by the
+uncertainty whether a unified medium can fully capture exposure for each metal Therefore it is important to
+compare and assess metal mixtures measured in different media in epidemiology studies
+Objectives The aim of this study was to examine the mixture predictive performance of urine and blood metal
+biomarkers and integrated multi media biomarkers in association with birth outcomes
+Methods In our analysis of women from the Puerto Rico PROTECT Cohort we measured essential and
+non essential metals in repeated and paired samples of urine and blood during pregnancy For each metal we
+integrated exposure estimates from paired urine and blood biomarkers into multi media biomarkers MMBs
+using intraclass correlation coefficient ICC and weighted quantile sum WQS approaches Using Ridge re
+gressions four separate Environmental risk scores ERSs for metals in urine blood and MMBvvQs were
+computed as a weighted sum of the metal concentrations We then examined associations between urine
+blood and multi media biomarker ERSs and birth outcomes using linear and logistic regressions adjusting for
+maternal age maternal education pre pregnancy body mass index BMI and second hand smoke exposure The
+performance of each ERS was evaluated with continuous and tertile estimates and confidence intervals of
+the odds ratio of preterm birth using area under the curve AUC
+Results Pb was the most important contributor of blood ERS as well as the two integrated multi media biomarker
+ERSs Individuals with high ERS tertile showed increased odds of preterm birth compared to individuals
+with low ERS tertile with fold CI to for urine specific gravity corrected fold
+CI to for blood fold CI to for multi media biomarkers composed using ICC
+and fold CI to for multi media biomarkers composed using WQS The four ERSs had
+comparable predictive performances AUC ranging from to when urine is examined with specific
+gravity corrected concentrations
+Conclusions Within a practical metal panel measuring metals in either urine or blood may be an equally good
+approach to evaluate the metals as a mixture Applications in practical study design require validation of these
+methods with other cohorts larger panels of metals and within the context of other adverse health effects of
+interest
+Abbreviations cobalt Co cesium Cs copper Cu manganese Mn nickel Ni zinc Zn arsenic As cadmium Cd mercury Hg lead Pb small for gestational age
+SGA large for gestational age LGA multi media biomarker MMB intraclass correlation coefficient ICC weighted quantile sum regression WQS odds ratio OR
+area under the curve AUC
+Corresponding author University of Michigan School of Public Health Department of Environmental Health Sciences Washington Heights Ann Arbor MI
+USA
+E mail address meekerj umich edu J D Meeker
+https doi org j envres
+Received March Received in revised form May Accepted May
+Available online June
+Elsevier Inc All rights reserved
+P Ashrap et al
+Introduction
+Exposure biomonitoring which estimates human exposure by
+measuring chemical or other agents of interest or their metabolic
+products in different biologic media such as blood and urine Strimbu
+has become a fundamental approach used in exposure
+and Tavel
+assessment and environmental epidemiology
+Burke et al
+With
+growing interest in the realistic scenario of studying the collective ef
+fects of environmental chemicals on humans including metals Taylor
+et al Kim et al Signes Pastor et al Govarts et al
+Luo et al Lee et al Braun et al Berger et al
+Kalioo et al
+biomonitoring has become indispensable in
+studies of mixtures Due to limiting factors such as financial cost and
+methodologic challenges mixture studies based on biomarkers typically
+use a unified human specimen i e blood urine etc to determine
+exposure to various chemicals Singh et al Martin and Griswold
+Borowska and Brzoska Rehman et al Gorman Ng
+et al Ashrap et al
+While this approach may capture
+overall exposure to a class of chemicals with similar structure and
+pharmacokinetic properties such as urinary phthalates and blood per
+fluorinated compounds PFAS it is more challenging to evaluate
+chemical classes such as metals Because each metal possesses different
+pharmacokinetic properties utilizing one medium for measuring metal
+mixtures may not represent exposure for each metal or accurately reflect
+overall human exposure Moreover for different metals each medium
+may also represent a different window of exposure that provides
+important information in relation to the health outcome of interest
+A set of biomarkers reflecting integrated metal mixture information
+from multiple media not only reduces the error in the exposure esti
+mation but also captures different exposure sources and pathways
+Thus it may be appropriate to combine exposure from different media to
+assess human exposure to both single metal and metal mixtures Previ
+ous studies have proposed different techniques to integrate biomarkers
+of exposure to single chemicals including confirmatory factor analysis
+Budtz et al Grandjean and Budtz
+structural equation models Grandjean and Budtz K

@@ -1,0 +1,1036 @@
+on a weak and marginal association
+was found between increased Cd level and reduced birth length
+Detected vs undetected Hg levels
+cm
+were associated with a non significant reduction in birth length
+In contrast a increase in
+placental Mn and Cr respectively was associated with a slightly longer
+gestational period weeks CI for Mn and
+weeks for cr see also GAM plots in Fig Re
+gression analysis with categorized metal levels and continuous out
+revealed a decrease of g CI
+comes
+Table
+in birth weight a decrease of cm CI
+in birth length and an increase of weeks CI
+in gestational age for women with placental Cd levels in the
+highest vs lowest tertile with the three outcomes showing significant
+linear trends across Cd tertiles see also Figs and In comparison to
+women with undetected placental Hg those with low levels showed a
+decrease of CI in birth length al
+though there was no evidence of a linear trend Table Placental Cr
+was inversely associated with birth length with a decrease of cm
+for women with Cr levels in the highest vs
+lowest tertile p trend whereas Cr levels in the middle and
+highest tertile were associated respectively with an increase in ge
+stational age of and
+weeks p trend Table Figs and GAM analysis
+suggested possible nonlinear relationships between Mn level and an
+thropometric parameters finding a slight inverted U shaped relation
+ship with birth weight and length Fig However linear models
+showed lower AIC values indicating no significant improvement in
+nonlinear models As and Pb were not associated with any of the birth
+outcomes No multicollinearity problems outliers or influential ob
+servations were detected in any model
+The sex stratified analysis revealed that head circumference was
+associated inversely with detected Hg cm CI
+and positively with Mn cm
+O Pinteraction
+for increased Mn Pinteraction
+in fe
+male newborns alone There was also a significant association between
+Cd and lower risk of preterm birth in male newborns alone OR
+for increased Cd In addi
+tion Mn and Cr were marginally and positively associated with gesta
+tional age in males weeks CI for increased
+Mn and weeks for increased cr but no
+statistically significant interactions were found
+Sensitivity analysis performed by excluding preterm births did not
+show substantially different results Tables and except for a
+weakening of the associations of Cd and Cr with gestational age and an
+apparent increasing trend in gestational age across Mn tertiles
+Table
+In models adjusted for maternal fish intake N inverse
+associations of Cd with birth weight and length and of Cr with birth
+length were strengthened Tables and while there were sig
+nificant associations of Mn with increased birth weight and head cir
+cumference and of Cd with reduced head circumference
+Table
+Stratified analysis after excluding preterm births strengthened the po
+sitive association between Mn and gestational age in males weeks
+for increased Mn
+while
+associations of gestational age with Cr and Cd in males lost statistical
+significance Models adjusted for maternal fish intake showed no sub
+stantial differences in the sex stratified analysis GAM analysis showed
+no evidence of nonlinear relationships in sex stratified models data not
+shown
+C Freire et al
+International Journal of Hygiene and Environmental Health
+Table
+Adjusted associations of categorical metal levels with birth weight height and head circumference and gestational age
+vs g
+vs ng g
+Metals
+ng g vs undetected
+ng g vs undetected
+p trend
+vs
+ng g
+p trend
+vs g
+p trend
+Cr
+vs
+ng g
+vs
+ng g
+p trend
+Birth weight g
+Gestational age weeks
+Beta
+Birth length cm
+Cl
+Head circumference cm
+Beta
+Cl
+Beta
+Cl
+Beta
+Cl
+Models included mother infant pairs except for head circumference models which included mother infant pairs
+Cd Mn and Cr were categorized in tertiles Hg was grouped as undetected between LD and median detected value and above this median
+All models are adjusted for cohort random effect newborn sex and for all metals simultaneously
+Birth weight models are additionally adjusted for gestational age maternal smoking maternal working during pregnancy and pre pregnancy BMI
+Birth length models are additionally adjusted for gestational age and maternal smoking during pregnancy
+Head circumference models are additionally adjusted for gestational age maternal smoking during pregnancy pre pregnancy BMI and cesarean delivery
+Gestational age models are additionally adjusted for maternal educational level
+p
+Discussion
+In this multicenter cohort study we found some adverse associa
+tions between placental metal concentrations and birth size
+Specifically Cd level was associated with reduced birth weight and
+length in a linear manner and with increasing odds of LBW in the
+global sample placental Hg level was related to reduced head cir
+cumference in female newborns and Cr level was associated with
+reduced birth length in the global sample These associations were in
+dependent of gestational age or preterm birth suggesting that exposure
+to these metals influences fetal growth Interestingly Cd levels were
+associated with a slight increase in gestational age and lower odds of
+preterm delivery There was also evidence of positive associations of
+Mn with gestational age in males and with head circumference in fe
+males and of Cr with gestational age in the global sample
+The placental metal levels found in the INMA cohorts fall within the
+low intermediate range of previous reports as already described
+Amaya et al Freire et al Studies on placental bio
+markers of exposure to toxic metals in relation to birth outcomes have
+published conflicting results
+Saleh et al Esteban
+Vasallo et al et al Gundacker et al Guo
+et al Kippler et al Llanos and Ronco Ronco et al
+Stasenko et al Zhang et al
+Thus a large study
+N in Saudi Arabia found that placental Hg levels were ne
+gatively associated with head circumference but not with birth weight
+or length and that placental Cd or Pb was not related to birth an
+thropometry
+The mean placenta Hg Cd
+Saleh et al
+and Pb levels in their population were several times higher than in our
+study Hg vs ng g Cd vs ng g Pb vs ng
+g respectively Studies in China
+Guo et al
+and in a small
+sample N in Austria Gundacker et al observed no as
+sociation between placental Hg and birth weight length or head cir
+cumference finding similar Hg levels as those in our population
+and ng g respectively vs ng g In the Austrian study how
+ever placental Pb content which was higher than in our study
+vs ng g was inversely related to birth weight and length but not
+with gestational age Gundacker et al A Chilean study of
+women reported higher placental As Cd and Pb levels in those
+delivering LBW vs normal weight newborns Llanos and Ronco
+while other studies indicated a relationship between placental Cd and
+reduced birth weight Kippler et al Ronco et al Stasenko
+et al
+length Stasenko et al and chest circumference
+Kippler et al In contrast two small studies in China Zhang
+and Spain
+et al
+found no association of
+et al
+placental Cd and Pb levels which were much higher than in the current
+study with birth weight length or head or abdominal circumference
+Other studies found no association between placental levels of Hg Pb
+or Cd and birth outcomes Esteban Vasallo et al
+Cadmium
+Because Cd accumulates in the placenta higher Cd levels would be
+expected in placentas from longer pregnancies This may explain the
+observed positive association with gestational age however this is not
+supported by previous findings of no or inverse associations between
+placental Cd and gestational age Esteban Vasallo et al
+et al Kippler et al Yang et al and the possibility
+of residual confounding cannot be entirely ruled out Despite its partial
+retention in the placenta Cd appeared to exert the most negative effect
+on birth size in our study population and placental Cd levels may be an
+indicator of maternal smoking during pregnancy
+Ronco et al
+Accordingly placental Cd content was significantly higher in the pre
+sent mothers who smoked during pregnancy than in those who did not
+median vs ng g Although studies using the placenta as
+exposure matrix have reported varied results regarding Cd and birth
+Saleh et al et al Kippier et al
+size
+Llanos and Ronco Ronco et al Stasenko et al
+Zhang et al
+our results are in agreement with the finding by
+various large studies linking Cd levels in maternal blood urine or cord
+blood to reduced birth weight Johnston et al Kippler et al
+Menai et al sun et al
+and length Saleh et al
+Zhang et al
+However in contrast to our finding a recent
+study of Chinese women found that maternal urinary Cd levels
+were not associated with birth size Yang et al Cd is known to
+cause oxidative stress and placental Cd may interfere with the transfer
+of Zn to the fetus Kippler et al which would likely have an
+C Freire et al
+Cd in legarithm scale
+Placental un boar i t m
+Cr in
+Placental Cd in bger hm scale
+in
+Placental Cr in lagarithm scale
+International Journal of Hygiene and Environmental Health
+Placental Mn in l rithm
+Placental Cr in scale
+Smoothing associations of placental Cd Mn and Cr levels with birth weight length and head circumference in multivariate analysis
+C Freire et al
+Placental Cd in logarithm scale
+International Journal of Hygiene and Environmental Health
+Placenta I CT
+Placental Mn in lagarithm scale
+Fig Smoothing associations of placental Cd Mn and Cr levels with gestational age at birth in multivariate analysis
+adverse effect on fetal growth Cd may also reduce placental leptin and
+progesterone synthesis and inhibit the migration of human trophoblast
+cells
+Jacobo Estrada et al Stasenko et al Cd has also
+been identified as an endocrine disruptor interfering with the estrogen
+receptor Kortenkamp In vitro studies have shown that Cd re
+duces the expression of the placental enzyme hydroxysteroid de
+hydrogenase type
+This enzyme protects the fetus
+Yang et al
+from high maternal glucocorticoid levels which may lead to fetal
+growth restriction and female fetuses have been shown to be more
+sensitive than male fetuses to increased glucocorticoid levels Murphy
+In this line
+Kippier et al
+reported that
+et al
+prenatal Cd exposure in Bangladesh was negatively related to birth
+weight and head circumference in females alone and that the asso
+ciation with fetal size was stronger for the females Our results do not
+support previously published findings of sex specific effects of Cd on
+birth size and this issue requires further research
+Arsenic
+Exposure to high naturally occurring levels of As in drinking water
+has been associated with adverse birth outcomes especially a sig
+nificant reduction in birth weight Laine et al Milton et al
+Quansah et al Rahman et al Several recent studies
+in the US have corroborated the association of prenatal As exposure as
+measured by drinking water concentration inorganic As and maternal
+levels total As with reduced birth weight at lower levels of exposure
+Almberg et al Claus Henn et al Gilbert Diamond et al
+while some evidence although still inconsistent has suggested
+that relatively lower levels of maternal total As are also related to re
+duced head circumference Claus Henn et al Gilbert Diamond
+et al
+In the present study placental total As level was not re
+lated to birth size or gestational age probably due to low levels of
+exposure especially in the Granada cohort and the fact that As ex
+posure in our population was mostly from fish in which As is largely
+found in its less toxic organic form
+Fort et al
+Mercury
+Conflicting results have been published on the relationship between
+birth outcomes and total Hg levels measured in cord blood or in ma
+ternal hair or blood Some authors have reported a relationship with
+reduced birth size Saleh et al Gundacker et al Murcia
+et al Vigeh et al wells et al
+and premature
+delivery
+Xue et al
+whereas others found no association with
+birth anthropometry Bashore et al Guo et al Drouillet
+Pinard et al Karagas et al or gestation length
+Bashore
+et al Drouillet Pinard et al Murcia et al Wells
+et al
+Studies of placental Hg levels have also yielded contra
+dictory results Saleh et al Esteban Vasallo et al
+The present study provides evidence of a negative effect of
+placental Hg on head circumference in females and suggests that the
+apparent negative effect on birth length is confounded by maternal fish
+intake as previously observed in relation to cord blood Hg in the INMA
+study
+Murcia et al Some previous studies have reported a
+negative association of prenatal Hg exposure with head circumference
+Saleh et al Murcia et al Cord blood total Hg levels in
+four of the present INMA cohorts were also associated with reduced
+head circumference independently of maternal fish intake but no
+difference was observed between the sexes Murcia et al It is
+noteworthy that a high proportion of the INMA cord blood samples had
+elevated levels of total Hg which were influenced by maternal intake of
+large oily fish
+and were positively correlated with
+Llop et al
+placental Hg levels data not shown Discrepancies between findings
+from INMA and other studies may be attributable to differences in
+sample sizes exposure biomarkers degree of Hg exposure or to the
+lack of adjustments for maternal fish intake and other relevant con
+founders among other factors
+The negative association observed between Hg and head cir
+cumference in females is consistent with the finding by our previous
+investigation of a negative relationship between cord blood Hg and
+psychomotor development at year of age in females alone Llop et al
+given that birth head circumference may be linked to subsequent
+cognitive development Methyl Hg has been found to induce oxidative
+Caballero et al Jauniaux et al which may con
+stress
+tribute to the effects of Hg on impaired fetal growth However further
+research is required to elucidate the biological mechanism underlying
+the sex specific association observed between Hg exposure and birth
+size
+Lead
+Prenatal Pb exposure is known to affect embryonic development
+and is associated with several adverse outcomes from infancy through
+adolescence It has been postulated that even low level Pb exposure
+may impair infant growth and development Bellinger
+How
+ever a review in described the epidemiological evidence for an
+C Freire et al
+association of in utero Pb exposure with fetal growth and preterm birth
+as limited
+Wigle et al
+Since then several studies in populations
+with different levels of exposure mostly measured in maternal blood
+have reported adverse associations of Pb levels with birth weight
+length and head circumference gestational age LBW SGA and pre
+term delivery
+Gundacker et al Lamichhane et al
+Rodosthenous et al Taylor et al Vigeh et al Wang
+et al zhu et al
+Placental Pb content was low in the
+present population especially in younger cohorts confirming previous
+INMA findings of cord blood levels several times lower than the
+threshold established by the World Health Organization Llop et al
+In fact among women with data available on placental and cord
+blood Pb N of those with placental Pb levels below the LD
+had undetected cord blood Pb As in the case of As the low placental Pb
+levels in our study population may explain the apparent lack of an
+adverse association between Pb and birth outcomes
+Manganese and chromium
+Studies addressing prenatal exposure to Mn have shown varied re
+sults in relation to fetal growth and gestation length
+et al
+Tsai et al Vigeh et al Zota et al
+with some ex
+perimental studies finding reduced fetal weight in pregnant mice ex
+posed to Mn Colomina et al Sanchez et al In the present
+study there was a positive effect of Mn on gestational age and an ap
+parent sex specific effect on increased head circumference which re
+mains unclear and warrants further investigation Mn is involved in the
+functioning of numerous organ systems and is needed for immune
+function digestion and bone growth but excessive Mn exposure is
+considered harmful to the fetus Aschner and Aschner However
+present results do not appear to support the hypothesis that fetal
+growth is favored by lower Mn levels but impaired by elevated levels in
+disagreement with the finding by
+of an inverse U
+Zota et al
+shaped relationship between maternal blood Mn and birth weight
+Higher urinary Cr levels in Chinese pregnant women from the
+general population were associated with an increased risk of LBW in a
+case control study
+Xia et al
+and with shorter gestation length
+and greater risk of preterm delivery in a large N cohort study
+Pan et al
+and these associations seemed to be modified by the
+sex of the newborn Pan et al Xia et al In contrast cord
+blood Cr levels were not associated with newborns birth size in a recent
+study conducted in a non industrialized island in the Canary archipe
+Iago Spain Cabrera Rodriguez et al Although the toxicity of Cr
+is mainly attributable to the hexavalent form Cr excessive triva
+lent Cr Cr which is the biologically active form of Cr may also be
+hazardous for health As in the Chinese studies
+Pan et al Xia
+et al
+total Cr levels were recorded in the present investigation
+but our results do not support their conclusions because we found that
+elevated Cr levels were associated with reduced birth length but longer
+gestation The lack of adverse association found in our study between
+Cr and other anthropometrical parameters or gestational age may
+possibly be due to the low levels of exposure to Cr Cr and Cr in
+our study population as also observed in the Canary islands Cabrera
+Rodriguez et al
+Strengths and limitations
+Major strengths of the present study include the relatively large
+number of participants in comparison to previous studies on placental
+metal levels the adjustment for several confounders the performance
+of sensitivity analysis sex stratified analysis adjustment for fish intake
+and exclusion of preterm births and the use of the placenta as ex
+posure matrix In addition this is one of the few studies to examine Mn
+and Cr in relation to birth outcomes Given the accumulation of metals
+such as Cd in the placenta during pregnancy it offers a singular op
+portunity to assess chronic maternal exposure to toxic chemicals
+International Journal of Hygiene and Environmental Health
+avoiding the need for repeated maternal blood or urinary sampling
+Esteban and Castafio Nonetheless the relationship between
+this measurement and exposure at critical times during pregnancy re
+mains unknown Our study is also limited by the fact that genders were
+not equally distributed the Granada cohort recruited only boys
+therefore sex specific associations should be interpreted with caution
+It should also be taken into account that some significant associations
+observed could result from chance because multiple analyses were
+performed However some of the statistically significant associations
+found were in line with the literature and seem unlikely to be the result
+of chance or residual confounding particularly the dose response re
+lationships observed for Cd and Mn in relation to birth size Further
+more the low numbers of LBW premature and SGA newborns with
+available data on placental metal levels likely reduced the precision of
+our estimates Finally the measures of birth outcomes were recorded
+according to each hospital protocol and our findings may have been
+subject to non differential measurement error
+Conclusions
+This study of Spanish mother child pairs from the general popula
+tion found that in utero exposure to Cd and Cr as measured by placental
+levels was associated with reduced birth size with no apparent sex
+specific effects and that placental Hg was associated with reduced head
+circumference in females Although the magnitude of the estimated
+effects is not necessarily clinically relevant for newborns the ubiquity
+of exposure to these metals especially to Hg through fish intake re
+presents an important public health issue Furthermore results ob
+tained suggest that Mn exposure may have a beneficial effect on ge
+station length and female head circumference and that Cr may also
+have a positive impact on gestational length but further investigation is
+required to verify this possible effect Larger prospective studies are
+also needed to confirm the adverse associations observed and to iden
+tify developmental windows of particular susceptibility to potentially
+toxic metals
+Acknowledgments
+The results would not have been achieved without the selfless col
+laboration of the study participants INMA families The authors are
+grateful to Richard Davies for editorial assistance This study was
+funded by grants from the Spanish Ministry of Health Instituto de Salud
+Carlos Red INMA FIS
+and Miguel Servet FEDER funds
+and CIBERESP European Union
+ENV DENAMIC cod Conseileria de Sanitat
+Generalitat Valenciana FISABIO UGP Generalitat de
+Catalunya CIRIT la de
+Department of Health of the Basque Government
+and Provincial
+Government of Gipuzkoa and
+Obra Social Cajastur Liberbank and University of Oviedo
+The funders had no role in the study design data collection or analysis
+decision to publish or preparation of the manuscript The authors have
+no relevant affiliation or financial involvement with any organization
+or entity with a financial interest or conflict with the subject matter
+discussed in the manuscript
+Appendix A Supplementary data
+Supplementary data to this article can be found online at https
+doi org j ijheh
+C Freire et al
+Olsen S F Secher N J Low consumption of seafood in early pregnancy as a risk
+factor for preterm delivery prospective cohort study BMJ
+Pan X Hu J Xia W Zhang B Lili W Zhang C Yang J Hu C Zhou A Chen Z
+cao J Zhang Y Wang Y Huang Z Lv B song R Zhang J Xu S Li Y
+Prenatal chromium exposure and risk of preterm birth a cohort study in Hubei
+China sci Rep
+Quansah R Armah F Essumang D Luginaah I Clarke E Marfoh K Cobbina S J
+Nketiah Amponsah E Namujju P B Obiri S Dzodzomenyo M Association
+of arsenic with adverse pregnancy outcomes infant mortality a systematic review
+and meta analysis Environ Health Perspect
+Rahman M L Kile M L Rodrigues E G Valeri L Raj A Mazumdar M Mostofa G
+Quamruzzaman Q Rahman M Hauser R Baccarelli A Liang L Christiani D C
+Prenatal arsenic exposure child marriage and pregnancy weight gain
+Associations with preterm birth in Bangladesh Environ Int
+Rodosthenous R S Burris H H Svensson K Amarasiriwardena C J Cantoral A
+Schnaas L Mercado Garcia A couli B A Wright R o Rojo M M
+Baccarelli A A Prenatal lead exposure and fetal growth Smaller infants have
+heightened susceptibility Environ Int
+Rodriguez Barranco M Lacasafia M Aguilar Gardufio C Alguacil J Gil F
+Alzaga B Rojas Garcia A Association of arsenic cadmium and
+manganese exposure with neurodevelopment and behavioural disorders in children
+a systematic review and meta analysis Sci Total Environ
+H B Kootbodien T Theodorou P Odland J Prenatal exposure to
+manganese in South African coastal communities Environ Sci Process Impacts
+Ronco A M Arguello G Munoz L Gras N Llanos M Metals content in pla
+centas from moderate cigarette consumers correlation with newborn birth weight
+Biometals
+Sanchez D J Domingo J L Llobet J M Keen C L Maternal and developmental
+toxicity of manganese in the mouse Toxicol Lett
+Stasenko S Bradford E M Piasek M Henson M c Varnai V M Jurasovic J Kusek
+V Metals in human placenta focus on the effects of cadmium on steroid
+hormones and leptin J Appl Toxicol
+sun H Chen W Wang D Jin Y Chen X Xu Y The effects of prenatal
+exposure to low level cadmium lead and selenium on birth outcomes Chemosphere
+Taylor C M Golding J Emond A M Adverse effects of maternal lead levels on
+birth outcomes in the ALSPAC study a prospective birth cohort study BJOG
+Tsai M s Liao K w Chang C H Chien L c Mao I F Tsai Y A Chen M L
+The critical fetal stage for maternal manganese exposure Environ Res
+Vigeh M Yokoyama K Seyedaghamiri Z Shinohara A Matsukawa T Chiba M
+Yunesian M Blood lead at currently acceptable levels may cause preterm
+labour occup Environ Med
+Vigeh M Yokoyama K Ramezanzadeh F Dahaghin M Fakhriazad E
+Seyedaghamiri Z Araki S Blood manganese concentrations and intrauterine
+growth restriction Reprod Toxicol
+International Journal of Hygiene and Environmental Health
+Vigeh M Nishioka E Ohtani K Omori Y Matsukawa T Koda S Yokoyama K
+Prenatal mercury exposure and birth weight Reprod Toxicol
+Vioque J Serra Majem L Aranceta Bartrina J Validez de la de la
+ingesta in Spanish y Salud Bases Cientificas y
+Aplicaciones second ed Masson Elsevier Barcelona Spain pp
+Vrijheid M Casas M Gascon M Valvi D Nieuwenhuijsen M Environmental
+pollutants and child health A review of recent concerns Int J Hyg Environ Health
+Wang H Li J Hao J H Chen Y H Liu L Yu Z Fu L Tao F B Xu D x
+High serum lead concentration in the first trimester is associated with an elevated risk
+of small for gestational age infants Toxicol Appl Pharmacol
+Wang J Gao z Y Yan J Ying x L Tong s L Yan c H sex differences in the
+effects of prenatal lead exposure on birth outcomes Environ Pollut
+wells E M Herbstrnan J B Lin Y H Jarrett J Verdon C P ward C Caldwell K L
+Hibbeln J R Witter F R Halden R U Goldman L R cord blood methyl
+mercury and fetal growth outcomes in Baltimore newborns potential confounding
+and effect modification by omega fatty acids selenium and sex Environ Health
+Perspect
+Wigle D T Arbuckle T E Turner M c A Yang Q Lili S Krewski D
+Epidemiologic evidence of relationships between reproductive and child health
+outcomes and environmental chemical contaminants J Toxicol Environ Health B
+crit Rev
+Xia W Hu J Zhang B Li Y Wise J P sr Bassig B A Zhou A Savitz D A Xiong
+C Zhao J du X Zhou Y Pan X Yang J wu C Jiang M Peng Y Qian Z
+Zheng T Xu S A case control study of maternal exposure to chromium and
+infant low birth weight in China Chemosphere
+xue F Holzman C Rahbar M H Trosko K Fischer L Maternal fish con
+sumption mercury levels and risk of preterm delivery Environ Health Perspect
+Yang K Julan L Rubio F Sharma A Guan H Cadmium reduces beta
+hydroxy steroid dehydrogenase type activity an expression in human placental
+trophoblast cells Am J Physiol Endocrinol Metab
+Yang J Huo W Zhang B Zheng T Li Y Pan X Lili W Chang H Jiang M Zhou
+A Qian Z Wan Y Xia W Xu S Maternal urinary cadmium concentrations
+in relation to preterm birth in the Healthy Baby Cohort Study in China Environ Int
+Zhang Y L Zhao Y c Wang J x Zhu H D Liu Q F Fan Y G Wang N F Zhao
+J H Lili H s Oil yang L Lili A P Fan T Q Effect of environmental ex
+posure to cadmium on pregnancy outcome and fetal growth a study on healthy
+pregnant women in China J Environ Sci Health A Tox Hazard Subst Environ Eng
+Zhu M Fitzgerald E F Gelberg K H Lin S Druschel C M Maternal low level
+lead exposure and fetal growth Environ Health Perspect
+Ziaee H Daniel J Datta A Blunt S McMinn D Transplacental transfer of
+cobalt and chromium in patients with metal on metal hip arthroplasty a controlled
+study J Bone Joint surg Br
+Zota A R Ettinger A S Bouchard M Amarasiriwardena C J Schwartz J Hu H
+Wright R O Maternal blood manganese levels and infant birth weight
+Epidemiology
+ICACSIS
+IEEE
+Jakpros Reproductive Health Education
+Application for Pregnant Women
+Budi Wiwekol Aida Riyanti Shanty Olivia Muhammad Priangga Vita Silvana Ilonna Putri Pertiwi Yohanes Satrya
+Wibawa Ririn Rahmala Febri Anggi Lewis Reso Putro Prince Gusti Agung Andon Hestiantoro Raden Muharram
+Achmad Kemal Harzif Gita Pratama
+Indonesian Medical Education and Research Institute Human Reproductive Infertility and Family Planning Cluster
+Division of Reproductive Endocrinology and Infertility Department of Obstetrics and Gynecology
+Faculty of Medicine Universitas Indonesia
+Jakarta Indonesia
+budiwiweko gmail com
+Abstract In Maternal Mortality Rate MMR was still
+high especially in Indonesian It had strong a correlation in
+Millenium Development Goals to achieve the better quality of
+human life Surprisingly most of maternal mortality case is
+usually preventable with good quality of knowledge In this day
+the use of social media has been increasing In social media
+has been using by billion people worldwide and the sixth
+highest number of internet user comes from Indonesia Besides
+that pregnant women have a tendency to use social media for
+seeking out about health information during pregnancy in
+prenatal perinatal and postnatal also reproductive health topics
+We created Jakpros application a smart mobile application who
+designed for women The purpose of it is for serving better health
+service and reliable information Our aim in this study is to
+analyze how the educational page in Jakpros application can
+increase pregnant women knowledge We recruited pregnant
+women participant from several sub district hospitals in
+Jakarta We detected their knowledge of reproductive health in
+pre test questionnaire about basic pregnancy After that we
+guided them to download Jakpros application on their mobile
+phone We asked them to use it in weeks and we were seeing
+their knowledge in post test The observational analytics study was
+using cross sectional and analyzed by SPSS to see the
+differences in knowledge Their knowledge has been increasing
+after they used the educational page feature in weeks Along with
+this era Jakpros application is an effective platform for making
+pregnant women is more educable
+Keywords health application jakpros knowledge pregnancy
+mobile application reproductive health
+I INTRODUCTION
+Maternal mortality rate MMR in Indonesia was still high
+In we found out mortality cases of live births
+As we knew MMR is one of Millenium Goals Development
+important indicator to achieve the better quality human life and
+health in the world In the global target has a goal to
+decrease MMR until less than cases To achieve the goals we
+have to know the main factor who plays an important role The
+past study showed that the pregnant women educational level is
+correlated with their mortality and health status during
+USAID SHERA SMART CITY
+pregnancy Meanwhile many of the mortality cases are actually
+can be detected and prevented in the earlier stage at least one
+quarter until one half cases Indirectly knowledgeable people is
+more awareness and have a tendency for getting better health
+than people who do not
+Social media has been using by billion worldwide users
+in The number is predicted to increase in In this
+era people have frequently used the internet for seeking out
+information especially in young women Related to it pregnancy
+is stressful moment and pregnant women had a tendency to use
+the internet to get another experience and opinion We could
+see that social media as an effective tool for giving knowledge
+and as a platform for health promotion for preventing
+Pregnant women often to use it of convenience and the low cost
+effectiveness access Furthermore it makes many new invention
+in making mobile health application who especially designed for
+women
+In We created the Jakpros application Jakarta
+Reproduksi Sehat Jakpros is a smart mobile health application
+who designed for women For making Jakpros application it
+needed framework who connect to build up a mobile hybrid
+applications with CSS and AngularJS Furthermore
+Web Browser was using for development and Google Chrome
+to debug it Currently Jakpros application is only available in
+Android We can simply get it by download from Google play
+store and the cost is free The purpose of the Jakpros application
+is for giving our patient convenience in communicate and access
+information We would like to explain the feature in it First the
+educational page is a feature to get reproductive health
+information such as prenatal care cervical cancer prevention
+high risk pregnancy and contraception knowledge The
+educational page display was a pictorial article and easy to read
+with language that is understood by the patient In this
+application we served information from the reliable obstetrician
+and gynecologist doctor and the patient does not have to worried
+about credibility The second feature is the question and answers
+forum by directly connecting the doctor and their patient In the
+past study we found out that patient would like to ask about their
+symptoms quickly and did not have to go to the doctor because
+of they lazy or shy to do it They would be happy to get
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+ICACSIS
+III RESULTS
+One hundred and sixty six pregnant women from several
+Sub District Public Hospital in Jakarta assessed to this study
+For the beginning participants who did not require the
+criteria were exclusion We conducted participants who
+assessed to this study After that they signed in the informed
+consent and answered a pre test questionnaire In the next days
+after weeks they used this application we collected them to fill
+out the post test questionnaire and participants were drop out
+of in this study Our total sampling was participants There
+were no specific follow up in this study In table I we could see
+the study was dominated by women in years old
+Most of the participant educational level was college and above
+had islam religion housewife and married
+women We conducted questions in multiple choice
+answer consisted of anemia nutrition and high pregnancy In
+this paper we showed you the right answer and their answered
+Table II In the first question we asked What is anemia
+means this purpose of this question was to detect their basic
+knowledge in it Most of the participants did not know the
+definition of anemia In the the pre test around of them
+answered anemia as decreased of red blood cells and
+participants answered anemia as decreased of hemoglobin In
+the post test there was an increase in the hemoglobin answer
+Second question was about How much calcium needs
+during pregnancy most of them answered that need mg
+per day calcium each day The right question was answered by
+in pre test and in post test We asked the benefit
+of amino acid for the third question We knew the answer was
+for fetal brain development and most of them answer it correctly
+in to Fourth participant answered that
+pregnant women need mg day calories in weeks of
+pregnancy the pre test was just answered for the right
+Even though they did not know in anemia definition they
+understood hemoglobin as an important role for hemoglobin
+formation Pre test was and post test was After the
+antenatal care question then we asked high risk pregnancy
+question Most of them answer right answer since the pre test
+and has been increasing in the post test We found out increased
+rate was from to in the post test for high risk
+pregnancy early sign Furthermore in the pre test
+participant answered seizure as the sign of eclampsia and it was
+significantly changed in post test around Then they
+could recognize that weight gain during pregnancy more than I
+kg in one week was abnormal We have seen an increased rate
+from to Dyspnea was a sign in heart disease
+answered by in the pre test and in post test For
+the last question there were increased in answer for the
+placenta previa sign
+In Table III we used Wilcoxon test and see the overall
+difference of the pre and post test P was statistically
+significant We focused to analyze the correlation between their
+score in educational level and job Figure III I V with Kruskal
+Wallis test
+IEEE
+TABLE
+Demographics
+Age
+Educational Level
+Religion
+Job
+Marital Status
+TABLE
+THE CHARACTERISTIC OF PARTICIPANT
+Study Participants n
+Primary
+Secondary
+High School
+Colle e and Above
+Moslem
+Protestan
+Catholic
+Hindu
+Housewife
+Gov ernment
+Private Employee
+Other
+Manied
+Single
+DIFFERENCE KNOWLEDGE IN PARTICIPANT
+Questions
+What is anemia means
+How much calcium needs during
+pregnancy
+What benefits of an amino acid
+How many calories needs for
+pregnant women in weeks
+pregnancy
+Who plays an important role in the
+formation of hemoglobin
+What is the sign of pregnancy with
+a high risk
+What is the sign of eclampsia
+Which abnormal weight gain
+during pregnancy
+What is the sign of heart disease
+during pregnancy
+What is the sign of placenta
+previa
+Precentage of
+Pre tes
+answers
+Precentage of
+Post test
+answers
+Decreased of Hemoglobin
+mg day
+Fetal brain develo ment
+m da
+Iron
+Headache
+Seizure
+I k in I week
+s nea
+Bleedin
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+ICACSIS
+TABLE III DISTRIBUTION OF PARTICIPANT ANSWERS
+Variable
+Participants knowledge in
+the pre test
+Participants knowledge in
+the post test
+Median
+P value
+Fig
+Fig
+Distribution of Score Related to Educational Level
+PRE TEST
+POST TEST
+Housewife
+Government u Private Employee Others
+Distribution of Score Related to Job
+IV DISCUSSION
+IEEE
+more aware if they understand in it They could detect early sign
+ofdisease and will lead them to right decision Furthermore they
+would do antenatal care regularly and keep their lifestyle to
+prevent unwanted things
+We found out people with a higher education background
+and had other jobs e g entrepreneur and freelancer were
+having a better in basic reproductive knowledge In the past
+study was shown that people with higher education have a
+tendency to get better knowledge due to experience and ease of
+access Therefore there was still an increase in other
+educational background and other jobs after using it in daily
+In our study we could not judge yet that knowledge would
+change their behavior too Two weeks periods of this study
+cannot explain in more detail about it Overmore lack of follow
+up and do they read from other sources are our limitation in this
+study However we found out that pregnant women knowledge
+could be increased through the educational page feature in
+Jakpros application
+CONCLUSION
+We found the educational page feature in Jakpros mobile
+health application had the positive benefit in serving
+reproductive health knowledge In addition knowledge could
+make pregnant women more aware of their condition during
+pregnancy and be able to prevent unwanted things Jakpros
+application is helping the doctor to spread reliable information
+The further study is needed to see do the changes in knowledge
+will be followed by changes in behavior In the next day we
+hope Jakpros application will reveal and contribute for
+decreasing Indonesian Maternal Mortality Rate
+ACKNOWLEDGMENT
+This research publication is supported by the United States
+Agency for International Development USAID through the
+Sustainable Higher Education Research Alliance SHERA
+Program for University of Indonesia s Scientific Modeling
+Application Research and Training for City centered
+Innovation and Technology SMART CITY Project Grant
+AID A Sub Grant
+Our purpose in this study was to examine and analyze the
+effectiveness of the educational page feature in Jakpros
+application for increasing pregnant women knowledge Most of
+them were answered the correct answer in the very first pre test
+Need to know that of participants had a high level in the
+educational background college and above We could see
+the post test differences in their correct answered At the end of
+using Jakpros in the second week There was a change in their
+knowledge even though did not significantly The previous
+study found that reproduction health knowledge was used as a
+first step to decrease the maternal mortality rate Besides that
+among the other factor knowledge is the easiest way to
+implement in daily Health information availability could
+change people behavior during pregnancy People would be
+REFERENCES
+Nababan H Y et al Trends and inequities in use of maternal health care
+services in Indonesia Int J Womens Health p I l
+Ryu S Book Review mHealth New Horizons for Health through Mobile
+Technologies Based on the Findings of the Second Global Survey on
+eHealth Global Observatory for eHealth Series Volume Healthcare
+Informatics Research
+Karlsen S et al The relationship between maternal education and
+mortality among women giving birth in health care institutions analysis of
+the cross sectional WHO Global Survey on Maternal and Perinatal Health
+BMC Public Health p
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+ICACSIS
+Gabanon E et al Social media for health promotion in diabetes study
+protocol for a participatory public health intervention design BMC Health
+Serv Res p
+van den Heuvel J F et al eHealth as the Next Generation Perinatal
+Care An Overview of the Literature J Med Internet Res p
+Overdijkink S B et al The Usability and Effectiveness of Mobile Health
+Technology Based Lifestyle and Medical Intervention Apps Supporting
+Health Care During Pregnancy Systematic Review
+JMIR Mhealth Uhealth p
+IEEE
+Getachew F et al Knowledge of direct obstetric causes of maternal
+mortality and associated factors among reproductive age women in
+Aneded woreda Northwest Ethiopia a cross sectional study Pan African
+Medical Journal
+Zhao Q et al Knowledge and attitude on maternal health care among
+rural to urban migrant women in Shanghai China BMC Women s
+Health
+Samkange Zeeb F N L Spallek and H Zeeb Awareness and knowledge
+of sexually transmitted diseases STDs among school going adolescents
+in Europe a systematic review of published literature BMC Public Health
+p
+Authorized licensed use limited to Amrita School Of Engineering Kollam Downloaded on January at UTC from IEEE Xplore Restrictions apply
+Maternal Health in the Perinatal Period and Beyond
+A global analysis of the determinants of maternal health and
+transitions in maternal mortality
+Paulo Souza Louise Tina Day Ana Clara Rezende Gomes Jun Zhang Rintaro Mori Adama Baguiya Kapila Jayaratne Alfred Osoti
+Joshua P Vogel Oona Campbell Kidza Y Mugerwa Pisake Lumbiganon Tungalp Jenny Cresswell Lale Say Allisyn Carol Moran
+Olufemi T Oladapo
+The reduction of maternal mortality and the promotion of maternal health and wellbeing are complex tasks This
+Series paper analyses the distal and proximal determinants of maternal health as well as the exposures risk factors
+and micro correlates related to maternal mortality This paper also examines the relationship between these
+determinants and the gradual shift over time from a pattern of high maternal mortality to a pattern of low maternal
+mortality a phenomenon described as the maternal mortality transition We conducted two systematic reviews of the
+literature and we analysed publicly available data on indicators related to the Sustainable Development Goals
+specifically estimates prepared by international organisations including the UN and the World Bank We considered
+frameworks depicting maternal health and wellbeing as a multifactorial process with superdeterminants that
+broadly affect women s health and wellbeing before during and after pregnancy We explore the role of social
+determinants of maternal health individual characteristics and health system features in the production of maternal
+health and wellbeing This paper argues that the preventable deaths of millions of women each decade are not solely
+due to biomedical complications of pregnancy childbirth and the postnatal period but are also tangible manifestations
+of the prevailing determinants of maternal health and persistent inequities in global health and socioeconomic
+development This paper underscores the need for broader multipronged actions to improve maternal health and
+wellbeing and accelerate sustainable reductions in maternal mortality For women who have pregnancy childbirth or
+postpartum complications the health system provides a crucial opportunity to interrupt the chain of events that can
+potentially end in maternal death Ultimately expanding the health sector ecosystem to mitigate maternal health
+determinants and tailoring the configuration of health systems to counter the detrimental effects of eco social forces
+including though increased access to quality assured commodities and services are essential to improve maternal
+health and wellbeing and reduce maternal mortality
+Introduction
+In world leaders committed to promoting peace
+prosperity health and global cooperation to ensure
+the sustainability of human civilisation by setting
+the Sustainable Development Goals SDGs However
+emerging priorities such as the COVID pandemic
+with its evolving consequences the pressing climate
+emergency conflicts and political instabilities have
+competed for attention and resources In this context
+previous and persistent challenges such as maternal
+mortality risk being neglected At the halfway mark to
+the goal of reaching a global maternal mortality ratio
+MMR of maternal deaths per livebirths
+remains elusive with maternal deaths per live
+births reported in This figure is much less than the
+MMR for which was maternal deaths per
+livebirths However since the MMR has
+decreased in only two regions central and south Asia and
+Australia and New Zealand Sub Saharan Africa Oceania
+excluding Australia and New Zealand east and southeast
+Asia and north Africa all experienced a stagnation in the
+MMR During this time period the MMR increased in
+Europe North America Latin America and the Caribbean
+The reported stagnation in global MMR is an urgent
+matter an estimated women died from causes
+www thelancet com lancetgh Vol February
+related to pregnancy childbirth and the postpartum
+period in alone The preventable loss of almost
+million lives of women between and is not
+only a global tragedy but also an indicator of gross health
+inequality between and within countries and a flagrant
+human rights violation Despite the large gains made in
+many countries in terms of improved agency education
+employment and fertility desires for women these
+advances have not been universal most maternal
+deaths remain preventable and are largely clustered
+among groups of socioeconomically disadvantaged
+women Disease outbreaks conflicts and other public
+health emergencies aggravate the situation by increasing
+the risk of pregnancy complications disrupting health
+systems and posing additional constraints to maternal
+and perinatal healthcare
+The most common approach to tackling maternal
+mortality by the global community has been to direct
+investments to address the leading biomedical causes of
+maternal death particularly during the perinatal period
+Compared with biomedical causes less attention has been
+paid to the underlying determinants of adverse pregnancy
+and childbirth outcomes and how health systems could be
+configured to implement effective interventions and
+mitigate the adverse effects of social factors on maternal
+Series
+Cross Mark
+oa
+Lancet Glob Health
+Published Online
+December
+https doi org
+See Comment page
+This is the first in a Series of four
+papers about maternal health in
+the perinatal period and beyond
+to be published in conjunction
+with eClinical Medicine All papers
+in the Series are available at
+wvwv thelancet com series
+maternal perinatal health
+Department of Social Medicine
+Ribeirao Preto Medical School
+University of Paulo
+Paulo Brazil
+ProfJ P Souza MD
+A C Rezende Gomes MSc
+BIREME Department of
+Evidence and Intelligence for
+Action in Health Pan American
+Health Organization PAHO
+World Health Organization
+Americas Regional Office
+Paulo Brazil ProfJ P Souza
+Department of Infectious
+Disease Epidemiology and
+International Health London
+School of Hygiene Tropical
+Medicine London UK
+LT Day MRCOG
+Prof O Campbell PhD Ministry
+of Education and Shanghai Key
+Laboratory of Children s
+Environmental Health Xinhua
+Hospital Shanghai Jiao Tong
+University School of Medicine
+Shanghai China
+Prof J Zhang MD Graduate
+School of Medicine Kyoto
+University Kyoto Japan
+Prof R Mori MD Kaya Health
+and Demographic Surveillance
+System Kaya HDSS Research
+Institute for Health Sciences
+IRSS Ouagadougou Burkina
+Faso A Baguiya MD Family
+Health Bureau Ministry of
+Health Colombo Sri Lanka
+K Jayaratne MD Department
+of Obstetrics University of
+Nairobi Nairobi Kenya
+A Osoti MD Department of
+Series
+Key messages
+Maternal health is a social issue maternal ill health and disability are not just medical
+problems but outcomes of a complex interplay of eco social forces lifestyles and
+exposures and individual level factors
+Focusing solely on biomedical causes of maternal mortality is insufficient and has
+possibly been the cause of many countries remaining at the same maternal mortality
+transition stage for decades out of countries analysed have been in the same
+maternal mortalitytransition stage for years
+Addressing maternal health issues and reducing maternal mortality are complex
+endeavours due to both modifiable and unmodifiable factors that affect outcomes
+a broad multipronged approach including promotion of social development and
+gender equality at national level will be necessary to tackle determinants that act
+upstream in the chain of events that leads to severe morbidity and death
+The health sector has a crucial role in saving the lives of women with pregnancy
+labour or postpartum complications and should be expanded to mitigate the
+detrimental effects of maternal health determinants
+Expanding demand for and access to high quality reproductive health services and
+commodities including safe abortion modern contraception and antenatal
+intrapartum and postpartum care are needed for primary prevention early
+identification and adequate management of pregnancy labour and postpartum
+complications
+Achieving universal health coverage is essential to ensure access to quality care during
+pregnancy childbirth and the postpartum period and to reduce maternal mortality
+Global Health University of
+Washington Seattle WA USA
+A Osoti Maternal Child and
+Adolescent Health Program
+Burnet Institute Melbourne
+VIC Australia
+Prof J P Vogel MD Department
+of Obstetrics and Gynecology
+Makerere University Kampala
+Uganda K Y Mugerwa MD
+Department of Obstetrics
+Gynecology Khon Kaen
+University Khon Kaen Thailand
+Prof P Lumbiganon MD UNDP
+UNFPA UNlCEF WHO
+Bank Special Programme of
+Research Development and
+Research Training in Human
+Reproduction HRP
+Department of Sexual and
+Reproductive Health and
+Research MD
+J Cresswell PhD L Say MD
+OT Oladapo MD and
+Department of Maternal
+Newborn Child Adolescent
+Health and Ageing
+A C Moran PhD Worl

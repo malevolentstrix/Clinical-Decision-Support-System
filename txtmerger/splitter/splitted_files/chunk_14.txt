@@ -1,0 +1,1051 @@
+ on average in other countries this figure is
+times In addition while over the last years the gap between
+men and women and older in most countries has narrowed
+in Ukraine it has widened In our opinion this indicates an
+extremely unsatisfactory state of health of the male population
+of the country in general and older age groups in particular
+Authorized licensed use limited to Amrita School Of Engineering Kollam Down oaded on January at UTC from IEEE Xplore Restrictions apply
+digital data standards such as FHIR
+and FAIRIO
+Taking into account the world experience of digital
+transformation of the social sphere and developed domestic
+approaches it is possible to verify further vectors of digital
+transformation of the healthcare sphere of Ukraine which
+should include introduction of valeological approaches in
+providing medical services through prevention and health
+promotion digital ecosystem of medical services which will
+unite all subjects of their provision the transition from a
+fragmented approach to health care delivery to the integration
+and coordination of services during treatment
+Covid stressed the vulnerability of an aging population
+to new diseases Therefore at present the issue of healthy
+aging is especially relevant
+V METHODS OF CONSTRUCTING THE INDEX OF
+POPULATION HEALTH
+Health status index models have received a great deal of
+attention in as a new quantitative approach for health
+planning and health policy making Although at the present
+time the models are mainly theoretical and experimental in
+nature it is hoped that when they are fully developed and
+ready for implementation they will contribute to rational
+health planning in two ways first by providing a combined
+morbidity mortality health index to measure the overall
+health of a population and to allow comparisons of
+populations on both a cross sectional and longitudinal basis
+and second by providing a method of measuring the health
+benefits of a health care program in general units to facilitate
+the comparison of different programs in the establishment of
+program priorities and in the allocation of limited resources
+In Kaltenthaler et al published a systematic review
+to identify articles describing population health indices and
+their development Nevertheless Kaltenthaler et al
+argued that a review on population health indices is beneficial
+because indices may facilitate the consideration of allocating
+and targeting health resources based on health needs from a
+multidimensional perspective
+In addition the development of health indices is
+knowledgeable for understanding the nature of the factor
+consequence relationships between the factors of health and
+its level After all a population health index therefore
+provides a summary measure of a certain health characteristic
+at the population level
+In order to better illustrate the aging process and the
+impact on it of various factors it is advisable to use the health
+index ISH which was proposed by one of the co authors of
+the article Shushpanov D The health status index is
+defined for each person as a composite index which consists
+of the individual health index of the IIP person and the life
+expectancy index of the ILE person according to the
+The life expectancy index ILE is defined as a person s
+age plus life expectancy at that age taking into account gender
+and type of area The maximum life expectancy is assumed to
+be years The minimum is years
+According to the methodology of construction ISH
+combines individual and general individual characteristics of
+a person s health and general characteristics of the whole set
+of persons taking into account their gender and living
+conditions in a particular country It should be expected that
+with age IIH will tend to decrease and ILE on the contrary
+to increase Accordingly the compositional index ISH
+balances these trends and thus adequately reflects the state of
+health of a person based on potential expected processes and
+the actual age reached in a particular country
+Consider examples of calculation and use of indices and
+characteristics of inequality for the population of Ukraine
+Individual health characteristics are determined according to
+a sample survey European Social Survey conducted by the
+Institute of Sociology of the National Academy of Sciences of
+Ukraine in At the same time five levels of self esteem
+are set for each person Accordingly the standardized values
+are equal to
+In fig show the features of the change of indices by age
+groups of persons taking into account their gender
+Man
+ISH
+oo
+Age group
+Fig Men s health indices by age groups
+It was found that for both men and women IIH is quite high
+at a young age years but with age it significantly
+decreases in men to at the age of years and older and
+in women up to at the same age This is due to a decrease
+in self esteem which is usually overestimated at a young age
+and underestimated at an older age Especially women have
+low self esteem Therefore they have a lower IIH
+generalized formula
+where u weighting factor
+The individual health index IH is determined for each
+person on the basis of survey data in particular by measuring
+the characteristics of the disease self assessment of the
+person s health level etc
+Woman
+ISH
+Age group
+Fig
+Indices of women s health status by age groups
+Authorized licensed use limited to Amrita School Of Engineering Kollam Down oaded on January at UTC from IEEE Xplore Restrictions apply
+ILE on the other hand tends to grow As a result in men
+aged years and in women aged years ILE and
+IIH as well as ISH have the same values ISH is calculated as
+the average between IIH and ILE We believe that such a
+combination of macro level indicators life expectancy and
+micro level indicators individual self assessment of a
+person s state of health gives the most complete picture of the
+state of health and can serve as a starting point for determining
+policies to maintain and improve health
+VI CONCLUSIONS
+Many countries have been facing the problem of
+population aging for more than a decade This list is updated
+every year Thus this problem has become global The causes
+of population aging are deformations of the sex age structure
+of the population a decrease in the birth rate and an increase
+in life expectancy
+The study established the role of socio economic
+development in the aging process and their relationship with
+the reproduction regime It is established that there is a
+relationship between the level of economic growth and
+population aging although with some exceptions in particular
+for Ukraine Peculiarities of aging by sex are revealed It is
+determined that in Ukraine there is a significant differentiation
+in the aging rates between men and women which is
+associated with high mortality rates among men
+In the conditions of aging it is important to ensure a
+healthy old age The realities of today during the COVID
+pandemic have shown that the most vulnerable and
+vulnerable are the elderly In Ukraine the mortality rate of the
+population aged and over remains one of the highest in
+Europe especially mortality due to diseases of the circulatory
+system According to the results of the author s research the
+structure of the prevalence of diseases among the elderly
+includes diseases of the circulatory system diseases of the
+digestive system musculoskeletal system and connective
+tissue
+Sociological research has identified determinants that
+largely determine the health of the elderly population The
+chance assessment method found that the chances of having a
+chronic disease of the circulatory system increase with
+declining socio economic status among divorced widowed
+and smokers
+The main task of the health care system in aging is a
+systematic and comprehensive approach should cover all
+periods of life and is relevant not only for those who are
+currently healthy
+II
+Why
+Population Aging Matters URL
+https www nia nih gov sites default files WPAM pdf
+Lee R The demographic transition three centuries of
+fundamental change Journal of economic perspectives Vol No
+pp
+Martin L G Demography and aging Handbook of aging and
+the social sciences Academic Press pp
+Serow W J Cowart M E Demographic transition and
+population aging with Caribbean nation states Journal of Cross
+Cultural Gerontology Vol No pp
+Kpessa Whyte M Aging and demographic transition in Ghana
+State of the elderly and emerging issues The Gerontologist Vol
+No pp
+Shevchuk P E Fast G Yu Regularities of formation of sex and
+age structure of the population of Ukraine Demography and Social
+Economy
+http dspace nbuv gov ua bitstream handle
+Shevchyk pdf
+d Albis H Collard F Age groups and the measure of
+population aging Demographic Research Vol pp
+Yenilmez M I Economic and social consequences of
+population aging the dilemmas and opportunities in the twenty first
+century Applied Research in Quality of Life Vol No pp
+Zhang K et al Population aging and economic growth China s
+Population Aging and the Risk of Middle income Trap Springer
+Singapore pp
+Terets VM Depopulation and population aging in the socio
+economic context Visnyk of Khmelnytsky National University Ne
+pp
+The population of Ukraine Imperatives of demographic aging
+Kiev VD ADEF Ukraine p
+Statistics
+Service
+of Ukraine
+State
+http database ukrcensus gov ua
+World bank URL https data worldbank org
+Annual report on the state of health of the population sanitary and
+epidemiological situation and the results of the health care system of
+Ukraine Ministry of Health of Ukraine State Institution
+UISD of the Ministry of Health of Ukraine Kyiv IEC Medinform
+S
+Shushpanov D G Socio economic determinants of public
+health a monograph Ternopil Economic Thought p URL
+http dspace wunu edu ua j spui bitstream I
+Yom
+pdf
+Decade of Healthy Ageing WHO URL
+https www who int docs default source decade of healthy
+ageing final decade proposal decade proposal final en pdf
+Current issues of digital transformation of health care in Ukraine URL
+https esemi org
+The concept of development of the digital economy and society of
+Ukraine for Order of the Cabinet of Ministers of Ukraine
+from January NQ r
+Oliynyk DI Economization of the market of digital medical services
+the introduction of international experience of standardization URL
+https niss gov ua sites default files cyfmedposlugy pdf
+Torrance G W Health status index models a unified mathematical
+view Management science Vol No P
+Kaltenthaler E Maheswaran R Beverley C Population based health
+indexes a systematic review Health Policy Vol H
+Ashraf K et al Population indices measuring health outcomes A
+scoping review Journal of global health Vol No l URL
+https www ncbi nlm nih gov pmc articles
+REFERENCE
+World Population Ageing Highlights Living
+arrangements of older persons United Nations New York URL
+https www un org development desa pd
+sites www un org development desa pd files
+ageing highlights pdf
+United Nations Development Programme September UN
+Development
+Human
+Report
+https archive org detaiIs
+Aging Demographic Data Sheet
+URL
+http pure iiasa ac at id eprint AgingDemData pdf
+Decade of Healthy Ageing Plan of Action WHO URL
+https www who int publications m item decade of healthy agelng
+plan of action
+World report on ageing and health WHO URL
+https apps who int iris bitstream handle
+Authorized licensed use limited to Amrita School Of Engineering Kollam Down oaded on January at UTC from IEEE Xplore Restrictions apply
+Public Health
+Contents lists available at ScienceDirect
+Public Health
+homepage
+www elsevier com locate puhe
+ELSEVIER
+Original Research
+journal
+A comprehensive overview by region of condoms natural family
+planning and spermicide as a contraceptive method among men aged
+years attending contraceptive services in England
+RSPH
+PUBLIC
+HEALTH
+Check for
+update
+A Jordan A D Wilson
+Psychology De Montfort University UK
+ARTICLE INFO
+Article history
+Received August
+Received in revised form
+February
+Accepted March
+Available online May
+Keywords
+Condoms
+Natural family planning
+Spermicide
+Men
+Contraception
+England
+Introduction
+ABSTRACT
+Objectives This study aimed to provide a comprehensive overview of contraceptive methods self
+reported by men in England over years focusing on condoms in comparison to any male method
+and explore condom as a contraceptive method by region and ethnicity
+Study design Data were from the Sexual and Reproductive Health Services Contraception England
+census data set from to Once missing data were removed this left a total of
+men Two binomial logistic regression models were performed Model examined ethnicity region and
+time on condom as a method of contraception and Model examined ethnicity region and time by any
+male contraceptive Descriptive statistics were run for natural family planning and spermicide
+Results Model revealed a significant model P and predicted that condoms as
+a method decreased in London with a greater decrease in Midlands London saw the lowest rate of
+decline among the non White ethnic group whereas North and South regions increased probability over
+time The North started at a higher probability and the South at the lowest Model also revealed a
+significant model P with a similar pattern to Model Contingency tables
+showed natural family planning and spermicide were the least reported methods and decreased over
+time
+Conclusions As any male contraceptive method appears to be decreasing in both models reproductive
+health promotion is required This study has implications for commissioning funds and for identifying
+regional areas of further investigation
+The Authors Published by Elsevier Ltd on behalf ofThe Royal Society for Public Health This is an
+open access article under the CC BY NC ND license http creativecommons org licenses by nc nd
+A rich history of men and family planning as part of the global
+agenda and how this relates to the United Kingdom have already
+been documented l While the United Kingdom has yet to report
+successful interventions several low and middle income coun
+tries have already reported success engaging men For example
+research in Malawi suggests that increased communication among
+couples is mediated by an increase in knowledge and a decrease in
+male opposition within the couple this is described as an essential
+part of the intervention s success Despite the United Kingdom
+having a history of providing aid for family planning to low and
+Corresponding author Division of Psychology Faculty of Health and Life Sci
+ences De Montfort University The Gateway Leicester Leicestershire LEI LJK
+Tel
+E mail address amanda wilson dmu ac uk A D Wilson
+https doi org j puhe
+middle income countries for targeted programming albeit this aid
+has recently been cut the United Kingdom has invested very little
+funding into research on their own men s family planning practices
+including men s use of condoms for contraception natural family
+planning or spermicide as a method of contraception leaving little
+understanding of men and contraception There is now a public
+health movement beginning in the United Kingdom for men to
+responsibly ejaculate or in other words take primary re
+sponsibility for contraception for which there are currently bar
+riers The literature suggests there is a need to further understand
+men s choice of contraception to be effective with increasing up
+take and overcoming barriers to primary responsibility However
+before we can begin to overcome barriers we must start with more
+effective data collection techniques and advanced analysis in pub
+lished reports to guide decision making For a more in depth re
+view of the literature see Supplemental Materials
+The Authors Published by Elsevier Ltd on behalf of The Royal Society for Public Health This is an open access article under the CC BY NC ND license
+http creativecommons org licenses by nc nd O
+A Jordan and A D Wilson
+Aims and exploration
+This study objective was to build upon the research of Pearson
+and Pearson and Clarke using the same source of national data sets
+to understand condoms natural family planning and spermicide as
+a contraceptive method of men by region in England over years
+from to The data sets available from the National
+Health System NHS clinics have some identified limitations by
+Pearson and Pearson and Clarke for example the data set lacked
+complete demographic information on men such as age although
+age was recorded for women Furthermore the data were un
+available on men who attend for family planning purposes as part
+of a couple because the patient in a couple was recorded to be the
+woman partner However some limited information was provided
+regarding the ethnic background of men again little is currently
+known about how ethnic background informs contraceptive
+method reported among men in the United Kingdom Therefore
+the second objective of this study was to then explore ethnicity and
+contraceptive as a method by men in England It is to the authors
+knowledge the first study to begin to understand condom as a
+method by region over time It is also the first study to look at
+natural family planning and spermicide as a method of contra
+ception by men in England
+Method
+The study was a secondary analysis of data from the NHS Con
+traceptive Services England Community contraceptive services
+therefore according to the University Ethics Committee this study
+was exempt from ethical approval as the data are in the public
+domain The primary focus of the data is contraceptive care and the
+variable for condoms is labeled by NHS Digital as contraceptive
+method and implies that the data collected is for family planning
+purposes Therefore it is assumed that the data collected is on
+condoms for contraceptive purposes The census is run on a yearly
+basis from April to March each year and is considered the most
+comprehensive sexual and reproductive service information
+resource for the United Kingdom The non disclosive data set
+census used for this study included
+and The cutoff year was as
+these data were collected before the COVID pandemic which
+has affected those men who use contraceptive clinics and would
+not make for a meaningful comparison at this stage A total of
+men participated in the national census from to
+The data points are entered by the service provider which includes
+national regional and local authorities
+Previous research sug
+gests this is predominantly nurse practitioners in the United
+Kingdom
+Data set characteristics
+The female participants were removed from the data set using
+an excel macro to ensure only male responses were used Similar to
+Pearson and Pearson and Clarke there was only one classification
+value for males H Male all ages and all observations matching
+this value comprised the overall dataset N A robust
+sample was an essential part of the inclusion criteria and the
+sample consists of data only from the regions of England North
+Midlands London and South for a map of these regions see Office
+for National Statistics ONS The rationale for
+excluding responses outside of England is that there was not
+enough data collected over the years on participants from
+Northern Ireland n Scotland n and Wales n to
+warrant inclusion in the analyses However while limited to En
+gland participants did not have to be British nationals to be
+Public Health
+included as participants foreign nationals could present at services
+and were recorded as part of the data set although nationality was
+not recorded The remaining men s contraceptive method was
+either not recorded or they were using no contraceptive at all
+potentially reliant on female methods but exactly how many men
+fell into these subgroups was not clear within the data set Once
+missing data on contraceptive method was removed from the data
+set there was a total of men s data left to analyze With
+speculation that some of the excluded with missing data
+may have been using the service for sexual health not contracep
+tion however without better data collection methods this could
+not be confirmed Method as a variable meant the patient reported
+what their method of contraception was to the clinician To create
+the contraceptive method variable the main method secondary
+method and third method were combined into one variable to
+measure any method of contraception It did not mean that the
+method of contraception was given to the participant or used by
+them in practice Therefore this data set then looked at self
+reported methods of contraception not contraceptive use Each
+year s data were initially combined into a singular data set with
+filtering then occurring for each year s data to provide a view of
+self reported contraceptive methods over time
+Analytic techniques
+Two binomial logistic regression models were performed The
+first model examined the effect of ethnicity region and time on
+condom as a method of contraception The second model examined
+the effect of ethnicity region and time on any contraceptive as a
+method in comparison to no contraceptive method All P values
+reported were two tailed Furthermore two contingency tables
+were performed to understand both natural family planning not
+defined in the data set by ethnicity region and time as well as for
+spermicide by ethnicity region and time R studio was used to
+analyze the data All statistical analyses were conducted using
+packages in the R statistical environment version
+Pack
+ages in the R statistical environment refers to additional modules
+within R that allow specific analyses to be conducted All the data
+were prepared using the R package dplyr
+Results
+Sociodemographics
+The number of males per year were
+and from to This shows a steady
+decrease from to with the number of men attending
+contraceptive services reduced by more than half In the overall
+data set were White and were non White The
+responses for the ethnic group not known stated were filtered from
+the data set because of the lack of clarity whether this was missing
+data or the participant refused to answer the question For any
+method of contraception overall men reported condom as
+a main method of contraceptive reported natural family
+planning reported spermicide and men did not report a
+main contraceptive method Overall n of men
+were recorded as using the clinic as their main contact
+n were contacting the clinic for the first time of
+men attended a primary healthcare center n with the
+majority choosing to maintain their current contraceptive
+method n It is acknowledged that n
+of men received both contraception and sexual health advice
+suggesting they may choose condoms for dual protection contra
+ception and sexually transmitted infections STIs However
+whether the sexual health advice was sought by the men or
+A Jordan and A D Wilson
+whether condoms were chosen for dual protection or for non
+contraceptive use cannot be distinguished in the data collected
+While of men in this study reported that it was their first
+contact for their contraceptive method of men reported that
+it was not their first contact and they were maintaining their cur
+rent contraceptive method Patient identification numbers are used
+for every visit to ensure accurate reporting such as ensuring mul
+tiple visits are accurately recorded but these identification
+numbers are not shared as part of the data set for confidentiality
+The researcher therefore chose to include men with
+reasons
+first and second contacts for contraceptive method as it could not
+be determined when the men first accessed the service although
+this may bias the data set The frequency and percentages for the
+overall data set by demographic category can be found in Table
+Model Ethnicity region year and condom as a method
+The model used simultaneous forced entry of the variables and
+dummy coding of the ethnicity and region variable with those of
+White ethnicity and the North region treated as the reference
+values respectively This resulted in a significant model
+P see Table
+for parameter estimates
+standard errors and P values
+The model revealed that when compared with those in the
+North region condom as a method for those of White ethnicity in
+the South region had a significantly lower log odds of method at
+year O Those of White ethnicity in the London region
+had significantly higher log odds and those of White ethnicity in
+the Midlands region had no significant difference compared with
+those of White ethnicity in the North region Furthermore those of
+non White ethnicity had a higher log odds of using condom as a
+method at year O when compared with those of non White
+ethnicity in the North region The log odds of condom as a
+method for those of non White ethnicity at year were lower in the
+South and London regions but higher in the Midlands region in
+comparison to those of non White ethnicity in the Midlands see
+for parameter estimates standard errors and P values
+Table
+The model also revealed that the log odds of condom as a
+method increased over time for those of White ethnicity in the
+North region This increase was of a larger magnitude in the South
+region but there was a decrease over time in log odds of the
+method in the Midlands and London regions Those of non White
+ethnicity in the North region had no significant difference
+compared with those of White ethnicity in the North region in log
+odds of condom as a method over time Compared with the log
+odds of condom as a method of those of non White ethnicity in
+the North region there was an increase in log odds over time for
+those of non White ethnicity in the London region However there
+was no significant difference in log odds of condom as a method for
+those of non White ethnicity over time in the Midlands and South
+regions when compared with the log odds of the method for non
+White ethnicities in the North
+Overall the model shows that the predicted probability of
+condom as a method of contraception for non White and White
+ethnicities decreased in the London and Midlands regions over
+time and this decrease was at a greater rate in the Midlands region
+The rate of decrease over time was slower for non White ethnicities
+in the London region The North and South regions had an increase
+in predicted probability of condom as a method over time but the
+North started as a high predicted probability of the method and the
+absolute change is not large in magnitude In contrast the South
+started with lowest predicted probability of condom as a method
+than all other regions but had the highest rate of increase White
+ethnicities had a lower predicted probability of the method across
+all time points for all regions
+shows a graph of predicted
+Fig
+Public Health
+Table
+Sociodemographic characteristics of participants
+Demographic characteristics
+Aged years
+Male all ages
+Ethnicity
+White
+Non White
+Main contact
+Yes
+No
+First contact
+Yes
+No
+Location type
+Primary care health centers
+Other locations
+Other educational
+Home
+Street or public place
+Prisons
+Premises
+Open space
+Unspecified
+Contraceptive method status
+Maintain
+New
+Precontraception
+Change
+Consultation contraception advice
+only
+Contraceptive main method
+Condom male
+Natural family planning
+Spermicides
+Contraception other method
+No other method identified
+Condom male
+Natural family planning
+Spermicides
+Contraception other method
+No other method identified
+Condom male
+Natural family planning
+Spermicides
+Emergency contraception
+No
+Yes
+Postcoital contraceptive method
+No
+Yes
+Postcoital contraceptive method
+No
+Yes
+Sexual and reproductive care activity
+Sexual health advice
+None
+Year
+Number of
+participants
+Percentage
+probability of condom as the method of contraception over time for
+White and non White ethnic groups for all regions
+Model Ethnicity region year and any contraceptive
+The model used simultaneous forced entry of the variables and
+dummy coding of the ethnicity and region variable with those of
+White ethnicity and the North region treated as the reference
+values respectively This resulted in a significant model
+A Jordan and A D Wilson
+Table
+Parameter estimates standard errors SE and P values for condom as a method
+model
+Predictors
+Intercept
+Ethnicity
+MID
+SOU
+LON
+Year
+EthnicitY MlD
+EthnicitY SOU
+EthnicitY LON
+MID Year
+SOU Year
+LON Year
+EthnicitY Year
+EthnicitY Year LON
+Est SE
+O OO
+MID Midlands SOU South LON London The North region treated as the
+reference value
+P Table
+provides parameter estimates
+standard errors and P values
+The model revealed that when compared with the North region
+any contraceptive as a method for those of White ethnicity in the
+London region and Midlands had a higher log odds of any method at
+year O the South had a significantly lower log odds of
+any method Furthermore those of non White ethnicity had a higher
+log odds of any method as main method at year O compared with
+those of non White ethnicity in the North region The log odds of
+any method for those of non White ethnicity at year O were lower in
+Q
+Year
+Public Health
+the South and London regions but higher in the Midlands region in
+comparison to those of non White ethnicity in the Midlands
+The model also revealed that the log odds of any method
+increased over time for those of White ethnicity in the North re
+gion This increase was of a larger magnitude in the South region
+but there was decrease over time in log odds of the method in the
+Midlands and London regions Those of non White ethnicity in the
+North region had no significant difference compared with those of
+White ethnicity in the North region in log odds of any contracep
+tive method over time Compared with the log odds of any con
+traceptive method of those of non White ethnicity in the North
+region there was a decrease in log odds over time for those of non
+White ethnicity in the London region and an increase in log odds of
+the method over time for those of non White ethnicity in the South
+region However there was no significant difference in log odds of
+contraceptive method for those of non White ethnicity over time in
+the Midlands region when compared with the log odds of contra
+ceptive method for non White ethnicities in the North
+Overall the self report of any contraceptive method model
+shows a similar pattern to that for condom as a method of
+contraception The predicted probability of any contraceptive as a
+method of contraception for non White and White ethnicities
+decreased in the London and Midlands regions over time and this
+decrease was at a greater rate in the Midlands region The rate of
+decrease over time was slower for non White ethnicities in the
+London region The North and South regions had an increase in
+predicted probability of any contraceptive method over time but
+the North started as a high predicted probability of a contraceptive
+method and the absolute change is not large in magnitude In
+contrast the South started with lowest predicted probability of any
+contraceptive method than all other regions but had the highest
+Ethnicity
+Non white
+White
+Fig A graph of the change in probability of condom as method per unit time for White and non White ethnicities in each region LON
+SOU South
+London MID
+Midlands NOR
+North
+A Jordan and A D Wilson
+Table
+Parameter estimates standard
+method model
+Predictors
+Intercept
+Ethnicity
+MID
+SOU
+LON
+Year
+EthnicitY MlD
+EthnicitY SOU
+EthnicitY LON
+MID Year
+SOU Year
+LON Year
+EthnicitY Year
+EthnicitY Year LON
+MID Midlands SOU South
+reference value
+errors SE and P values
+Est SE
+for
+any
+contraceptive
+LON London The North region treated as the
+Public Health
+Discussion
+Principal findings
+In summary the results from our study show that the Midlands
+of England have the lowest rates of condom as a main method of
+contraception followed by men in London The North and South of
+England showed slight increases in condoms and other male con
+traceptives Irrespective of year the White ethnic group self report
+condoms as a method of contraception less than the non White
+ethnic group For the White ethnic group the odds of self
+reporting condoms as a contraceptive method decreased yearly in
+the Midlands and London regions but the North and South regions
+increased yearly Comparatively the overall pattern was almost
+identical in the non White ethnic group although at higher odds of
+condoms as a contraceptive method across all regions at all time
+points However a key difference between ethnicities was seen in
+the London region where the White ethnic group decreased over
+time at a significantly greater rate Model predicted the self
+report of any male contraceptive method and showed a similar
+pattern to Model where any male method was decreasing and
+uptake was less among men who identified as White than men who
+did not identify as White Any male contraceptive method included
+condoms natural family planning and spermicide A comparison
+was run to understand if the decrease in condoms could be
+explained by an increase in other male methods The results sug
+gest that the decrease in condoms cannot be explained by an in
+crease in any male method Furthermore the White ethnic group
+did not self report any form of male method at a higher rate than
+the non White ethnic group
+rate of increase White ethnicities had a lower predicted probability
+of any contraceptive method across all time points for all regions
+However in the South and North regions the probabilities appear
+to be on a converging path
+shows a graph of predicted
+Fig
+probability of any contraceptive as a method of contraception over
+time for White and non White ethnicities for all regions
+For Contingency Table Natural Family Planning year region
+ethnicity and Contingency Table Spermicide year region
+ethnicity see Supplemental Material
+e
+Year
+Ethnicity
+Non white
+White
+Fig A graph of the change in probability of any contraceptive as a method per unit time for White and non White ethnicities in each region LON
+NOR North SOU South
+London MID
+Midlands
+A Jordan and A D Wilson
+Methodological implications of ethnicity as a variable
+Ethnicity is an irrational variable in the data set it has been
+oversimplified and service users are limited to choose from three
+categories White non White and other unknown This creates a
+binary other White vs non White This approach is an essentialist
+view of ethnic background that problematically stereotypes groups
+as having one true identity that is biological driven Instead
+research suggests that the option should be provided to service users
+to self identify as well as providing the ability to give non standard
+responses for the complexity of the variable to be explored and new
+constructions of ethnic categories to emerge without stigmatization
+and discrimination
+Furthermore by taking a homogenous
+approach to the White ethnic group this ignores other groups that
+face disadvantage such as White Irish individuals residing in En
+gland While ethnicity is commonly characterized in a problematic
+way of race by using skin color the relationship between ethno
+cultural group and sexual behavior is important when developing
+health based interventions
+For example research on Black
+Caribbean and Black African heterosexual men show differences in
+health care utilization and prognosis for sexual health and STIs
+Individuals from mixed racial backgrounds also have differences in
+sexual health behaviors for example risk taking among heterosex
+ual sexual health clinic service users was highest among Black mixed
+Caribbean heterosexual men with this group being most likely to
+test positive for STIs These studies show how further ethnic
+categorization within a subgroup such as Black and mixed ethnic
+backgrounds could be beneficial to better understand how culture
+informs condoms for reproductive purposes They suggest that for
+the purpose of interventions both social and cultural identities
+cannot be isolated from the public health approach Overall there
+is a need to provide a more precise understanding of ethnic identity
+for the purpose of data collection Owing to the barriers with
+ethnic grouping very little can be generalized from the data set but
+the model does show that ethnicity and condoms as a method for
+contraception are a point requiring further enquiry
+Research implications
+What the above critical lens suggests is this study s regional
+information would be helpful not only to target certain regions for
+interventions but also to tailor the interventions to each region
+differently Historically and currently there is no published record
+of an intervention around improving the use of condoms by men
+for contraceptive purposes in England Any larger intervention or
+randomized control trial should focus on clinics from all four re
+gions to account for variations in condoms as a method of contra
+ception or focus on the Midlands to understand why condoms are
+reported less for contraception in this region to aim to improve
+condom uptake over time For a discussion of natural family plan
+ning and spermicide as well as recommendations for the NHS see
+Supplemental Materials
+Strengths and limitations
+The strength of this study is it provides the first insight into
+research on men who live in England s self reported method of
+contraception for condoms natural family planning and spermicide
+Future research is also needed on male contraceptive methods
+because this census data was unable to capture use only self reports
+of a method Both the models on condoms and any contraceptive
+were significant at the level suggesting the models are a good
+fit The limitations of the study included that the data were not
+collected by the research team therefore there was little that could
+be done to influence the variables available for analysis
+Public Health
+Furthermore although the focus is stated by NHS Digital to be pri
+marily on contraceptive care and the variable is labeled as such in all
+data sets the three types of men using this service contraceptive
+sexual health both cannot be determined Dividing the three data
+points in future data collection is important before any causation can
+be determined as it would be advantageous even in this data set to
+know whether when separated if the three groups decreased or
+increased their choice of contraceptives respectively to better inform
+targeted services and programs In addition NHS Digital should add
+variables to the data on sexual and reproductive care activity to
+include divisions between sexual health advice sought and sexual
+health advice provided This division could be a quality check for if
+men were using condoms for contraception sexual health or both
+purposes which cannot be determined or quality checked in the
+census currently Also in this study a comparison was run to see if
+the decrease in condoms could be accounted for by other male
+contraceptive methods increasing In the future to address the issue
+in this study of causation it would be key to have a balanced sample
+of men using each of the male methods for an in depth comparison
+With a more extensive set of sociodemographic variables for men
+greater understanding can be applied including possible explana
+tions and implications for clinicians and policymakers For further
+limitations see the NHS data quality statements publicly available
+online by following the citations for the data sets For example the
+data lack representation where a male patient contacts an outpatient
+clinic a General Practice a community pharmacist or a retail setting
+reporting condoms as a contraceptive method Including both men
+who made first contact for their method of contraception and men
+for whom it was not their first contact that they were maintaining
+their method did not influence the trends of the regression models
+in this study but could have biased the results This was because the
+sample of men maintaining was too small to change the analysis
+outcome or to make a meaningful comparison but it could have
+implications in a larger data set and seeking a balanced data set is
+important for making conclusions and comparisons in the future
+research The data set was limited in reporting patient identification
+methods and the NHS Digital should devise a system to reduce
+duplicate data points in the data sets and to allow for longitudinal
+analysis Finally if the individual is or years their data are
+also not included which is problematic as they may have a method
+of contraception at this age
+Conclusion
+In all this is the first study to take a comprehensive overview of
+several contraceptive methods including condoms natural family
+planning and spermicide all male methods The results from the
+regression models predict which regions and which ethnic groups
+are more likely to report condoms as a method of contraception and
+which groups report any male contraceptive method These models
+are helpful to begin to explore differences between regions to inform
+commissioning and determined that the decrease in condoms is not
+explained by an increase of any male method Several important
+targeted approaches toward data collection have been suggested to
+improve our understanding of men s contraceptive methods in En
+gland with health promotion and policy makers requiring more
+evidence based research to inform messages commissioning and
+policies when aiming to engage men in family planning behaviors
+Author statements
+Acknowledgments
+The authors would like to thank Dr Anue Baker Kukona for his
+support with the original data set
+A Jordan and A D Wilson
+Ethical approval
+Ethical approval was not required as the data sets were available
+in the public domain the data on men has not been previously
+analyzed
+Funding
+This project has no funding to report
+Competing interests
+The authors report no conflict of interest
+Appendix A Supplementary data
+Supplementary data to this article can be found online at
+https doi org j puhe
+References
+Wilson AD British couples experiences of men as partners in family planning
+Stud
+https doi org
+J Mens
+Hartmann M Gilles K Shattuck D Kerner B Guest G Changes in couples
+communication as a result of a male involvement family planning intervention
+J Health Commun Aug
+https doi org
+Zarocostas J UK makes massive global health cuts Lancet May
+https doi org l o
+Shahvisi A Towards responsible ejaculations the moral imperative for male
+contraceptive responsibility J Med Ethics
+Pearson S Men s use of sexual health services BMJ Sex Reprod Health Oct
+https doi org l O
+Pearson SC Clarke P Changes in British men s use of family planning services
+between and secondary analysis of a national survey BMJ Sex
+Reprod Health Jul
+https doi org
+Statistics on Sexual and Reproductive Health Services Data Quality Statement
+for Internet Health Soc Care Info Centre cited Aug
+Available
+from https files digital nhs uk publicationimport publ
+pub Isrh serv eng qual pdf
+NHS Sexual and Reproductive Health Services England Data from Official
+statistics National Statistic NHS Digital cited May
+Available from
+https digital nhs uk data and information publications
+statistical sexual and reproductive health services sexual and reproductive
+health services england
+NHS Sexual and Reproductive Health Services England Data from Official
+statistics National Statistic NHS Digital cited May
+Available from
+https digital nhs uk data and information publications
+statistical sexual and reproductive health services sexual and reproductive
+health services england
+NHS Sexual and Reproductive Health Services England Data from Official
+statistics National Statistic NHS Digital cited May
+Available from
+https digital nhs uk data and information publications
+Public Health
+statistical sexual and reproductive health services sexual and reproductive
+health services england
+NHS Sexual and Reproductive Health Services England Data from Official
+statistics National Statistic NHS Digital cited May
+Available from
+https digital nhs uk data and information publications
+statistical sexual and reproductive health services
+NHS Sexual and Reproductive Health Services England Data from Official
+statistics National Statistic NHS Digital cited May
+Available from
+https digital nhs uk data and information publications
+statistical sexual and reproductive health services
+Lewis R Blake C Shimonovich M Coia N Duffy J Kerr Y et al Disrupted
+prevention condom and contraception access and use among young adults
+during the initial months of the COVID pandemic An online survey BMJ Sex
+Reprod Health Oct
+https doi org bmjsrh
+Statistics on sexual and reproductive health services England Data quality
+statement Internet Lifestyles Team cited Aug Available
+from
+https l files digital nhs uk publication q n srh serv eng qual
+pdf
+Wilson AD Do you know how to use a condom UK nurse practitioners
+conversation about men and family planning Sex Reprod Healthc Oct
+https doi org l O j srhc
+Office for National Statistics ONS Geography Public Health England Centres and
+Public Health England Regions December Map in England cited Nov
+Available from
+https geoportal statistics gov uk documents public
+health england centres and public health england regions december
+map in england explore
+Team RC R a language and environment for statistical computing Avail
+able from http r meteo uni wroc pl web packages dplR vignettes intro dplR
+pdf
+Wickham H Francois R Henry L K dplyr a Grammar of data Manipu
+lation Available from
+https CRAN R project org package dplyr
+Pfeffer N Theories of race ethnicity and culture BMJ Nov
+https doi org bmj
+Aspinall PJ The conceptual basis of ethnic group terminology and classifica
+tions soc sci Med sep https doi org
+Aspinall PJ Describing the white ethnic group and its composition in medical
+research soc sci Med Dec
+https doi org
+Zenilman JM Shahmanesh M Winter AJ Ethnicity and STIs more than black
+and white Sex Transm Infect Feb
+https doi org
+sti
+Gerressu M Mercer CH Cassell JA Brook G Dave S The importance of dis
+tinguishing between black Caribbeans and Africans in understanding sexual
+risk and care seeking behaviours for sexually transmitted infections evidence
+from a large survey of people attending genitourinary medicine clinics in En
+gland J Public Health Aug
+https doi org
+Coyle RM Miltz AR Lampe FC Sewell J Phillips AN Speakman A et al Ethnicity
+and sexual risk in heterosexual people attending sexual health clinics in En
+gland a cross sectional self administered questionnaire study Sex Transm
+Infect Aug
+https doi org sextrans
+Low N Daker White G Barlow D Pozniak AL Gonorrhoea in inner London
+results of a cross sectional study BMJ Jun
+https
+doi org bmj
+Brady G Lowe P Brown G Osmond J Newman M All in all it is just a
+judgement call issues surrounding sexual consent in young people s hetero
+sexual encounters J Youth Stud Jan
+https doi org
+EClinicalMedicine
+ELSEVIER
+Research Paper
+EClinicalMedicine
+Contents lists available at ScienceDirect
+EClinicalMedicine
+journal homepage https www journals elsevier com eclinicalmedicine
+Concerning trends in maternal risk factors in the United States
+Eran Bornsteina Yael Eliner Frank A Chervenaka Amos
+a
+a Division of Maternal Fetal Medicine Department of Obstetrics and Gynecology Lenox Hill Hospital Northwell Health Zucker School of Medicine New York NY
+United States
+b Boston University School of Public Health Boston MA United States
+ARTICLE
+Article History
+INFO
+Received July
+Revised November
+Accepted November
+Available online November
+Keywords
+Pregnancy risk factors
+Hypertensive disorders of pregnancy
+Chronic hypertension
+Diabetes mellitus
+Advanced maternal age
+Grand multiparity
+Introduction
+ABSTRACT
+Background Increased efforts have focused on reducing maternal morbidity and mortality in the United
+States US Hypertensive disorders of pregnancy chronic hypertension diabetes mellitus very advanced
+maternal age and grand multiparity are known contributors to various maternal morbidities as well as
+maternal mortality We aimed to evaluate the trends in these risk factors complications among US pregnan
+Cies during the last three decades
+Methods This is a retrospective study based on the CDC natality database We calculated the annual preva
+lence of each risk factor complication from to Joinpoint regression analysis was then used to eval
+uate the trends Annual percentage changes APC were calculated for each of the segments identified by the
+joinpoint regression and average annual percentage changes AAPC were calculated for the entire period
+Relative risks RR comparing the prevalence of each risk factor complication in to its prevalence in
+were also calculated Subsequent analyses evaluated the trends of the main risk factors complications
+by maternal age groups Statistical significance was determined at p and results were presented with
+confidence intervals
+Findings Between and the prevalence of hypertensive disorders of pregnancy increased by
+AAPC CI that of chronic hypertension increased by AAPC CI that
+of diabetes mellitus increased by AAPC CI that of very advanced maternal age
+increased by AAPC CI and that of grand multiparity increased by AAPC
+CI Chronic hypertension and diabetes mellitus increased mostly during the past two decades while
+hypertensive disorders of pregnancy and grand multiparity increased primarily over the most recent decade
+Additionally women of very advanced maternal age had significantly higher rates of hypertensive disorders
+of pregnancy chronic hypertension and diabetes mellitus throughout our study period
+Interpretation Our study shows a marked increase in the prevalence of five pregnancy risk factors complica
+tions over the past three decades This may point to a significant deterioration in the health of
+US pregnant women which potentially contributes to both maternal morbidity and mortality
+Funding None
+The Author s Published by Elsevier Ltd This is an open access article under the CC BY license
+Maternal mortality rates in the United States US have more than
+doubled during the past three decades increasing from per
+live births in to per live births in
+Significant increases have also been documented throughout
+the years in the prevalence of indicators for severe maternal morbid
+ities and pregnancy complications such as acute renal failure pulmo
+nary embolism adult respiratory distress syndrome ARDS acute
+Corresponding author
+E mail address ebornstein northwell edu E Bornstein
+https doi org j eclinm
+http creativecommons org licenses by
+myocardial infarction aneurysm sho

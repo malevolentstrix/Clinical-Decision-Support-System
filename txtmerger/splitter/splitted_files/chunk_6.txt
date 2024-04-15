@@ -1,0 +1,896 @@
+an indicator variable taking the value if the husband has
+weaker fertility preferences than the wife in column if the husband is not aware
+of the wife using modern contraceptives in column and if the husband has an
+unmet need for FP and the wife does not in column JD X Var is the interaction
+term between the treatment indicator variable Joint Decision and Var HD X Var
+is the interaction term between the treatment indicator variable Husband Decision and
+Var Standard errors clustered at the session level in parentheses For the extended
+table see Table B in Appendix B
+p p p
+a mean in Wife Decision WD when var is set to O
+Within couple differences in fertility preferences might translate
+into within couple differences in preferences for FPS For example the
+husband might have a stronger preference for FPS than his wife if he
+has weaker fertility preferences than his wife e g when the husband
+does not want another child while the wife does If the positive effect of
+the involvement of the husband is driven by the husband s preference
+for FPS we should find that this effect is stronger among couples where
+the husband has a weaker fertility preference than his wife than
+among couples where the spouses have the same fertility preferences
+or the wife has weaker fertility preferences than her husband
+To test this we interact the treatment variables with spousal pref
+erence differences The results are reported in column in
+Table
+In this column Var takes the value one if the husband has a need for
+family planning while the wife does not of the couples Var
+is zero whenever the husband and the wife have the same preferences
+or the wife has weaker fertility preferences than the husband First we
+note that if the husband does not have weaker fertility preferences than
+his wife involving the husband still increases the likelihood that FPS
+are chosen as can be seen by the positive and significant coefficients
+on JD and HD If the husband has weaker fertility preferences the
+treatment differences become larger but not significantly so Thus
+differences in fertility preferences do not appear to be driving the
+treatment differences
+The link between the husband s fertility preferences and his pref
+erence for FPS could depend on whether he is aware that his wife
+already uses modern contraceptives
+Table
+shows that husbands
+compared to their wife are less likely to report that they use modern
+contraceptives This implies that even where spouses have the same fer
+tility preferences the husband may have a stronger preference for FPS
+than the wife if he does not know that they are using contraceptives
+To test whether this could explain the positive effect of the husband s
+involvement in the decision we interact the treatment variables with
+the husband s unawareness of contraceptive use in column in
+Table
+The husband s unawareness of contraceptive use is defined
+as an indicator variable taking the value one if the wife reports using
+Journal of Development Economics
+modern contraceptives while the husband does not zero otherwise
+This is the case in of the couples If the husband s unawareness of
+contraceptive use is driving our results we would expect the interaction
+Table
+to be positive and significant As can be seen the
+terms in
+interaction term with JD is negative and the interaction term with
+HD is far from significant suggesting that the husband s awareness of
+contraceptive use is not driving the results
+A third factor that might influence the treatment effects is the
+husband s unmet need for FP which combines his fertility preferences
+and awareness of contraceptive use In particular if the husband has an
+unmet need for FP while the wife does not either because of differences
+in fertility preferences or different reporting of contraceptive use
+involving the husband might increase the uptake of FPS In
+Table
+unmet need for FP is an indicator variable taking the value one if
+the husband has an unmet need for FP while the wife does not of
+couples zero otherwise We again expect the interaction terms to be
+positive and significant if these couples are driving the results As can
+be seen this is not the case suggesting that this factor does not drive
+the positive effect of the husband s involvement
+Knowledge about FP
+Men might have lower knowledge about the benefits and costs of
+FP than their wives This is in line with e g Ashraf et al
+who
+showed that men have lower knowledge about reproductive health risks
+mostly related to labor and delivery outcomes than women If men
+have a need for knowledge their lower knowledge might translate into
+a stronger preference for FPS where knowledge can be obtained
+To test whether this mechanism explains the positive effect of the
+husband s involvement we use data from the survey in which we
+asked the respondents a set of knowledge questions about FP These
+questions range from the efficacy of contraceptives to pregnancy risks
+see Table A in Appendix A For each statement a relatively large
+fraction of both women and men answer that they do not know whether
+the statement is true or not of women and of men answer
+do not know on at least one of the five statements Women are
+significantly less likely to give this answer than men times vs
+times p from a two sided t test
+To investigate whether the lack of knowledge about FP influences
+the treatment effects we interact the treatments with the difference in
+knowledge between the husband and the wife If lack of knowledge is
+driving the treatment effects we expect small or no treatment differ
+ences when the husband has an equal or larger amount of knowledge
+about FP than the wife Further we expect the interaction terms to be
+positive and significant which would indicate that husbands with less
+knowledge about FP are driving the results
+Table
+displays the results
+In column we interact the treatment variables with an indicator
+variable taking the value one if the husband answers do not know
+more frequently than the wife of couples In column we use
+the difference in do not know answers between the husband and the
+wife when the husband answers do not know more frequently than
+the wife it is zero otherwise The average difference is questions
+with a standard deviation of As can be seen neither of the
+interaction terms are significant suggesting that a lack of knowledge
+is not driving the results
+Hyperbolic time preferences
+As option B is conditional on attending a FP meeting at the local
+health center it can be used as a commitment device This implies that
+the husband might have a stronger preference for FPS if he benefits
+more from its use as a commitment device than his wife To test this we
+look at the participants time preferences It has been demonstrated that
+people might have a preference for commitment if they have hyperbolic
+time preferences i e they are more patient in the future than in the
+present see e g Ashraf et al
+We elicit time preferences by asking the participants to choose
+between a hypothetical smaller reward the day after the experiment
+B D and C Ringdal
+Table
+The effect of involving the husband on the uptake of family planning services by
+within couple differences in knowledge about family planning
+Table
+The effect of involving the
+hyperbolic time preferences
+Hyperbolic W
+Hyperbolic H
+H hyperbolic W not
+JD X H hyper W not
+HD X H hyper W not
+Control mean
+Observations
+Journal of Development Economics
+husband on the uptake of family planning services by
+Less knowledge
+JD X Less
+HD X Less
+Control mean
+Observations
+Dummy
+Number
+Treatments
+Heterogeneity
+Notes The table reports OLS regressions with session fixed effects Dependent
+variable the proportion of decisions in which family planning services FPS are
+chosen Independent variables treatment variables JD and HD and the set of
+control variables as defined in
+Table
+Less knowledge is an indicator variable
+taking the value if the husband replies do not know to more questions than the
+wife in column and a discrete variable indicating the difference in do not know
+answers between the husband and the wife when the husband answers do not know
+more often JD X Less is the interaction term between the treatment indicator
+variable Joint Decision and Less knowledge HD X Less is the interaction term
+between the treatment indicator variable Husband Decision and Less knowledge
+Standard errors clustered at the session level in parentheses For extended table see
+Table B in Appendix B p O IO p O p O OI
+mean in Wife Decision WD when var is set to O
+or a larger reward after one month referred to as near time frame
+The same question was also asked for a later time frame six versus
+seven months to identify potential reversals in time preferences see
+Section D of the Appendix for more details We define an individual
+to have hyperbolic time preferences if the estimated discount rate is
+higher in the near time frame than the later time frame
+We do not find any gender differences in discount rates On average
+husbands and wives have a discount rate of and respec
+tively in the nearer time frame p value from two sided t test
+In the later time frame women are slightly more patient than men with
+a monthly discount rate of and respectively p value from
+two sided t test More women than men display hyperbolic time
+preferences vs respectively two sided t test p
+If participants used option B as a commitment device we should
+find that the proportion of decisions where FPS is chosen is higher
+among the participants with hyperbolic time preferences We test this in
+columns in
+Table
+As can be seen the coefficients are negative
+and not significant indicating that the choice of FPS is not used as
+a commitment device in the individual treatments Therefore we do
+not expect that a difference in hyperbolic time preferences between
+the husband and the wife influences the treatment differences This
+is indeed what we find in column Given that we are looking
+for a mechanism behind the positive effect of husband s involvement
+on the choice of FPS we focus on the case where the husband has
+hyperbolic time preferences and the wife has not As can be seen by the
+insignificant interaction terms this is not driving the treatment effects
+Inaccurate beliefs
+The second explanation for the positive effect of the husband s
+involvement assumes that women have inaccurate beliefs about their
+husband s preferences for FP In patriarchal societies in low income
+countries FP is often a contentious topic which might generate spousal
+disagreement or even conflict This makes it difficult for women to
+initiate a conversation about this topic Mosha et al Amo
+Adjei et al
+As a result there tends to be little discussion or
+communication among spouses about FP In Panel D of Table we
+Notes The table reports OLS regressions with session fixed effects Dependent variable
+the proportion of decisions in which family planning services FPS are chosen
+Independent variables treatment variables JD and HD the set of control variables
+as defined in Table and the wife s discount rates in the near and later time frame
+columns and and the husband s discount rates in the near and later time
+frame columns Hyperbolic W is an indicator variable taking the value
+if the wife has a higher discount rate in the near time frame than in the later time
+frame Hyperbolic H is defined correspondingly for the husband H hyperbolic W
+not is an indicator variable taking the value if the husband has hyperbolic time
+preferences while the wife does not JD X H hyper W not is the interaction term
+between the treatment indicator variable Joint Decision and H hyperbolic W not
+HD X H hyper W not is the interaction term between the treatment indicator variable
+Husband Decision and H hyperbolic W not Standard errors clustered at the session
+level in parentheses For extended table see Table B in Appendix B p
+p p
+mean in Wife Decision WD when Hyperbolic W O in column mean in
+Husband Decision HD when Hyperbolic H O in column mean in Joint
+Decision JD when Hyperbolic W O and Hyperbolic H O in column
+mean in WD when H hyperbolic W not O in column
+see that only of the couples reported that they discussed FP with
+their partner in the past year This could make beliefs about spousal
+preferences inaccurate
+To see how the treatment predictions change when the wife has
+inaccurate beliefs about her husband s preferences we rewrite the
+wife s ultimate utility function in Eq
+Uw x
+x
+where E is the expectation operator over a set U of utility functions for
+h We assume that incomplete information is only a problem when the
+decision is made individually by the wife as there is no communication
+between the spouses In JD in contrast both spouses will get to know
+each other s preferences as they make the decision together
+When discussing beliefs we refer to beliefs about the personal
+preference ordering of the spouse If the wife has inaccurate beliefs
+it means that she believes that the husband gets more personal utility
+from A than B while the opposite is true As long as Eueuuh B uh B
+having inaccurate beliefs lowers the likelihood that the wife chooses
+B Thus if there is no conflict in the household inaccurate beliefs
+might lead to Pareto dominated choices when the decision is made
+individually For example if us B us A for both spouses but the
+wife has inaccurate beliefs the likelihood that B is chosen is lower
+when the decision is made by the wife than when it is made jointly
+or by the husband assuming that he has accurate beliefs In this case
+if inaccurate beliefs lead the wife to choose A instead of B both spouses
+would have been better off if the decision had been B
+Thus the theory shows that if the wife incorrectly expects her
+husband to prefer A involving the husband increases the likelihood
+B D and C Ringdal
+Table
+The effect of involving the husband on the uptake of family planning services by the
+wife s beliefs about the husband s preferences
+Wife s beliefs
+JD X Beliefs
+HD X Beliefs
+Control meana
+Observations
+All
+Wife FPS
+couple FPS
+Notes The table reports OLS regressions with session fixed effects Dependent variable
+the proportion of decisions in which family planning services FPS are chosen
+Independent variables The treatment variables JD and HD and the control
+variables as defined in Table Wife s beliefs is an indicator variable taking the value
+if the wife believes that the husband approves of contraceptives zero otherwise JD X
+Beliefs is the interaction term between the treatment indicator variable Joint Decision
+and Wife s beliefs HD X Beliefs is the interaction term between the treatment
+indicator variable Husband Decision and Wife s beliefs Column reports results
+for the proportion of decisions where FPS are chosen across all decisions column
+reports results for Wife FPS where only the wife has to attend the family planning
+FP meeting and column reports results for Couple FPS where both the wife
+and the husband have to attend the FP meeting Standard errors clustered at the
+session level in parentheses For the extended table see Table B in Appendix B
+p p p
+a mean in Wife Decision WD when Wife s beliefs is equal to O
+that FPS are chosen We will look for evidence that supports this
+prediction In the survey conducted before the experiment we asked
+the participants whether they believed that their spouse agreed with
+the use of contraceptives Even though this is not a measure of the
+wife s beliefs about their husband s preferences over options A and B
+there is a clear link between attending a FP meeting and the use of
+contraceptives the couples need to attend such a meeting to receive
+free contraceptives Therefore we use this measure as a proxy for the
+wives beliefs about their husband s preferences over the two options
+Overall as shown in
+of the women in our sample believe
+Table
+that their husband approves of contraceptives and believe that
+their husband disapproves The remaining category includes women
+who either do not know or believe that the spouse is indifferent
+If women s beliefs are behind the positive effect of the husband s
+involvement we should find that this effect is strongest among couples
+where the wife believes that her husband disapproves of contraceptives
+To test this we interact the treatment variables with women s beliefs
+Table
+displays the results We report results for the overall proportion
+of decisions where FPS are chosen in column the proportion for
+Wife FPS i e where only the wife had to attend a FP meeting in
+column and the proportion for Couple FPS i e where both the
+wife and the husband had to attend a FP meeting in column We
+report the results for each condition separately to verify whether the
+effects differ between both conditions
+Two findings are worth noting First the coefficients of JD and
+HD are positive and statistically significant in all columns This
+The question asked whether they thought that their spouse agreed with
+couples in general using contraceptives In this way we avoided that they had
+to think about their own relationship which might bias reporting Moreover
+we did not ask directly about their beliefs about their spouse s preference
+over options A and B because this could either bias their decisions in the
+experiment if we elicited these beliefs before the decisions were made or the
+beliefs themselves could be biased if we elicited them after the decisions were
+made
+Journal of Development Economics
+indicates that among couples where the wife does not believe that her
+husband approves of contraceptives involving the husband increases
+the proportion of decisions where FPS are chosen In JD the proportion
+is between and percentage points higher than in WD and
+in HD the proportion is percentage points higher Second the
+coefficients of the interaction terms JD X Beliefs and HD X Beliefs
+are negative and statistically significant This indicates that the differ
+ences between the WD treatment and each of the other treatments are
+significantly smaller when the wife believes that her husband approves
+of contraceptives
+These results suggest that women incorrectly believe that their
+husband disapproves of contraceptives which makes women less likely
+to choose FPS if their husband is not involved in the decision Note
+that we do not have data on the true preferences of each spouse and
+can therefore not directly test whether beliefs are accurate However
+we do have data on the desired number of children of each spouse
+as well as their beliefs about the desired number of children of their
+spouse We expect that the desired number of children correlates closely
+with preferences about options A and B We find that in of the
+couples the wife reports not knowing how many children her husband
+wants and out of the couples where the wife does report how many
+children she thinks her husband wants she overestimates the number
+in of the couples Moreover among the couples where the wife
+makes an estimate on how many children her husband wants there is
+a negative correlation between the number of children she believes her
+spouse wants and whether she believes her spouse approves of contra
+ceptives spearman s p p Both observations taken
+together suggest that women s beliefs about their spouse s approval of
+contraceptives are downward biased as we assumed when interpreting
+the regression results above
+In sum these observations together with the significant interaction
+terms in the regressions support that the positive effect of the hus
+band s involvement is driven by women s inaccurate beliefs about their
+husband s preferences
+The wife s expected utility of B
+Our model so far ignored any possible actions taken after the
+experiment However it might be that our participants anticipated
+any post experimental actions when making their decisions in the lab
+The third and last mechanism that we explore assumes that the wife s
+expected utility of option B Euw B might be lower in WD than in
+the other treatments because she anticipates post experimental actions
+Note that this is different from the previous mechanism where we as
+sumed there was certainty about the utility of option B and uncertainty
+about the husband s preferences
+In
+Table
+the Wife s beliefs indicator variable takes the value O either
+if the wife believes that the husband disapproves of contraceptives or if she
+does not know As a robustness test we do the same analysis only with couples
+where the wife either believes that the husband approves or disapproves As
+can be seen in Table A in Appendix A the results are robust
+The main reason why we did not use beliefs about the desired number of
+children in the regression is that in of the couples the wife reported not
+knowing the husband s preferences making it difficult to compare with the
+husband s reported number of children
+This bears some resemblance to a potential undoing problem which
+complicates intra household experiments
+In many couple
+Munro
+experiments there is a risk that decisions can be undone after the experiment
+For example a husband who disagrees with the decisions made by their wife
+can reallocate economic resources received in an experiment That husbands
+can claim transfers from their wife is supported by Anderson and Baland
+who document how women use local saving groups to protect savings
+from their husband s claims It is important to clarify that while the decisions
+made in our lab experiment cannot be undone some actions taken after the
+experiment can change the utility of options A and B
+B D and C Ringdal
+Specifically if option B is chosen it is possible that the husband
+does not allow their wife to attend the FP meeting or does not join their
+wife when this is a condition i e with the couple FPS In that case they
+do not receive any payment and option B becomes less attractive The
+perceived likelihood that the conditionality is fulfilled is reduced in the
+WD treatment as women are often unable to make decisions on their
+own about their mobility or have limited access to resources Note that
+these are typical measures of women s empowerment and bargaining
+Malapit et al Bandiera et al For example in
+power
+our sample only of the women can decide alone whether to visit
+their family or friends If women have limited mobility and access to
+resources their expected utility of B might be lower in WD since they
+would have to negotiate with their husband to use household resources
+or leave the house to visit the local health center
+In our model this would be captured as follows Assume that the
+wife assigns probability O p I that she attends the FP meeting
+and probability l p that she does not Then the expected utility
+from choosing option B assuming that she obtains no utility if the
+conditionality is not fulfilled is
+Euw B puw B puw B
+This implies that a lower expectation that the conditionality is
+fulfilled leads to a lower likelihood that option B is chosen When the
+decision is made jointly in JD we assume that the likelihood that the
+conditionality is fulfilled if B is chosen is higher than in WD This is
+the case as the husband would not choose option B if he was unwilling
+to approve women s mobility or the use of household resources needed
+to visit the health center and thus fulfill the conditionality
+To obtain an idea of the expectation that the conditionality is
+fulfilled we asked the participants how likely it was that they would
+attend a FP meeting if option B was selected for payment At that point
+participants had made all decisions but the selection of the decision
+was not made yet hence the participants did not know yet whether
+they would need to attend a FP meeting to receive the payment All
+participants who made a decision i e women only in WD men only in
+HD and both spouses in JD answered this question even the ones who
+never chose option B Note that the plausible deniability mechanism we
+used made these participants face a non zero chance that they would
+need to attend a FP meeting to receive the payment
+To elicit the individual expectation that the conditionality would be
+fulfilled we asked whether it was very unlikely unlikely neither
+unlikely nor likely likely or very likely that i the wife and ii
+the husband would attend the FP meeting if option B was chosen for
+payment In the following we have converted these alternatives into
+a scale from to where indicates very unlikely and very
+likely The elicited beliefs are highly correlated with the choice of FPS
+Spearman s p p for both types of conditionalities
+In general the expectation that the conditionality will be fulfilled is
+high with most respondents finding it likely or very likely that they will
+attend the FP meeting if option B was chosen for payment
+Table
+tests
+whether the expectations differ between WD and JD and between HD
+and JD for women s and men s beliefs respectively First we observe
+that the husband s beliefs do not vary between treatments For the
+wife s beliefs there is no difference in expectations when only she needs
+to attend the FP meeting Wife FPS If both the wife and the husband
+need to attend the FP meeting Couple FPS we find that the wife s
+expectations about the husband s attendance are significantly higher in
+Women s empowerment and bargaining power can be measured in several
+ways The DHS typically focuses on household decision making including
+whether the woman can decide whether to visit family and friends The
+Women s Empowerment in Agriculture Index WEAI is a standardized measure
+of women s empowerment that includes the productive sphere in agricultural
+settings Access to resources is part of this index For a review of measures of
+bargaining power and empowerment see
+Doss
+Journal of Development Economics
+Table
+Effect of making a joint decision on beliefs about attending family planning meetings
+Panel A W s beliefs about attending FPS
+Wife FPS
+W attend
+H attend
+couple FPS
+W attend
+Control mean
+Observations
+Control mean
+Observations
+Panel B H s beliefs about attending FPS
+Wife FPS
+W attend
+H attend
+couple FPS
+W attend
+H attend
+H attend
+Notes The table reports OLS regressions with session fixed effects Dependent variable
+the reported belief on a scale from to about whether the wife or the husband
+will attend the family planning FP meeting if option B is chosen for payment for
+Wife FPS where only the wife has to attend the FP meeting columns and
+Couple FPS where both the wife and the husband have to attend the FP meeting
+columns Panel A shows the wife s beliefs with Wife Decision WD as base
+treatment and Panel B shows the husband s beliefs with Husband Decision HD as base
+treatment Independent variables The treatment variable JD and the control variables
+as defined in
+Table
+Standard errors clustered at the session level in parentheses For
+the extended table see Table B in Appendix B p
+p p
+In column in Panel A there is a drop in observations caused by a misunderstanding
+of one of the enumerators who interpreted the question as if the wife would attend
+the FP meeting without her husband
+mean in Wife Decision WD in Panel A and Husband Decision HD in Panel B
+JD than in WD p This indicates that the uncertainty about
+fulfilling the conditionality of the Couple FPS is larger in WD than in
+JD This might reduce the likelihood that the wife chooses FPS in WD
+compared to JD and HD However as there are no differences between
+treatments in expectations for Wife FPS it is unlikely that uncertainty
+about the attendance of the FP meeting can explain the full treatment
+effects
+The expected utility of option B may also be lower for women who
+suffer from intimate partner violence IPV especially if they believe
+that there is a chance that the husband may become violent if she
+committed herself to visit the health center by choosing option B
+without consulting him Table A in Appendix A shows that being
+subjected to IPV does not affect the treatment differences
+Attendance of FP meeting and contraceptive use
+In this section we extend the analysis by looking at behavior after
+the decisions are made in the lab Specifically we test i whether the
+FP meeting is attended and whether contraceptives are chosen at the FP
+meeting if option B is chosen for payment and ii whether the uptake
+of contraceptives is higher if option B is chosen For these analyses we
+use data collected by the nurse at the health center and data reported
+by the participants when they received the payments
+The FP meeting
+In this section we look at the treatment effects on i the atten
+dance of the FP meeting conditional on option B being chosen for
+payment and on ii contraceptive use conditional on attending the
+FP meeting This analysis tells us whether the husband s involvement
+matters for the fulfillment of the condition of option B and whether the
+husband s involvement or presence at the FP meeting affects the uptake
+of contraceptives
+B D and C Ringdal
+Table
+Use of family planning services and uptake of contraceptives
+Journal of Development Economics
+Wife FPS attended FP meeting
+Couple FPS attended FP meeting
+Wife FPS modern contraceptives
+Couple FPS modern contraceptives
+Wife FPS LARC
+couple FPS LARC
+p value
+WD vs HD
+p value
+p value
+Note The table reports the means for attending a family planning FP meeting if option B was chosen for payment receiving modern contraceptives at the FP meeting and
+receiving long term contraceptives at the FP meeting in each treatment columns and reports the p value for two sided t tests of whether the means are different across
+treatments columns The two first rows include all couples for which option B was chosen for payment while uptake of contraceptives only includes couples who attended
+a FP meeting LARC is an abbreviation for long acting reversible contraceptives
+Overall of the couples comply with the conditions Slightly
+more couples comply with the Wife FPS condition than with the
+Couple FPS condition vs two sided t test p
+The first two rows of
+Table
+compare these proportions by treatment
+In these two rows the sample sizes are the number of couples in
+each treatment where option B was chosen for payment Involving
+the husband in the lab increases the likelihood that a FP meeting is
+attended especially in JD for both Wife FPS and Couple FPS This
+result is in line with the wife s expectations about the attendance of the
+FP meeting see Section it is more likely that the FP meeting is
+attended if the decision in the lab is made jointly than if the decision
+is made by the wife alone
+Next we investigate what happens once the wife or the couple are at
+the FP meeting of the wives that attended a FP meeting received
+modern contraceptives The presence of the husband at the FP meeting
+does not affect the uptake of contraceptives no difference between
+Couple FPS and Wife FPS two sided t test p As can be
+seen from the third and fourth rows of
+Table
+the use of contraceptives
+does also not vary across the between subject treatments The husband
+does not seem to have an influence on the use of contraceptives once
+they attend the FP meeting
+Different types of contraceptives can be received at the FP meeting
+To ensure continuity the use of a LARC implants or IUDS is important
+of the women attending a FP meeting received a LARC As can be
+seen from the two last rows in
+Table
+the uptake of LARC does not
+depend on whether the husband is involved in the decision in the lab
+but it does depend on whether the husband attended the FP meeting
+with Wife FPS and with Couple FPS two sample
+two sided t test p
+In sum once option B is chosen for payment most couples attend a
+FP meeting Once at the meeting most couples receive contraceptives
+and a non negligible fraction of them receive LARC These findings can
+also be interpreted as evidence against a potential social desirability
+bias that might confound the treatment effects It is plausible that the
+participants wanted to appear more in favor of using FPS than they
+actually are in order to please our research team if they assumed
+that we care about contraceptive use remember that their decisions
+were recorded by one of the enumerators Such bias might increase the
+overall proportion of decisions where FPS are chosen and confound the
+treatment differences if this bias is stronger among the husbands than
+among the wives in our sample
+The husbands who choose FPS only to please us would then try to
+make sure that their choice does not translate into reduced fertility
+They could do so by i not attending a FP meeting ii not accepting
+any contraceptives at the meeting or iii only accepting short term
+contraceptives at the meeting As we have seen the involvement of the
+husband does not reduce the likelihood of a FP meeting being attended
+or the uptake of contraceptives We take this as evidence against a
+social desirability bias that might affect our results
+For women it is difficult to disentangle social desirability bias from the
+effect of low mobility and control over resources However we can compare
+The effect of the choice of FPS on contraceptive use
+We observed that a large proportion of the couples for which option
+B was chosen for payment attended a FP meeting and once at the
+FP meeting a large proportion chose contraceptives It is interesting
+to test whether having to attend a FP meeting to receive the payment
+translates into an increase in contraceptive use Note that the couples
+for which option A was chosen could still have taken up contraceptives
+outside the experiment To test this we need to deal with potential
+endogeneity that might bias the estimate of the effect of FPS services
+To do so we exploit the random assignment to treatments and the
+finding that the involvement of the husband increased the uptake of
+FPS This allows us to use the treatment assignment as an instrumental
+variable for the choice of FPS
+To test whether the uptake of contraceptives is influenced by the
+selection of FPS we regress contraceptive use as reported on the
+payment date on the selection of FPS
+Table
+displays the results In columns the selection of
+FPS is treated as exogenous To deal with potential endogeneity in
+columns we instrument the selection of FPS by the experimental
+treatments As shown by the first stage the choice of FPS is higher when
+the husband is involved i e in both JD and HD with the exception of
+JD when the condition is Wife FPS see column
+Table
+shows that the choice of FPS increases contraceptive use
+significantly When treating FPS as exogenous the likelihood that
+contraceptives are chosen increases by around percentage points if
+option B is chosen for payment The size of this effect is around per
+centage points smaller when taking into account potential endogeneity
+bias
+the reports of women and nurses on the uptake of contraceptives at the FP
+meeting If women report a higher uptake of contraceptives than nurses this
+can be an indication of a social desirability bias Among the couples who
+attended the family planning meeting of the women reported that they
+received contraceptives which is very close to the as reported by the
+nurses Spearman s p p
+A few participants were not interviewed when we visited them to give
+their payment This was the case where the option chosen gave a zero payment
+to both the wife and the husband of the couples Despite this one
+of these women still attended the payment session even though no payment
+was given The rest are excluded from the analysis In addition of the
+remaining couples did not show up to receive payment Of these women
+had attended the FP meeting and we therefore use the report from the nurse
+The remaining couples are excluded from the analysis implying that about
+are excluded from this analysis
+Note that the use of the plausible deniability mechanism might have
+decoupled for some participants the link between the treatments and the final
+selection of the payment which might have weakened the treatment effects
+in the first stage
+B D and C Ringdal
+Table
+Contraceptive use after the experiment
+Exogenous
+All
+Choose FPS
+Observations
+All
+Choose FPS
+Observations
+Wife FPS
+Wife FPS
+couple FPS
+couple FPS
+All
+Wife FPS
+Treatment selection
+All
+Wife FPS
+couple FPS
+couple FPS
+Note Columns report OLS regressions with hamlet fixed effects Dependent
+variable the proportion of women using contraceptives after the experiment Indepen
+dent variables whether the participants had to attend a family planning FP meeting
+to receive payment and the set of controls as defined in Table Columns
+report extended linear regressions where the treatments JD and HD as defined in
+Table
+are used as instruments for family planning services FPS implemented in
+STATA with the eregress command The two sided p value of a joint hypothesis test
+on the coefficients of both instrumental variables being zero is in
+column in column and
+in column
+Standard errors clustered at the hamlet level in parentheses For the extended table
+see Table B in Appendix B p p p
+Discussion and conclusion
+In this paper we report the results of an experiment in which
+couples can choose a payment conditional on receiving FPS at a local
+health facility We find that involving the husband increases the likeli
+hood that couples choose FPS Most couples that need to attend FPS to
+receive a payment visit the health center and once there most of them
+choose to continue or start to use contraceptives In sum our study
+demonstrates that the husband has a very strong influence in the first
+stage of the decision making process which is essential for the uptake
+of FPS and modern contraceptives
+Using a household model that assumes complete information about
+spousal preferences and complete certainty about the fulfillment of the
+conditionality our finding that the husband s involvement increases
+the likelihood that FPS are chosen can only be explained if men have
+stronger preferences for FPS than women We do not find evidence for
+this assumption In a next step we extend our theoretical model and
+test two alternative mechanisms that could explain the positive effect of
+the husband s involvement First we show theoretically that inaccurate
+beliefs about spousal preferences can explain the observed treatment
+effects We find strong evidence in support of this mechanism the
+positive effect of involving the husband is driven by couples where
+the wife believes that the husband does not approve of contraceptives
+Second we consider the role of the wife s expectations concerning the
+likelihood that a FP meeting is attended We find some support for this
+mechanism the expectation that the Couple FPS payment condition
+is fulfilled is larger when the husband is involved in the decisions in
+the lab
+Our results are in line with several qualitative and observational
+studies that describe how the non involvement of husbands and the
+lack of communication between spouses can create substantial bar
+riers for the uptake of contraceptives see e g
+Lasee and Becker
+Sharan and Valente Shattuck et al Hartmann
+et al Mosha et al and
+Amo Adjei et al Lasee
+and Becker
+show using DHS data from Kenya that the wife s
+beliefs about whether the husband approves of family planning and
+communication between spouses are highly correlated with contracep
+tive use and that the wife s beliefs about the husband s preferences
+Journal of Development Economics
+are more likely to be correct if the couple discusses family planning
+Our analysis confirms that initiating communication among spouses is
+a sufficient condition to increase the likelihood that FPS are chosen
+JD forces the couples to communicate In sum our study has not
+only provided experimental evidence that supports the policy advice
+from these studies to stimulate communication among spouses It has
+also generated new insights into why and when it could increase the
+uptake of contraceptives In particular we demonstrated that the effect
+of a lack of communication or the non involvement of the husband
+risks creating inaccurate beliefs about spousal preferences which could
+make women reluctant to use FPS It is also clear from our analysis that
+a policy that stimulates communication among spouses would only be
+effective where spouses do not have substantially different preferences
+about FPS
+Our study also complements the insights generated by other ex
+perimental studies on the husband s involvement Ashraf et al
+demonstrated that bypassing the husband could increase women s up
+take of contraceptives where men want more children and have higher
+bargaining power than women However this might lower women s
+subjective well being due to increased spousal dissatisfaction In a
+more recent study
+Ashraf et al showed that increasing the
+husband s knowledge about maternal health costs reduces pregnancy
+rates without affecting spousal satisfaction Treating husbands not only
+lowers their desired fertility it also leads to more frequent communica
+tion about family planning and higher marital satisfaction They also
+find that husbands have more accurate beliefs about their wife s fertility
+preferences
+McCarthy found that the husband s involvement
+reduces pregnancy rates but not where there is recent IPV We do
+not investigate the effect of the husband s involvement on knowledge
+or spousal satisfaction Further in contrast with McCarthy we
+do not find that the husband s involvement interacts with IPV Our
+results demonstrate that the husband s involvement has the potential
+to increase the uptake of contraceptives by correcting women s beliefs
+about their husband s fertility preferences
+More broadly our findings indicate that where information about
+spousal preferences is incomplete existing household models should
+incorporate individual beliefs about spousal preferences as an addi
+tional parameter This increases the complexity of household models
+and broadens the set of potential effects of the involvement of the
+husband It also opens the door to potential efficiency losses when
+decisions are made individually In our setting characterized by large
+gender inequality and inaccurate beliefs about spousal preferences this
+translates in a positive effect of the husband s involvement on the
+uptake of the opportunities offered Our results suggest that reaching
+out to women might be less effective if the husband is not involved
+In particular there is a considerable risk that opportunities offered to
+women remain then underutilized
+The results presented in this paper point to several avenues for fu
+ture research First we need more theoretical and empirical research on
+the role of incomplete information in household bargaining to achieve
+a better understanding of household decision making Why is there
+incomplete information in the household and how can this be modeled
+theoretically In what domains do we observe incomplete informa
+tion between spouses Second further research on intra household
+communication about fertility preferences is necessary to increase our
+understanding of intra household decision making and its effect on
+contraceptive use For example more evidence is needed on the con
+ditions under which such communication takes place and could be
+facilitated Finally it is likely that communication influences efficiency
+in household decision making in other domains as well where spouses
+potentially think they disagree While we focused on contraceptives
+on which we know there tends to be little discussion among spouses in
+patriarchal societies in low income countries similar questions can be
+asked about other domains where there is little communication among
+spouses
+Aninanya et al BMC Health Services Research
+https doi org l O
+RESEARCH
+BMC Health Services Research
+Open Acces
+Effects of computerized decision support
+Check for
+Lypdates
+on maternal and neonatal health worker
+performance in the context of combined
+implementation with performance based
+incentivisation in Upper East Region Ghana
+a qualitative study of professional perspectives
+and Natasha
+John E Afua Easmon Otuplri
+o
+o
+Gifty Apiung Aninanya
+Abstract
+Background
+Computerized decision support systems CDSS and performance based incentives PBls can improve
+health worker performance However there is minimal evidence on the combined effects of these interventions or
+perceived effects among maternal and child healthcare providers in low resource settings We thus aimed to explore
+the perceptions of maternal and child healthcare providers of CDSS support in the context of a combined CDSS PBI
+intervention on performance in twelve primary care facilities in Ghana s Upper East Region
+Methods We conducted a qualitative study drawing on semi structured key informant interviews with nurses
+and midwives health facility managers and district level staff familiar with the intervention We analysed data
+thematically using deductive and inductive coding in NVivo software
+Results Interviewees suggested the combined CDSS PBI intervention improved their performance through enhanc
+ing knowledge of maternal health issues facilitating diagnoses and prescribing prompting actions for complications
+and improving management Some interviewees reported improved morbidity and mortality However challenges
+described in patient care included CDSS software inflexibility e g requiring administration of only one intermittent
+preventive malaria treatment to pregnant women faulty electronic partograph leading to unnecessary referrals
+increased workload for nurses and midwives who still had to complete facility forms and power fluctuations affecting
+software
+t Gifty Apiung Aninanya and Natasha Howard contributed equally to this
+work
+Correspondence ganinanya uds edu gh
+Department of Health Services Policy Planning Management
+and Economics School of Public Health University for Development Studies
+Box TL Tamale Ghana
+Full list o author information is available at the end of the article
+BMC
+The Author s Open Access This article is licensed under a Creative Commons Attribution Internationa License which
+perm ts use sharing adaptation distribution and reproduction in any medium or format as ong as you give appropriate credit to the
+original author s and the source provide a link to the Creative Commons licence and indicate if changes were made The images or
+other third party material in this article are included in the article s Creative Commons licence un ess indicated otherwise in a credit line
+to the material If material is not included in the article s Creative Commons licence and your intended use is not perm tted by statutory
+regulation or exceeds the permitted use you Will need to obtain permission directly from the copyright holder To view a copy of this
+licence VISit http creativecommons org licenses by The Creative Commons Public Domain Dedication wa ver http creativeco
+mmons org publicdomain zero l applies to the data made available in this article unless otherwise stated in a credit line to the data
+Aninanya et al BMC Health Services Research
+Page of
+Conclusion
+Combining CDSS and PBI interventions has potential to improve maternal and child healthcare provi
+Sion in low income settings However user perspectives and context must be considered along with allowance for
+revisions when designing and implementing CDSS and PBls interventions
+Keywords
+Computerised decision support system Performance based incentives mHealth Maternal and neonatal
+health Ghana
+Background
+Frontline health worker performance is a common chal
+lenge in resource constrained settings Health worker
+behaviours are complex with many potential influences
+though research indicates general enablers of improved
+performance include in service training in use of tools
+constructive feedback and receiving positive recognition
+In low and middle income country LMIC health
+systems performance is additionally constrained by staff
+ing deficiencies and ad hoc task shifting thus weakening
+capacity to achieve national and global health goals
+Access to health infrastructure is indispensable but not
+enough and poor quality of care impedes achieving
+Sustainable Development Goal ensure healthy lives
+and promote well being for all at all ages Therefore
+health systems must ensure good quality care
+A key example of this issue is maternal and neonatal
+health MNH which cannot improve in LMICs without
+ensuring the availability of adequate numbers of compe
+tent and motivated providers at health facilities Despite
+improvements in access to and use of MNH care in many
+LMICs mortality rates remain high and gaps between
+low income and high income countries continue The
+high levels of mortality are attributed to poor quality of
+care in the health facilities characterized by over
+crowding and understaffing with inappropriate manage
+ment of complicated deliveries and untimely response to
+emergencies
+Initial efforts focused on improving MNH provider
+performance through in service trainings assuming
+problems are due to inadequate knowledge and skills
+Millions of training dollars later healthcare indica
+tors are little improved and MNH providers still require
+support Recognising training is not the only solu
+tion more recent interventions involve infrastructure
+improvements and advocacy for skilled birth attendance
+Packages of interventions appear more effec
+tive than single interventions For example assess
+ment of Standards Based Management and Recognition
+SBM RO for quality improvement in three Ethiopian
+hospitals and eight health centres showed significant
+improvement in MNH provider performance during
+labour delivery and immediate postnatal services
+Evidence suggests computerised decision support sys
+tems CDSS and performance based incentives PBIs
+could enhance health worker motivation and perfor
+mance CDSS are electronic tools that prompt
+provider behaviours with patient specific prompts
+treatment guidelines automatic medication dosing cal
+culations and reports of overdue tests and medications
+PBIs involve compensating health workers for work
+beyond their typical remit so they feel appreciated and
+that effort is valued Offering monetary or other recog
+nition for high performing employees aims to counter
+act weak or indirect health system incentives
+by directly linking rewards to actions that achieve per
+formance targets and therefore contribute to improved
+heal

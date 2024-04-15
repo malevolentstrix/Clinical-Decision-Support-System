@@ -1,0 +1,801 @@
+a in endemic countries and
+non endemic countries respectively these numbers do not include estimations of the
+impact on mortality derived by in utero exposure to the disease Today approximately
+million of individuals live in hotspots with a prevalence of cholera higher than
+WHO Most of these hotspots are located in African countries and the
+rest are located in the Middle East and Central Asia where the healthcare capacity
+and quality is very poor Moreover the spread of cholera around the world is likely
+to increase due to global warming Chowdhury et al Shope Emch et al
+The cholera epidemic in Peru started in the early in the middle of an eco
+nomic crisis Real GDP per capita fell circa between and Paxson
+and Schady The situation of the health sector was also precarious Individuals
+were supposed to have access to free healthcare including prenatal services labor
+and delivery In practice however the capacity of the health sector was very limited
+The public expenditure in health in was of the GDP one of the lowest from
+Latin America at the time Many health centers did not function normally because of
+a lack of personnel Pollarolo The travel costs for many individuals were sig
+nificantly high given the long distances to the closest health center some times as far
+as or more hours away INEI In addition there were important opportunity
+costs in particular for informal workers the large majority of workers for whom a
+day without working was a day without earnings
+Naturally a health system like this was not prepared to deal with an epidemic
+Many hospitals simply collapsed and the probability of a patient being rejected due
+Springer
+P l Ritter R A Sanchez
+to lack of capacity or personnel increased significantly Here are some quotes that
+reflect this situation
+hospitals received a growing number of patients that was sometimes four
+times greater than the number of bed and staff available In several cities staff
+had to be taken from other hospital services to look after cholera some hos
+pitals focused only on patients stricken with the disease and the physicians
+requested the help of one relative per patient According to one physician from
+Cajamarca hospital during the epidemic all doctors had to forget their original
+specialty Cueto p
+The emergency room of the hospital looked like a battlefield Sick
+patients barely fit in the suffocating room Some of them were seated ted on
+the floor other lying in beds and others many were left to lie on the floor
+l The few nurses and auxiliary personnel extraordinarily called were insuf
+ficient to assist the patients Several nuns with their white robes joined the
+effort to attend patients In some cases even police officers became sponta
+neously improvised nurses our translation from p
+IN Valdivia Rey
+The lack of capacity to attend patients during the cholera epidemic was very
+generalized according to a nationally representative survey applied in October and
+November only of people who were sick and wanted to get attention got
+access to health services Pollarolo This evidence illustrates how the cholera
+epidemic increased the costs of getting access to healthcare in that it eroded the
+already limited capacity of the health sector increasing the patients waiting hours
+and the probability of being rejected It is not surprising therefore that we find that
+the cholera epidemic reduced prenatal care and institutional births
+The epidemic reached suspected cases and a total of deaths a mor
+tality rate of per inhabitants and per cases in the first year
+and a total of accumulated suspected cases and accumulated deaths
+by September By the end of the disease had spread to fourteen countries
+in Latin America and the Caribbean totaling cases with Peru responsible
+for of all cases presented in the Americas et al The epidemic
+was caused by the bacterium Vibrium zero group Lanata The
+means of contagion is through food handling and consumption with drinking water
+being the most common vehicle of dissemination Gotuzzo Maguifia Vargas
+et al Working age adults were disproportionally affected by the disease and
+becoming infected with cholera typically resulted in medical expenses as well as to
+days without working and Bradford
+Figure I shows that the largest number of cases was reported in the number
+decreasing over time with a peak of approximately per inhabitants per week
+in the regions of the jungle The mortality rate was also much higher in as we
+can see in Fig
+As explained in the Introduction disease control experts could not explain why
+cholera returned to South America in nor could they predict where it was going
+Brookes In retrospect however several factors seemed to influence the inten
+sity of the disease by region and time The first of these is the geographical location
+Springer
+The effects of an epidemic on prenatal investments childhood
+Epidemiological Weeks
+Coast
+Highlands
+Jungle
+Fig Weekly incidence of cholera epidemic Data source General Directorate of Epidemiology of the
+Ministry of Health of Peru
+and time of the first case The disease was first reported in the areas around the coastal
+cities of Chancay Chimbote and Piura at the end of January Epidemiological
+studies suggest that the massive contamination of phytoplankton and seafood in the
+warm part of the sea in the North of Lima explains the explosive spread of the dis
+eases Gotuzzo Maguifia Vargas et al In general cholera is more likely
+to develop in coastal ecologies Collins Importantly this is believed to be the
+first case not just the first diagnosis since adults and children had been tested for
+some time before without any sign of the bacterium Vibrium Cholerae Gotuzzo
+From these zones the epidemic advanced to other urban and rural areas of
+Peru spreading from coast to the highlands finally penetrating the Peruvian jungle
+as we can see in Fig
+The second factor that seemed to influence the spread of the disease is warm tem
+peratures and humidity Lama et al As we can see in Fig I the disease peaked
+z
+mo
+poo
+Epidemiological Weeks
+N Cases
+Mortality
+Fig Incidence and mortality of cholera epidemic Data source General Directorate of Epidemiology of
+the Ministry of Health of Peru
+Springer
+P l Ritter R A Sanchez
+in the first months of the year when it is summer on the coast it spread more homo
+geneously over the year in the jungle where it is warm and humid all year around
+and the incidence of cholera in the highlands is lower which is colder and drier all
+year around
+Naturally poor levels of basic sanitation with inadequate processing of drinking
+water also seems to have influenced the expansion of the epidemic Gotuzzo
+Maguifia Vargas et al Water even piped water was commonly not or not
+sufficiently chlorinated and low water pressure and continuous breakdowns in the
+service forced people to store water in containers where contaminations was even
+more likely Untreated sewages emptied into the sea rivers and lakes or used to
+irrigate agricultural land Cueto
+Finally belonging to the human blood group O has been associated with increased
+severity of the disease and approximately of the indigenous population in Peru
+is blood type O Matson et al Individuals with blood type O are not more
+likely to be infected by the bacterium but the cholera toxin exerts a more potent
+effect on cells expressing the blood type O associated glycan Harris et al The
+relationship between blood type O and the severity of the disease has been confirmed
+in very different settings and in the particular case of Peru in it was found that
+Inc in utero trim
+January
+Inc in utero trim
+May
+Inc in utero trim
+September
+Inc in utero trim
+February
+Inc in utero trim
+June
+Inc in utero trim
+October
+Inc in utero trim
+March
+Inc in utero trim
+July
+Inc in utero trim
+November
+Inc in utero trim
+April
+Inc in utero trim
+August
+Inc in utero trim
+December
+Fig Spread of the Cholera Epidemic in Peru by Month and Region Note The graph from January
+shades the departments where the first cases where detected The graphs from the rest of the months show
+the raw variation we exploit in our regressions that is the three month cholera incidence by region and
+month Different shades represent different quintiles of incidence
+Springer
+The effects of an epidemic on prenatal investments childhood
+individuals with blood type O were eight times more likely to be hospitalized with
+severe cholera Swerdlow et al
+Data and summary statistics
+Our data make use of four sources of information The first source of data is the
+Population Census of Peru of INEI which asks women age or older
+whether their youngest child born alive is still alive It also asks the birth date month
+and year of that child The mortality rate corresponds to the proportion of those
+children by cohort and region who have died We restrict our sample initially to
+years of cohorts to but in our main specification we narrow the sample
+from to for reasons we will explain in Section
+The second source of data is the Health and Demographic Survey DHS of
+This dataset collects information on all children born alive in the previous years of
+the survey and records whether or not they are still alive at the time of the interview
+meaning we do not have to rely only on the youngest child in this case Moreover
+this data set allows us analyze within siblings effects It also includes information of
+parental investment and other nutritional and health question about the children We
+also limit this data set to children born until
+The third source of data provides information about the incidence of cholera reg
+istered in Peru during the years to which was obtained from a report
+produced by the General Directorate of Epidemiology of the Ministry of Health of
+Peru Ognio This information is disaggregated by week year and
+region with the exception of Apurimac and Madre de Dios for which information is
+lacking
+Finally the fourth source of data is from Willmott and Matsuura which
+provides terrestrial air temperature and precipitation information per month and
+meteorological station which we match to regions
+Table shows summary statistics of our sample of children corresponding to the
+youngest child born between and to women age or older in Peru
+has regions but as we mentioned above we only have data on cholera incidence
+in of them There are a total of observations that result from collapsing the
+data at the region month level We weight the means by the number of children born
+alive per region and month
+Children are on average years old The mothers are on average years old
+are indigenous have an average of children in total years of educational
+attainment and of them are illiterate Forty nine percent of the children have
+piped water at home have access to a toilet or cesspit The average mortality
+rate is I The average temperature and rainfall by trimester was oc and mm
+respectively
+The average cholera incidence during the third trimester in utero for those chil
+dren born in is for children born before that year the incidence is zero
+with a maximum incidence of The cholera incidence is calculated by dividing
+the number of cases by the population of the region as of Cholera cases are
+collected from diagnosis made on the basis of symptoms not blood tests This type
+Springer
+Tablel Summary statistics census child born alive
+P l Ritter R A Sanchez
+Child s age alive or dead
+Birth order number of children
+Mother s age
+Indigenous mother
+Mother s years of education
+Illiterate mother
+Piped water
+Toilet or cesspit
+Mortality rate
+Temperature Trim
+Temperature Trim
+Temperature Trim
+Precipitation Trim per
+Precipitation Trim per
+Precipitation Trim per
+Cholera Trim per
+Cholera Trim per
+Cholera Trim per
+Observations
+Mean
+sd
+mm
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+Note Table show summary statistics for the main period of analysis except for cholera
+incidence that only include data from since we know the incidence before that year was zero
+of diagnosis has the advantage of not relying on testing capacity test approval etc
+Naturally this type of diagnosis is not perfect either For example other acute diar
+rheal infections might be misclassified as cholera infections Nevertheless it seems
+that the diagnoses were very accurate in the most important hospital in Peru of all
+the cases of cholera between February and May diagnosed by symptoms only
+circa were tested and of these cases reported positive results from the test
+Saona et al
+Table shows summary statistics of our sample of children corresponding to the
+DHS data of children born between and There is a total of observa
+tions children but only combinations of regions and month year of birth Back
+in and for a brief period of time only Peru was divided into regions So the
+survey captures that division with the exception of regions in November for
+which there we have no observations In the country went to back to have
+regions and that is captured in the census We do not collapse this data in order to
+exploit the within sibling variation We weight the means using the sampling weights
+of the survey
+Children in the survey sample are on average years old The mothers are on
+average years old have an average of children age to and only years of
+educational attainment Fifty five percent of the children have piped water at home
+Springer
+The effects of an epidemic on prenatal investments childhood
+Table Summary statistics DHS children under five born alive
+Birth order
+Child s age
+Child s sex female
+Mother s age
+Indigenous mother
+Mother s years of education
+Piped water at home
+Access to a toilet or cesspit
+Mother received tetanus vaccine
+Number of antenatal visits
+Mother has antenatal card
+Institutional births
+Low birth weight kg
+Small size of child at birth
+Very small size of child at birth
+Premature child
+Mortality rate children age
+Mortality rate months or younger
+Neonatal mortality
+First day mortality
+Child had diarrhea in past weeks
+Child had diarrhea severe in past weeks
+Child ill in past weeks
+Stunting height for age std
+Underweight weight for age std
+Height for age std
+Weight for age std
+Count
+Mean
+Sd
+mm
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+ooo
+The total mortality rate of children is The prevalence of severe diarrhea diarrhea
+episodes that last three days or more is and the prevalence of stunting and
+underweight children is and respectively
+Approximately half of the births are institutional births that is in public hos
+pitals or health centers or in a private location but with the assistance of a doctor
+More precisely of birth are at home are in hospitals health centers and
+private clinics or offices and is others Approximately of births that occur in
+medical institutions or health centers are assisted by a doctor or obstetrician On the
+contrary less than of the births at home are assisted by a doctor Most of them are
+assisted by a traditional midwife typically without license a relative or no body
+Women have on average prenatal visits and of women have prenatal
+cards tarjetas de control prenatal These are cards filled by the doctor nurse
+Springer
+P l Ritter R A Sanchez
+with the date of each prenatal control as well as with special comments of the doc
+tor for example whether the woman is experiencing problems with the pregnancy
+This information represents a complement and a more objective measure than the
+mothers report of whether they had prenatal controls Similarly reported having
+had a tetanus vaccine The tetanus vaccine was during those years the only vaccine
+required to be given to pregnant women It has a duration of years and it is typically
+administered to the pregnant woman in her second or third trimester
+Empirical strategy
+We estimate three models We first apply a difference in difference DD approach
+or more accurately a Fuzzy difference in difference De Chaisemartin and
+d Haultfoeuille exploiting differences in the intensity of the cholera epidemic
+by month and region Under certain conditions that we explain below this model esti
+mate a Local Treatment Effect on the switchers or compliers We collapse the data
+at the region month level and weight the regressions by the number of children born
+alive per region and month In Appendices A and B we show the estimation using
+total population as weights instead Our main specification is the following
+t t t pm t r
+where stands for the mortality rate as of July of Census interview date
+of children born alive in month m and year t to women age or more in
+who at the time of the census lived in region r Unfortunately we do not know the
+region of residence when a given woman was pregnant with her treated child but in
+Appendices A and B we estimate our results using only children born to women who
+did not relocate during the years preceding the census between and
+and our results are very similar
+ChJrm t stands for the cholera incidence during the jth trimester in utero of the
+child For example Ch
+Ica represents the week incidence before April
+in the region of Ica Our data does not provide day of birth so we assume all
+children were born on the day of the month Our data also does not provide
+information on gestational age at birth hence we assume weeks of gestation and
+we follow the medical literature regarding the definition of the trimesters the first
+trimester comprises weeks I to the second trimester comprises weeks to and
+the third trimester comprises weeks to Exposure to cholera however could
+have reduced gestational age at birth So in Appendices A and B we estimate our
+regressions assuming and weeks of gestation
+The medical literature affirms that third trimester is the most sensitive for cholera
+cases Hirschhorn et al but we also estimate the effect of exposure to cholera
+during the other trimesters to confirm this previous result In addition we estimate
+the effect of exposure to cholera in the first trimester after birth because prenatal and
+postnatal incidence of cholera might be correlated and postnatal exposure may also
+have an effect on childhood mortality Cholera incidence of further away periods is
+Springer
+The effects of an epidemic on prenatal investments childhood
+less likely to be correlated with the incidence while in utero and less likely to affect
+childhood mortality since typically around half of childhood mortality happens soon
+after birth Finally we additionally estimate the effect of exposure to cholera in the
+trimester before conception as a placebo test
+pm t stands for month year of birth fixed effects Qnt r stands for month region fixed
+effect d rtrend stands region specific trends and stands for control variables
+ethnicity number of children which in this case is also the birth order age and
+education of the mother whether or not they have access to piped water to a toilet or
+cesspit and average temperature and rainfall by trimester in utero Standard errors are
+clustered at the regional level Since we only have data from regions in the census
+and regions in the survey we present the p values of wild bootstrap inferences to
+correct for the small number of regions following Cameron et al
+This empirical strategy addresses several potential sources of bias First of all
+the regions fixed effects control for time invariable regional variables that might be
+correlated with cholera infection and childhood mortality Second the region specific
+trends control for the underlying trends in mortality which were already increasing
+during those years in most regions The region month of birth fixed effects control
+for regional specific seasonal variables that can be correlated with the intensity of
+cholera and childhood mortality Finally the month and year birth effects control for
+any potential nationwide shock that could affect mortality rates during those months
+Month and year birth effects also control for differences in mortality by children age
+As with any other DD application we assume that our results are not biased by
+changes in unobservable variables that are correlated both with the cholera epidemic
+and with childhood mortality As a way to increase the credibility of this assumption
+in Appendix A we show with placebo regressions that our observable variables do
+not vary meaningfully with the variation in cholera intensity that we exploit We also
+restrict the sample to those born by the first semester of with the objective of
+including only children who were conceived before the outbreak of the epidemic and
+in this way rule out the possibility that our results are generated by selective fertility
+In addition to the traditional assumptions a Fuzzy DD approach has two addi
+tional assumptions a stable treatment effect over time and homogeneous treatment
+effects for switchers of both treatment and comparison groups Our comparison
+group are region months combinations that were affected by the cholera epidemic
+in a smaller degree than the region months combinations from treatment group
+In Appendix A we relax these assumptions and estimate Intertemporal Treatment
+Effects following de Chaisemartin and D Haultfoeuille
+Our second model is an event study similar to that of Cutler et al and Alpert
+et al among others This non parametric model allow us to test whether the
+intensity of the cholera epidemic was greater in regions and months in which child
+hood mortality and our other outcomes were already growing The following is our
+event study specification
+r m t ao k BtChrm
+t pm y
+t
+k rtrend k Er t
+Springer
+P l Ritter R A Sanchez
+Ch
+stands for cholera incidence corresponding to the last trimester in utero
+of the child of region r born in month m of year Thus gives us the effect
+on mortality of a percentage point increase in cholera incidence for those children
+who effectively were in utero in while Fl gives us the effect on mortality of a
+I percentage point increase in cholera incidence for those children who were in utero
+in a year before the epidemic started gives us the effect on mortality of a
+I percentage point increase in cholera incidence for those children who were in utero
+in years before the epidemic started and so forth It is important to note that
+even in the absence of pre existing trends for t are not necessarily equal
+to because they give us the effect on mortality of postnatal exposure to cholera
+However the largest part of childhood mortality happens in the first year of life and
+so most of the children that die in our sample has already died before their first
+year of life and so for t should be noisier and probably smaller than the
+effect of the exposure while in utero More importantly if the event study shows no
+long term trend in increasing mortality rates leading up to the cholera epidemic then
+that is evidence that our effects are not endogenously driven by omitted variables
+correlated with the spread of the epidemic
+Finally we estimate a third model with the survey data applying the same DiD
+strategy but including a mother s fixed effects Working with this data and empirical
+strategy has advantages and disadvantages The main disadvantage is that we have
+considerably less statistical power for our estimations first we only exploit within
+sibling variation second the data contains a representative but small sample of the
+population and third the data is divided in larger regions instead of the Hence
+we lose much of the cross sectional variation
+The main advantage of this augmented empirical strategy and additional data set
+is that it removes several of the concerns that we have with our first model and data
+First of all this model controls for selection at the mother s level As we have seen
+in the Introduction while not even experts seemed to have anticipated the cholera
+epidemic at that precise time with our DD model we cannot completely discard the
+possibility that the effects are driven by differences in the sample of women who gave
+birth during the cholera epidemic With this third model however we control for
+such potential differences Second with the census data we estimate only the effect
+on last born child hence should we not want to assume the same average treatment
+effect between last born and early born children our first model estimates a Local
+Treatment Effect LATE on last born children With this third model and data how
+ever we include all children age to irrespective of whether or not they were last
+born I lence the external validity of this model is greater Third since the data we use
+to estimate this model was collected at the end of and at the beginning of
+it reduces the likelihood that the region of residence is other than the native region
+of children exposed to the epidemic Finally with this data we observe the age of
+death and hence we can estimate the effects on mortality by age of death For more
+robustness and sensitivity tests on this model please see our Appendix B
+Before concluding this empirical section we would like to make a final note about
+our main regressor Other studies use maternal infection rate as the main regressor
+for example Almond Unfortunately we do not have mother s infection rate
+or infection by gender or age However we believe our regressor cholera incidence
+Springer
+The effects of an epidemic on prenatal investments childhood
+Springer
+P l Ritter R A Sanchez
+at the regional level is a more appropriate way to address our research question
+With the Covid epidemic we now know more than ever that an epidemic can
+affect individuals not just through the disease itself but through other mechanisms
+We believe this is part of our contribution to the literature By exploiting the variation
+of the cholera incidence at the regional level we incorporate the potential effects
+of for example the saturation of the health infrastructure of a region This can be
+particularly harmful for pregnant women that need attention several times during
+their pregnancies and of course during the delivery This is especially true in poor
+countries and was especially true during the cholera epidemic in Peru as we have
+seen above
+Results from census data
+Table presents the estimated effects of exposure to cholera on childhood mortality
+according to different specifications The first column shows the effects of estimat
+ing the difference in difference specification for the entire period between January
+and July We estimate the effect of the three trimesters in utero All
+regressions include birth month year and month region fixed effects region specific
+trends and control for ethnicity birth order or number of children born alive age
+and education of the mother whether they have access to piped water to a toilet and
+temperature and rainfall by trimester p values of wild bootstrap inferences shown
+in parentheses and confidence intervals shown in brackets According to the
+first column exposure during the trimester has the greatest effect on childhood
+mortality an increase of standard deviation in the incidence of cholera during the
+last trimester in utero increases average childhood mortality rate by percentage
+points which represents and increase of or standard deviations The med
+ical literature also affirms that the third trimester is the most sensitive for cholera
+cases Hirschhorn et al We also find that an increase of standard deviation
+in the incidence of cholera during the first trimester in utero increases average child
+hood mortality rate by percentage points which represents and increase of
+or standard deviations Finally we find that an increase of I standard deviation
+in the incidence of cholera during the second trimester in utero decreases average
+childhood mortality rate by percentage points This result might seem odd at
+first however this is actually possible it could be the result of miscarriage and of
+the surviving children being a healthier sub set of the total cohort Selective mortal
+ity miscarriage has been noticed by many researchers Bozzoli et al Currie
+and Vogl In fact according to Saona et al most miscarriages due to
+cholera infection in Peru occurred during the first and second trimester of pregnancy
+In the rest of the columns we estimate the same regression but restricting our
+data to the period between January and December By including only the
+first year of the epidemic we reduce the possibility of selective fertility Moreover
+since the epidemic was quite unexpected when it appeared but over time individuals
+in particular educated individuals became aware of the illness and learned ways to
+prevent it we would expect that the effect is less likely to be endogenous in the first
+year of the epidemic In Appendices A and B we restrict the sample even further
+Springer
+The effects of an epidemic on prenatal investments childhood
+to those born by the first semester of with the aim of including only children
+conceived before the outbreak of the epidemic In column we can see that the effect
+of exposure to cholera during the third trimester remains statistically significant in
+all the specifications In the case of exposure to cholera during the second trimester
+the negative effect is no longer statistically significant and in the case of exposure
+to cholera during the first trimester the coefficient is statistically significant only
+in some of the specifications Columns and show the estimates of exposure to
+cholera only during the third and first trimester respectively In particular we can
+see that the estimate for the exposure during the third trimester is very insensitive
+to controlling for the incidence during other trimesters This result is not surprising
+given that the intensity of cholera varied significantly within regions over time even
+within months and given that we are working with census data and therefore have
+good statistical power
+In column we show the effect of exposure during the weeks in utero and
+we can see a significant effect on mortality an increase of standard deviation in
+the incidence of cholera during the weeks in utero increases average childhood
+mortality rate by percentage points or
+Column includes the estimation of the effect of cholera during the first trimester
+after birth It is somewhat surprising that postnatal exposure during the first trimester
+after birth does not affect childhood mortality rate However we need to keep in
+mind that typically of childhood deaths happen in the first month after birth
+and a third of neonatal deaths occur in the first day of life This means that some
+of the children in our sample were not actually exposed to postnatal incidence of
+cholera because they were already dead after the first month In fact we will see in
+the next section that there is a significant effect on first day mortality Another expla
+nation could be that breastfeeding reduced babies exposure to the epidemic There
+is evidence that mothers respond in this way to protect babies from contaminated
+water Keskin et al This does not have to be a premeditated response since
+breastfeeding is very generalized during the first trimester of life
+Finally in column we include as a placebo the estimation of the effect on mor
+tality of cholera during one trimester before conception It is reassuring to find no
+significant effect but this result is not sufficient to prove causality During the
+and early Peru was going through a very bad economic situation including an
+increase in infant mortality Baird et al Paxson and Schady Hence our
+results could be driven by a previous trend Figure shows event study for exposure
+during the third trimester and we can see however that there is no previous trend in
+those regions and in those months with higher incidence of cholera in in com
+parison with the rest of regions and months This result provides good evidence that
+our estimation is causal Moreover Fig presents an event study of maternal edu
+cational attainment as a placebo test that provides evidence that there was no sample
+selection in the mothers of children affected in greater magnitude by the epidemic In
+Appendix A we show more placebo tests and robustness checks that increase even
+further the reliability of our results The event study for exposure during the first
+trimester in Fig shows what we were observing in the regressions a much noisier
+and mostly non significant effect on mortality
+Springer
+P l Ritter R A Sanchez
+Year
+Fig Event study mortality rate cholera incidence trimester in utero Note Graph includes point
+estimates from the event study normalized to O the coefficient of and confidence intervals of
+wild bootstrap inferences to correct for the small number of regions
+These results are most likely a lower bound estimate for several reasons first
+the epidemic likely generated a sizable number of miscarriages which tend to be
+concentrated among those who are physically weakest meaning the survivors will
+tend to be a healthier subpopulation Bozzoli et al Currie and Vogl
+Second the epidemic killed a large number of adults meaning pregnant women who
+survived a cholera infection were probably the healthiest and our sample does not
+contain information on motherless children Third we do not have the age of death
+for children and we observe only whether children have died before mid and
+the epidemic started in Hence we can only see whether the children affected
+by the epidemic died at age or before and some children might have died after
+reaching that age
+Year
+Fig Placebo event study maternal education cholera incidence trimester in utero Note Graph
+includes point estimates from the event study normalized to O the coefficient of and confidence
+intervals of wild bootstrap inferences to correct for the small number of regions
+Springer
+The effects of an epidemic on prenatal investments childhood
+Year
+Fig Event study mortality rate cholera incidence first trimester in utero Note Graph includes point
+estimates from the event study normalized to O the coefficient of and confidence intervals of
+wild bootstrap inferences to correct for the small number of regions
+Table shows heterogeneous effects by poverty The level of poverty by district
+is defined by the proportion of households with at least one unsatisfied basic need
+which was calculated by the INEI from the Census We define poor districts
+as districts with a larger proportion of poor households than the median district As
+expected the effect of exposure to cholera during the third trimester on mortality is
+greater among poorer districts Interestingly though the effect of exposure to cholera
+during the first trimester on mortality is greater among the less poor districts This
+last result could be derived from a smaller number of miscarriages among the less
+poor districts which in turn reduces the selection effect
+Table also shows heterogeneous effects by maternal education We define
+women with high educational attainment as those women with educational attain
+ment higher than the median and women with low educational attainment as those
+women with educational attainment lower than the median Again as expected the
+effect of exposure to cholera during the third trimester on mortality is greater among
+children of less well educated mothers
+Results from survey data
+In this section we present the results from the estimations using the survey Data
+DHS One of the shortcomings of this data aside from the obvious fact that
+it is a survey and therefore has significantly fewer observations than a census is
+that the configuration of regions in this data is different than in our cholera data and
+in the census data the country is divided in larger regions instead of the We
+thus lose much of the cross sectional variation With this data however we have the
+advantage of knowing the age of death and we can estimate within siblings effects
+Table presents the estimated effects of exposure to cholera on mortality using this
+data In the first column we show the result of running the difference in difference
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+Z
+Springer
+P l Ritter R A Sanchez
+just as we did with the census data As expected our estimate is significantly less
+precise the point estimate of exposure to cholera during the third trimester is approx
+imately times larger but it is not statistically significant Columns to show the
+effects of estimating the within siblings effect on total mortality on mortality in the
+first months of life on mortality in the first month of life and on first day mortality
+respectively We concentrate on early life mortality only because at the time of the
+survey approximately half of the children born in were less than months old
+We can see that including the mother fixed effect approximately triplicates the esti
+mate and limiting the age of death to months or less increases the significance We
+find that an increase of I standard deviation in the incidence of cholera during the last
+trimester in utero increases three month mortality by percentage points or
+and first day mortality rate by percentage points or This last result is very
+interesting and suggests that a significant part of the deaths might have occurred due
+to complications at birth The magnitude of the effects are large but so are the con
+fidence intervals the effects represents only and of a standard deviation of
+three month mortality and first day mortality respectively Also this is a sample of
+mothers less well educated as we saw in the summary statistics
+Table shows the effect of the epidemic on some fetal health indicators following
+Goodman Bacon sex composition low and very low birth weight size and
+gestational age Column shows the effect on the sex composition of children born
+alive We do not observe a statistically significant effect on the probability of a child
+being born female but we cannot dismiss this possibility out of hand Column
+shows the effect on low birth weight Unfortunately only about half of households
+answered this question We do not find any significant effect on low birth weight in
+our data there are no children with a very low birth weight nor any effect on the
+perceived size of the baby at birth as shown in columns and or in the likelihood
+of being premature as shown in column In column we follow Kling Liebman
+and Katz Anderson and Hoynes et al and construct a summary
+indicator for fetal health with the objective of increasing the statistical power of
+our estimation This indicator is the simple average across standardized measures of
+each component low and very low birth weight size and whether the child was a
+preterm baby The standardization of each variable is made by subtracting the mean
+and dividing by the standard deviation Since all the indicators of fetal health are
+negative we multiply the indicator by to get a positive indicator We can see that
+there is no significant effect on this indicator either
+Table presents the estimated effects on prenatal investments We find no signif
+icant effect on the number of prenatal visits but exposure to cholera during the third
+trimester in utero reduces the probability of having an prenatal card and of a mother
+having had a tetanus shot in the last years Column shows that exposure to cholera
+during the third and first trimester in utero reduces the likelihood of an institutional
+birth by percentage points or In column we construct another summary
+indicator this time for prenatal investment with the objective of increasing the
+statistical power of our estimation This indicator is the simple average across stan
+dardized measures of each component number of prenatal visits having an prenatal
+card having had a tetanus shot and institutional birth The standardization of each
+variable is made by subtracting the mean and dividing by the standard deviation We
+Springer
+The effects of an epidemic on prenatal investments childhood
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+find that I standard deviation in the incidence of cholera during the last trimester in
+utero decreases prenatal investment by standard deviations These results sug
+gest that childhood mortality in particular first day mortality could have been driven
+at least in part by the lack of skilled care during pregnancy and birth
+With respect to the potential magnitude of the effect of prenatal investments on
+mortality the effects for example of institutional births on mortality rates esti
+mated by previous studies are significantly large between and Daysal
+et al Godlonton and Okeke Okeke and Chari Friedman and Keats
+b We find that I standard deviation in the incidence of cholera during the
+last trimester in utero reduces institutional births by percentage points Based
+on previous studies we would expect an increase in mortality between and
+percentage points which corresponds very closely to our estimates I lence a large
+proportion of the first day mortality and to a lesser extent month mortality could
+be explained by the effect of the cholera epidemic on institutional births and more
+generally prenatal investments
+Table shows the effects on some health indicators of surviving children at the
+time of the interview Columns I and show no significant effect on being ill or
+having at least one episode of diarrhea in the two weeks prior to the interview respec
+tively Column however shows that an increase of one standard deviation in the
+incidence of cholera during the third trimester increases the likelihood of severe diar
+rhea defined as diarrhea for at least days by percentage points or Column
+shows that an increase of one standard deviation in the incidence of cholera during
+the first trimester decreases height for age by standard deviations but column
+shows no effect on the probability of the child being stunted Columns and
+show that an increase of one standard deviation in the incidence of cholera during the
+first trimester decreases weight for age by standard deviations and increases the
+likelihood of being underweight by percentage points or respectively
+Tables and show heterogeneous effects In these tables we do not show
+the coefficients of the exposure to cholera during the second trimester in order to
+save space and focus the attention on our main results We cannot identify districts
+in the survey data which is why we cannot construct the heterogeneous effect by
+poverty with this data but in this data we observe maternal education and sex of the
+child Table shows heterogeneous effects by education The effects on total mortal
+ity estimated with the census data month mortality and severe diarrhea estimated
+with the survey data are concentrated among children of less well educated mothers
+The effect on prenatal investments however is larger for children of better educated
+women and the effect on day mortality does not show much difference by edu
+cation One potential explanation for these results is that on the one hand the effects
+on total mortality month mortality and severe diarrhea are mostly driven by the
+impact of the disease while in utero which presumably affected less well educated
+women to a greater degree On the other hand the effect on first day mortality is
+driven by a combination of the impact of the disease and the impact on prenatal
+investments and the latter presumably depends more on the saturation of the health
+system in populated areas where women tend to be more educated
+A similar pattern can be seen in Table the effects on month mortality and
+severe diarrhea are concentrated among female children The effect on prenatal
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+Springer
+Springer
+P l Ritter R A Sanchez
+The effects of an epidemic on prenatal investments childhood
+investments however is larger for males and the effect on day mortality does
+not show much difference by sex Larger results for females are not uncommon in
+the fetal origins literature This result is typically attributed to stronger fetal sur
+Vival for women and a positive selection effect among surviving boys Dagnelie
+et al There is not obvious explanation of why the effect of on prenatal invest
+ments seems larger for males but again the lack of differential effect by sex on
+first day mortality might be explained by the fact that this mortality is driven by a
+combination of the impact of the disease while in utero and the impact on prenatal
+investments
+Magnitude of the effects and estimation of the additional deaths
+from the epidemic
+With the census data we find that a percentage point incidence of cholera dur
+ing the last trimester in utero increases average childhood mortality rate by
+percentage points With the survey data results are much larger in magnitude but
+also significantly less precise Applying the same methodology the point estimate
+is approximately five times larger and it is not statistically significant Applying
+the fixed effect methodology we find that I standard deviation in the incidence of
+cholera during the last trimester in utero increases month mortality rate by
+percentage points If we look at the effects in terms of standard deviations the mag
+nitudes are not so different from each other with the census data we find an increase
+on total childhood mortality of standard deviations while with the survey data
+we find an effect on three month mortality of standard deviations Assuming
+the difference between the census estimate and the survey estimate using the same
+methodology give us the magnitude of the imprecision of the survey estimates we
+would expect that the true effect is five times smaller that is approximately per
+centage points or As a comparison Jayachandran finds that the wildfires
+in Indonesia during the months in late and early caused an increase in the
+under three mortality rate of assuming half of the deaths were miscarriages
+Rocha and Soares find that I standard deviation increase in rainfall gener
+ates a decrease of in infant mortality rate and Banerjee and Maharaj find
+that excessive heat during pregnancy days on average increases infant mortality
+by
+According to our estimation the total number of children who died due to expo
+sure to the cholera epidemic while in their last trimester in utero was in the range
+of to of all youngest children born in that died by the age of
+Extrapolating our result to all children born in we have a total of to
+extra deaths not estimated in the official number of cholera deaths of which
+is This means that the human cost of the epidemic was approximately
+larger if also we take into account the effect of prenatal exposure on childhood mor
+tality Moreover the official total mortality rate due to postnatal exposure to the
+Given that our the effect on mortality ranges from to percentage points
+Springer
+P l Ritter R A Sanchez
+cholera epidemic in Peru is in every inhabitants while our estimated mor
+tality rate due to prenatal exposure is in every children who were born
+alive in The striking difference in these numbers shows that in utero exposure
+to an epidemic can be more deadly than postnatal exposure Naturally this will vary
+from epidemic to epidemic cholera might affect children in utero much more than
+other diseases Nevertheless we have seen that lack of prenatal investment is also an
+important driver of the effect on mortality This means that even if the disease has no
+direct effect on the fetus the economic consequences of the epidemic as well as the
+saturation of the health system can impose severe consequences in terms of childhood
+mortality
+Concluding remarks
+Epidemics have been on the rise for the past several decades and will likely continue
+to do so in the near future Much of the economic literature has focused on the conse
+quences of viral outbreaks Influenza V Ebola in spite of the fact that
+the number of bacterial outbreaks have increased as much as have the number of viral
+outbreaks and the two most common outbreaks in the last two decades have been
+bacterial outbreaks Salmonellosis and cholera Smith et al Poor countries
+in particular are highly vulnerable to bacterial infections given the high prevalence
+of antibiotic resistance WHO and more generally given their lack of access
+to basic health services clean water and sanitation WB In this study we find
+that an increase in standard deviation in the incidence of cholera during the last
+trimester in utero increases average childhood mortality rate by approximately
+according to our most conservative estimate This means that the human cost of the
+epidemic was approximately larger if we consider the effect of prenatal expo
+sure on postnatal childhood mortality Moreover the official mortality rate from the
+cholera epidemic in Peru during is in every inhabitants while our
+estimated mortality rate due to prenatal exposure is in every children
+that were born alive in
+We further find that the epidemic increased first day mortality and reduced prenatal
+care and institutional deliveries and that later mortality is concentrated among girls Addi
+tionally we find that surviving children are more likely to suffer from severe diarrhea
+have lower weight for age and are more likely to be underweight These results
+provide evidence that prenatal investments in particular prenatal care and institu
+tional deliveries can act as mediators between the in utero shock and the effect
+on childhood mortality and possibly also on surviving children s health status and
+even longer term outcomes Epidemics in particular but also many other shocks that
+have been analyzed in the fetal origins literature droughts wars famines and hurri
+canes among other things have the potential to affect access to skilled care during
+pregnancy and birth hence the results of this paper can apply to a wide range of
+shocks
+Springer
+The effects of an epidemic on prenatal investments childhood
+Appendix A Robustness difference in difference model census
+data
+This section presents placebo estimates and sensitivity analysis to further increase
+the reliability of the results estimated with our first model In these tables we do not
+show the coefficients of the exposure to cholera during the second trimester in order
+to save space and focus the attention on our main res

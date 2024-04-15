@@ -1,0 +1,997 @@
+during the First Stage of Labor
+Newborn Weight
+Cervical Laceration
+History of Uterine Surgery
+parity
+Manual Removal of Placenta
+Episiotomy
+Placenta Previa
+Operative Vaginal Delivery
+Uterine Curettage
+Assisted Reproduction
+Velamentous Placenta
+Threatened Abortion
+Induced Labor
+Placental Abruption
+Figure
+The standardized importance of the factors in the MLP network
+Page
+Figure
+LR
+MLP
+RBF
+Reference
+LR
+RBF
+Reference
+I Specificity
+LR
+MLP
+RBF
+I Specificity
+Reference
+I Specificity
+The ROC of the MLP BP RBF network and LR in the training validation test data
+Page
+Prediction of Postpartum Hemorrhage in Vaginal Delivery
+Antepartum
+Assisted Reproduction
+Result
+Postpartum Hemorrhage
+Non postpartum Hemorrhage
+Figure
+Yes
+Submit
+Clear
+Exit
+Periparmm
+Postpartum
+Newborn weight
+Cervical Laceration
+Yes
+The graphical user interface of the CDSS developed for postpartum hemorrhage
+Supplementary Files
+This is a list of supplementary files associated with this preprint Click to download
+appendix docx
+Page
+ELSEVIER
+Sexual Reproductive Healthcare
+Contents lists available at ScienceDirect
+Sexual Reproductive Healthcare
+journal homepage www elsevier com locate srhc
+O
+Check for
+We have almost accepted child spacing Let s wait on family planning and
+limiting children Focus group discussions among young people with
+tertiary education in Somalia
+Gallad Dahira Asli Kulane Bakar Omar c Fatumo Osman
+a School of Public Health and Research Somali National University Columbia Rd Hamar Weyne P O Box Mogadishu Somalia
+Departrnent of Global Public Health Equity and Health Policy Research Group Karolinska Institutet Stockholm Sweden
+c School of Public Health and Research Somali National University Columbia Rd Hamar Weyne P O Box Mogadishu Somalia
+d School of Health and Welfare Dalarna University Falun Falun Sweden
+e School of Public Health and Research Somali National University Columbia Rd Hamar Weyne P O Box Mogadishu Somalia
+ARTICLE
+Keywords
+Child spacing
+Contraception
+Family planning
+Somali youth
+Post conflict
+Introduction
+INFO
+ABSTRACT
+Objective Somalia has high rates of maternal mortality fertility and pregnancy among young women Factors
+contributing to this situation are a lack of knowledge regarding sexual and reproductive health early marriages
+cultural norms and the unmet need for or use of contraceptives This study aimed to explore the perceptions of
+family planning among young men and women with tertiary education in Mogadishu
+Methods A purposeful and convenience strategy using snowballing was used to recruit participants Four focus
+group discussions were held online with young women and men aged years old All participants were
+studying at five different universities in Mogadishu and only one participant was married The data were
+analysed using thematic analysis
+Findings The findings showed that participants objected to the concept of family planning but supported the
+concept of child spacing They highlighted that people of their generation with tertiary education practise child
+spacing to combine careers with family life Although all the participants knew of the benefits of child spacing
+they had different opinions on whether modern contraceptive methods were an option for them They were more
+comfortable with traditional contraceptive methods and believed that the quality of the modern contraceptive
+medicine available in the country was unreliable
+Conclusiorr Our findings suggest that it is crucial not only to include young people in family planning awareness
+initiatives and implementation but also to give them a voice to advocate family planning and start dialogues
+within their own communities
+While efforts have been made to improve the sexual and reproduc
+tive health of young people globally studies continue to report high
+fertility rates among young people living in Africa
+In Somalia in
+Sub Saharan Africa young people aged years old constitute
+approximately of the total population
+and high rates of fertility
+and pregnancy have been reported among young women
+The
+maternal mortality rate in Somalia is also one of the highest in the world
+with live births The latest Somali Health and De
+mographic Survey
+showed that the proportion of girls who begin
+childbearing in their teenage years is rising Childbearing at a young age
+has great consequences for women infant health and society
+From
+the health perspective early childbearing and a high fertility rate are
+associated with maternal and neonatal mortality pregnancy related
+complications low birth weight and psychological distress
+From a
+societal perspective the risks include high school drop out rates poor
+socioeconomic outcomes and the generational transmission of marrying
+children at a young age
+Factors contributing to a high fertility rate
+among young people are early marriages cultural norms a lack of
+knowledge regarding sexual and reproductive health and the unmet
+need for or use of contraceptives
+For the last three decades Somalia has suffered from civil war
+conflict and humanitarian crises which have led to fragility in the
+Corresponding author at School of Health and Welfare Dalarna University Falun Falun Sweden
+E mail address fos du se F Osman
+https doi org j srhc
+Received October Received in revised form February Accepted February
+Available online February
+Published by Elsevier B V
+G Dahir et aL
+healthcare system and poor access to essential healthcare services
+particularly family planning services
+Investing in family planning is
+crucial to achieving the sustainable development goals SDGs
+It
+also contributes to improving maternal health reducing maternal
+mortality and morbidity and enhancing gender equality and women s
+Family planning further allows both women and
+empowerment
+men to access accurate information regarding which contraceptive
+methods can support them in their reproductive preferences
+The knowledge that modern contraceptive methods are effective in
+family planning and preventing unintended pregnancies has been
+widely transmitted in Sub Saharan Africa yet the uptake of these con
+traceptive methods remains low which is a great concern for achieving
+the SDGs
+In Somalia only of married women use modern
+contraceptive methods and only half of the women aged years
+old have heard of these methods
+This indicates a low level of
+knowledge about contraceptive methods among young people living in
+Somalia However the knowledge of contraceptive methods among
+Somali women in Somalia increases by age and education
+For
+instance of women without education had knowledge of con
+traceptive methods compared to of women with education
+Evidence confirms that education and economic are important fac
+tors for women s fertility rate and use of family planning
+However sociocultural norms may counteract and contribute to
+women s use of family planning and preferences for larger family sizes
+In many Islamic countries including Somalia birth spacing is
+permitted but limiting children as family planning is interpreted is
+discouraged
+Several studies have shown that Somali women prefer
+to have many children to enhance their status in society However
+a recent study of Somali men living in Sweden showed that these men re
+evaluated the ideal family size when living in a context outside Somalia
+although social pressure continued to be a factor in maintaining a large
+family size
+While other studies of Somali men living in Sub
+Saharan Africa have also shown varying opinions about family size all
+the studies confirmed that knowledge about modern contraception is
+low
+Given this context it is important to investigate young people s
+perceptions of family planning and contraceptive methods to design
+gender and culture responsive interventions
+More particularly
+young people with tertiary education as young people with tertiary
+education had knowledge and use modern contraceptive methods
+Therefore in this study we aim to explore perceptions of family
+planning among young men and women with tertiary education and
+living in Mogadishu
+Methods
+Design
+The study employed a qualitative exploratory design using focus
+group discussions FGDs An exploratory design is useful when little
+knowledge exists on the phenomenon to be explored
+FGDs were
+chosen because they facilitate the exploration of a phenomenon from
+different points of view
+allowing the authors to examine how the
+phenomenon of family planning is perceived collectively by young
+women and men living in Mogadishu Somalia
+Setting recruiment and participants
+The study was carried out in Somalia s capital city Mogadishu
+which is located in the Banadir region The city is highly urbanised with
+approximately million inhabitants and is administratively divided
+into districts A purposeful convenience sample of young men and
+women living in Mogadishu was recruited to participate in FGDs The
+inclusion criteria were that the participants were young men and women
+under years old who lived in Mogadishu The first author recruited
+participants using the snowballing method Information about the study
+Sexual Reproductive Healthcare
+was posted on Facebook This strategy was due to the COVID pandemic
+and difficulties recruiting participants from other settings such as mos
+ques coffee shops or schools It is also estimated that of Somali
+youth have access to smartphones and the internet
+Potential par
+ticipants who showed interest contacted the first author and those who
+met the eligibility criteria were invited to information meetings and to
+participate in an FGD if they agreed They were then encouraged to
+invite peers to participate by coming to the information meeting or
+contacting the first author In total participants showed an interest in
+and received information about the study and were asked for their
+consent to participate At the time of the FGDs two participants could
+not attend due to bad internet connectivity and one participant could
+not participate due to time constraints Therefore participants were
+included in four FGDs
+As shown in
+females and nine males aged years
+Table
+participated in the FGDs This study did not aim to recruit university
+students exclusively however the majority of the participants
+were carrying out their undergraduate studies in medicine nursing
+public health or management programmes at five different universities
+in Mogadishu This might be due to the information about the study
+being posted on Facebook but also those who have been recruited
+through snowballing were invited by their peers who were studying at
+the university In addition two participants had master s degrees in
+public health and management and only one of the participants was
+married
+Data collection
+The FGDs took place between July and September Due to the
+Covid pandemic they were conducted online using the Zoom plat
+form Four group discussions were held comprising one mixed FGD with
+both women and men two FGDs with only women and one FGD with
+only men The reason for having mixed and separate sex FGDs was to
+explore whether different perceptions emerged in the different FGD
+types Initially we aimed to have six FGDs however in our last two
+FGDs we realised that no newer information had resulted from the
+discussions and therefore decided to stop recruiting more participants
+after the fourth FGD
+The FGDs lasted h and were audio recorded with the partici
+pants consent They were conducted in the Somali language by two
+Somali speaking researchers one moderating the discussions and the
+other observing the interactions between the participants and their
+levels of engagement Both the moderator and observer also reflected on
+the discussions Their notes during the FGDs and subsequent reflections
+were used when analysing the data FGDs and were moderated by a
+woman last author and observed by a man first author and FGDs
+and were moderated by two men first author and third author The
+moderators who conducted the FGDs are experienced in conducting
+such discussions and qualitative studies See
+for the FGD
+Table
+characteristics
+Data were collected using a fictive vignette
+covering a story
+about young married couples and their discussions regarding family
+Table
+Demographic characteristics of the participants n
+Variable
+Age Min Max
+Gender
+Male
+Female
+Marital status
+Single
+Married
+Education level
+Studying at bachelor s level
+Studying at master s level
+n
+years
+G Dahir et aL
+Table
+Focus group and participant characteristics
+Focus
+group
+Participants
+Mixed group with
+participants
+females
+females
+males
+Moderator and
+observer
+Female
+moderator and
+male note taker
+Female
+moderator and
+male note taker
+Male moderator
+and note taker
+Male moderator
+and note taker
+Characteristics of
+participants
+All participants were
+single
+All participants were
+single
+All participants were
+single
+participants were
+single and was
+married
+planning Before use in the FGDs the vignette was presented to students
+in a master s of public health programme in Somalia who provided
+feedback on whether it would be culturally accepted by the participants
+The vignette was then tested in the first FGD mixed sex As no revision
+was made to the vignette or the follow up questions the data from the
+first FGD were included in the analysis The FGDs started with the
+moderator reading the vignette aloud see
+and asking the
+Table
+participants to give their perceptions and thoughts about the scenario
+specifically in relation to family planning The aim of using the vignette
+was to give the discussion more depth and focus than it would if based
+on the participants perceptions alone Structured follow up questions
+were asked to draw out the participants own perceptions regarding
+family planning and what they would have done differently from the
+couples in the vignette see
+Table
+The interactions during the FGDs were highly positive and the
+participants appeared excited to discuss the case scenario In all the
+FGDs except one the participants discussed the topic so exten
+sively that there was insufficient time to cover all aspects While the
+participants did not always agree they seemed to respect each other s
+ideas The topics on which the participants disagreed are discussed in
+the results section
+Data analysis
+All audio recorded FGDs were transcribed verbatim in Somali and
+analysed using inductive thematic analysis
+First the transcripts
+were read inductively several times by the first second and last authors
+The data were then read critically to capture the ideas and concepts
+expressed by the participants The first and last authors who coded the
+Sexual Reproductive Healthcare
+data ANONYMISED discussed their reflections and the ideas and
+concepts that had emerged with the second author ANONYMISED
+Codes were then extracted from the text segments describing the par
+ticipants perceptions of the phenomenon and translated into English
+ANONYMISED then grouped the codes and text segments into pre
+liminary themes which were discussed by all the authors Next the
+themes were revised and some of the subthemes were merged into
+themes All the themes reflected on the core concept of the participants
+perceptions of family planning and child spacing
+Ethical considerations
+The study received ethical approval from the Ministry of Health and
+Human Services at the Somali Federal Republic MOH HS DGO
+June All the participants received oral information about
+the nature of the study and were informed that their participation was
+voluntary and that they could withdraw their consent at any time
+without explanation All participants gave oral consent to participate
+and to be audio recorded
+Results
+The thematic analysis resulted in the following four themes see
+Table
+The first the concept of child spacing is more accepted than family
+planning reflects how participants wanted to define the family planning
+concept and the differences in young people and their parents and
+grandparents generations attitudes towards the topic The second the
+decision of child spacing goes beyond the couple describes how child
+spacing decisions are shared The third acceptability and availability of
+child spacing methods explores the perceptions of the participants and
+society regarding what methods to use for child spacing and the quality
+of the products available in the country The fourth awareness of child
+spacing methods describes the participants views on the importance of
+increasing awareness in society and knowledge among healthcare pro
+fessionals who advise and treat women All four themes were salient in
+all the FGDs
+The concept of child spacing is more accepted than family planning
+Many of the participants reacted to the concept of family planning
+during the FGDs They emphasised that in Somalia the concept of child
+spacing is used and understood to be in keeping with Islamic beliefs All
+the participants objected to the concept of family planning which is
+understood to limit the number of children one can choose to have as
+the quotes below demonstrate
+I support their idea from the vignette of spacing their children But
+limiting children is not what I support because only Allah knows how many
+children they will have It is not something or a decision that comes from
+them FGD with women RI
+I don t agree with saying that I will have a certain number of children
+because we are Muslims But I support spacing the children by at least three
+Table
+Vignette for group discussion
+Scenario
+This is the story of newly married couple
+Farah and Halima who are in their early
+twenties A year ago they met at university
+when senior medical students and nursing
+students were undertaking their
+community awareness training in refugee
+camps outside Mogadishu They fell in love
+and later married Halima wanted to
+discuss with Farah whether they should
+wait to have children because she wanted
+to finish her degree in nursing Farah said
+that he had a good job now as a doctor and
+Halima didn t have to work because he
+could support his family
+After a long discussion Farah and Halima
+agreed that they would have a child now
+but then wait for three years before having
+their second child so that Halima could go
+back to her studies and gain some work
+experience
+Follow up questions
+What are your thoughts about this
+scenario What is your advice for this
+couple Could they have resolved the issue
+another way What are your thoughts
+about family planning
+Table
+Themes and subthemes
+Theme
+Concept of child spacing is more
+accepted than family planning
+Decision of child spacing goes beyond
+the couple
+Acceptability and availability of child
+spacing methods
+Awareness of child spacing methods
+Sub themes
+Accepting of child spacing is related to
+age and educational level
+Using contraceptives to combine career
+life and family life
+Traditional methods are preferred for
+child spacing
+Modern contraceptive methods are
+unreliable
+G Dahir et al
+years because it is an advantage for the child FGD with both women and
+men
+Both religion and culture were reported to influence the participants
+perceptions of family planning The participants reasons for not
+accepting family planning were related to their Islamic beliefs and how
+society viewed family planning The participants agreed that child
+spacing was permitted in Islam but that many people in their social
+environment had misconceptions regarding child spacing According to
+the participants some people still believed that child spacing was not
+permitted in Islam
+This issue of spacing children is not something new Allah already
+mentioned it in the Koran But many people do not have enough knowledge of
+the Koran FGD with men
+Acceptance of child spacing is related to age and educational
+level
+The participants agreed that individuals acceptance of child spacing
+was related to their age and educational level They perceived that
+young people of their generation and their parents grandparents held
+different views on the topic with the young people and more educated
+recognising the benefits of child spacing for both the mother and the
+child to a greater extent than their parents grandparent s generation
+The participants considered that social norms encourage couples to have
+more children and their parents grandparent s generation follows these
+norms rather than listening to facts regarding the benefits of spacing
+children They also expressed that society attributes greater value and
+respect to couples with more children which in turn gives the couples
+increased status in the family and society
+Somali society prefers and gives status to families who have many chil
+dren FGD with men
+Young people in our age group between and years old decide to
+space their children but in the older generation the ones who have only a few
+children still have seven kids FGD with both women and men
+Decision of child spacing goes beyond the couple
+The participants perceived that the decision to space children is
+complex as it may involve other family members Even if the decision
+about child spacing is made mainly within the couple both partners
+families engage in the decision whether invited to or not The families
+particularly the mothers frequently try to persuade the couple not to
+space their children
+Your own parents will not even allow you to space children for two years
+Also your husband s parents won t allow you either So there are many
+challenges from your families They might say Are you crazy even if you
+both the couple agree they the family interfere with your decisions FGD
+with women
+Although many participants emphasised that the couple should
+decide for themselves they knew that this view differed from the social
+norm Women in particular reported experiencing social pressure to
+have numerous children and potentially facing consequences for spacing
+children The participants stated that society stigmatises women who
+cannot give birth or who have few children In such cases the woman s
+husband s family might persuade him to marry another woman even if
+he is happy with his wife The only time the family might accept the
+decision to space children is when the mother undergoes a caesarean
+section and a medical doctor advises against trying to have another child
+too soon The family will respect the doctor s advice when it concerns
+the mother s health
+Society and parents accept child spacing when the health of the mother
+is at risk such as a caesarean section and risk to her life FGD with both
+women and men
+Sexual Reproductive Healthcare
+Acceptability and availability of child spacing methods
+Using contraceptives to combine career life and family life
+The participants emphasised that the young people in their genera
+tion want to combine careers with family life and therefore will often
+consider using contraceptives for child spacing Although many partic
+ipants preferred child spacing they did not consider it something that
+couples would discuss before marriage The participants agreed that
+child spacing would be beneficial for couples relationships as well as
+the health of the mother and her child
+The whole family benefits if child spacing is used both the mother s and
+child s health The couple will get time together and they will have time for
+their children FGD with women RI
+Traditional methods are preferred for child spacing
+Although all the participants accepted child spacing and knew of its
+benefits they had different opinions on whether modern contraceptive
+methods were an option for all people whether women or men Both
+young men and women in the study supported traditional methods such
+as breastfeeding and withdrawal which they thought could be much
+safer and more socially acceptable than modern methods However in
+the male FGD the participants emphasised condoms as a way of spacing
+children
+I support the use of condoms because it has several benefits Not only does
+it protect you against getting pregnant but it also protects you from other
+infectious diseases FGD with men
+Some participants especially women disagreed that breastfeeding
+could protect the mother from becoming pregnant again They observed
+that some mothers might not exclusively breastfeed which could put
+them at risk of becoming pregnant
+A mother might not exclusively breastfeed and then she might get preg
+nant after the days after birth She gets pregnant and the child she gave
+birth to will not have good health as well as the one who is on the way Not
+only that but she will also suffer a lot The mother is suffering the child she
+gave birth to is suffering and the one she is carrying is also suffering all three
+of them are suffering FGD with both women and men
+Modern contraceptive methods are unreliable
+Some participants viewed the risks of the side effects of modern
+contraceptive methods as outweighing their benefits They also
+perceived that the quality of modern contraceptive medicine available
+in the country was unreliable which made people suspicious and fearful
+of using it Some participants particularly women noted that people
+who want good quality modern contraceptive medicine purchased it
+outside the country
+When living in Somalia it is bestfor us to use the traditional way because
+modern contraceptives are not reliable We don t know their quality FGD
+with women RI
+People do not trust the modern contraceptives available in the country
+They purchase them outside the country FGD with women
+The participants had different perceptions about the availability of
+modern contraceptive methods in Somalia Some knew that contracep
+tives were available at maternal and child health centres or hospitals
+but only for married women However one participant did not know
+where to find contraceptives I don t know if one can get them from
+hospitals or other places This is the first time I am hearing about modern
+contraceptive methods FGD with women
+Awareness of child spacing methods
+The participants highlighted that increasing awareness in society and
+among healthcare providers is important They expressed that society
+needed to understand the benefits of child spacing for the family the
+mother the child and the father They indicated that raising social
+G Dahir et al
+awareness contributes to their desire for child spacing
+Before we talk about the availability of modern contraceptive methods we
+need to talk about the understanding of child spacing in society This is where
+we need to start FGD with men
+You know that Somali people have a bad perception regarding child
+spacing or family planning Making them understand its benefits will take
+time FGD with men
+Another participant emphasised that awareness about child spacing
+is growing but it might take time for society to accept it
+We have almost accepted child spacing Let s wait on family planning and
+limiting children FGD with both women and men
+Participants underscored that healthcare professionals have a re
+sponsibility to raise this awareness However some participants who
+had conducted internships at maternal and child health facilities felt that
+healthcare providers did not have enough knowledge to provide
+adequate information to mothers and society They highlighted the
+importance of training healthcare providers in the benefits and conse
+quences of family planning
+To raise awareness we need experts who can do the job in a good and
+sensitive way I would say that we don t have those yet The healthcare
+professionals are not yet equipped with such knowledge FGD with
+women
+Discussion
+This study revealed perceptions of family planning and contraceptive
+use among young men and women living in Somalia This is the first
+study on family planning with most unmarried young men and women
+living in post conflict Somalia The most compelling finding in line with
+other studies
+is how participants related to the concept of
+family planning Consistently throughout all the FGDs the participants
+objected to the concept of family planning if it was to limit the number of
+children However they all supported the concept of child spacing
+Another interesting finding is the shift or transition regarding family size
+in the Somali community particularly in relation to how young women
+and men in this study discussed the topic They thought that their
+generation with tertiary education was already practising child spacing
+A recent study
+that investigated trends in fertility in several
+countries in Sub Saharan Africa confirmed that educational level is one
+factor that decreases fertility rates and increases the use of family
+planning A recent study
+conducted in Ghana with university stu
+dents reported that the majority of their participants had knowledge of
+and practised family planning However in contrast with the Ghana
+study our participants suggested both withdrawal as a method to avoid
+pregnancy and child spacing
+Even though the participants in our study accepted child spacing
+they pointed to the challenges of Somali families interfering with cou
+ples decisions to practice it These findings align with those of other
+studies
+that highlight the role of cultural norms in fertility
+preference and family planning Sociocultural norms influence how so
+ciety views family size preferences
+if the couple s status in
+society is measured by family size this may affect how the young men
+and women perceive family planning The participants in our study
+expressed desperation about how to shift perceptions in families and the
+community as the decision to space children extends beyond the married
+couple We hypothesise that healthcare providers in Somalia play a
+crucial role in promoting awareness of sexual reproductive health in the
+community particularly among young people At the same time as our
+participants highlighted healthcare providers need further knowledge
+to be able to take responsibility for raising awareness in the community
+and among women Nevertheless to increase awareness and use of
+family planning methods the concept of spacing should be used
+instead of family planning
+The participants in our study also highlighted the importance that
+young men and women living in Somalia place on combining careers
+with family life and their awareness of how child spacing could support
+Sexual Reproductive Healthcare
+this However they further underscored the unreliability and lack of
+good quality contraception available in the country Accepting child
+spacing does not necessarily translate to using it unless the modern
+contraceptive is available
+While health awareness about family
+planning can be raised if contraceptive methods remain unavailable it
+will be hard to decrease the fertility rate and achieve the SDGs in So
+malia
+Our findings also confirm the different layers needed to
+achieve all the SDGs and that the importance of women s education
+offering effective family planning interventions and the availability of
+modern contraceptive methods are crucial
+Strengths and limitations
+This study has methodological strengths and limitations that need to
+be addressed The credibility of the studies was ensured by conducting
+FGDs with both women and men along with only women and only men
+This arrangement allowed us to explore whether there were any
+different views between the sexes concerning family planning While
+mixed sex discussions are challenging to carry out in certain studies due
+to gender sensitivity it is still important to examine different opinions
+We also observed different perceptions from men who participated in
+the mixed FGDs than from those who participated in the male only FGD
+Male participants in the mixed FGD tended to agree with the female
+participants in the group In contrast in the male only FGD FGD the
+participants had other perceptions regarding family planning In FGDs
+and both the moderator and note taker were male which may have
+resulted in the female participants discussing less openly and largely
+avoiding expressing their perceptions However they discussed and
+reflected on the case scenario Conducting individual interviews might
+have given us in depth knowledge of each participant s attitudes to
+wards the phenomenon
+Credibility was also assured by conducting the FGDs in the partici
+pants native language which ensured that nuances and various
+meanings of the language were captured without losing anything in
+translation To ensure credibility and confirmability all the co authors
+also conversed throughout the data collection analysis and interpreta
+tion phases
+Braun and Clarke
+highlight the importance of researchers
+reporting their reflexivity as researchers use their expertise to analyse
+and construct the themes The research team consisted of two senior
+researchers and two junior researchers all of whom work in the field of
+health science While the research team had an insider perspective all
+being scholars of Somali origin they also had outsider perspectives as
+some of the team members are in the Somali diaspora For instance
+using the term family planning in the vignette was a conscious choice
+which led to discussion on whether the use of the concept of family
+planning was acceptable or not for young men and women living in
+Mogadishu The fact that the research team could navigate between
+insider and outsider perspectives may contribute to increasing the val
+idity and robustness of the findings
+The main limitation is that all the participants had university level
+tertiary education so the findings cannot be transferred to all young
+people living in Somalia The participants in our study likely had some
+knowledge of family planning as the majority of them study health
+science which may have influenced their answers However the authors
+aimed to reduce this bias by using a vignette posing one question at a
+time to highlight the full context of the research topic avoiding leading
+questions and verifying unclear responses by asking follow up questions
+Another limitation is that in each FGD two or three participants
+knew each other which may have led to participants having similar
+perspectives and agreeing with the perceptions of others However the
+aim of the FGDs was to capture general perceptions of family planning
+by young Somalis living in Mogadishu rather than individual
+perceptions
+G Dahir et al
+Conclusion
+Our findings illustrate that young people with tertiary education in
+Somalia support the concept of child spacing rather than family plan
+ning However they have shifted their perceptions of having larger
+families in comparison to their parents and grandparents generations
+which according to the participants in our study is partly the result of
+gaining tertiary education They also aim to combine career and family
+life Although the participants in our study want to practice child
+spacing social pressure may push them to some extent to continue in the
+same family patterns as their parents and grandparents generation The
+participants also highlighted the availability of good quality modern
+contraceptives as challenging for the people living in post conflict So
+malia If modern contraceptives are not available it becomes hard to
+practice child spacing or implement any interventions related to family
+planning Our findings suggest that including young people in raising
+awareness about and implementing family planning is crucial as is
+giving voice to young people to advocate family planning and start
+dialogue within their own communities
+Funding
+This research did not receive any specific grant from funding
+agencies in the public commercial or not for profit sectors
+Declaration of Competing Interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper
+Acknowledgements
+The researchers would like to thank the study participants for
+sharing their views and experiences
+References
+Fertility rate total births per woman Sub Saharan Africa Internet cited
+August Available from https data worldbank org indicator SP DYN
+UNFPA Somali Adolescents and Youth Boom or Gloom
+Directorate of National Statistics FGoS The Somali Health and Demographic
+Survey
+UNICEF Data Monitoring the situation of children and women Somalia
+Internet cited August Available from https data unicef org
+country som
+Nove A Matthews Z Neal S Camacho AV Maternal mortality in adolescents
+compared with women of other ages evidence from countries Lancet Glob
+Health
+Murphy Graham E Cohen AK Pacheco Montoya D School Dropout Child
+Marriage and Early Pregnancy among Adolescent Girls in Rural Honduras Comp
+Educ Rev
+Sexual Reproductive Healthcare
+Cook SMC Cameron ST Social issues of teenage pregnancy Obstet Gynaecol
+Reprod Med
+Birhan Z Tushune K Jebena MG Sexual and reproductive health services use
+perceptions and barriers among young people in southwest Oromia Ethiopia
+Ethiopian journal of health sciences
+Omar M Strategies for post conflict development of the Health Systems in Somalia
+lessons from selected countries Somali Health Action Journal
+Starbird E Norton M Marcus R Investing in family planning key to achieving the
+sustainable development goals Global health science and practice
+Thongmixay S Schoneveld T Vongxay V Broerse JE Sychareun V Essink DR
+Quality of family planning services for women of reproductive age in Lao PDR
+Glob Health Action
+Ackerson K Zielinski R Factors influencing use of family planning in women living
+in crisis affected areas of Sub Saharan Africa A review of the literature Midwifery
+Prata N Weidert K Sreenivas A Meeting the need youth and family planning in
+sub Saharan Africa Contraception
+Gele AA Musse FK Qureshi S Unmet needs for contraception A comparative
+study among Somali immigrant women in Oslo and their original population in
+Mogadishu Somalia PLoS one
+F Andersson M Human fertility in relation to education economy
+religion contraception and family planning programs BMC Public Health
+Olakunde BO Pharr JR The demand for family planning to limit childbearing
+satisfied with female permanent contraception in Sub Saharan Africa a meta
+analysis of demographic and health surveys Eur J Contracept Reprod Health Care
+Adams MK Salazar E Lundgren R Tell them you are planning for the future
+Gender norms and family planning among adolescents in northern Uganda
+International Journal of Gynecology Obstetrics
+Schuler SR Rottach E Mukiri P Gender norms and family planning decision
+making in Tanzania a qualitative study Journal of Public Health Africa
+Egeh AA Dugsieh O Erlandsson K Osman F The views of Somali religious leaders
+on birth spacing A qualitative study Sexual reproductive healthcare official
+journal of the Swedish Association of Midwives
+Omar B Larsson EC Calza S Osman F Perceptions of family planning among some
+Somali men living in Sweden A phenomenographic study Sex Reprod Healthc
+Abdi B Okal J Serour G Temmerman M Children are a blessing from God a
+qualitative study exploring the socio cultural factors influencing contraceptive use
+in two Muslim communities in Kenya Reprod Health
+Okeke CC Mbachu CO Agu IC Ezenwaka U Arize I Agu C et al Stakeholders
+perceptions of adolescents sexual and reproductive health needs in Southeast
+Nigeria a qualitative study BMJ open
+Bongaarts J Trends in fertility and fertility preferences in sub Saharan Africa the
+roles of education and family planning programs Genus
+Creswell JW Research design Qualitative quantitative and mixed methods
+approaches ed California USA Sage publications
+Krueger RA Focus groups A practical guide for applied research Sage
+publications
+Forcier Ba Empowering Youth Through Information Trends in Information
+Consumption among Urban Youth in Five IDP Camps in Somalia
+Hughes R Huby M The application of vignettes in social and nursing research
+J Adv Nurs
+Braun V Clarke V Thematic analysis APA handbook of research methods in
+psychology Vol Research designs Quantitative qualitative neuropsychological
+and biological APA handbooks in psychology Washington DC US American
+Psychological Association p
+Gbagbo FY Nkrumah J Family planning among undergraduate university
+students a CASE study of a public university in Ghana BMC Womens Health
+Kane S Kok M Rial M Matere A Dieleman M Broerse JEW Social norms and
+family planning decisions in South Sudan BMC Public Health
+An update to this article is included at the end
+International Journal of Hygiene and Environmental Health
+Contents lists available at ScienceDirect
+International Journal of Hygiene and
+Environmental Health
+journal homepage
+www elsevier com locate ijheh
+ELSEVIER
+Mini review
+International Journal
+of Hygiene and
+Environmental Health
+CrossMark
+Maternal arsenic exposure and birth outcomes A comprehensive
+review of the epidemiologic literature focused on drinking water
+Michael S Blooma b Simona Surdua Iulia A Neamtiuc Eugen S Gurzau
+c d
+a Department of Environmental Health Sciences University at Albany State University of New York Rensselaer NY USA
+b Department of Epidemiology and Biostatistics University at Albany State University of New York Rensselaer NY USA
+c Environmental Health Center Cluj Napoca Romania
+d University of Medicine and Pharmacy Iuliu Hatieganu Cluj Napoca Romania
+ARTICLE INFO
+Article history
+Received January
+Received in revised form March
+Accepted March
+Keywords
+Arsenic As
+Birth weight
+Birth size
+Epidemiology
+Gestation
+Drinking water
+Introduction
+ABSTRACT
+Inorganic arsenic iAs is a human toxicant to which populations may be exposed through consumption
+of geogenically contaminated groundwater A growing body of experimental literature corroborates the
+reproductive toxicity of iAs however the results of human studies are inconsistent Therefore we con
+ducted a comprehensive review of epidemiologic studies focused on drinking water iAs exposure and
+birth outcomes to assess the evidence for causality and to make recommendations for future study We
+reviewed English language papers assessing birth weight gestational age and birth size Thirteen of
+the studies were conducted among populations with frequent exposure to high level groundwater iAs
+contamination pg L and five studies were conducted in areas without recognized contamination
+Most studies comprised small samples and used cross sectional designs often with ecologic exposure
+assessment strategies although several large prospective investigations and studies with individual level
+measurements were also reported We conclude that the epidemiologic evidence for an increased
+risk of low birth weight g is insufficient although there exists limited evidence for birth weight
+decreases the evidence for increased preterm delivery is insufficient and there exists minimal
+evidence for decreased birth size In further investigation of birth weight and size we recommend incor
+poration of individual susceptibility measures using appropriate biomarkers with collection timed to
+windows of vulnerability and speciated arsenic analysis as well as consideration of populations exposed
+primarily to drinking water iAs contamination pg L Given the large potential public health impact
+additional high quality epidemiologic studies are necessary to more definitively assess the risk
+The extensive distribution of inorganic arsenic iAs in the
+earth s crust leads to local and regional contamination of ground
+drinking water supplies and widespread human exposure
+Amini
+et al Smedley and Kinniburgh Inorganic arsenic
+is well absorbed by the mammalian gastrointestinal tract and
+numerous adverse health effects have been described in associa
+tion with long term exposure to concentrations pg L Naujokas
+In so called arsenic endemic regions drinking water
+et al
+is often contaminated by gg L iAs and frequently higher
+Corresponding author at Department of Environmental Health Sciences Uni
+versity at Albany School of Public Health Rm Rensselaer NY USA
+Tel
+fax
+E mail address mbloom albany edu M S Bloom
+http dx doi org j ijheh
+Elsevier GmbH All rights reserved
+Elsevier GmbH All rights reserved
+than pg L iAs including areas of Bangladesh West Bengal
+India Taiwan Northern Chile and Central and Eastern Europe
+Smedley and Kinniburgh However exposure to drinking
+water sources contaminated primarily by pg L iAs is more
+widespread Amini et al and may also pose health risks The
+World Health Organization and other regulatory bodies have set a
+maximum contaminant limit MCL of pg L iAs in drinking water
+for the protection of human health predicated on reducing cancer
+risk
+yet this limit does not account for non cancer
+WHO
+endpoints such as reproductive effects
+Concern is growing with respect to an increased risk for adverse
+birth outcomes associated with chronic drinking water iAs expo
+sure including lower birth weight earlier delivery and smaller
+neonatal size in exposed mothers and their fetuses
+Vahter
+Previously we reviewed the epidemiologic evidence for causal
+associations between drinking water iAs and pregnancy loss and
+suggested that long term exposure to iAs pg L increases the
+M S Bloom et al International Journal of Hygiene and Environmental Health
+risk but with a need for additional investigation into effect at
+pg L iAs Bloom et al Inorganic arsenic crosses the
+human placenta and accumulates in the developing organs and
+systems of a fetus posing an increased risk potential Concha et al
+A recent study reports detectable levels in newborn meco
+nium
+Experimental and observational evidence
+Vail et al
+suggests that iAs accumulates in and disrupts placental function
+Ahmed et al and alters cord blood methylation Pilsner
+et al
+Abnormal placentation is a strong risk factor for preterm deliv
+ery and restricted fetal growth Murphy et al Altered
+vasculogenesis leading to dysplastic placental development He
+et al modification of epigenetic markers Tsang et al
+and in vitro changes in placental levels of reactive oxygen species
+Massrieh et al have been reported following iAs treatment
+Increased inflammatory processes were also reported for newborns
+exposed in utero via maternal consumption of iAs contaminated
+drinking water Ahmed et al Fry et al inflamma
+tion is also a predictor of growth restriction and preterm delivery
+Challis et al Recently a study of ultrasound measurements
+suggested restricted in utero growth with increased iAs exposure
+among male fetuses Kippler et al Studies have also demon
+strated genotoxic Chou et al and anti estrogenic Davey
+et al properties for iAs as well as modified expression of
+genes associated with immune function Andrew et al Wu
+et al
+and developmental processes Andrew et al
+Adverse birth outcomes
+including low birth
+WHO
+weight LBW neonatal weight g at term and preterm deliv
+ery PD live birth before weeks completed gestation are
+associated with a lifelong increased mortality risk Crump et al
+LBW and PD are also associated with an increased risk
+for various morbidities including neurodevelopmental disorders
+Mwaniki et al cardiovascular diseases and endocrine dis
+orders
+In approximately of deliveries
+Barker
+were preterm worldwide Blencowe et al and approxi
+mately of newborns weighed g
+Coupled
+UNICEF
+to the widespread distribution of iAs contaminated drinking water
+the high prevalence of LBW and PD makes even a modest increase
+in risk a significant global public health concern
+The animal evidence to date is controversial with respect to
+adverse birth outcomes and iAs exposure primarily reporting
+associations at maternally toxic doses Wang et al
+Exper
+imental studies using high dose intraperitoneal Zirakjavanmard
+et al or oral iAs treatment during gestation Tsang et al
+described decreased fetal or neonatal body weight or size
+Low dose iAs administration via drinking water to dams did not
+influence birth outcomes in one recent study yet was associated
+with reduced postnatal growth Kozul Horvath et al
+Sub
+stantial inter species differences in the rates of iAs methylation
+and excretion
+make extrapolation of animal results
+Vahter
+to humans tenuous and underscores the need for epidemiologic
+investigation In fact humans are likely to be more sensitive to
+arsenic toxicity than experimental animals
+There
+Mead
+fore our aim was to comprehensively assess the epidemiologic
+literature published to date and to characterize the strength of the
+evidence for causal associations between drinking water iAs expo
+sure and birth outcomes We also provide recommendations for
+future investigations to address existing data gaps
+Methods
+We searched the scholarly literature using SCOPUS a com
+prehensive abstract and citation database of research literature
+which indexes peer reviewed journals worldwide including
+Medline http www info sciverse com scopus Our initial search
+was limited to original human research articles published in the
+English language through August To identify candi
+date papers we used the keyword combinations arsenic AND
+birth outcomes papers identified arsenic AND birth
+weight papers identified arsenic AND birth size
+papers identified arsenic AND reproductive outcomes
+papers identified and arsenic AND newborn outcomes
+papers identified We manually searched reference lists in selected
+papers and also employed reference lists from review papers to
+identify one additional publication Paper titles and abstracts were
+reviewed and retained if arsenic exposure via drinking water and
+birth weight gestational age and or birth size was a study hypoth
+esis On January we updated the search to include two
+papers in addition to papers retained from the initial search
+For each study we abstracted and summarized the location
+and population sampled epidemiologic design sample size expo
+sure and outcome assessment strategies covariates considered and
+the magnitude and precision of effect estimates These character
+istics were used in a qualitative evaluation of each study and to
+assess the impact of the reported results Larger prospective stud
+ies and those using individual exposure assessment strategies were
+afforded greater consideration than smaller cross sectional studies
+and those using ecologic exposure assessment strategies Further
+more the timing and nature of individual exposure assessment
+strategies were considered We expressed study results as preva
+lence proportion ratios PPR odds ratios OR or average change
+per unit increase of exposure B and corresponding confidence
+intervals CIS or P values as reported by the 

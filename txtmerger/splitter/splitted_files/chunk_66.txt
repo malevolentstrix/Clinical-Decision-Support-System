@@ -1,0 +1,856 @@
+fetal growth Four recent systematic reviews evaluated
+Corresponding author UIC School of Public Health W Taylor Street Chicago IL USA
+E mail address argos uic edu M Argos
+https doi org j envres
+Received January Received in revised form January Accepted January
+Available online January
+Elsevier Inc All rights reserved
+Y H etaL
+Environmental Research
+Initial Vanguard Study
+of the National Children Study
+women
+infants
+mother infant pairs
+Prenatal total arsenic
+measured n
+Pregnancy complications
+Birth outcomes
+n
+Prenatal DMA measured
+n
+Pregnancy complications
+n
+Birth outcomes
+n
+Without missing values in covariates of interest e g maternal pre pregnancy BMI and income
+pairs
+pairs
+pairs
+pairs
+Fig Inclusion of National Children s Study participants to achieve final sample sizes
+existing epidemiologic evidence for the effects of arsenic exposure on
+birth weight Bloom et al Milton et al Quansah et al
+Rahman et al
+two conclude that there is limited evidence
+of a negative relationship between arsenic exposure and birth weight
+Bloom et al Rahman et al one meta analysis reports a
+significant reduction in birth weight in relation to arsenic exposure
+based on four studies Quansah et al the fourth concludes that
+evidence of such an association is convincing specifically for higher
+levels of arsenic exposure ppb
+While other
+Milton et al
+fetal growth related measures i e birth length head circumference
+and ponderal index have been studied Bermudez et al Bloom
+et al Chou et al Gilbert Diamond et al Henn
+et al Laine et al Liao et al
+evidence for an effect
+of arsenic exposure on birth length head circumference and ponderal
+index is inconclusive Similarly arsenic exposure may exert a role in the
+development of pregnancy complications e g gestational diabetes and
+preeclampsia Farzan et al Marie et al Peng et al
+which in turn may increase later life risks of adverse health
+outcomes such as type diabetes and cardiometabolic disease Baz
+et al Bellamy et al Chen et al Murphy and Smith
+However epidemiologic research evaluating these associations
+is limited
+Most previous epidemiologic studies on arsenic exposure and ma
+ternal and child health were performed in populations with higher le
+vels of arsenic exposure such as those found in Bangladesh and Mexico
+Laine et al A Rahman et al Few studies have evaluated
+these relationships in regions e g United States and Canada with
+lower levels of water arsenic Ettinger et al Gilbert Diamond
+et al Although the public health implications are large it re
+mains unclear whether results based on populations receiving high
+level arsenic exposures are relevant to populations receiving low or
+moderate level arsenic exposures
+Here we sought to understand the impacts of arsenic exposure
+during pregnancy on fetal growth and risk of pregnancy complications
+in a population of pregnant women with levels of exposure that are
+typical in the United States using data from a cohort of mother infant
+pairs who participated in the National Children s Study NCS
+Methods
+Study population
+Participants included for analysis are women and children enrolled
+in the Initial Vanguard Study of the NCS Information regarding re
+cruitment of women is detailed elsewhere
+Stanford et al The
+Initial Vanguard Study was conducted in seven primary sampling units
+i e Queens County New York Montgomery County Pennsylvania
+Waukesha County Wisconsin Brookings County South Dakota and
+Yellow Medicine Pipestone and Lincoln counties Minnesota Orange
+County California Salt Lake County Utah Duplin County North
+Carolina using a geographically based probability sample design from
+January September According to estimates from the United
+States Geological Survey the groundwater in each of these counties is
+estimated to contain less than the US Environmental Protection Agency
+EPA limit of gg L of arsenic
+Ayotte et al EPA
+In order to be included in the study the following eligibility criteria
+needed to be met household screening performed during or before the
+woman s pregnancy current pregnancy or high probability of preg
+nancy and ability to grant informed consent mother infant pairs
+met these criteria and were enrolled in the study Enrolled women
+completed up to two pregnancy visits that consisted of extensive in
+terview self administered questionnaires a physical examination and
+biospecimen blood and urine and environmental sample collections
+Since the purpose of the Initial Vanguard Study was to test study
+procedures and feasibilities many changes were made over the course
+of the year study period Specifically changes to the data collection
+protocols led to only a subset of mother infant pairs with all study
+variables collected Of the mother infant pairs pairs without
+Y H etaL
+missing data were included to evaluate the association between birth
+outcome and DMA and pairs without missing data were included
+in relation to total arsenic For adverse health outcomes during preg
+nancy and women without missing data were included to
+investigate the association with DMA and total arsenic respectively
+The flowchart in
+depicts the acquisition of final sample sizes for
+Fig
+each analysis
+Assessment of prenatal arsenic exposure
+A spot urine sample was collected during the third trimester from a
+subset of participants Urine was collected into a pre screened metal
+free container and was frozen locally until shipment on dry ice to the
+NCS Repository Fisher Bioservices Rockville MD Urine was ali
+quoted into pre screened metal free cryovials and stored at oc
+until shipment on dry ice to the US Centers for Disease Control s
+National Center for Environmental Health Since the initial purpose of
+laboratory testing of the Initial Vanguard Study was operational quality
+control assessment urine samples were selected for measuring total
+arsenic and arsenic species based on availability across study sites
+without any additional criteria Further experiments for total arsenic
+and arsenic species were administered at different time points resulting
+in different sample sizes available for the analyses in the current study
+Urinary total arsenic concentration was measured by inductively cou
+pled plasma dynamic reaction cell mass spectrometry ICP DRC MS
+with a limit of detection LOD of gg L Concentrations of urinary
+arsenic species were measured using high performance liquid chroma
+tography HPLC coupled to ICP DRC MS The LODs were as follows
+arsenic acid gg L arsenobetaine gg L arsenocholine gg
+L arsenous acid gg L DMA gg L MMA gg L and
+trimethylarsine oxide gg L For analytical results below the LOD an
+imputed value equivalent to the LOD divided by the square root of two
+was assigned Here total arsenic gg L and DMA
+gg L were analyzed as main exposure variables since a
+significant percentage of samples had concentrations of other
+metabolites i e arsenic acid arsenobetaine arsenocholine arsenous
+acid MMA and trimethylarsine oxide below the LOD
+Assessment of outcomes
+The NCS protocol included physical examination of children at
+birth Birth length cm and head circumference cm were measured
+twice and the average of the two readings was used For offspring
+without measures of length n and head circumference n
+values were abstracted from medical records using Community Health
+Information Architecture CHITA instruments Birth weight was not
+measured during the physical exam and was therefore extracted from
+medical records Ponderal index an indicator of infant adiposity is a
+measure of in utero growth retardation
+Vintzileos et al Yagel
+Thus we derived ponderal index by dividing birth weight
+et al
+in kilograms by cubed birth length in meters kg Gestational age
+was also collected from medical records and preterm birth was defined
+less than completed weeks of gestational
+Information regarding complications during pregnancy was ab
+stracted from medical records at the final birth visit Three dichotomous
+yes no outcome variables were included in our analyses any com
+plication gestational diabetes and preeclampsia Any complication
+was defined as conditions including gestational diabetes preeclampsia
+placenta previa preterm birth and significant vaginal bleeding ex
+cluding previa
+Assessment of covariates
+Maternal characteristics including age race ethnicity education
+level family income and number of previous live births were obtained
+from the first pregnancy interview Self reported weight and height
+Environmental Research
+before pregnancy were also recorded and pre pregnancy body mass
+index BMI was calculated as weight kg height m Infant sex was
+ascertained from medical records Concentrations of creatinine were
+measured in spot urine samples collected during the third trimester
+from all women using the Roche Hitachi Modular P Chemistry Analyzer
+and Creatinine Plus Assay reagents by NCEH s laboratory
+Statistical analysis
+All analyses were performed using SAS software version SAS
+Institute Inc Cary NC Demographic variables maternal character
+istics and infant physical measures were summarized overall
+mother infant pairs without missing data on DMA birth outcomes or
+covariates of interest and by quartiles of prenatal DMA concentrations
+Differences between quartiles of exposure were assessed using chi
+square test for categorical variables analysis of variance ANOVA test
+for normally distributed continuous variables maternal age pre preg
+nancy BMI gestational age birth weight birth length head cir
+cumference and ponderal index and Kruskal Wallis test for non nor
+mally distributed continuous variables urinary total arsenic and
+creatinine
+The association between arsenic exposure and pregnancy compli
+cations was assessed using multivariable logistic regression with odds
+ratios and confidence intervals CIS reported Analyses were ad
+justed for urinary creatinine gg L maternal age years race ethni
+city Caucasian African American other races maternal education
+high school high school graduate high school family income
+s and continuous pre preg
+nancy BMI kg For preterm birth the analysis additionally con
+trolled for infant sex and parity number O Given the limited
+sample size only DMA was evaluated in the analyses of pregnancy
+complications DMA was modeled as an un transformed continuous
+variable DMA was also modeled as quartiles of exposure only for the
+association in relation to the pregnancy complication summary vari
+able
+For birth outcomes we applied a multivariable linear regression
+model adjusted for urinary creatinine maternal age race ethnicity
+maternal education family income pre pregnancy BMI infant sex
+parity number and gestational age months to obtain expected
+changes and CIS Both total arsenic and DMA were modeled as
+quartile categories as well as un transformed continuous variables
+To test for linear trends by quartile of exposure p values were ob
+tained by treating quartiles of exposure as ordinal variables and re
+peating the above analyses Previous studies suggested potential sex
+specific effects of arsenic exposure on birth outcomes Cooperstock and
+Campbell Gilbert Diamond et al Zeitlin et al
+thus multivariable regression models with cross product terms be
+tween prenatal arsenic exposure and infant sex were conducted to as
+sess modification by infant sex For all analyses conducted a p value
+less than was considered statistically significant
+Four sensitivity analyses were conducted The first was performed in
+relation to birth outcomes i e birthweight birth length head cir
+cumference and ponderal index restricted to mother infant pairs
+pairs for total arsenic with gestation age weeks Wilcox
+et al The second sensitivity analysis was conducted using ge
+stational age and sex standardized z scores of birth outcomes i e birth
+weight birth length and head circumference calculated based on
+Fenton s growth chart
+Fenton and Kim
+The third sensitivity
+analysis was implemented to evaluate potential residual confounding
+effects from gestational diabetes and preeclampsia as well as delivery
+mode vaginal cesarean for head circumference on the associations
+between arsenic exposure and birth outcomes For the last sensitivity
+analysis we used a residual based method Jones et al to re
+move the impact of seafood derived organic arsenic on urinary total
+arsenic and DMA by accounting for arsenobetaine We obtained model
+residuals by regressing log transformed total arsenic and DMA on log
+Y H etaL
+Table
+Selected characteristics of mothers and their infants in the National Children s Study
+Environmental Research
+Urinary dimethylarsinic acid gg L
+QI Sl n n n
+Characteristic
+Race ethnicity
+Caucasian
+African American
+Other
+Maternal age year mean
+Education level n
+High school
+High school graduate
+High school
+Family income n
+s
+SD
+Number of previous live births n
+Pre pregnancy BMI kg mean SD
+Urinary arsenic gg L median IQR
+Total arsenic n
+Dimethylarsinic acid DMA
+Urinary creatinine gg L median IQR
+Pregnancy complication n n
+Any complication
+Gestational diabetes
+Preeclampsia
+Preterm birth
+Infant sex n
+Male
+Female
+Infant birth outcomes
+Gestational age weeks mean SD
+Birth weight kg mean SD
+Birth length cm mean SD
+Head circumference cm mean SD
+Ponderal index kg mean SD
+All N
+n
+p value
+Chi square test for categorical variables ANOVA test for normally distributed continuous variables and Kruskal Wallis test for non normal distributed continuous
+variables
+transformed arsenobetaine Estimated non seafood concentrations of
+total arsenic and DMA were then calculated by adding the means of
+total arsenic and DMA among participants with low arsenobetaine
+gg L back to the residuals The fully adjusted regression models
+were rerun with estimated total arsenic and DMA exposures for both
+birth outcomes and pregnancy complications
+Results
+Table
+shows the distribution of selected characteristics for
+mother infant pairs Results by exposure quartile are not shown for
+variables with participants in each quartile following the dis
+closure policies of the NCS Most women included in our analyses were
+Caucasian n Mean maternal age was years and
+mean pre pregnancy BMI was kg Median prenatal urinary
+concentrations of total arsenic and DMA were and gg L re
+spectively Pregnancy complications were reported in of the
+women in the study including with gestational diabetes
+and with preeclampsia Mean ponderal index significantly
+differed across quartiles of maternal urinary DMA with the lowest
+mean ponderal index observed among infants with the highest prenatal
+DMA levels
+shows the distribution of selected
+Supplemental Table
+maternal characteristics among mother infant pairs with neonatal
+medical records available pairs for DMA analysis and pairs for
+total arsenic analysis The distributions between these three study
+samples are not appreciably different from each other
+Table
+sum
+marizes results from the multivariable analysis Prenatal urinary total
+arsenic exposure was positively associated with infant birth length and
+head circumference and negatively associated with ponderal index A
+one interquartile range IQR increase in total arsenic was associated
+with a cm CI increase in birth length a cm
+CI increase in head circumference and a kg
+CI decrease in ponderal index When modeling
+arsenic exposure as quartiles infants in the highest quartile of total
+arsenic had birth length and head circumference cm CI
+and cm CI greater than those in the lowest
+quartile respectively Infants in the top quartile of total arsenic ex
+posure had a ponderal index that was kg CI
+less than those in the lowest quartile Linear dose response
+relationships between total arsenic exposure birth length head cir
+cumference and ponderal index were supported by statistically sig
+nificant trend tests ptrend
+Similar findings were observed for prenatal DMA exposure An IQR
+increase in DMA was associated with a cm CI
+increase in birth length a O cm CI increase in head
+circumference and a kg CI decrease in
+ponderal index When treating arsenic exposure as quartiles infants in
+the top quartile of DMA exposure had birth length that was cm
+CI longer than those in the lowest quartile and in
+fants in the highest quartile of DMA had a ponderal index kg
+less than those in the lowest quartile
+Cl
+Significant p for trend was observed for DMA when treating quartiles of
+exposure as an ordinal variable suggesting an increasing linear re
+lationship between prenatal DMA exposure and birth length as well as a
+Y H etaL
+Table
+Environmental Research
+Adjusted expected change confidence interval for birth outcomes in relation to maternal trimester urinary arsenic
+Arsenic exposure gg L
+Total arsenic n
+Per IQR increase
+QI
+p for trend
+DMA n
+Per IQR increase
+QI s
+p for trend
+Gestational age weeks a
+Ref
+Ref
+Birthweight g b
+Ref
+Ref
+Birth length cm b
+Ref
+Ref
+Head circumference cm
+Ref
+Ref
+Ponderal index kg
+a Models adjusted for urinary creatinine maternal age race ethnicity maternal education income pre pregnancy BMI infant sex and number of live births
+Model additionally adjusted for gestational age
+decreasing linear trend in relation to ponderal index A non significant
+suggestive linear trend was observed for head circumference
+No significant association in relation to prenatal urinary arsenic
+exposure was observed for gestational age and birth weight
+Table
+These null results were consistently observed for both total arsenic and
+DMA in relation to gestational age and birth weight No significant
+association was observed between prenatal urinary DMA exposure and
+any complication during pregnancy gestational diabetes preeclampsia
+or preterm birth Supplemental Table
+Table
+presents results from analyses examining potential effect
+modification by infant sex Prenatal total arsenic exposure was nega
+tively associated with ponderal index among both male and female
+infants but the association was stronger in females pinteraction
+Prenatal urinary DMA exposure was negatively associated with gesta
+tional age among female infants Pinteraction
+Among female
+infants for every IQR increase in DMA concentration gestational age
+decreased by week CI no statistically sig
+nificant association was observed among male infants
+Findings from the sensitivity analysis restricted to mother in
+fant pairs with gestational age weeks were not appreciably dif
+ferent from the overall analyses presented data not shown As shown
+Supplemental Table
+analyses using z scores of birth outcomes
+generated similar results as compared to the analyses using original
+values Results from the sensitivity analysis further adjusting arsenic
+exposure and birth outcome models for gestational diabetes and pre
+eclampsia as well as delivery mode for head circumference were also
+consistent data not shown suggesting no important confounding by
+these variables A sensitivity analysis using estimated total arsenic and
+DMA exposures was also conducted to account for organic arsenic i e
+arsenobetaine from seafood intake based on the method of Jones et al
+Supplemental Tables show results for the associations of estimated
+arsenic exposures with birth outcomes and pregnancy complications
+Table
+Findings from these analyses were not appreciably different from the
+original analyses
+Table Table
+however an inverse association
+between estimated total arsenic exposure and ponderal index was ob
+served to be stronger in male infants in the sensitivity analyses
+Discussion
+We assessed the impact of prenatal arsenic exposure measured from
+maternal urine at the third trimester on the risk of complications during
+pregnancy as well as birth outcomes using a sample of mother infant
+pairs from the US based NCS Prenatal exposure to total arsenic as well
+as DMA was positively associated with birth length and head cir
+cumference and negatively associated with ponderal index Our results
+from analyses evaluating effect modification by infant sex further found
+a negative association between concentration of DMA and gestational
+age only among female infants Maternal urinary arsenic at the third
+trimester was not significantly associated with birth weight or com
+plications during pregnancy Given the rigorous study design good
+exposure metric i e urinary arsenic biomarker and critical exposure
+time window selected this study adds valuable information to current
+evidence on the impact of low level prenatal arsenic exposure on birth
+outcomes
+A positive relationship between arsenic exposure and birth length
+was previously observed in a large prospective cohort study conducted
+in New Hampshire of mother infant pairs with similar levels of
+arsenic exposure Gilbert Diamond et al That study reported a
+cm and cm increase in birth length in relation to each unit
+increase in log transformed prenatal DMA and total arsenic con
+centrations respectively measured from maternal urine at the second
+trimester Further the study demonstrated that a positive association
+between arsenic exposure and birth length was primarily driven by
+male infants Six other prospective studies evaluated this relationship
+Adjusted expected change confidence interval for birth outcomes in relation to maternal trimester urinary arsenic stratified by infant sex
+Per IQR gg L increase
+Total arsenic n
+Male infants n
+Female infants n
+p for interaction
+DMA n
+Male infants n
+Female infants n
+p for interaction
+Gestational age weeks a
+Birth weight g
+Birth length cm b
+Head circumference cm
+Ponderal index kg
+a Models adjusted for urinary creatinine maternal age race ethnicity maternal education income pre pregnancy BMI infant sex and number of live births
+Model additionally adjusted for gestational age
+Y H etaL
+no significant association was found in five of the studies conducted in
+Bangladesh Romania Mexico and Taiwan Bloom et al Chou
+et al Laine et al Liao et al A Rahman et al
+while a study in a Chinese population reported a negative as
+sociation between urinary arsenic exposure and birth length Liu et al
+The potential for arsenic to enhance birth length and subse
+quently ponderal index may be attributable to effects on bone devel
+opment An in vitro study suggested that arsenic trioxide an oxide of
+arsenic exerts different effects on osteoblast growth based on the given
+dosage
+Xu et al while high dose of arsenic trioxide and
+gM induced apoptosis of osteoblasts results demonstrated a sig
+nificantly enhanced viability of cultured osteoblasts as well as increased
+collagen synthesis following exposure to a low dose and
+gM of arsenic trioxide Therefore the unexpected findings con
+necting higher but still moderate arsenic exposure to longer birth
+length may be related to this or a similar phenomenon
+Our results linking higher arsenic exposure with greater head cir
+cumference at birth are in contrast to existing evidence suggesting a
+negative association Gilbert Diamond et al Henn et al
+Liao et al A Rahman et al Specifically three pro
+spective cohort studies conducted in Bangladesh and the US observed
+significant associations of maternal urinary total arsenic and blood ar
+senic levels with smaller head circumference Gilbert Diamond et al
+Henn et al A Rahman et al
+However multiple
+other studies have reported null associations Bermudez et al
+Bloom et al Chou et al Laine et al
+Given the
+inconsistencies with previous research and no apparent biological me
+chanism the observed positive association between arsenic exposure
+and head circumference in the current analysis might be spurious
+Taken together these conflicting findings suggest that further research
+is needed with a larger sample size and comprehensive measurement of
+potential confounders
+Our observed association with ponderal index represents only the
+third study to examine this measure of possible intrauterine growth
+restriction The previous research has been mixed with one study also
+reporting that lower ponderal index is associated with maternal urinary
+arsenic levels Gilbert Diamond et al and the other finding null
+results overall but a significant positive association among female in
+fants Bloom et al Future research investigating the effect of
+arsenic on ponderal index and the potential interaction effect with sex
+is still needed
+Gestational age has been assessed as an outcome in multiple pre
+vious studies of arsenic exposure Generally these past studies reported
+a significant relationship between decreased gestational age and arsenic
+exposure measured in drinking water maternal urine and maternal
+blood
+Henn et al Laine et al Xu et al
+Specifi
+cally a study conducted in China observed a negative association in
+male but not female infants
+Xu et al
+In contrast we observed a
+negative association between arsenic exposure and gestational age only
+in female infants Differences in the exposure concentrations dietary or
+behavioral practices or ancestry of the study samples may account for
+the differences observed between these studies Although the evidence
+connecting arsenic exposure to decreased gestational age is compelling
+further confirmation by additional studies is needed to evaluate whe
+ther effect modification of this association by infant sex is more widely
+seen
+While gestational age and birth weight are biologically related we
+observed no significant association between prenatal arsenic exposure
+and birth weight in the current study A systematic review published in
+indicated that there is a convincing evidence on the association
+between higher levels of arsenic exposure ppb and decreased
+birth weight Further in a recent meta analysis using data from
+studies prenatal arsenic exposure was significantly associated with
+decreased birth weight and this observed negative association persisted
+after restricting to studies in populations with lower levels of arsenic
+exposure three US and one Chile
+Zhong et al
+However in a
+Environmental Research
+US prospective cohort study that is not included in the aforementioned
+meta analysis no significant association was observed in relation to
+birth weight Gilbert Diamond et al Although it is possible that
+we had insufficient statistical power with the given sample to observe
+an association between low level arsenic exposure and birth weight
+further research in populations with lower levels of arsenic exposure is
+still needed to evaluate this association
+Previous literature on the association between arsenic exposure and
+pregnancy complications is relatively limited and reports mixed find
+ings possibly due to the heterogeneity of study designs and exposure
+metrics used across studies While several studies have reported sig
+nificant associations between arsenic exposure and preterm birth
+Ahmad et al Almberg et al Huang et al Rahman
+et al
+others have observed no association
+Kim et al
+Myers et al No significant association with gestational diabetes
+has been observed for drinking water arsenic and prenatal urinary ar
+senic concentrations Bloom et al Gilbert Diamond et al
+Yet studies that relied on maternal blood Ettinger et al Shapiro
+et al maternal serum Xia et al maternal toenail
+Farzan et al and drinking water Farzan et al Marie
+et al
+samples have shown significant associations of arsenic
+exposure with increased risk of gestational diabetes or impaired glucose
+tolerance no association was found in relation to maternal urinary
+arsenic Farzan et al Two case control studies evaluated the
+relationship between arsenic exposure and risk of preeclampsia re
+porting no significant association Elongi Moyene et al
+Sandoval Carrillo et al Our findings which used internal bio
+markers of exposure are consistent with these previous findings sug
+gesting no association between urinary arsenic and pregnancy compli
+cations of gestational diabetes and preeclampsia Still the mixed
+evidence underscores a need for further prospective studies assessing a
+larger number of events
+In this study two exposure variables i e total arsenic and DMA
+were used to represent levels of arsenic exposure Total arsenic is a
+mixture of organic and inorganic arsenic while DMA is one of the or
+ganic metabolites after the methylation of inorganic arsenic Although
+absolute value of DMA was used for the current analyses DMA con
+centration may still imply two circumstances higher arsenic me
+tabolism efficiency or higher inorganic arsenic exposure This may
+explain the different findings in relation to total arsenic and DMA in our
+sex stratified analyses In a study reporting results for the associations
+of both total arsenic and DMA with birth outcomes findings were si
+milar between total arsenic and DMA Gilbert Diamond et al
+They also supported our findings of positive associations between DMA
+and birth length as well as negative associations in relation to ponderal
+index Further no significant association was found in relation to ar
+senic methylation efficiency indices i e MMA inorganic arsenic and
+DMA MMA with birth outcomes in the aforementioned study
+The conclusions of this study could be strengthened by future re
+search First the exposure assessment while an accurate biomarker of
+arsenic exposure captures exposure during the third trimester only The
+third trimester urine sample may reflect exposure after the time that is
+most critical for developing pregnancy complications and potential
+misclassification of prenatal arsenic exposure may exist due to the re
+latively short half life of arsenic in urine Furthermore the laboratory
+method used for measuring arsenobetaine in this study had a higher
+LOD gg L as compared to some previous studies Gilbert Diamond
+et al Laine et al
+and of samples n had
+arsenobetaine concentrations below the LOD Therefore the estimated
+non seafood arsenic exposures used in the sensitivity analyses may not
+be accurate We further compared the percentage below the LOD and
+level of arsenobetaine between women in the National
+Health and Nutrition Examination Survey NHANES cycles and the
+Supplemental Table Within the NHANES sample pregnant
+NCS
+women had lower mean arsenobetaine concentrations compared to
+non pregnant women of child bearing age years of age Among
+Y H etaL
+Evaluation of the association between arsenic and diabetes a national toxicology
+program workshop review Environmental Health Perspectives
+Meharg A A Williams P N Adomako E Lawgali Y Y Deacon C Villada A et al
+Geographical variation in total and inorganic arsenic content of polished
+white rice Environ sci Technol
+Milton A H Hussain S Akter S Rahman M Mouly T A Mitchell K A review
+of the effects of chronic arsenic exposure on adverse pregnancy outcomes Int J
+Environ Res Publ Health
+Moon K Guallar E Navas Acien A Arsenic exposure and cardiovascular dis
+ease an updated systematic review Curr Atherosclerosis Rep
+Murphy M S Smith G N Pre eclampsia and cardiovascular disease risk assess
+ment in women Am J Perinatol
+Myers S L Lobdell D T Lili Z Xia Y Ren H Li Y et al Maternal drinking
+water arsenic exposure and perinatal outcomes in inner Mongolia China J
+Epidemiol Community Health
+Oken E Kleinman K P Berland W E Sitnn S R Rich Edwards J w Gillman M W
+Decline in fish consumption among pregnant women after a national mercury
+advisory Obstet Gynecol
+Peng S Y Lili L P Zhang x Q Heinrich J Zhang J Schramm K w et al A
+nested case control study indicating heavy metal residues in meconium associate
+with maternal gestational diabetes mellitus risk Environ Health Glob
+Quansah R Armah F A Essumang D K Luginaah I Clarke E Marfoh K et al
+Association of arsenic with adverse pregnancy outcomes infant mortality a
+systematic review and meta analysis Environ Health Perspect
+Rahman A Vahter M Smith A H Nermell B Yunus M El Arifeen S et al
+Arsenic exposure during pregnancy and size at birth a prospective cohort study in
+Bangladesh Am J Epidemiol
+Rahman A Granberg C Persson L A Early life arsenic exposure infant and
+child growth and morbidity a systematic review Arch Toxicol
+Rahman M L Kile M L Rodrigues E G Valeri L Raj A Mazumdar M et al
+Prenatal arsenic exposure child marriage and pregnancy weight gain associations
+with preterm birth in Bangladesh Environ Int
+Rahman M M Ng J C Naidu R Chronic exposure of arsenic via drinking water
+and its adverse health impacts on humans Environ Geochem Health
+Sanchez T R Perzanowski M Graziano J H Inorganic arsenic and respiratory
+Environmental Research
+health from early life exposure to sex specific effects a systematic review Environ
+Res
+Sandoval Carrillo A Mendez Hernandez E M Antuna Salcido E I Salas Pacheco
+S M Vazquez Alaniz F Tellez Valencia A et al Arsenic exposure and risk
+of preeclampsia in a mexican mestizo population BMC Pregnancy Childbirth
+Shapiro G D Dodds L Arbuckle T E Ashley Martin J Fraser W Fisher M et al
+Exposure to phthalates bisphenol a and metals in pregnancy and the asso
+ciation with impaired glucose tolerance and gestational diabetes mellitus the mirec
+study Environ Int
+Stanford J B Brenner R Fetterer D Palmer L Schoendorf K c USNCs study
+Impact of preconception enrollment on birth enrollment and timing of exposure as
+sessment in the initial vanguard cohort of the u s National children s study BMC
+Med Res Methodol
+Vintzileos A M Lodeiro J G Feinstein S J Campbell w A Weinbaum P J
+Nochimson D J Value of fetal ponderal index in predicting growth retarda
+tion Obstet Gynecol
+Wilcox A J Weinberg C R Basso O On the pitfalls of adjusting for gestational
+age at birth Am J Epidemiol
+Xia X Liang C Sheng J Yan S Huang K Li Z et al Association between
+serum arsenic levels and gestational diabetes mellitus a population based birth co
+hort study Environ Pollut
+Xu L Yokoyama K Tian Y Piao F Y Kitamura F Kida H et al Decrease in
+birth weight and gestational age by arsenic among the newborn in shanghai China
+Nihon koshu eisei zasshi Japanese journal of public health
+Xu W X Lili Y Lili S Z Zhang Y Qiao G F Yan J L Arsenic trioxide exerts a
+double effect on osteoblast growth in vitro Environ Toxicol Pharmacol
+Yagel S Zacut D Igelstein S Palti Z Hurwitz A Rosenn B In utero ponderal
+index as a prognostic factor in the evaluation of intrauterine growth retardation Am
+J Obstet Gynecol
+Zeitlin J Saurel Cubizolles M J de Mouzon J Rivera L Ancel P Y Blondel A
+et al Fetal sex and preterm birth are males at greater risk Hum Reprod
+Zhong Q cui Y wu H Niu Q Lu X Wang L et al Association of maternal
+arsenic exposure with birth size a systematic review and meta analysis Environ
+Toxicol Pharmacol
+Received July Accepted August
+CONTEMPORARY ECONOMIC POLICY
+ORIGINAL ARTICLE
+Prenatal care Mechanisms and impacts on infant health
+and health care utilization
+Tim Bersakl
+I Lyudmyla Sonchak Ardan
+IDepartment of Economics Wofford
+College Spartanburg South Carolina
+USA
+of Economics Susquehanna
+University Selinsgrove Pennsylvania
+USA
+Correspondence
+Tim Bersak Department of Economics
+Wofford College N Church st
+Spartanburg SC USA
+Email bersakta wofford edu
+Abstract
+We estimate that prenatal care has positive impacts on health measured at
+birth shifts the distribution of future health care utilization away from
+inpatient care and find that some of these impacts likely come from an
+informational mechanism We also find well child visits are used in a com
+plementary fashion with emergency department care in the production of
+infant health suggesting that factors beyond barriers to access may drive the
+demand for emergency care Finally we find differential impacts of prenatal
+care across racial groups with evidence that the information mechanism may
+be particularly important for black mothers
+KEYWORDS
+child health fixed effects model health care equity health care utilization prenatal care
+JEL CLASSIFICATION
+BACKGROUND
+Poor health at birth generates substantial medical costs and is associated with subsequent health problems that extend
+well into the future For instance infants born at low birth weight are statistically more likely to have lower educational
+attainment lower wages and worse employment prospects compared to normal weight peers Almond et al
+Behrman Rosenzweig Black et al Given the importance of early health it is important to understand
+the underlying mechanisms and factors that impact birth outcomes Prenatal care as perhaps the earliest medical input
+into child health deserves special attention Medical professionals emphasize the importance of prenatal care to both
+monitor maternal and fetal health during pregnancy and to minimize potential risk factors Despite the common
+perception that increased prenatal care should lead to more favorable health outcomes the current economic literature
+provides confounding evidence as to the marginal impacts of prenatal care on infant health at birth and scant evidence
+of any kind regarding the direct long run impacts of prenatal care on future well being
+One major difficulty in identifying the causal effects of prenatal care arises from the decision to seek prenatal care itself
+Unobservable maternal health characteristics and attitudes may simultaneously influence choices to seek prenatal care
+and also have a direct effect on infant health making it difficult to isolate causal relationships While a majority of early
+Abbreviations ACSCs ambulatory care sensitive conditions BMI body mass index ED emergency department ICD international statistical
+classification of diseases and related health problems IP inpatient LBW low birth weight NICU neonatal intensive care unit OLS ordinary least
+squares PNC prenatal care PP pre pregnancy SGA small for gestational age VLBW very low birth weight WCVs well child visits WIC special
+supplemental nutrition program for women infants and children
+Contemp Econ Policy
+wileyonlinelibrary com journal coep
+Western Economic Association International
+BERSAK AND SONCHAK ARDAN
+CONTEMPORARY ECONOMIC POLICY
+studies relied on ordinary least squares multivariate regressions more recent work has made efforts to account for the
+potential endogeneity of prenatal care Evans and Lien exploit a disruption in public transportation due to a bus
+strike in Pennsylvania as an instrument for prenatal care Despite statistically imprecise estimates they find that prenatal
+visits missed in early pregnancy negatively impact birth weight while those missed later in pregnancy do not have affect
+birth weight Currie and Grogger use expansions of the Medicaid program as an instrument and find prenatal care
+reduces the incidence of very low birth weight among white mothers Sonchak uses Medicaid reimbursement rates
+as an instrument and estimates that additional visits increase birth weight among white mothers but have no effect for
+black mothers Broadly this strand of literature can be grouped into studies finding positive effects of prenatal care
+Conway Deb Liu Liu et al Rosenzweig Schultz Yan those finding no effects
+Jones Li Poirier and those finding only weak effects Currie Grogger Evans Lien Corman
+et al also provide an excellent and more extensive review of the existing literature
+To our knowledge and due to the difficulty of linking mothers across births only a few studies have utilized panel
+data and maternal fixed effects to estimate the impacts of prenatal care Abrevaya and Dahl use data from
+Washington and Arizona between and to study the effect of different inputs including smoking and prenatal
+care on child health using quantile estimation Their results indicate a larger positive effect of prenatal care at the
+bottom of the birth weight distribution Royer focuses on the effect of maternal age on prematurity and incidence
+of low birth weight by using a panel of mothers from Texas More recently Balsa and Triunfo examine the
+impact of prenatal care on infant birth weight among low income women in Uruguay and find prenatal care decreases
+the likelihood of low birth weight and preterm birth Yan examines whether prenatal care has an effect on
+maternal behaviors and maternal health including postpartum smoking premature rupture of membranes precipitous
+labor breastfeeding and other outcomes and finds that early onset of prenatal care confers positive effects on maternal
+health and behaviors Yan uses data from Pennsylvania and a similar study design to ours and finds that early
+onset of prenatal care broadly improves an infant s stock of health capital None of these studies however utilize any
+child health outcomes beyond those observable at the time of birth
+In contrast to its impacts on infant health at birth there is very limited literature on any intermediate or longer run
+impacts of prenatal care directly Freed et al and Kogan et al both find a positive association between
+adequate and early initiation of prenatal care respectively on subsequent well child visits WCVs though neither study
+accounts for the potential endogeneity of the decision to seek care In the economics literature Reichman et al
+offer a theoretical framework that is quite similar to ours and estimate that prenatal care is associated with positive
+changes in maternal postpartum behaviors and subsequent well child health care while Noonan et al investigate
+the effects of prenatal care and find no impacts on four outcomes for children at age health status height weight and
+asthma diagnosis Both studies use data from the Fragile Families and Child Wellbeing study Despite accounting for a
+rich set of covariates as well as controlling for state city and hospital indicators and performing a variety of robustness
+checks these studies do not explicitly account for the potential endogeneity of prenatal care
+Our study uses unique maternally linked birth data from Vital Statistics Natality files for the state of South Carolina
+from to to reexamine the effect of prenatal care on the health of newborns We extend on the prior literature
+by estimating the longer term effects of prenatal care on future health care utilization patterns identified from linked
+South Carolina Medicaid claims files We estimate plausibly causal impacts of prenatal care by including maternal fixed
+effects which control for all time invariant unobserved characteristics of the mother Understanding the causal effect of
+prenatal care on child health and health care utilization is of paramount importance and the results we obtain are
+likely to have important policy implications regarding the long term cost effectiveness of prenatal care
+THEORETICAL FRAMEWORK
+Outline of theoretical model
+The theoretical framework underlying our study mirrors the health production function in a dynamic setting outlined
+by Liu et al In their framework it is assumed parents maximize a time separable concave utility function with
+per period utility given by U ct ht where ct represents consumption during period t and ht represents child health at
+the start of the period Health cannot be altered within a time period nor can it be directly purchased but parents can
+impact the future health of their children through health inputs ft Again following the notation in Liu Mroz and
+Adair we assume health status in the next period is given by
+CONTEMPORARY ECONOMIC POLICY
+ht l
+BERSAK AND SONCHAK ARDAN
+with the deterministic health production function and st l a health shock distributed with mean of In this
+framework the information set Qt captures parental information about the future distributions of prices income and
+health shocks as of time t and the expected health stock in time period t is equal to Additionally assume
+that the following all hold
+and
+Dht Dft
+DhtDhf
+Liu Mroz and Adair show that the solution to the dynamic optimization problem where parents maximize the
+present discounted value of expected utility subject to a resource constraint given by yt ct p t with yt representing
+parental resources pt representing the price of health inputs and the price of consumption normalized to implies the
+demand for health inputs at time t is a function of the form
+ft Dft yt ht pt ot
+Equation shows that the demand for health inputs only depends on the state variables observed at time t They go
+on to explain that under certain conditions including the assumption that the distributions of health shocks st are
+independent over time it is not necessary to further condition the demand for inputs based on the information set
+However some features of preventive care may compress or eliminate some outcomes from the distribution of
+shocks in which case it is not appropriate to assume this distribution is independent over time Although some of these
+impacts are captured by improved health on average preventive care may also change the variance of outcomes
+Schoder and Zweifel posit that this feature may be an important determinant of health care demand in some
+cases For example if st is distributed uniformly on the interval parents are willing to pay for preventive care that
+changes the distribution of st to be distributed uniformly on the interval In this case the information set must
+contain beliefs about how health inputs change the entire distribution of future health care shocks I and not just beliefs
+about the marginal productivity of care
+In our setting it is likely that most direct effects of prenatal care on health are primarily through reducing the
+variance of outcomes by monitoring for severe complications Additionally a fraction of the estimated impacts of
+prenatal care seem likely to arise from indirect effects whereby prenatal care influences the maternal information
+making mothers more likely to cease smoking eat nutritious food or otherwise modify behaviors that directly influence
+infant birth weight In one of the few studies that we are aware of which separately estimates the impacts of the content
+of prenatal care Kogan et al find that women who do not receive all types of recommended advice during their
+prenatal care visits are significantly more likely to have an infant born at low birthweight than those that receive the
+advice and also find no association between any clinical aspects of prenatal care and low birthweight Additionally
+Yan provides evidence that maternal weight gain and smoking during pregnancy behaviors that are influenced
+by the provision of information during prenatal care appointments are two distinct mechanisms through which
+prenatal care influences infant health while Yan also shows that these behaviors are influenced by prenatal care
+On the other hand Dave et al do not find evidence that increased contact with providers following Medicaid
+expansions leads to modifications in maternal behavior during pregnancy though they do find evidence that access to
+insurance causes some behavioral changes through moral hazard Though not related to prenatal care Dave and
+Kaestner find evidence that increased contact with physicians can lead to significant behavioral changes in
+Medicare eligible individuals In our case the total estimated impacts of prenatal care on future health care utilization
+will also be influenced if prenatal care changes parental beliefs about the value of future health care and we refer to this
+possibility as the information effect of prenatal care
+Implications of theoretical model for interpretations related to future health care
+utilization
+In an ideal world we would estimate the net effects of prenatal care on future health outcomes In our data however
+we only observe future health care utilization meaning our estimated impacts of prenatal care combine changes in
+BERSAK AND SONCHAK ARDAN
+CONTEMPORARY ECONOMIC POLICY
+demand for future care arising from better health with changes in demand arising from changes to the maternal in
+formation set Given that providing information and education is a large component of most prenatal care it is highly
+plausible that prenatal care influences the information set by providing parents with information about postnatal health
+behaviors including interacting with the health care delivery system
+The estimated impacts of prenatal care on future health care utilization are given by estimating I with ft rep
+resenting prenatal care Assuming prenatal care does not influence parental income or prices within the year imme
+diately following birth our observed net effects of prenatal care on future health care utilization are driven by two
+distinct pieces
+Dft l
+Dft
+DDI DDft
+Dht l Dft Dft
+The first term on the right hand side of Equation is the change in demand caused by any impacts of
+prenatal care on health status Our model assumes this term is weakly negative as all else equal those in better
+health will consume less care Additionally the broad range of empirical findings outlined previously suggest this
+term is in fact non positive The sign of the second term on the right hand side of Equation is theoretically
+ambiguous as increased information is likely to increase the demand for some types of health care while reducing
+it for others In cases where the net estimated impact of prenatal care on future care utilization is positive
+however
+must hold and the impact on care utilization arising from this change in information must be
+large enough to outweigh reduced utilization from better health Note that this does not imply that individuals who
+consume less care are necessarily in better health as the information effect can reduce the demand for certain
+types of care Rather it implies that if prenatal care is associated with both better health and increased con
+sumption of a given type of future care it must be the case that the information effect increased the demand for
+that type of care
+In the context of our theoretical model we expect the information effect associated with prenatal care to increase
+the demand for preventive types of care such as WCVs and to have little impact on inpatient IP care which is
+typically only accessed through a physician gatekeeper The predicted sign of the information effect for care in an
+emergency department ED is theoretically ambiguous If preventive care is a substitute for ED usage increased in
+formation should decrease the demand for care in an ED In a current NBER working paper Danagoulian et al
+document that increased primary care visits following an information shock from the Flint water crisis led to a sig
+nificant reduction in subsequent avoidable childhood ED visits If however preventive care and ED care are used as
+complements in the production of health and the prevention of disease it is possible that the information effect would
+in
